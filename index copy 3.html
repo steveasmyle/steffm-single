@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HTML 5 Boilerplate</title>
+  <style>
+    @font-face {
+      font-family: 'Farts';
+      src:  url('fonts/DSEG14Classic-Regular.woff2') format('woff2'),
+            url('fonts/DSEG14Classic-Regular.woff') format('woff');
+    }
+
+    body {
+      background: black;
+      font-family: 'Farts', Times New Roman, Fallback, sans-serif;
+    }
+
+    #timeWrapper {
+      font-size: 150px;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+    }
+
+    #background {
+      color: rgba(255, 255, 255, 0.2);
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+    }
+
+    #time1,
+    #time2 {
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: #cbdc08;
+      color: white;
+      z-index: 2;
+    }
+
+    #time1 {
+      color: red;
+    }
+
+    #time2 {
+      color: green;
+    }
+
+
+    #glow1,
+    #glow2 {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+
+    .glow {
+      color: transparent;
+      text-shadow: 0 0 7px #cbdc08, 0 0 9px #cbdc08;
+    }
+
+    .time::before {
+      content: attr(data-text);
+      position: absolute;
+      top: 0;
+      left: 0;
+      color: transparent;
+      background: url('images/HexagonTileM.png');
+      background-size: 14px 24px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      opacity: 0.2;
+      z-index: 2;
+    }
+
+    .hidden {
+      visibility: hidden;
+    }
+
+    .fade-in {
+      animation: fadeIn 0.2s forwards;
+    }
+
+    .fade-out {
+      animation: fadeOut 0.2s forwards;
+    }
+
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeOut {
+      0% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="timeWrapper" data-text="88:88:88">
+    <span id="background" class="time" data-text="88:88:88">88:88:88</span>
+    <div id="time1">
+      <span id="lcd1" class="time">88:88:88</span>
+      <span id="glow1">88:88:88</span>
+    </div>
+    <div id="time2" class="hidden">
+      <span id="lcd2" class="time">88:88:88</span>
+      <span id="glow2">88:88:88</span>
+    </div>
+  </div>
+
+  <script type="text/javascript"> 
+    const timeWrapperElement = document.getElementById("timeWrapper");
+    const time1Element = document.getElementById("time1");
+    const time2Element = document.getElementById("time2");
+    const lcd1Element = document.getElementById("lcd1");
+    const lcd2Element = document.getElementById("lcd2");
+    const glow1Element = document.getElementById("glow1");
+    const glow2Element = document.getElementById("glow2");
+    let visibleTime = 1;
+
+    setInterval(() => {
+      const date = new Date();
+      const hours = ("0" + date.getHours()).substr(-2);
+      const minutes = ("0" + date.getMinutes()).substr(-2);
+      const seconds = ("0" + date.getSeconds()).substr(-2);
+      const displayTime = hours + ":" + minutes + ":" + seconds;
+      timeWrapperElement.dataset.text = displayTime;
+      lcd1Element.textContent = displayTime;
+      lcd1Element.dataset.text = displayTime;
+      lcd2Element.textContent = displayTime;
+      lcd2Element.dataset.text = displayTime;
+      glow1Element.dataset.text = displayTime;
+      glow1Element.textContent = displayTime;
+      glow2Element.dataset.text = displayTime;
+      glow2Element.textContent = displayTime;
+
+      if (visibleTime === 1) {
+        visibleTime = 2;
+      } else {
+        visibleTime = 1;
+      }
+
+      time1Element.classList.toggle("hidden");
+      time2Element.classList.toggle("hidden");
+    }, 1000);
+  </script>
+</body>
+
+</html>

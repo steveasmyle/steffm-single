@@ -77,13 +77,6 @@
       text-shadow: 0 0 3px #cda73d, 0 0 6px #cda73d !important;
     }
 
-    #background {
-      display: flex;
-    }
-    #background > span {
-      border: 1px solid red;
-    }
-
     .time::before {
       content: attr(data-text);
       position: absolute;
@@ -99,30 +92,15 @@
       z-index: 2;
     }
 
-    .seconds::before {
-      content: attr(data-text);
-      position: absolute;
-      top: 0;
-      left: 0;
-      color: transparent;
-      background: url('images/HexagonTileM.png');
-      background-size: 14px 24px;
-      background-repeat: repeat;
-      -webkit-background-clip: text;
-      background-clip: text;
-      opacity: 0.5;
-      z-index: 2;
+    .hidden {
+      visibility: hidden;
     }
-
   </style>
 </head>
 
 <body>
   <div id="timeWrapper">
-    <div id="background">
-      <span class="time" data-text="88:88">88:88</span>
-      <span class="seconds" data-text="88">88</span>
-    </div>
+    <span id="background" class="time" data-text="88:88:88">88:88:88</span>
     <span id="lcd" class="time lcdOrange"></span>
     <span id="glow" class="glowOrange"></span>
   </div>
@@ -135,11 +113,11 @@
       const hours = ("0" + date.getHours()).substr(-2);
       const minutes = ("0" + date.getMinutes()).substr(-2);
       const seconds = ("0" + date.getSeconds()).substr(-2);
-      const displayTime = hours + divider + minutes + '<span class="seconds">' + seconds + '</span>';
+      const displayTime = hours + divider + minutes + divider + seconds;
       updateDisplay(displayTime);
 
       setTimeout(() => {
-        const updatedTime = displayTime.replace(divider, space);
+        const updatedTime = displayTime.replace(divider, space).replace(divider, space);
         updateDisplay(updatedTime);
       }, 500);
     }, 1000);
@@ -147,10 +125,10 @@
     function updateDisplay(newValue) {
       const lcdElement = document.getElementById("lcd");
       const glowElement = document.getElementById("glow");
-      lcdElement.innerHTML = newValue;
+      lcdElement.textContent = newValue;
       lcdElement.dataset.text = newValue;
-      glowElement.inneerHTML = newValue;
       glowElement.dataset.text = newValue;
+      glowElement.textContent = newValue;
     }
   </script>
 </body>
