@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @font-face {
+            font-family: 'Farts';
+            src:  url('fonts/DSEG14Classic-Regular.woff2') format('woff2'),
+                  url('fonts/DSEG14Classic-Regular.woff') format('woff');
+          }
+          
+          body {
+            background: black;
+            font-family: 'Farts', Times New Roman, Fallback, sans-serif;
+          }
+
+          #timeWrapper {
+            position: relative;
+            z-index: 2;
+            background: black;
+        }
+        
+        #background {
+            position: absolute;
+            color: rgba(255, 255, 255, 0.2); /* Adjust the alpha to your preference */
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+          
+          .text {
+              font-size: 80px;
+              font-weight: 700;
+              color: #cbdc08;
+              position: relative;
+              text-shadow: 0 0 10px #cbdc08, 0 0 20px #cbdc08, 0 0 30px #cbdc08, 0 0 40px #cbdc08;
+          }
+          
+          .text::before {
+              content: attr(data-text);
+              position: absolute;
+              top: 0;
+              left: 0;
+              font-size: 80px;
+              font-weight: 700;
+              color: transparent;
+              background: url('images/HexagonTileM.png');
+              background-size: 14px 24px;
+              background-repeat: repeat;
+              -webkit-background-clip: text;
+              background-clip: text;
+              opacity: 0.1;
+          }
+          
+    </style>
+  </head>
+  <body>
+	<div class="text" id="timeWrapper" data-text="88:88:88">
+        <div id="background">88:88:88</div>
+        <span id="time">88:88:88</span>
+    </div>
+
+    <script type="text/javascript">
+        let divider = ":";
+        const timeWrapperElement = document.getElementById("time");
+        const timeElement = document.getElementById("time");
+
+        function updateTime() {
+            const date = new Date();
+            const hours = ("0" + date.getHours()).substr(-2);
+            const minutes = ("0" + date.getMinutes()).substr(-2);
+            const seconds = ("0" + date.getSeconds()).substr(-2);
+            divider = ":";
+            const displayTime = hours + divider + minutes + divider + seconds;
+            timeElement.textContent = displayTime;
+            timeWrapperElement.dataset.text = displayTime;  // Add this line
+            setTimeout(hideDivider, 500);
+        }
+        
+        function hideDivider() {
+            const displayTime = timeElement.textContent.replace(":", " ").replace(":", " ");
+            timeElement.textContent = displayTime;
+            timeWrapperElement.dataset.text = displayTime;  // Add this line
+            divider = " ";
+        }
+        
+        setInterval(updateTime, 1000);
+    </script>
+  </body>
+</html>
+
