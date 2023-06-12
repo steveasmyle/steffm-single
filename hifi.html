@@ -8,6 +8,157 @@
     <title>Stef.FM Player</title>
     <link rel="stylesheet" href="style.css">
     <style>
+/* START RESET */
+
+html, body, div, ul, li, fieldset {
+  margin:0;
+  padding:0;
+}
+
+*, *:before, *:after {
+  box-sizing:border-box;
+}
+
+img, fieldset {
+  border:0;
+}
+
+html, body {
+  height:100%;
+}
+
+body, output, button {
+  font-family:inherit;
+  font-size:1em;
+  line-height:1.5;
+  
+}
+
+/* END RESET */
+
+body {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-family:arial,helvetica,sans-serif;
+  padding:1rem;
+  background:#8CF;
+}
+
+.player {
+  --caseBgColor:#D0D0C0;
+  --h1BgColor:#F0F8FF;
+  --outputBgColor:#420;
+  --outputTextColor:#F80;
+  --flagsBgColor:#210;
+  --flagsTextColor:#F00;
+   --pcbColor:#002D04;
+  --buttonBgColor:#807870;
+  --buttonTextColor:#FFF;
+  --memoryBgColor:#F80;
+  --memoryTextColor:#FFF;
+  --clearBgColor:#F00;
+  --clearTextColor:#FFF;
+  --operatorBgColor:#E8E4E0;
+  --operatorTextColor:#000;
+
+  text-align:right;
+  margin:auto;
+  padding:1em 2em 1.5em;
+  font-size:clamp(9px, min(3.75vw, 2.2vh), 3rem);
+  background-color:var(--caseBgColor); 
+}
+
+.player h1 {
+  float:right;
+  padding:0.25em 0.75em;
+  margin-bottom:1.5rem;
+  background:var(--h1BgColor);
+}
+
+.player output {
+  clear:both;
+  display:block;
+  padding:0.5em 0.5em 0;
+  font-size:2em;
+  background:var(--outputBgColor);
+  color:var(--outputTextColor);
+  text-align:right;
+}
+
+.player output var {
+  float:left;
+}
+
+.player .flags {
+  display:flex;
+  align-items:stretch;
+  margin-bottom:1.5em;
+  text-align:center;
+  background:var(--flagsBgColor);
+  color:var(--flagsTextColor);
+}
+
+.player .flags li {
+  list-style:none;
+  flex-grow:1;
+  width:21%;
+  text-align:center;
+}
+
+.player fieldset {
+  width:18.3125em;
+  background:var(--pcbColor);
+  padding-right:0.0625em;
+}
+
+.player fieldset:last-of-type {
+  padding-bottom:0.0625em;
+}
+
+.player button {
+  float:left;
+  width:4.5em;
+  height:4.5em;
+  margin:0.0625em 0 0 0.0625em;
+  border:0;
+  background:var(--buttonBgColor);
+  color:var(--buttonTextColor);
+}
+
+.player button.tall {
+  float:right;
+  height:9.0625em;
+}
+
+.player button.wide {
+  width:9.0625em;
+}
+
+.player button span {
+  font-size:1.5em;
+}
+
+.player .operator:not(.char) span {
+  font-size:2.25em;
+}
+
+.player .controls button {
+  --buttonBgColor:var(--memoryBgColor);
+  color:var(--memoryTextColor);
+}
+
+.player button.eject {
+  --buttonBgColor:var(--clearBgColor);
+  color:var(--clearTextColor);
+}
+
+.player button.operator {
+  --buttonBgColor:var(--operatorBgColor);
+  color:var(--operatorTextColor);
+}
+
+
     </style>
   </head>
   <body>
@@ -24,42 +175,24 @@
           <li title="memory" data-text="MEM">MEM</li>
         </ul>
       
-        <fieldset class="memory">
-          <button><span>M+</span></button>
-          <button><span>M-</span></button>
-          <button><span>MR</span></button>
-          <button><span>MC</span></button>
-        <!-- .memory --></fieldset>
-        
-        <fieldset>
-          <button class="clear wide"><span>C</span></button>
-          <button class="clear doubleDigit"><span>CE</span></button>
-          <button class="operator"><span>&divide;</span></button>
-        </fieldset>
-      
-        <fieldset>
-          <button><span>7</span></button>
-          <button><span>8</span></button>
-          <button><span>9</span></button>
-          <button class="operator char"><span>X</span></button>
-        </fieldset>
-      
-        <fieldset>
-          <button><span>4</span></button>
-          <button><span>5</span></button>
-          <button><span>6</span></button>
-          <button class="operator"><span>-</span></button>
-        </fieldset>
+        <fieldset class="controls">
+          <button class="wide"><span>&#x23F9;</span></button>
+          <button class="wide"><span>&#x23F5; &#x23F8;</span></button>
+        <!-- .controls --></fieldset>
+
+        <fieldset class="navigation">
+          <button><span>&#x23EE;</span></button>
+          <button><span>&#x23EA;</span></button>
+          <button><span>&#x23E9;</span></button>
+          <button><span>&#x23ED;</span></button>
+        <!-- .navigation --></fieldset>
+
+        <fieldset class="playType">
+          <button class="operator"><span>&#x1F500;</span></button>
+          <button class="operator"><span>&#x1F501;</span></button>
+          <button class="wide eject"><span>&#x23CF;</span></button>
+        <!-- .playType --></fieldset>
          
-        <fieldset>
-          <button><span>1</span></button>
-          <button><span>2</span></button>
-          <button><span>3</span></button>
-          <button class="operator tall"><span>+<br>=</span></button> 
-          <button class="wide"><span>0</span></button>
-          <button><span>.</span></button>
-        </fieldset>
-          
       <!-- .calc --></section>
 
     <script type="text/javascript">
