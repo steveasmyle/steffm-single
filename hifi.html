@@ -1,202 +1,253 @@
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Stef.FM Player</title>
-    <link rel="stylesheet" href="style.css">
     <style>
-/* START RESET */
+        /* START RESET */
+        *, *:before, *:after {
+            box-sizing:border-box;
+        }
+        
+        html, body, div, ul, li, fieldset {
+            margin:0;
+            padding:0;
+        }
+        
+        body, output, button {
+            font-family:inherit;
+            font-size:1em;
+            line-height:1.5;
+        }
 
-html, body, div, ul, li, fieldset {
-  margin:0;
-  padding:0;
-}
+        body {
+            align-items:center;
+            background:#8CF;
+            display:flex;
+            font-family:arial,helvetica,sans-serif;
+            justify-content:center;
+            padding:1rem;
+        }
 
-*, *:before, *:after {
-  box-sizing:border-box;
-}
+        fieldset, img {
+            border:0;
+        }
 
-img, fieldset {
-  border:0;
-}
+        html, body {
+            height:100%;
+        }
+        /* END RESET */
 
-html, body {
-  height:100%;
-}
+        .player {
+            --buttonBgColor:#807870;
+            --buttonTextColor:#FFF;
+            --caseBgColor:#D0D0C0;
+            --clearBgColor:#F00;
+            --clearTextColor:#FFF;
+            --flagsBgColor:#210;
+            --flagsTextColor:#F00;
+            --h1BgColor:#F0F8FF;
+            --memoryBgColor:#F80;
+            --memoryTextColor:#FFF;
+            --operatorBgColor:#E8E4E0;
+            --operatorTextColor:#000;
+            --outputBgColor:#420;
+            --outputTextColor:#F80;
+            --pcbColor:#002D04;
+            background-color:var(--caseBgColor);
+            font-size:clamp(9px, min(3.75vw, 2.2vh), 3rem);
+            margin:auto;
+            padding:1em 2em 1.5em;
+            text-align:right;
+        }
 
-body, output, button {
-  font-family:inherit;
-  font-size:1em;
-  line-height:1.5;
-  
-}
+        .player h1 {
+            background:var(--h1BgColor);
+            float:right;
+            margin-bottom:1.5rem;
+            padding:0.25em 0.75em;
+        }
 
-/* END RESET */
+        .player output {
+            align-items: center;
+            background:var(--outputBgColor);
+            clear:both;
+            color:var(--outputTextColor);
+            display:block;
+            font-size:2em;
+            padding:0.5em 0.5em 0;
+            text-align:right;
+        }
 
-body {
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-family:arial,helvetica,sans-serif;
-  padding:1rem;
-  background:#8CF;
-}
+        .player output var {
+            float:left;
+        }
 
-.player {
-  --caseBgColor:#D0D0C0;
-  --h1BgColor:#F0F8FF;
-  --outputBgColor:#420;
-  --outputTextColor:#F80;
-  --flagsBgColor:#210;
-  --flagsTextColor:#F00;
-   --pcbColor:#002D04;
-  --buttonBgColor:#807870;
-  --buttonTextColor:#FFF;
-  --memoryBgColor:#F80;
-  --memoryTextColor:#FFF;
-  --clearBgColor:#F00;
-  --clearTextColor:#FFF;
-  --operatorBgColor:#E8E4E0;
-  --operatorTextColor:#000;
+        .player .flags {
+            align-items:stretch;
+            background:var(--flagsBgColor);
+            color:var(--flagsTextColor);
+            display:flex;
+            margin-bottom:1.5em;
+            text-align:center;
+        }
 
-  text-align:right;
-  margin:auto;
-  padding:1em 2em 1.5em;
-  font-size:clamp(9px, min(3.75vw, 2.2vh), 3rem);
-  background-color:var(--caseBgColor); 
-}
+        .player .flags li {
+            flex-grow:1;
+            list-style:none;
+            text-align:center;
+            width:21%;
+        }
 
-.player h1 {
-  float:right;
-  padding:0.25em 0.75em;
-  margin-bottom:1.5rem;
-  background:var(--h1BgColor);
-}
+        .player fieldset {
+            background:var(--pcbColor);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            padding-right:0.0625em;
+            width:18.3125em;
+        }
 
-.player output {
-  clear:both;
-  display:block;
-  padding:0.5em 0.5em 0;
-  font-size:2em;
-  background:var(--outputBgColor);
-  color:var(--outputTextColor);
-  text-align:right;
-}
+        .player fieldset:last-of-type {
+            padding-bottom:0.0625em;
+        }
 
-.player output var {
-  float:left;
-}
+        .player button {
+            align-items: center;
+            background:var(--buttonBgColor);
+            border:0;
+            color:var(--buttonTextColor);
+            display: flex;
+            height:4.5em;
+            justify-content: center;
+            margin:0.0625em 0 0 0.0625em;
+            width:4.5em;
+        }
 
-.player .flags {
-  display:flex;
-  align-items:stretch;
-  margin-bottom:1.5em;
-  text-align:center;
-  background:var(--flagsBgColor);
-  color:var(--flagsTextColor);
-}
+        .player button.tall {
+            height:9.0625em;
+        }
 
-.player .flags li {
-  list-style:none;
-  flex-grow:1;
-  width:21%;
-  text-align:center;
-}
+        .player button.wide {
+            width:9.0625em;
+        }
 
-.player fieldset {
-  width:18.3125em;
-  background:var(--pcbColor);
-  padding-right:0.0625em;
-}
+        .player button span {
+            align-items: center;
+            display: flex;
+            font-size:1.5em;
+            justify-content: center;
+        }
 
-.player fieldset:last-of-type {
-  padding-bottom:0.0625em;
-}
+        .player .operator:not(.char) span {
+            font-size:2.25em;
+        }
 
-.player button {
-  float:left;
-  width:4.5em;
-  height:4.5em;
-  margin:0.0625em 0 0 0.0625em;
-  border:0;
-  background:var(--buttonBgColor);
-  color:var(--buttonTextColor);
-}
+        .player .controls button {
+            color:var(--memoryTextColor);
+            --buttonBgColor:var(--memoryBgColor);
+        }
 
-.player button.tall {
-  float:right;
-  height:9.0625em;
-}
+        .player button.eject {
+            color:var(--clearTextColor);
+            --buttonBgColor:var(--clearBgColor);
+        }
 
-.player button.wide {
-  width:9.0625em;
-}
+        .player button.operator {
+            color:var(--operatorTextColor);
+            --buttonBgColor:var(--operatorBgColor);
+        }
 
-.player button span {
-  font-size:1.5em;
-}
-
-.player .operator:not(.char) span {
-  font-size:2.25em;
-}
-
-.player .controls button {
-  --buttonBgColor:var(--memoryBgColor);
-  color:var(--memoryTextColor);
-}
-
-.player button.eject {
-  --buttonBgColor:var(--clearBgColor);
-  color:var(--clearTextColor);
-}
-
-.player button.operator {
-  --buttonBgColor:var(--operatorBgColor);
-  color:var(--operatorTextColor);
-}
-
-
+        .player button svg {
+            color: white;
+            height: 1.5em;
+            width: 1.5em;
+        }
     </style>
-  </head>
-  <body>
+</head>
+<body>
     <section class="player">
-
         <h1>Stef.FM <span>9000</span></h1>
-        
         <output><var>&#127925;</var>Track<span> - </span>Artist</output>
-        
         <ul class="flags">
-          <li title="overflow" data-text="OVF"></li>
-          <li title="divide by zero" data-text="DV0"></li>
-          <li title="error" data-text="ERR"></li>
-          <li title="memory" data-text="MEM">MEM</li>
+            <li title="overflow" data-text="OVF"></li>
+            <li title="divide by zero" data-text="DV0"></li>
+            <li title="error" data-text="ERR"></li>
+            <li title="memory" data-text="MEM">MEM</li>
         </ul>
-      
         <fieldset class="controls">
-          <button class="wide"><span>&#x23F9;</span></button>
-          <button class="wide"><span>&#x23F5; &#x23F8;</span></button>
-        <!-- .controls --></fieldset>
-
+            <button class="wide" aria-label="Stop playback">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#stop" />
+                    </svg>
+                </span>
+            </button>
+            <button class="wide" aria-label="Play or pause playback">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#play" />
+                    </svg>
+                </span>
+            </button>
+        </fieldset>
         <fieldset class="navigation">
-          <button><span>&#x23EE;</span></button>
-          <button><span>&#x23EA;</span></button>
-          <button><span>&#x23E9;</span></button>
-          <button><span>&#x23ED;</span></button>
-        <!-- .navigation --></fieldset>
-
+            <button aria-label="Back to start">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#start" />
+                    </svg>
+                </span>
+            </button>
+            <button aria-label="Rewind">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#rewind" />
+                    </svg>
+                </span>
+            </button>
+            <button aria-label="Fast forward">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#fastforward" />
+                    </svg>
+                </span>
+            </button>
+            <button aria-label="Next">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#end" />
+                    </svg>
+                </span>
+            </button>
+        </fieldset>
         <fieldset class="playType">
-          <button class="operator"><span>&#x1F500;</span></button>
-          <button class="operator"><span>&#x1F501;</span></button>
-          <button class="wide eject"><span>&#x23CF;</span></button>
-        <!-- .playType --></fieldset>
-         
-      <!-- .calc --></section>
-
+            <button aria-label="Shuffle">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#shuffle" />
+                    </svg>
+                </span>
+            </button>
+            <button aria-label="Repeat">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#repeat" />
+                    </svg>
+                </span>
+            </button>
+            <button class="wide eject" aria-label="Eject">
+                <span>
+                    <svg fill="currentColor" viewBox="0 0 24 24">
+                        <use xlink:href="svg/media-sprites.svg#eject" />
+                    </svg>
+                </span>
+            </button>
+        </fieldset>
+    </section>
     <script type="text/javascript">
     </script>
-  </body>
+</body>
 </html>
-
