@@ -165,12 +165,23 @@
             height: 1.5em;
             width: 1.5em;
         }
+        .player output svg {
+            color: white;
+            height: 1em;
+            width: 1em;
+        }
     </style>
 </head>
 <body>
     <section class="player">
         <h1>Stef.FM <span>9000</span></h1>
-        <output><var>&#127925;</var>Track<span> - </span>Artist</output>
+        <output>
+          <var>
+            <svg fill="currentColor" viewBox="0 0 512 512">
+              <use xlink:href="svg/media-sprites.svg#music" />
+            </svg>
+          </var>Track<span> - </span>Artist
+        </output>
         <ul class="flags">
             <li title="overflow" data-text="OVF"></li>
             <li title="divide by zero" data-text="DV0"></li>
