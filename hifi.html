@@ -6,77 +6,312 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Stef.FM Player</title>
     <style>
+      @font-face {
+        font-family:"sportscenter";
+        font-weight:normal;
+        font-style:normal;
+        src:
+          url("fonts/sportscenter.woff2") format("woff2"),
+          url("fonts/sportscenter.woff") format("woff");
+      }
+
+      @font-face {
+        font-family:"optiedgar";
+        font-weight:normal;
+        font-style:normal;
+        src:
+          url("fonts/sportscenter.woff2") format("woff2"),
+          url("fonts/sportscenter.woff") format("woff");
+      }
+
+      @font-face {
+        font-family:"lcd";
+        font-weight:normal;
+        font-style:normal;
+        src:
+          url("fonts/LCD-Italic.woff2") format("woff2"),
+          url("fonts/LCD-Italic.woff") format("woff");
+      }
+
         /* START RESET */
-        *, *:before, *:after {
-            box-sizing:border-box;
-        }
-        
-        html, body, div, ul, li, fieldset {
-            margin:0;
-            padding:0;
-        }
-        
-        body, output, button {
-            font-family:inherit;
-            font-size:1em;
-            line-height:1.5;
+        html,body,div,p,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,form,fieldset,caption,legend,table,tr,td,th,address,blockquote,img {
+          margin:0;
+          padding:0;
         }
 
-        body {
-            align-items:center;
-            background:#8CF;
-            display:flex;
-            font-family:arial,helvetica,sans-serif;
-            justify-content:center;
-            padding:1rem;
+        img, fieldset {
+          border:none;
         }
 
-        fieldset, img {
-            border:0;
+        blockquote, q {
+          quotes:none;
+        }
+
+        *, *:after, *:before {
+          box-sizing:border-box;
+        }
+
+        button, label, summary {
+          cursor:pointer;
         }
 
         html, body {
-            height:100%;
+          height:100%;
+        }
+
+        button, label, summary {
+          cursor:pointer;
+        }
+
+        body, output, button {
+          font-family:inherit;
+          font-size:1em;
+          line-height:1.5;
+          
         }
         /* END RESET */
 
+        html, body {
+          perspective:30rem;
+        }
+
+        html {
+          background:#8CF;
+          overflow:hidden;
+        }
+
+        html:before {
+          /* background:url(https://cutcodedown.com/for_others/calc/images/canvas_1.png); */
+          background-repeat:repeat;
+          bottom:-20vw;
+          content:"";
+          left:-20vw;
+          position:absolute;
+          right:-20vw;
+          rotate:x 10deg;
+          top:-20vw;
+        }
+
+        body {
+          align-items:center;
+          display:flex;
+          font-family:optiedgar,arial,helvetica,sans-serif;
+          justify-content:center;
+          overflow:auto;
+          padding:1rem;
+          rotate:x 5deg;
+          top:-1.5em;
+        }
+
         .player {
-            --buttonBgColor:#807870;
-            --buttonTextColor:#FFF;
-            --caseBgColor:#D0D0C0;
-            --clearBgColor:#F00;
-            --clearTextColor:#FFF;
-            --flagsBgColor:#210;
-            --flagsTextColor:#F00;
-            --h1BgColor:#F0F8FF;
-            --memoryBgColor:#F80;
-            --memoryTextColor:#FFF;
-            --operatorBgColor:#E8E4E0;
+            --caseBgColor:#E8D8B0;
+            --powerLampColor:#F32;
+            --h1BgColor:#E8F4FF;
+            --h1TextColor:#210;
+            --outputBgColor:#024;
+            --outputTextColor:#3AF;
+            --flagsBgColor:#012;
+            --flagsTextColor:#298;
+            --flagsTextShadow:#089;
+            --flagsOffColor:#456;
+            --pcbColor:#001804;
+            --buttonBgColor:#381808;
+            --buttonTextColor:#D0D8D0;
+            --memoryBgColor:#A73;
+            --memoryTextColor:#F0E8D8;
+            --clearBgColor:#C40;
+            --clearTextColor:#D0D8D0;
+            --operatorBgColor:#988880;
             --operatorTextColor:#000;
-            --outputBgColor:#420;
-            --outputIconColor:#F80;
-            --outputTextColor:#F80;
-            --pcbColor:#002D04;
             background-color:var(--caseBgColor);
-            font-size:clamp(9px, min(3.75vw, 2.2vh), 3rem);
+            background-image:
+              linear-gradient(
+                to bottom,
+
+                transparent 2em,
+                #000A 2em,
+                #0003 2.125em 2.25em,
+                transparent 2.25em 2.5em,
+
+                #000A 2.5em,
+                #0004 2.625em 2.75em,
+                transparent 2.75em 3em,
+
+                #000A 3em,
+                #0003 3.125em 3.25em,
+                transparent 3.25em 3.5em,
+
+                #000A 3.5em,
+                #0003 3.625em 3.75em,
+                transparent 3.75em 4em,
+
+                #000A 4em,
+                #0003 4.125em 4.25em,
+                transparent 4.25em 10em, /* end last vent */
+
+                #0003 10em 11.625em, /* slanted area */
+                transparent 11.625em /* transparent from end of slant to the bottom */
+              ),
+              linear-gradient(
+                150deg,
+                transparent 50%,
+                #0003
+              ),
+              url("svg/noise.svg");
+              border-radius:0.5em 0.5em 1em 1em;
+              box-shadow:
+                0.5em 0.5em 1.25em #0006,
+                1.5em 1.5em 4em #000B;
+            font-size:clamp(9px, min(3.75vw, 2.1vh), 1rem);
             margin:auto;
             padding:1em 2em 1.5em;
             text-align:right;
         }
 
-        .player h1 {
-            background:var(--h1BgColor);
-            margin-bottom:1.5rem;
-            padding:0.25em 0.75em;
+        .player:before {
+          content:"";
+          position:absolute;
+          top:1.5em;
+          right:-0.75em;
+          width:1.25em;
+          height:10.5em;
+          box-shadow:1.5em 0 1.5em #0008;
         }
+
+        .player h1 {
+          display:inline-block;
+          overflow:hidden;
+          padding-left:0.5em;
+          margin-bottom:1.875em;
+          font-size:0.875em;
+          line-height:1.5;
+          color:var(--h1TextColor);
+          background:
+            var(--h1BgColor)
+            linear-gradient(
+            280deg,
+            #FFFE 30%,
+            #0004 40% 50%,
+            #FFFE 65% 79%,
+            #0004 100%
+            );
+          border-radius:1em;
+          border:0.1em solid;
+          border-color:#000 #0006 #0004 #000B;
+          box-shadow:
+            0 0 0 0.15em var(--caseBgColor);
+          text-shadow:
+            0.0625em 0.0625em 0 #FFF;
+        }
+
+        .player h1 span,
+        .player .power {
+          display:inline-block;
+          position:relative;
+          vertical-align:top;
+          color:var(--h1BgColor);
+          background:var(--h1TextColor);
+        }
+
+        .player h1 span {
+          padding:0 0.5em;
+          margin-left:0.5em;
+          font-weight:bold;
+          letter-spacing:0.125em;
+          text-shadow:
+            0.125em 0 0 #FFF;
+        }
+
+        .player .power {
+          float:right;
+          padding:0 1em 0 3.5em;
+          font-size:0.5em;
+          line-height:2.975;
+          border-radius:1.7em;
+          box-shadow:
+            0 0 0 0.2625em var(--caseBgColor);
+        }
+
+        .player .power:after {
+          content:"";
+          position:absolute;
+          left:0.75em;
+          top:0.5em;
+          width:1.75em;
+          height:2em;
+          border-radius:1em;
+          background-color:var(--powerLampColor);
+          background-image:
+            radial-gradient(
+            at 25% 20%,
+            #FFFC 0.25em,
+            transparent 0.3em
+            ),
+            linear-gradient(
+            -30deg,
+            #0006,
+            transparent
+            );
+          box-shadow:
+            inset 0.0625em 0.125em 0.125em var(--powerLampColor),
+            inset 0.25em 0.25em 0.25em #FC48,
+            0 0 0.5em 0.125em var(--powerLampColor);
+       }
 
         /* START OUTPUT */
         .player output {
-            align-items: center;
-            background:var(--outputBgColor);
-            color:var(--outputTextColor);
-            display:block;
-            text-align:right;
+          clear:both;
+          position:relative;
+          display:block;
+          padding:0.5em 0.5em 0;
+          font-size:2.125em;
+          font-family:lcd,monospace;
+          letter-spacing:0.125em;
+          text-align:right;
+          color:var(--outputTextColor);
+          background-color:var(--outputBgColor);
+          background-image:
+            linear-gradient(
+            170deg,
+            #0007,
+            transparent 50%
+            ),
+            linear-gradient(
+            to bottom,
+            transparent,
+            #FFF1 92.5%,
+            #FFF4 100%
+            );
+          text-shadow:
+            0 0 0.25em var(--outputTextColor);
+        }
+
+        .player output:after,
+        .player output:before,
+        .player output var:before {
+          opacity:0.2;
+          text-shadow:none;
+        }
+
+        .player output:before,
+        .player output var:before {
+        display:block;
+        margin-bottom:-1.5em;
+        }
+
+        .player output:after {
+        content:"...........";
+        position:absolute;
+        bottom:0;
+        right:1em;
+        }
+
+        .player output:before {
+        content:"888888888888";
+        }
+
+        .player output var:before {
+        content:"-";
         }
 
         .player output svg {
@@ -101,7 +336,7 @@
           height: 8em;
           margin: 1.5em 0 0 0;
           overflow-x: hidden;
-          overflow-y: scroll;
+          overflow-y: auto;
           padding:0.5em 0.5em 0 0.5em;
         }
         /* END OUTPUT */
@@ -190,6 +425,7 @@
 </head>
 <body>
     <section class="player">
+        <div class="power">POWER</div> 
         <h1>Stef.FM <span>9000</span></h1>
         <output class="playerWindow">
           <var>
@@ -222,12 +458,16 @@
           </ol>
         </output>
         <ul class="flags">
-            <li title="overflow" data-text="OVF"></li>
-            <li title="divide by zero" data-text="DV0"></li>
-            <li title="error" data-text="ERR"></li>
-            <li title="memory" data-text="MEM">MEM</li>
-        </ul>
-        <fieldset class="controls">
+          <li class="smallGlyph" data-text="+">+</li>
+          <li class="smallGlyph" data-text="-"></li>
+          <li data-text="X"></li>
+          <li class="smallGlyph" data-text="&divide;"></li>
+          <li title="overflow" data-text="OVF"></li>
+          <li title="divide by zero" data-text="DV0"></li>
+          <li title="error" data-text="ERR"></li>
+          <li title="memory" data-text="MEM">MEM</li>
+         </ul>
+         <fieldset class="controls">
             <button class="wide" aria-label="Stop playback">
                 <span>
                     <svg fill="currentColor" viewBox="0 0 24 24">
