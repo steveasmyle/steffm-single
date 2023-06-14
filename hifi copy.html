@@ -54,7 +54,6 @@
             --operatorBgColor:#E8E4E0;
             --operatorTextColor:#000;
             --outputBgColor:#420;
-            --outputIconColor:#F80;
             --outputTextColor:#F80;
             --pcbColor:#002D04;
             background-color:var(--caseBgColor);
@@ -66,45 +65,25 @@
 
         .player h1 {
             background:var(--h1BgColor);
+            float:right;
             margin-bottom:1.5rem;
             padding:0.25em 0.75em;
         }
 
-        /* START OUTPUT */
         .player output {
             align-items: center;
             background:var(--outputBgColor);
+            clear:both;
             color:var(--outputTextColor);
             display:block;
+            font-size:2em;
+            padding:0.5em 0.5em 0 0.5em;
             text-align:right;
-        }
-
-        .player output svg {
-            color:var(--outputTextColor);
-            height: 1em;
-            width: 1em;
         }
 
         .player output var {
             float:left;
         }
-
-        .player output.playerWindow {
-          font-size:2em;
-          height: 2.5em;
-          overflow: hidden;
-          padding:0.5em 0.5em 0 0.5em;
-        }
-
-        .player output.playlistWindow {
-          font-size:1em;
-          height: 8em;
-          margin: 1.5em 0 0 0;
-          overflow-x: hidden;
-          overflow-y: scroll;
-          padding:0.5em 0.5em 0 0.5em;
-        }
-        /* END OUTPUT */
 
         .player .flags {
             align-items:stretch;
@@ -186,40 +165,22 @@
             height: 1.5em;
             width: 1.5em;
         }
+        .player output svg {
+            color: white;
+            height: 1em;
+            width: 1em;
+        }
     </style>
 </head>
 <body>
     <section class="player">
         <h1>Stef.FM <span>9000</span></h1>
-        <output class="playerWindow">
+        <output>
           <var>
-            <svg fill="currentColor" viewBox="0 0 24 24">
-              <use xlink:href="svg/media-sprites.svg#disc2" />
+            <svg fill="currentColor" viewBox="0 0 512 512">
+              <use xlink:href="svg/media-sprites.svg#music" />
             </svg>
           </var>Track<span> - </span>Artist
-        </output>
-        <output class="playlistWindow">
-          Playlist
-          <ol>
-            <li>
-              <dl>
-                <dt>Track Name 1</dt>
-                <dd>Artist, Album, Publisher</dd>
-              </dl>
-            </li>
-            <li>
-              <dl>
-                <dt>Track Name 2</dt>
-                <dd>Artist, Album, Publisher</dd>
-              </dl>
-            </li>
-            <li>
-              <dl>
-                <dt>Track Name 3</dt>
-                <dd>Artist, Album, Publisher</dd>
-              </dl>
-            </li>
-          </ol>
         </output>
         <ul class="flags">
             <li title="overflow" data-text="OVF"></li>
