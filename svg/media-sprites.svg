@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" display="none">
   <symbol id="back">
     <path d="M4 2v20h-2v-20h2zm18 0l-16 10 16 10v-20z"/>
   </symbol>
