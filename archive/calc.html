@@ -1,0 +1,84 @@
+<!DOCTYPE html><html lang="en"><head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta property="og:image" content="images/social.jpg">
+	<meta
+		name="description"
+		content="A demo of how far you can push creating graphical elements built with nothing more than HTML and CSS. The only images are for textures, not shape or design."
+	>
+
+	<link
+		rel="stylesheet"
+		href="calc.screen.css"
+		media="screen"
+	>
+	<link rel="icon" href="vanilla.svg" type="image/svg+xml">
+	<link rel="mask-icon" href="vanilla.mask.svg" color="#EC8">
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<title>Calculator Template Demo</title>
+
+</head><body>
+
+<!--
+	This is part two of making a HTML/CSS styled calculator template
+-->
+
+<section class="calc">
+
+	<div class="power">POWER</div>
+	<h1>Computron<span>V90</span></h1>
+
+	<output><var>-</var>9<span>.</span>876543201</output>
+
+	<ul class="flags">
+		<li class="smallGlyph" data-text="+">+</li>
+		<li class="smallGlyph" data-text="-"></li>
+		<li data-text="X"></li>
+		<li class="smallGlyph" data-text="&divide;"></li>
+		<li title="overflow" data-text="OVF"></li>
+		<li title="divide by zero" data-text="DV0"></li>
+		<li title="error" data-text="ERR"></li>
+		<li title="memory" data-text="MEM">MEM</li>
+	</ul>
+
+	<fieldset class="memory">
+		<button><span>M+</span></button>
+		<button><span>M-</span></button>
+		<button><span>MR</span></button>
+		<button><span>MC</span></button>
+	<!-- .memory --></fieldset>
+
+	<fieldset>
+		<button class="clear wide"><span>C</span></button>
+		<button class="clear doubleDigit"><span>CE</span></button>
+		<button class="operator"><span>&divide;</span></button>
+	</fieldset>
+
+	<fieldset>
+		<button><span>7</span></button>
+		<button><span>8</span></button>
+		<button><span>9</span></button>
+		<button class="operator char"><span>X</span></button>
+	</fieldset>
+
+	<fieldset>
+		<button><span>4</span></button>
+		<button class="index"><span>5</span></button>
+		<button><span>6</span></button>
+		<button class="operator"><span>-</span></button>
+	</fieldset>
+
+	<fieldset>
+		<button><span>1</span></button>
+		<button><span>2</span></button>
+		<button><span>3</span></button>
+		<button class="operator tall"><span>+<br>=</span></button>
+		<button class="wide"><span>0</span></button>
+		<button><span>.</span></button>
+	</fieldset>
+
+<!-- .calc --></section>
+
+</body></html>
