@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="IE=9">
+      <meta property="og:image" content="images/social480.jpg">
+      <meta property="og:image:width" content="480">
+      <meta property="og:image:height" content="252">
+      <meta property="og:image" content="images/socialFull.jpg">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta name="description" content="A demo of how far you can push creating graphical elements built with nothing more than HTML and CSS. The only images are for textures, not shape or design.">
+      <link rel="shortcut icon" href="favicon.ico">
+      <!--[if !IE]>-->
+      <link rel="stylesheet" href="calc.screen.css" media="screen">
+      <link rel="icon" href="vanilla.svg" type="image/svg+xml">
+      <link rel="apple-touch-icon" href="apple-touch-icon.png">
+      <link rel="mask-icon" href="vanilla.mask.svg" color="#EC8">
+      <!--<![endif]-->
+      <title>Stef.FM</title>
+   </head>
+   <body>
+      <div id="fauxBody">
+         <h1>Stef.FM</h1>
+         <!-- #fauxBody -->
+         <section class="calc">
+            <div class="power">POWER</div>
+            <h2>STEF&nbsp;.&nbsp;FM<span>9000</span></h2>
+            <output><var>-</var>777<span></span></output>
+            <ul class="flags">
+               <li title="Skip backward" data-text="⏮" class="smallGlyph">⏮</li>
+               <li title="Reverse" data-text="⏴⏴" class="smallGlyph">⏴⏴</li>
+               <li title="Stop" data-text="⏹" class="smallGlyph">⏹</li>
+               <li title="Pause" data-text="⏸" class="smallGlyph">⏸</li>
+               <li title="Play" data-text="⏵" class="smallGlyph">⏵</li>
+               <li title="Fast forward" data-text="⏵⏵" class="smallGlyph">⏵⏵</li>
+               <li title="Skip forward" data-text="⏭" class="smallGlyph">⏭</li>
+               <li title="An error has occurred" data-text="ERR">ERR</li>
+            </ul>
+            <fieldset>
+               <button class="view" value="Up">
+                  <span>↑</span>
+               </button>
+               <button class="memory index tall" value="Enter">
+                  <span>↵</span>
+               </button>
+               <button class="view" value="Down">
+                  <span>↓</span>
+               </button>
+            </fieldset>
+            <fieldset>
+               <button class="action red" value="Stop">
+                  <span>⏹</span>
+               </button>
+               <button class="action orange wide" value="Play">
+                  <span>⏵</span>
+               </button>
+               <button class="grey" value="Pause">
+                  <span>⏸</span>
+               </button>
+            </fieldset>
+            <fieldset>
+               <button class="lightGrey" value="Skip backward">
+                  <span>⏮</span>
+               </button>
+               <button class="lightGrey" value="Rewind">
+                  <span>⏴⏴</span>
+               </button>
+               <button class="lightGrey" value="Fast forward">
+                  <span>⏵⏵</span>
+               </button>
+               <button class="lightGrey" value="Skip forward">
+                  <span>⏭</span>
+               </button>
+            </fieldset>
+         </section>
+      </div>
+      <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+      <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+   </body>
+</html>
