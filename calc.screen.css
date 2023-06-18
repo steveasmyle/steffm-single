@@ -120,10 +120,10 @@ body {
 	--pcbColor: #001804;
 	--buttonBgColor: #381808;
 	--buttonTextColor: #D0D8D0;
-	--memoryBgColor: #A73;
-	--memoryTextColor: #F0E8D8;
-	--viewBgColor: #248;
-	--viewTextColor: #FFF;
+	--brownBgColor: #A73;
+	--brownTextColor: #F0E8D8;
+	--blueBgColor: #248;
+	--blueTextColor: #FFF;
 	--redBgColor: #C12;
 	--redTextColor: #D0D8D0;
 	--clearEntryBgColor: #C60;
@@ -431,8 +431,12 @@ h1 {
 	margin-right: -0.25em;
 }
 
+.player button:hover {
+	top: 0.0625em;
+	--transitionTime: 0.1s;
+}
+
 .player button:focus,
-.player button:hover,
 .player button.keyDown {
 	top: 0.125em;
 	transform: scale(0.97);
@@ -463,16 +467,14 @@ h1 {
 	white-space: pre;
 }
 
-.reference .memory td samp,
-.player button.memory {
-	--buttonBgColor: var(--memoryBgColor);
-	color: var(--memoryTextColor);
+.player button.brown {
+	--buttonBgColor: var(--brownBgColor);
+	color: var(--brownTextColor);
 }
 
-.reference samp.view,
-.player button.view {
-	--buttonBgColor: var(--viewBgColor);
-	color: var(--viewTextColor);
+.player button.blue {
+	--buttonBgColor: var(--blueBgColor);
+	color: var(--blueTextColor);
 }
 
 .player button.grey {

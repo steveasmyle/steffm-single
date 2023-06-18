@@ -39,42 +39,44 @@
                <li title="An error has occurred" data-text="ERR"></li>
             </ul>
             <fieldset>
-               <button class="view" value="Up">
+               <button id="up" class="blue" value="Up">
                   <span>↑</span>
                </button>
-               <button class="memory tall" value="Enter">
+               <button id="enter" class="brown tall" value="Enter">
                   <span>↵</span>
                </button>
-               <button class="view" value="Down">
+               <button id="down" class="blue" value="Down">
                   <span>↓</span>
                </button>
             </fieldset>
             <fieldset>
-               <button class="action red" value="Stop">
+               <button id="stop" class="action red" value="Stop">
                   <span>⏹</span>
                </button>
-               <button class="action orange index wide" value="Play">
+               <button id="play" class="action orange index wide" value="Play">
                   <span>⏵</span>
                </button>
-               <button class="grey" value="Pause">
+               <button id="pause" class="grey" value="Pause">
                   <span>⏸</span>
                </button>
             </fieldset>
             <fieldset>
-               <button class="lightGrey" value="Skip backward">
+               <button id="skipBackward" class="lightGrey" value="Skip backward">
                   <span>⏮</span>
                </button>
-               <button class="lightGrey" value="Rewind">
+               <button id="rewind" class="lightGrey" value="Rewind">
                   <span>⏴⏴</span>
                </button>
-               <button class="lightGrey" value="Fast forward">
+               <button id="fastForward" class="lightGrey" value="Fast forward">
                   <span>⏵⏵</span>
                </button>
-               <button class="lightGrey" value="Skip forward">
+               <button id="skipForward" class="lightGrey" value="Skip forward">
                   <span>⏭</span>
                </button>
             </fieldset>
-            <iframe class="mixcloud" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-87%2F" frameborder="0" ></iframe>
+            <iframe class="mixcloud" id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-87%2F" frameborder="0" ></iframe>
+            <div id="overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5);"></div>
+
          </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -150,7 +152,64 @@ updatePerspective(25, 30, 15, 45);
 // MIXCLOUD
 var widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
 widget.ready.then(function() {
-   load("https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-87/", true);
+   console.log("Mixcloud widget ready");
+
+   document.getElementById('up').addEventListener('click', up);
+   document.getElementById('down').addEventListener('click', down);
+   document.getElementById('enter').addEventListener('click', enter);
+   document.getElementById('stop').addEventListener('click', stop);
+   document.getElementById('play').addEventListener('click', play);
+   document.getElementById('pause').addEventListener('click', pause);
+   document.getElementById('skipBackward').addEventListener('click', skipBackward);
+   document.getElementById('rewind').addEventListener('click', rewind);
+   document.getElementById('fastForward').addEventListener('click', fastForward);
+   document.getElementById('skipForward').addEventListener('click', skipForward);
+   
+   var overlay = document.getElementById('overlay');
+   overlay.addEventListener('click', function() {
+      console.log("overlay");
+      this.style.display = 'none';
+      widget.play();
+   });
+   
+   function up() {
+   }
+
+   function down() {
+   }
+
+   function enter() {
+   }
+
+   function stop() {
+      widget.pause();
+   }
+
+   function play() {
+      console.log("Play");
+      overlay.click();
+      widget.play();
+   }
+
+   function pause() {
+      console.log("Pause");
+      widget.pause();
+   }
+
+   function skipBackward() {
+      widget.load("https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-87/", true);
+   }
+
+   function rewind() {
+   }
+
+   function fastForward() {
+   }
+
+   function skipForward() {
+      widget.load("https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-88/", true);
+   }
+
 });
 
      </script>
