@@ -27,22 +27,22 @@
          <section class="calc">
             <div class="power">POWER</div>
             <h2>STEF&nbsp;.&nbsp;FM<span>9000</span></h2>
-            <output><var>-</var>777<span></span></output>
+            <output><var id="display1"></var>            <span></span></output>
             <ul class="flags">
-               <li title="Skip backward" data-text="⏮" class="smallGlyph">⏮</li>
-               <li title="Reverse" data-text="⏴⏴" class="smallGlyph">⏴⏴</li>
-               <li title="Stop" data-text="⏹" class="smallGlyph">⏹</li>
-               <li title="Pause" data-text="⏸" class="smallGlyph">⏸</li>
-               <li title="Play" data-text="⏵" class="smallGlyph">⏵</li>
-               <li title="Fast forward" data-text="⏵⏵" class="smallGlyph">⏵⏵</li>
-               <li title="Skip forward" data-text="⏭" class="smallGlyph">⏭</li>
-               <li title="An error has occurred" data-text="ERR">ERR</li>
+               <li title="Skip backward" data-text="⏮" class="smallGlyph"></li>
+               <li title="Reverse" data-text="⏴⏴" class="smallGlyph"></li>
+               <li title="Stop" data-text="⏹" class="smallGlyph"></li>
+               <li title="Pause" data-text="⏸" class="smallGlyph"></li>
+               <li title="Play" data-text="⏵" class="smallGlyph"></li>
+               <li title="Fast forward" data-text="⏵⏵" class="smallGlyph"></li>
+               <li title="Skip forward" data-text="⏭" class="smallGlyph"></li>
+               <li title="An error has occurred" data-text="ERR"></li>
             </ul>
             <fieldset>
                <button class="view" value="Up">
                   <span>↑</span>
                </button>
-               <button class="memory index tall" value="Enter">
+               <button class="memory tall" value="Enter">
                   <span>↵</span>
                </button>
                <button class="view" value="Down">
@@ -53,7 +53,7 @@
                <button class="action red" value="Stop">
                   <span>⏹</span>
                </button>
-               <button class="action orange wide" value="Play">
+               <button class="action orange index wide" value="Play">
                   <span>⏵</span>
                </button>
                <button class="grey" value="Pause">
@@ -78,5 +78,48 @@
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
       <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+      <script>
+        var scrollers = {};
+
+function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
+    var str = text.replace(/ /g, "!");
+    str = str.padStart(displayLength + str.length, "!");
+
+    var display = document.getElementById(id);
+    var startIndex = 0;
+
+    if (scrollers[id]) {
+        clearInterval(scrollers[id]);
+    }
+
+    scrollers[id] = setInterval(function() {
+        var substring = str.substring(startIndex, startIndex + displayLength);
+        display.nextSibling.textContent = substring;
+        startIndex++;
+
+        if (startIndex > str.length) {
+            startIndex = 0;
+            clearInterval(scrollers[id]);
+            setTimeout(function() {
+                startScroller(id, text, displayLength, tickDelay, pauseDelay);
+            }, pauseDelay);
+        }
+    }, tickDelay);
+}
+
+function stopScrollers() {
+    for (var id in scrollers) {
+        clearInterval(scrollers[id]);
+    }
+    scrollers = {};
+}
+
+// Start scrollers
+startScroller("display1", "Track Name", 12, 250, 500);
+// startScroller("display2", "Artist Name", 12, 300, 1000);
+
+// To stop all scrollers, call stopScrollers():
+// stopScrollers();
+      </script>
    </body>
 </html>

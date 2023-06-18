@@ -8,6 +8,13 @@
 
 @font-face {
 	font-display: swap;
+	font-family: "dseg14";
+	font-style: normal;
+	font-weight: normal;
+	src: url("fonts/DSEG14Classic-Regular.woff2") format("woff2"), url("fonts/DSEG14Classic-Regular.woff") format("woff");
+}
+@font-face {
+	font-display: swap;
 	font-family: "edgar";
 	font-style: normal;
 	font-weight: normal;
@@ -261,11 +268,12 @@ h1 {
 	clear: both;
 	position: relative;
 	display: block;
-	padding: 0.5em 0.5em 0;
-	font-size: 2.875em;
-	font-family: interface, monospace;
+	padding: 0.55em 0.5em 0.55em 0;
+	font-size: 2.250em;
+	font-family: dseg14, monospace;
 	letter-spacing: 0.125em;
-	text-align: right;
+    padding-left: 1em;
+	text-align: left;
 	color: var(--outputTextColor);
 	background-color: var(--outputBgColor);
 	background-image: linear-gradient(170deg, #0007, transparent 50%), linear-gradient(to bottom, transparent, #FFF1 95%, #FFF4 100%);
@@ -290,18 +298,18 @@ h1 {
 }
 
 .calc output:after {
-	content: "...........";
+	content: "";
 	position: absolute;
 	bottom: 0;
 	right: 1em;
 }
 
 .calc output:before {
-	content: "888888888888";
+	content: "~~~~~~~~~~~~";
 }
 
 .calc output var:before {
-	content: "-";
+	content: "";
 }
 
 .calc output span {
@@ -448,20 +456,10 @@ h1 {
 
 .calc button span {
 	position: relative;
-	font-size: 1.5em;
+	font-size: 2em;
 	line-height: 1;
 	vertical-align: middle;
 	white-space: pre;
-}
-
-.calc button.memory span,
-.calc button.view span,
-.calc button.doubleDigit span {
-	font-size: 1em;
-}
-
-.calc .operator:not(.char) span {
-	font-size: 2em;
 }
 
 .reference .memory td samp,
