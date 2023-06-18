@@ -1,13 +1,5 @@
 @font-face {
 	font-display: swap;
-	font-family: "interface";
-	font-style: normal;
-	font-weight: normal;
-	src: url("fonts/interface-Regular.woff2") format("woff2"), url("fonts/interface-Regular.woff") format("woff");
-}
-
-@font-face {
-	font-display: swap;
 	font-family: "dseg14";
 	font-style: normal;
 	font-weight: normal;
@@ -92,6 +84,7 @@ select {
 body,
 #fauxBody {
 	perspective: 30rem;
+    transition: perspective 0.5s ease-out;
 }
 
 html,
@@ -172,7 +165,7 @@ h1 {
 	right: 100vw;
 }
 
-.calc {
+.player {
 	font-family: edgar, sans-serif;
 	font-size: clamp(9px, min(2.5vw, 2vh), 1rem);
 	position: relative;
@@ -187,21 +180,21 @@ h1 {
 	transition: filter 0.5s, transform 0.5s, rotate 0.5s;
 }
 
-.calc.flip {
+.player.flip {
 	transform: rotateX(5deg) rotate(180deg);
 }
 
-.modal:target~.calc {
+.modal:target~.player {
 	filter: blur(0.5em);
 }
 
-.calc:before,
-.calc .power:after {
+.player:before,
+.player .power:after {
 	content: "";
 	position: absolute;
 }
 
-.calc:before {
+.player:before {
 	top: 1.5em;
 	right: -0.75em;
 	width: 1.25em;
@@ -209,7 +202,7 @@ h1 {
 	box-shadow: 1.5em 0 1.5em #0008;
 }
 
-.calc h2 {
+.player h2 {
 	display: inline-block;
 	overflow: hidden;
 	padding-left: 0.5em;
@@ -225,8 +218,8 @@ h1 {
 	text-shadow: 0.0625em 0.0625em 0 #FFF;
 }
 
-.calc h2 span,
-.calc .power {
+.player h2 span,
+.player .power {
 	display: inline-block;
 	position: relative;
 	vertical-align: top;
@@ -234,7 +227,7 @@ h1 {
 	background: var(--headerTextColor);
 }
 
-.calc h2 span {
+.player h2 span {
 	padding: 0 0.5em;
 	margin-left: 0.5em;
 	font-weight: bold;
@@ -242,7 +235,7 @@ h1 {
 	text-shadow: 0.125em 0 0 #FFF;
 }
 
-.calc .power {
+.player .power {
 	float: right;
 	padding: 0 1em 0 3.5em;
 	font-size: 0.5em;
@@ -251,7 +244,7 @@ h1 {
 	box-shadow: 0 0 0 0.2625em var(--caseBgColor);
 }
 
-.calc .power:after {
+.player .power:after {
 	content: "";
 	position: absolute;
 	left: 0.75em;
@@ -264,7 +257,7 @@ h1 {
 	box-shadow: inset 0.0625em 0.125em 0.125em var(--powerLampColor), inset 0.25em 0.25em 0.25em #FC48, 0 0 0.5em 0.125em var(--powerLampColor);
 }
 
-.calc output {
+.player output {
 	clear: both;
 	position: relative;
 	display: block;
@@ -280,46 +273,46 @@ h1 {
 	text-shadow: 0 0 0.25em var(--outputTextColor);
 }
 
-.calc output var {
+.player output var {
 	float: left;
 }
 
-.calc output:after,
-.calc output:before,
-.calc output var:before {
+.player output:after,
+.player output:before,
+.player output var:before {
 	opacity: var(--outputOffOpacity);
 	text-shadow: none;
 }
 
-.calc output:before,
-.calc output var:before {
+.player output:before,
+.player output var:before {
 	display: block;
 	margin-bottom: -1.5em;
 }
 
-.calc output:after {
+.player output:after {
 	content: "";
 	position: absolute;
 	bottom: 0;
 	right: 1em;
 }
 
-.calc output:before {
+.player output:before {
 	content: "~~~~~~~~~~~~";
 }
 
-.calc output var:before {
+.player output var:before {
 	content: "";
 }
 
-.calc output span {
+.player output span {
 	display: inline-block;
 	width: 1em;
 	margin: 0 -0.3125em 0 -0.6875em;
 	text-align: center;
 }
 
-.calc .flags {
+.player .flags {
 	display: flex;
 	align-items: stretch;
 	margin-bottom: 1.5em;
@@ -328,7 +321,7 @@ h1 {
 	background-image: linear-gradient(transparent, var(--outputBgColor));
 }
 
-.calc .flags li {
+.player .flags li {
 	list-style: none;
 	flex-grow: 1;
 	text-align: center;
@@ -340,7 +333,7 @@ h1 {
 	transform: scaleX(0.8);
 }
 
-.calc .flags li:before {
+.player .flags li:before {
 	content: attr(data-text);
 	display: block;
 	margin-bottom: -2.125em;
@@ -348,21 +341,22 @@ h1 {
 	opacity: var(--flagsOffOpacity);
 }
 
-.calc .flags li.smallGlyph {
+.player .flags li.smallGlyph {
 	font-size: 1em;
 	font-weight: bold;
 	line-height: 1.59375;
 }
 
-.calc .flags li.smallGlyph:before {
+.player .flags li.smallGlyph:before {
 	margin-bottom: -1.59375em;
 }
 
-.calc .flags li[data-text="X"] {
+.player .flags li[data-text="X"] {
 	font-weight: bold;
 }
 
-.calc fieldset {
+.player fieldset,
+.player .mixcloud {
 	overflow: hidden;
 	width: 19.3125em;
 	padding-right: 0.0625em;
@@ -374,7 +368,8 @@ h1 {
 	border-color: #0004 #FFF7 #FFF9 #0003;
 }
 
-.calc fieldset:first-of-type {
+.player fieldset:first-of-type,
+.player .mixcloud:first-of-type {
 	float: left;
 	width: 10.125em;
 	margin-right: 0.5em;
@@ -382,18 +377,24 @@ h1 {
 	border-width: 0.5em;
 }
 
-.calc fieldset:nth-of-type(2) {
+.player fieldset:nth-of-type(2) {
 	border-radius: 1.0625em 1.0625em 0 0;
 	border-top-width: 0.5em;
 }
 
-.calc fieldset:last-of-type {
-	padding-bottom: 0.0625em;
+.player fieldset:last-of-type {
+    padding-bottom: 0.0625em;
 	border-radius: 0 0 1.0625em 1.0625em;
 	border-bottom-width: 0.5em;
 }
 
-.calc button {
+.player .mixcloud:first-of-type {
+    margin-top: 0.5em;
+    width: 100%;
+    height: calc(60px + 1em);
+}
+
+.player button {
 	position: relative;
 	overflow: hidden;
 	float: left;
@@ -410,36 +411,36 @@ h1 {
 	background: var(--buttonBgColor) conic-gradient(at 50% 1.5em, #FFF5 49deg, #0002 58deg 130deg, #0005 140deg, #0004 150deg 210deg, #FFF3 230deg 296deg, #FFF8 306deg, #FFF5 316deg);
 }
 
-.calc button.tall {
+.player button.tall {
 	float: right;
 	height: 9.0625em;
 	margin-left: -0.25em;
 	background-image: conic-gradient(at 50% 3.75em, #FFF3 27deg, #0002 37deg 150deg, #0007 158deg, #0004 165deg 197deg, #FFF3 207deg 225deg, #FFF5 330deg, #FFF3 335deg);
 }
 
-.calc fieldset:first-of-type button.tall {
+.player fieldset:first-of-type button.tall {
 	margin: 0;
 }
 
-.calc button.wide {
+.player button.wide {
 	width: 9.0625em;
 	background-image: conic-gradient(at 50% 1.25em, #FFF3 65deg, #0002 75deg 115deg, #0007 120deg, #0004 125deg 240deg, #FFF3 252deg 280deg, #FFF7 285deg, #FFF3 290deg);
 }
 
-.calc button:last-of-type {
+.player button:last-of-type {
 	margin-right: -0.25em;
 }
 
-.calc button:focus,
-.calc button:hover,
-.calc button.keyDown {
+.player button:focus,
+.player button:hover,
+.player button.keyDown {
 	top: 0.125em;
 	transform: scale(0.97);
 	box-shadow: inset 0 0 0.5em 0.5em #0007;
 	--transitionTime: 0.1s;
 }
 
-.calc button:before {
+.player button:before {
 	content: "";
 	position: absolute;
 	top: 0.375em;
@@ -450,11 +451,11 @@ h1 {
 	background: var(--buttonBgColor) linear-gradient(135deg, #0004, transparent 40%, #FFF4 100%);
 }
 
-.calc button.operator:before {
+.player button.operator:before {
 	background-image: linear-gradient(135deg, #0004, transparent 30%, #FFF6 60%, #FFF8 90%);
 }
 
-.calc button span {
+.player button span {
 	position: relative;
 	font-size: 2em;
 	line-height: 1;
@@ -463,38 +464,38 @@ h1 {
 }
 
 .reference .memory td samp,
-.calc button.memory {
+.player button.memory {
 	--buttonBgColor: var(--memoryBgColor);
 	color: var(--memoryTextColor);
 }
 
 .reference samp.view,
-.calc button.view {
+.player button.view {
 	--buttonBgColor: var(--viewBgColor);
 	color: var(--viewTextColor);
 }
 
-.calc button.grey {
+.player button.grey {
 	--buttonBgColor: var(--greyBgColor);
 	color: var(--greyTextColor);
 }
 
-.calc button.red {
+.player button.red {
 	--buttonBgColor: var(--redBgColor);
 	color: var(--redTextColor);
 }
 
-.calc button.orange {
+.player button.orange {
 	--buttonBgColor: var(--clearEntryBgColor);
 	color: var(--clearEntryTextColor);
 }
 
-.calc button.lightGrey {
+.player button.lightGrey {
 	--buttonBgColor: var(--lightGreyBgColor);
 	color: var(--lightGreyTextColor);
 }
 
-.calc button.index:after {
+.player button.index:after {
 	content: "";
 	position: absolute;
 	top: 3em;
