@@ -394,6 +394,11 @@ h1 {
     height: calc(60px + 1em);
 }
 
+#mixcloudWidgetWrapper,
+#mixcloudWidget {
+	overflow: hidden;
+}
+
 .player button {
 	position: relative;
 	overflow: hidden;
