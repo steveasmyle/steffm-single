@@ -169,7 +169,10 @@ const delay = 500;  // 500ms
 let timeoutId, intervalId;
 
 widget.ready.then(function() {
-   console.log("Mixcloud widget ready");
+   console.log("Mixcloud widget ready", widget);
+//    var iframeWindow = window.frames[0];
+//   var element = iframeWindow.document.getElementsByClassName("selector")[0];
+//   element.click();
 
    const upButton = document.getElementById('up');
    const downButton = document.getElementById('down');
@@ -253,7 +256,6 @@ widget.ready.then(function() {
    }
 
    function stop() {
-      widget.pause();
    }
 
    function play() {
