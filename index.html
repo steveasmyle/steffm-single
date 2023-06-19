@@ -30,7 +30,7 @@
             <output>
                <var id="display1"></var>
                            
-               <span>span</span>
+               <span></span>
             </output>
             <ul class="flags">
                <li id="flagSkipBackward" title="Skip backward" data-text="⏮" class="smallGlyph"></li>
@@ -78,7 +78,7 @@
                   <span>⏭</span>
                </button>
             </fieldset>
-            <iframe class="mixcloud" id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-87%2F" frameborder="0" ></iframe>
+            <iframe class="mixcloud" id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-89%2F" frameborder="0" allow="autoplay"></iframe>
          </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -123,7 +123,7 @@ function stopScrollers() {
 }
 
 // Start scrollers
-startScroller("display1", "Track Name", 12, 250, 500);
+startScroller("display1", "My Pair of Shoes - Volume 89", 12, 250, 500);
 // startScroller("display2", "Artist Name", 12, 300, 1000);
 
 // To stop all scrollers, call stopScrollers():
@@ -153,26 +153,24 @@ updatePerspective(25, 30, 15, 45);
 
 // MIXCLOUD
 const widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
+
 let mix = {
-   "mixcloudKey": "https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-89/",
+   "mixcloudKey": "/rymixxx/my-pair-of-shoes-volume-89/",
+   "iframeUrl": "",
    "status": "paused"   
 };
 
-// Global variable for volume increment.
-const increment = 0.05;
-// Interval for holding down button.
-const interval = 100;  // 100ms
-// Delay for starting repeat.
-const delay = 500;  // 500ms
+const config = {
+   "volumeIncrement": 0.05,
+   "keyHoldRepeatInterval": 100,
+   "keyHoldInitialDelay": 500,
+   "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed="
+};
 
-// Initialize variables for timers.
 let timeoutId, intervalId;
 
 widget.ready.then(function() {
-   console.log("Mixcloud widget ready", widget);
-//    var iframeWindow = window.frames[0];
-//   var element = iframeWindow.document.getElementsByClassName("selector")[0];
-//   element.click();
+   console.log("Mixcloud widget ready");
 
    const upButton = document.getElementById('up');
    const downButton = document.getElementById('down');
@@ -180,15 +178,15 @@ widget.ready.then(function() {
    upButton.addEventListener('mousedown', function() {
       volumeUp();
       timeoutId = setTimeout(function() {
-      intervalId = setInterval(volumeUp, interval);
-      }, delay);
+      intervalId = setInterval(volumeUp, config.keyHoldRepeatInterval);
+      }, config.keyHoldInitialDelay);
    });
 
    downButton.addEventListener('mousedown', function() {
       volumeDown();
       timeoutId = setTimeout(function() {
-      intervalId = setInterval(volumeDown, interval);
-      }, delay);
+      intervalId = setInterval(volumeDown, config.keyHoldRepeatInterval);
+      }, config.keyHoldInitialDelay);
    });
    
    upButton.addEventListener('mouseup', stopChangingVolume);
@@ -233,8 +231,8 @@ widget.ready.then(function() {
    function volumeUp() {
       console.log("volumeUp");
       widget.getVolume().then(volume => {
-         if (volume + increment <= 1) {
-            widget.setVolume(volume + increment);
+         if (volume + config.volumeIncrement <= 1) {
+            widget.setVolume(volume + config.volumeIncrement);
          } else {
             widget.setVolume(1);
          }
@@ -244,11 +242,25 @@ widget.ready.then(function() {
    function volumeDown() {
       console.log("volumeDown");
       widget.getVolume().then(volume => {
-         if (volume - increment >= 0) {
-            widget.setVolume(volume - increment);
+         if (volume - config.volumeIncrement >= 0) {
+            widget.setVolume(volume - config.volumeIncrement);
          } else {
             widget.setVolume(0);
          }
+      });
+   }
+
+   function loadNewMix(mixcloudKey) {
+      console.log("loadNewMix", mixcloudKey);
+      mix.mixcloudKey = mixcloudKey;
+      mix.iframeUrl = config.iframeUrlPrefix + encodeURIComponent(mixcloudKey);
+
+      widget.pause().then(function() {
+         console.log("pause");
+         widget.load(mixcloudKey, true).then(function() {
+            console.log("load");
+            widget.play();
+         });
       });
    }
 
@@ -267,7 +279,7 @@ widget.ready.then(function() {
    }
 
    function skipBackward() {
-      widget.load("https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-87/", true);
+      loadNewMix("/rymixxx/my-pair-of-shoes-volume-87/");
    }
 
    function rewind() {
@@ -277,7 +289,7 @@ widget.ready.then(function() {
    }
 
    function skipForward() {
-      widget.load("https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-88/", true);
+      loadNewMix("/rymixxx/my-pair-of-shoes-volume-88/");
    }
 
 });
