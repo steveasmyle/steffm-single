@@ -78,7 +78,11 @@
                   <span>⏭</span>
                </button>
             </fieldset>
-            <iframe class="mixcloud" id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-89%2F" frameborder="0" allow="autoplay"></iframe>
+            <div class="mixcloud">
+               <div id="mixcloudWidgetWrapper">
+                  <iframe id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-89%2F" frameborder="0" allow="autoplay"></iframe>
+               </div>
+            </div>
          </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -152,8 +156,7 @@ updatePerspective(25, 30, 15, 45);
 
 
 // MIXCLOUD
-const widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
-
+let widget;
 let mix = {
    "mixcloudKey": "/rymixxx/my-pair-of-shoes-volume-89/",
    "iframeUrl": "",
@@ -169,130 +172,138 @@ const config = {
 
 let timeoutId, intervalId;
 
-widget.ready.then(function() {
-   console.log("Mixcloud widget ready");
+function initWidget() {
+    widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
+    
+    widget.ready.then(function() {
+        console.log("Mixcloud widget ready");
 
-   const upButton = document.getElementById('up');
-   const downButton = document.getElementById('down');
+        const upButton = document.getElementById('up');
+        const downButton = document.getElementById('down');
 
-   upButton.addEventListener('mousedown', function() {
-      volumeUp();
-      timeoutId = setTimeout(function() {
-      intervalId = setInterval(volumeUp, config.keyHoldRepeatInterval);
-      }, config.keyHoldInitialDelay);
-   });
+        upButton.addEventListener('mousedown', function() {
+            volumeUp();
+            timeoutId = setTimeout(function() {
+            intervalId = setInterval(volumeUp, config.keyHoldRepeatInterval);
+            }, config.keyHoldInitialDelay);
+        });
 
-   downButton.addEventListener('mousedown', function() {
-      volumeDown();
-      timeoutId = setTimeout(function() {
-      intervalId = setInterval(volumeDown, config.keyHoldRepeatInterval);
-      }, config.keyHoldInitialDelay);
-   });
-   
-   upButton.addEventListener('mouseup', stopChangingVolume);
-   downButton.addEventListener('mouseup', stopChangingVolume);
-   
-   function stopChangingVolume() {
-      clearTimeout(timeoutId);
-      clearInterval(intervalId);
-   }
-   
-   document.getElementById('enter').addEventListener('click', enter);
-   document.getElementById('stop').addEventListener('click', stop);
-   document.getElementById('play').addEventListener('click', play);
-   document.getElementById('pause').addEventListener('click', pause);
-   document.getElementById('skipBackward').addEventListener('click', skipBackward);
-   document.getElementById('rewind').addEventListener('click', rewind);
-   document.getElementById('fastForward').addEventListener('click', fastForward);
-   document.getElementById('skipForward').addEventListener('click', skipForward);
+        downButton.addEventListener('mousedown', function() {
+            volumeDown();
+            timeoutId = setTimeout(function() {
+            intervalId = setInterval(volumeDown, config.keyHoldRepeatInterval);
+            }, config.keyHoldInitialDelay);
+        });
 
-   const flagSkipBackward = document.getElementById('skipBackward');
-   const flagReverse = document.getElementById('flagReverse');
-   const flagStop = document.getElementById('flagStop');
-   const flagPause = document.getElementById('flagPause');
-   const flagPlay = document.getElementById('flagPlay');
-   const flagFastForward = document.getElementById('flagFastForward');
-   const flagSkipForward = document.getElementById('flagSkipForward');
-   const flagError = document.getElementById('flagError');
-  
-   widget.events.pause.on(pauseListener);
-   widget.events.play.on(playListener);
+        upButton.addEventListener('mouseup', stopChangingVolume);
+        downButton.addEventListener('mouseup', stopChangingVolume);
 
-   function pauseListener() {
-      flagPlay.innerHTML = "";
-      flagPause.innerHTML = "⏸";
-   }
+        document.getElementById('enter').addEventListener('click', enter);
+        document.getElementById('stop').addEventListener('click', stop);
+        document.getElementById('play').addEventListener('click', play);
+        document.getElementById('pause').addEventListener('click', pause);
+        document.getElementById('skipBackward').addEventListener('click', skipBackward);
+        document.getElementById('rewind').addEventListener('click', rewind);
+        document.getElementById('fastForward').addEventListener('click', fastForward);
+        document.getElementById('skipForward').addEventListener('click', skipForward);
 
-   function playListener() {
-      flagPause.innerHTML = "";
-      flagPlay.innerHTML = "⏵";
-   }
+        widget.events.pause.on(pauseListener);
+        widget.events.play.on(playListener);
+    });
+}
 
-   function volumeUp() {
-      console.log("volumeUp");
-      widget.getVolume().then(volume => {
-         if (volume + config.volumeIncrement <= 1) {
+initWidget();
+
+function stopChangingVolume() {
+    clearTimeout(timeoutId);
+    clearInterval(intervalId);
+}
+
+function volumeUp() {
+    console.log("volumeUp");
+    widget.getVolume().then(volume => {
+        if (volume + config.volumeIncrement <= 1) {
             widget.setVolume(volume + config.volumeIncrement);
-         } else {
+        } else {
             widget.setVolume(1);
-         }
-      });
-   }
-   
-   function volumeDown() {
-      console.log("volumeDown");
-      widget.getVolume().then(volume => {
-         if (volume - config.volumeIncrement >= 0) {
+        }
+    });
+}
+
+function volumeDown() {
+    console.log("volumeDown");
+    widget.getVolume().then(volume => {
+        if (volume - config.volumeIncrement >= 0) {
             widget.setVolume(volume - config.volumeIncrement);
-         } else {
+        } else {
             widget.setVolume(0);
-         }
-      });
-   }
+        }
+    });
+}
 
-   function loadNewMix(mixcloudKey) {
-      console.log("loadNewMix", mixcloudKey);
-      mix.mixcloudKey = mixcloudKey;
-      mix.iframeUrl = config.iframeUrlPrefix + encodeURIComponent(mixcloudKey);
+function loadNewMix(mixcloudKey) {
+    console.log("loadNewMix", mixcloudKey);
+    mix.mixcloudKey = mixcloudKey;
+    mix.iframeUrl = config.iframeUrlPrefix + encodeURIComponent(mixcloudKey);
 
-      widget.pause().then(function() {
-         console.log("pause");
-         widget.load(mixcloudKey, true).then(function() {
-            console.log("load");
-            widget.play();
-         });
-      });
-   }
+    var widgetElement = document.getElementById('mixcloudWidget');
+    widgetElement.parentNode.removeChild(widgetElement);
 
-   function enter() {
-   }
+    var newWidgetElement = document.createElement('iframe');
+    newWidgetElement.id = 'mixcloudWidget';
+    newWidgetElement.width = '100%';
+    newWidgetElement.height = '60';
+    newWidgetElement.src = mix.iframeUrl;
+    newWidgetElement.frameborder = '0';
+    newWidgetElement.allow = 'autoplay';
+    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
 
-   function stop() {
-   }
+    initWidget();
+}
 
-   function play() {
-      widget.play();
-   }
 
-   function pause() {
-      widget.pause();
-   }
 
-   function skipBackward() {
-      loadNewMix("/rymixxx/my-pair-of-shoes-volume-87/");
-   }
+function pauseListener() {
+    flagPlay.innerHTML = "";
+    flagPause.innerHTML = "⏸";
+}
 
-   function rewind() {
-   }
+function playListener() {
+    flagPause.innerHTML = "";
+    flagPlay.innerHTML = "⏵";
+}
 
-   function fastForward() {
-   }
+function enter() {
+    // your enter function code here
+}
 
-   function skipForward() {
-      loadNewMix("/rymixxx/my-pair-of-shoes-volume-88/");
-   }
+function stop() {
+    // your stop function code here
+}
 
-});
+function play() {
+    widget.play();
+}
+
+function pause() {
+    widget.pause();
+}
+
+function skipBackward() {
+    loadNewMix("/rymixxx/my-pair-of-shoes-volume-87/");
+}
+
+function rewind() {
+    // your rewind function code here
+}
+
+function fastForward() {
+    // your fastForward function code here
+}
+
+function skipForward() {
+    loadNewMix("/rymixxx/my-pair-of-shoes-volume-88/");
+}
 
      </script>
    </body>

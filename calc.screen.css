@@ -369,7 +369,7 @@ h1 {
 }
 
 .player fieldset:first-of-type,
-.player .mixcloud:first-of-type {
+.player .mixcloud {
 	float: left;
 	width: 10.125em;
 	margin-right: 0.5em;
@@ -388,9 +388,9 @@ h1 {
 	border-bottom-width: 0.5em;
 }
 
-.player .mixcloud:first-of-type {
+.player .mixcloud {
     margin-top: 0.5em;
-    width: 100%;
+    width: 100% !important;
     height: calc(60px + 1em);
 }
 
