@@ -291,7 +291,7 @@ h1 {
 }
 
 .player output:after {
-	content: "";
+	content: "........................";
 	position: absolute;
 	bottom: 0;
 	right: 1em;

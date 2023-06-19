@@ -11,12 +11,12 @@
       <meta property="og:image:width" content="1200">
       <meta property="og:image:height" content="630">
       <meta name="description" content="A demo of how far you can push creating graphical elements built with nothing more than HTML and CSS. The only images are for textures, not shape or design.">
-      <link rel="shortcut icon" href="favicon.ico">
+      <!-- <link rel="shortcut icon" href="favicon.ico"> -->
       <!--[if !IE]>-->
       <link rel="stylesheet" href="calc.screen.css" media="screen">
-      <link rel="icon" href="vanilla.svg" type="image/svg+xml">
-      <link rel="apple-touch-icon" href="apple-touch-icon.png">
-      <link rel="mask-icon" href="vanilla.mask.svg" color="#EC8">
+      <!-- <link rel="icon" href="vanilla.svg" type="image/svg+xml"> -->
+      <!-- <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+      <!-- <link rel="mask-icon" href="vanilla.mask.svg" color="#EC8"> -->
       <!--<![endif]-->
       <title>Stef.FM</title>
    </head>
@@ -27,16 +27,20 @@
          <section class="player">
             <div class="power">POWER</div>
             <h2>STEF&nbsp;.&nbsp;FM<span>9000</span></h2>
-            <output><var id="display1"></var>            <span></span></output>
+            <output>
+               <var id="display1"></var>
+                           
+               <span>span</span>
+            </output>
             <ul class="flags">
-               <li title="Skip backward" data-text="⏮" class="smallGlyph"></li>
-               <li title="Reverse" data-text="⏴⏴" class="smallGlyph"></li>
-               <li title="Stop" data-text="⏹" class="smallGlyph"></li>
-               <li title="Pause" data-text="⏸" class="smallGlyph"></li>
-               <li title="Play" data-text="⏵" class="smallGlyph"></li>
-               <li title="Fast forward" data-text="⏵⏵" class="smallGlyph"></li>
-               <li title="Skip forward" data-text="⏭" class="smallGlyph"></li>
-               <li title="An error has occurred" data-text="ERR"></li>
+               <li id="flagSkipBackward" title="Skip backward" data-text="⏮" class="smallGlyph"></li>
+               <li id="flagReverse" title="Reverse" data-text="⏴⏴" class="smallGlyph"></li>
+               <li id="flagStop" title="Stop" data-text="⏹" class="smallGlyph"></li>
+               <li id="flagPause" title="Pause" data-text="⏸" class="smallGlyph"></li>
+               <li id="flagPlay" title="Play" data-text="⏵" class="smallGlyph"></li>
+               <li id="flagFastForward" title="Fast forward" data-text="⏵⏵" class="smallGlyph"></li>
+               <li id="flagSkipForward" title="Skip forward" data-text="⏭" class="smallGlyph"></li>
+               <li id="flagError" title="An error has occurred" data-text="ERR"></li>
             </ul>
             <fieldset>
                <button id="up" class="blue" value="Up">
@@ -75,8 +79,6 @@
                </button>
             </fieldset>
             <iframe class="mixcloud" id="mixcloudWidget" width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Frymixxx%2Fmy-pair-of-shoes-volume-87%2F" frameborder="0" ></iframe>
-            <div id="overlay" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5);"></div>
-
          </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
@@ -150,12 +152,50 @@ updatePerspective(25, 30, 15, 45);
 
 
 // MIXCLOUD
-var widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
+const widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
+let mix = {
+   "mixcloudKey": "https://www.mixcloud.com/rymixxx/my-pair-of-shoes-volume-89/",
+   "status": "paused"   
+};
+
+// Global variable for volume increment.
+const increment = 0.05;
+// Interval for holding down button.
+const interval = 100;  // 100ms
+// Delay for starting repeat.
+const delay = 500;  // 500ms
+
+// Initialize variables for timers.
+let timeoutId, intervalId;
+
 widget.ready.then(function() {
    console.log("Mixcloud widget ready");
 
-   document.getElementById('up').addEventListener('click', up);
-   document.getElementById('down').addEventListener('click', down);
+   const upButton = document.getElementById('up');
+   const downButton = document.getElementById('down');
+
+   upButton.addEventListener('mousedown', function() {
+      volumeUp();
+      timeoutId = setTimeout(function() {
+      intervalId = setInterval(volumeUp, interval);
+      }, delay);
+   });
+
+   downButton.addEventListener('mousedown', function() {
+      volumeDown();
+      timeoutId = setTimeout(function() {
+      intervalId = setInterval(volumeDown, interval);
+      }, delay);
+   });
+   
+   upButton.addEventListener('mouseup', stopChangingVolume);
+   downButton.addEventListener('mouseup', stopChangingVolume);
+   
+   function stopChangingVolume() {
+      clearTimeout(timeoutId);
+      clearInterval(intervalId);
+   }
+   
    document.getElementById('enter').addEventListener('click', enter);
    document.getElementById('stop').addEventListener('click', stop);
    document.getElementById('play').addEventListener('click', play);
@@ -164,18 +204,49 @@ widget.ready.then(function() {
    document.getElementById('rewind').addEventListener('click', rewind);
    document.getElementById('fastForward').addEventListener('click', fastForward);
    document.getElementById('skipForward').addEventListener('click', skipForward);
-   
-   var overlay = document.getElementById('overlay');
-   overlay.addEventListener('click', function() {
-      console.log("overlay");
-      this.style.display = 'none';
-      widget.play();
-   });
-   
-   function up() {
+
+   const flagSkipBackward = document.getElementById('skipBackward');
+   const flagReverse = document.getElementById('flagReverse');
+   const flagStop = document.getElementById('flagStop');
+   const flagPause = document.getElementById('flagPause');
+   const flagPlay = document.getElementById('flagPlay');
+   const flagFastForward = document.getElementById('flagFastForward');
+   const flagSkipForward = document.getElementById('flagSkipForward');
+   const flagError = document.getElementById('flagError');
+  
+   widget.events.pause.on(pauseListener);
+   widget.events.play.on(playListener);
+
+   function pauseListener() {
+      flagPlay.innerHTML = "";
+      flagPause.innerHTML = "⏸";
    }
 
-   function down() {
+   function playListener() {
+      flagPause.innerHTML = "";
+      flagPlay.innerHTML = "⏵";
+   }
+
+   function volumeUp() {
+      console.log("volumeUp");
+      widget.getVolume().then(volume => {
+         if (volume + increment <= 1) {
+            widget.setVolume(volume + increment);
+         } else {
+            widget.setVolume(1);
+         }
+      });
+   }
+   
+   function volumeDown() {
+      console.log("volumeDown");
+      widget.getVolume().then(volume => {
+         if (volume - increment >= 0) {
+            widget.setVolume(volume - increment);
+         } else {
+            widget.setVolume(0);
+         }
+      });
    }
 
    function enter() {
@@ -186,13 +257,10 @@ widget.ready.then(function() {
    }
 
    function play() {
-      console.log("Play");
-      overlay.click();
       widget.play();
    }
 
    function pause() {
-      console.log("Pause");
       widget.pause();
    }
 
