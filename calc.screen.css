@@ -141,12 +141,15 @@ body {
 
 #stateDisplay {
 	background: orange;
+	font-family: monospace;
 	font-size: 0.8em;
-	height: 200px;
+	height: 500px;
+	opacity: 0.5;
+	overflow: scroll;
 	position: fixed;
 	right: 20px;
 	top: 20px;
-	width: 200px;
+	width: 500px;
 	z-index: 1000;
 }
 

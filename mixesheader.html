@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Processor</title>
+</head>
+<body>
+    <button onclick="processJSON()">Process JSON</button>
+    <pre><code id="output"></code></pre>
+
+    <script>
+        async function processJSON() {
+            let response = await fetch('mixes.json');
+            let data = await response.json();
+
+            let headerRecords = [];
+            for (let i = 0; i < data.length; i++) {
+                let record = { ...data[i] };
+                delete record.tracks;  // Remove the tracks array
+                headerRecords.push(record);
+            }
+
+            let outputElement = document.getElementById('output');
+            outputElement.textContent = JSON.stringify(headerRecords, null, 2);
+        }
+    </script>
+</body>
+</html>

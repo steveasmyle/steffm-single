@@ -22,7 +22,7 @@
    </head>
    <body>
       <div id="fauxBody">
-         <div id="stateDisplay">ddddd</div>
+         <div id="stateDisplay"><pre><code></code></pre></div>
          <h1>Stef.FM</h1>
          <!-- #fauxBody -->
          <section class="player">
@@ -91,7 +91,7 @@
       <script src="https://widget.mixcloud.com/media/js/widgetApi.js" type="text/javascript"></script>
       <script>
 const config = {
-   "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=",
+   "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
    "volumeIncrement": 0.05,
    "keyHold": {
       "repeatInterval": 100,
@@ -188,30 +188,37 @@ updatePerspective(
 // MIXCLOUD
 let widget;
 
+let mixcloudHeaderInfo;
+
 let mixState = {
-   _mixcloudKey: "/rymixxx/my-pair-of-shoes-volume-89/",
-   _mixName: "Foo",
+   _mixcloudKey: "",
    _iframeUrl: "",
    _status: "paused",
-   
+   _mixcloudHeaderInfo: null,   
+
    get mixcloudKey() {
       return this._mixcloudKey;
    },
    
    set mixcloudKey(value) {
+      console.log("set mixcloudKey");
       this._mixcloudKey = value;
+      this._iframeUrl = config.iframeUrlPrefix + encodeURIComponent(value + "/");
+      
+      console.log("mixcloudHeaderInfo", mixcloudHeaderInfo);
+
+      // Search for the corresponding item in mixcloudHeaderInfo
+      const mixcloudHeaderItem = mixcloudHeaderInfo.find(item => item.mixcloudKey === value);
+
+      // Store the found item in _mixcloudHeaderInfo
+      if(mixcloudHeaderItem) {
+         this._mixcloudHeaderInfo = mixcloudHeaderItem;
+      } else {
+         console.warn('No mixcloudHeaderInfo item found for the provided mixcloudKey');
+      }
+
       this.updateDisplay();
       this.updateScroller();
-      this._iframeUrl = config.iframeUrlPrefix + encodeURIComponent(value);
-   },
-   
-   get mixName() {
-      return this._mixName;
-   },
-   
-   set mixName(value) {
-      this._mixName = value;
-      this.updateDisplay();
    },
    
    get iframeUrl() {
@@ -233,14 +240,14 @@ let mixState = {
    },
 
    updateDisplay() {
-      const displayDiv = document.getElementById('stateDisplay');
+      const displayDiv = document.querySelector('#stateDisplay pre code');
       displayDiv.innerHTML = JSON.stringify(this, null, 2);
    },
 
    updateScroller() {
       startScroller(
          "display1", 
-         this._mixName, 
+         this._mixcloudHeaderInfo.name, 
          config.output.characterCount, 
          config.output.tickInterval, 
          config.output.repeatInterval
@@ -248,9 +255,6 @@ let mixState = {
 
    }
 };
-
-// initial display
-mixState.updateDisplay();
 
 let timeoutId, intervalId;
 
@@ -294,8 +298,6 @@ function initWidget() {
     });
 }
 
-initWidget();
-
 function stopChangingVolume() {
     clearTimeout(timeoutId);
     clearInterval(intervalId);
@@ -325,8 +327,6 @@ function volumeDown() {
 
 function loadNewMix(mixcloudKey) {
     console.log("loadNewMix", mixcloudKey);
-    pause();
-    
     mixState.mixcloudKey = mixcloudKey;
 
     var widgetElement = document.getElementById('mixcloudWidget');
@@ -337,14 +337,12 @@ function loadNewMix(mixcloudKey) {
     newWidgetElement.width = '100%';
     newWidgetElement.height = '60';
     newWidgetElement.src = mixState.iframeUrl;
-    newWidgetElement.frameborder = '0';
+    newWidgetElement.frameBorder = '0';
     newWidgetElement.allow = 'autoplay';
     document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
 
     initWidget();
 }
-
-
 
 function pauseListener() {
     flagPlay.innerHTML = "";
@@ -373,7 +371,7 @@ function pause() {
 }
 
 function skipBackward() {
-    loadNewMix("/rymixxx/my-pair-of-shoes-volume-87/");
+    loadNewMix("my-pair-of-shoes-volume-87");
 }
 
 function rewind() {
@@ -385,8 +383,33 @@ function fastForward() {
 }
 
 function skipForward() {
-    loadNewMix("/rymixxx/my-pair-of-shoes-volume-88/");
+    loadNewMix("my-pair-of-shoes-volume-88");
 }
+
+// initial random track
+function selectRandomTrack() {
+   const randomIndex = Math.floor(Math.random() * mixcloudHeaderInfo.length);
+   const randomItem = mixcloudHeaderInfo[randomIndex];
+   loadNewMix(randomItem.mixcloudKey);
+}
+
+// init
+fetch('mixesheader.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("HTTP error " + response.status);
+        }
+        return response.json();
+    })
+    .then(json => {
+        mixcloudHeaderInfo = json;
+        selectRandomTrack();
+    })
+    .catch(function() {
+        console.log("Failed to load mixesheader.json file");
+    });
+
+initWidget();
 
      </script>
    </body>

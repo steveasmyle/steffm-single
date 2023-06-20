@@ -1,4 +1,4 @@
-# Load the Newtonsoft.Json assembly for handling JSON
+﻿# Load the Newtonsoft.Json assembly for handling JSON
 Add-Type -Path 'C:\path\to\Newtonsoft.Json.dll'
 
 # Load the json file content
