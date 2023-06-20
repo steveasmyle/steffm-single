@@ -22,6 +22,7 @@
    </head>
    <body>
       <div id="fauxBody">
+         <div id="stateDisplay">ddddd</div>
          <h1>Stef.FM</h1>
          <!-- #fauxBody -->
          <section class="player">
@@ -89,6 +90,25 @@
       <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
       <script src="https://widget.mixcloud.com/media/js/widgetApi.js" type="text/javascript"></script>
       <script>
+const config = {
+   "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=",
+   "volumeIncrement": 0.05,
+   "keyHold": {
+      "repeatInterval": 100,
+      "initialDelay": 500
+   },
+   "output": {
+      "characterCount": 12,
+      "tickInterval": 250,
+      "repeatInterval": 500
+   },
+   "perspective": {
+      "bodyMin": 25,
+      "bodyMax": 30,
+      "fauxBodyMin": 15,
+      "fauxBodyMax": 45
+   }
+};
 
 // TICKER
 var scrollers = {};
@@ -127,8 +147,13 @@ function stopScrollers() {
 }
 
 // Start scrollers
-startScroller("display1", "My Pair of Shoes - Volume 89", 12, 250, 500);
-// startScroller("display2", "Artist Name", 12, 300, 1000);
+startScroller(
+   "display1", 
+   "My Pair of Shoes - Volume 89", 
+   config.output.characterCount, 
+   config.output.tickInterval, 
+   config.output.repeatInterval
+);
 
 // To stop all scrollers, call stopScrollers():
 // stopScrollers();
@@ -150,25 +175,82 @@ function updatePerspective(bodyMin, bodyMax, fauxBodyMin, fauxBodyMax) {
     });
 }
 
-updatePerspective(25, 30, 15, 45);
+updatePerspective(
+   config.perspective.bodyMin, 
+   config.perspective.bodyMax, 
+   config.perspective.fauxBodyMin,
+   config.perspective.fauxBodyMax
+);
 
 
 
 
 // MIXCLOUD
 let widget;
-let mix = {
-   "mixcloudKey": "/rymixxx/my-pair-of-shoes-volume-89/",
-   "iframeUrl": "",
-   "status": "paused"   
+
+let mixState = {
+   _mixcloudKey: "/rymixxx/my-pair-of-shoes-volume-89/",
+   _mixName: "Foo",
+   _iframeUrl: "",
+   _status: "paused",
+   
+   get mixcloudKey() {
+      return this._mixcloudKey;
+   },
+   
+   set mixcloudKey(value) {
+      this._mixcloudKey = value;
+      this.updateDisplay();
+      this.updateScroller();
+      this._iframeUrl = config.iframeUrlPrefix + encodeURIComponent(value);
+   },
+   
+   get mixName() {
+      return this._mixName;
+   },
+   
+   set mixName(value) {
+      this._mixName = value;
+      this.updateDisplay();
+   },
+   
+   get iframeUrl() {
+      return this._iframeUrl;
+   },
+   
+   set iframeUrl(value) {
+      this._iframeUrl = value;
+      this.updateDisplay();
+   },
+
+   get status() {
+      return this._status;
+   },
+   
+   set status(value) {
+      this._status = value;
+      this.updateDisplay();
+   },
+
+   updateDisplay() {
+      const displayDiv = document.getElementById('stateDisplay');
+      displayDiv.innerHTML = JSON.stringify(this, null, 2);
+   },
+
+   updateScroller() {
+      startScroller(
+         "display1", 
+         this._mixName, 
+         config.output.characterCount, 
+         config.output.tickInterval, 
+         config.output.repeatInterval
+      );
+
+   }
 };
 
-const config = {
-   "volumeIncrement": 0.05,
-   "keyHoldRepeatInterval": 100,
-   "keyHoldInitialDelay": 500,
-   "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed="
-};
+// initial display
+mixState.updateDisplay();
 
 let timeoutId, intervalId;
 
@@ -184,15 +266,15 @@ function initWidget() {
         upButton.addEventListener('mousedown', function() {
             volumeUp();
             timeoutId = setTimeout(function() {
-            intervalId = setInterval(volumeUp, config.keyHoldRepeatInterval);
-            }, config.keyHoldInitialDelay);
+            intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
+            }, config.keyHold.initialDelay);
         });
 
         downButton.addEventListener('mousedown', function() {
             volumeDown();
             timeoutId = setTimeout(function() {
-            intervalId = setInterval(volumeDown, config.keyHoldRepeatInterval);
-            }, config.keyHoldInitialDelay);
+            intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
+            }, config.keyHold.initialDelay);
         });
 
         upButton.addEventListener('mouseup', stopChangingVolume);
@@ -243,8 +325,9 @@ function volumeDown() {
 
 function loadNewMix(mixcloudKey) {
     console.log("loadNewMix", mixcloudKey);
-    mix.mixcloudKey = mixcloudKey;
-    mix.iframeUrl = config.iframeUrlPrefix + encodeURIComponent(mixcloudKey);
+    pause();
+    
+    mixState.mixcloudKey = mixcloudKey;
 
     var widgetElement = document.getElementById('mixcloudWidget');
     widgetElement.parentNode.removeChild(widgetElement);
@@ -253,7 +336,7 @@ function loadNewMix(mixcloudKey) {
     newWidgetElement.id = 'mixcloudWidget';
     newWidgetElement.width = '100%';
     newWidgetElement.height = '60';
-    newWidgetElement.src = mix.iframeUrl;
+    newWidgetElement.src = mixState.iframeUrl;
     newWidgetElement.frameborder = '0';
     newWidgetElement.allow = 'autoplay';
     document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);

@@ -60,27 +60,6 @@ select {
 }
 
 /* END RESET */
-#loadErrors {
-	max-width: 32em;
-	font-family: arial, helvetica, sans-serif;
-	text-align: center;
-	background: #FF5;
-	border: 0.25rem solid #F00;
-	border-radius: 1rem;
-}
-
-#loadErrors:before {
-	content: "Compatibility Error";
-	display: block;
-	font-weight: bold;
-	font-size: 1.25em;
-	margin: 1.5rem;
-}
-
-#loadErrors p {
-	margin: 1.5rem;
-}
-
 body,
 #fauxBody {
 	perspective: 30rem;
@@ -158,6 +137,17 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+#stateDisplay {
+	background: orange;
+	font-size: 0.8em;
+	height: 200px;
+	position: fixed;
+	right: 20px;
+	top: 20px;
+	width: 200px;
+	z-index: 1000;
 }
 
 h1 {
