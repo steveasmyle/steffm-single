@@ -29,9 +29,7 @@
             <div class="power">POWER</div>
             <h2>STEF&nbsp;.&nbsp;FM<span>9000</span></h2>
             <output>
-               <var id="display1"></var>
-                           
-               <span></span>
+               <var id="display1"></var> <span></span>
             </output>
             <ul class="flags">
                <li id="flagSkipBackward" title="Skip backward" data-text="⏮" class="smallGlyph"></li>
@@ -191,10 +189,11 @@ let widget;
 let mixcloudHeaderInfo;
 
 let mixState = {
+   _mixcloudHeaderInfo: null,   
    _mixcloudKey: "",
+   _progress: 0,
    _iframeUrl: "",
    _status: "paused",
-   _mixcloudHeaderInfo: null,   
 
    get mixcloudKey() {
       return this._mixcloudKey;
@@ -220,7 +219,16 @@ let mixState = {
       this.updateDisplay();
       this.updateScroller();
    },
+
+   get progress() {
+      return this._status;
+   },
    
+   set progress(value) {
+      this._progress = value;
+      this.updateDisplay();
+   },
+
    get iframeUrl() {
       return this._iframeUrl;
    },
@@ -295,6 +303,7 @@ function initWidget() {
 
         widget.events.pause.on(pauseListener);
         widget.events.play.on(playListener);
+        widget.events.progress.on(progressListener, widget.getDuration());
     });
 }
 
@@ -350,8 +359,18 @@ function pauseListener() {
 }
 
 function playListener() {
-    flagPause.innerHTML = "";
-    flagPlay.innerHTML = "⏵";
+   flagPause.innerHTML = "";
+   flagPlay.innerHTML = "⏵";
+}
+
+function progressListener(progress, duration) {
+   mixState.progress = progress;
+   const scale = 12 / duration;
+   const numDashes = Math.round(progress * scale);
+   const progressDiv = document.querySelector('#display1 + span');
+   const dashes = '-'.repeat(numDashes);
+   console.log("dashes", dashes);
+   progressDiv.textContent = dashes;
 }
 
 function enter() {

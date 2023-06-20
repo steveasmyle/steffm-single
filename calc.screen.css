@@ -142,7 +142,7 @@ body {
 
 #stateDisplay {
 	background: orange;
-	display: none;
+	/* display: none; */
 	font-family: monospace;
 	font-size: 0.8em;
 	height: 500px;
@@ -259,6 +259,7 @@ h1 {
 	padding: 0.55em 0.5em 0.55em 0;
 	font-size: 2.250em;
 	font-family: dseg14, monospace;
+	height: 2.56em;
 	letter-spacing: 0.125em;
     padding-left: 1em;
 	text-align: left;
@@ -286,9 +287,9 @@ h1 {
 }
 
 .player output:after {
-	content: "........................";
+	content: "------------";
 	position: absolute;
-	bottom: 0;
+	bottom: -0.5em;
 	right: 1em;
 }
 
@@ -302,9 +303,10 @@ h1 {
 
 .player output span {
 	display: inline-block;
-	width: 1em;
-	margin: 0 -0.3125em 0 -0.6875em;
-	text-align: center;
+	position: absolute;
+	bottom: -0.5em;
+	left: 1em;
+	text-align: left;
 }
 
 .player .flags {
