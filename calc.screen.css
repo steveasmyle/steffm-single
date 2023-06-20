@@ -111,6 +111,7 @@ body {
 	--greyTextColor: #FFF;
 	--lightGreyBgColor: #988880;
 	--lightGreyTextColor: #000;
+	--widgetBackgroundColor: #25292c;
 	position: relative;
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
@@ -141,6 +142,7 @@ body {
 
 #stateDisplay {
 	background: orange;
+	display: none;
 	font-family: monospace;
 	font-size: 0.8em;
 	height: 500px;
@@ -389,6 +391,7 @@ h1 {
 
 #mixcloudWidgetWrapper,
 #mixcloudWidget {
+	background: var(--widgetBackgroundColor) !important;
 	overflow: hidden;
 }
 
