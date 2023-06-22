@@ -1,6 +1,6 @@
-<!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
    <head>
+      <!DOCTYPE html>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -87,11 +87,49 @@
                </div>
             </div>
          </section>
+         <section class="playList">
+            <div class="power">&nbsp;</div>
+            <h2>STEF&nbsp;.&nbsp;FM<span>9001</span></h2>
+            <output>
+               <var id="display2"></var> <span></span>
+            </output>
+            <ul class="flags">
+               <li id="flagSkipBackward" title="Skip backward" data-text="⏮" class="smallGlyph"></li>
+               <li id="flagReverse" title="Reverse" data-text="⏴⏴" class="smallGlyph"></li>
+               <li id="flagStop" title="Stop" data-text="⏹" class="smallGlyph"></li>
+               <li id="flagPause" title="Pause" data-text="⏸" class="smallGlyph"></li>
+               <li id="flagPlay" title="Play" data-text="⏵" class="smallGlyph"></li>
+               <li id="flagFastForward" title="Fast forward" data-text="⏵⏵" class="smallGlyph"></li>
+               <li id="flagSkipForward" title="Skip forward" data-text="⏭" class="smallGlyph"></li>
+               <li id="flagError" title="An error has occurred" data-text="ERR"></li>
+            </ul>
+            <fieldset class="nav">
+               <button class="blank" value="Blank">
+                  <span></span>
+               </button>
+               <button id="up" class="blue" value="Up">
+                  <span>↑</span>
+               </button>
+               <button class="blank" value="Blank">
+                  <span></span>
+               </button>
+               <button id="down" class="blue" value="Left">
+                  <span>←</span>
+               </button>
+               <button id="down" class="blue" value="Down">
+                  <span>↓</span>
+               </button>
+               <button id="down" class="blue" value="Right">
+                  <span>→</span>
+               </button>
+            </fieldset>
+         </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
       <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
       <script src="https://widget.mixcloud.com/media/js/widgetApi.js" type="text/javascript"></script>
       <script>
+// --- GLOBAL CONSTANTS AND VARIABLES ---
 const config = {
    "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
    "volumeIncrement": 0.05,
@@ -111,6 +149,8 @@ const config = {
       "fauxBodyMax": 45
    }
 };
+
+let globalError = false;
 
 // TICKER
 var scrollers = {};
@@ -489,6 +529,7 @@ fetch('mixesheader.json')
     })
     .catch(function(err) {
         console.log("Failed to load mixesheader.json file", err);
+        globalError = true;
     });
 
 initWidget();
@@ -498,7 +539,6 @@ document.body.addEventListener('click', function(event) {
         loadNewMix(event.target.getAttribute('data-key'));
     }
 });
-
      </script>
    </body>
 </html>
