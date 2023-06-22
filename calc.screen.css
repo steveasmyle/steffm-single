@@ -12,6 +12,13 @@
 	font-weight: normal;
 	src: url("fonts/OPTIEdgarExtended-Regular.woff2") format("woff2"), url("fonts/OPTIEdgarExtended-Regular.woff") format("woff");
 }
+@font-face {
+	font-display: swap;
+	font-family: "interface";
+	font-style: normal;
+	font-weight: normal;
+	src: url("fonts/interface-Regular.woff2") format("woff2"), url("fonts/interface-Regular.woff") format("woff");
+}
 
 /* START RESET */
 html,body,div,p,h1,h2,h3,h4,h5,h6, ul,ol,li,dl,dt,dd,form,fieldset,caption,legend, table,tr,td,th,address,blockquote,img {
@@ -44,7 +51,9 @@ legend {
 
 button,
 label,
-summary {
+summary,
+.mix-item,
+#categoryList li {
 	cursor: pointer;
 }
 
@@ -140,21 +149,6 @@ body {
 	justify-content: center;
 }
 
-#playlistDisplay {
-	background: lightblue;
-	display: none;
-	font-family: monospace;
-	font-size: 0.8em;
-	height: 500px;
-	left: 20px;
-	opacity: 0.5;
-	overflow: scroll;
-	position: fixed;
-	top: 20px;
-	width: 500px;
-	z-index: 1000;
-}
-
 #stateDisplay {
 	background: orange;
 	display: none;
@@ -176,7 +170,7 @@ h1 {
 }
 
 .player,
-.playList {
+.playlist {
 	font-family: edgar, sans-serif;
 	font-size: clamp(9px, min(2.5vw, 2vh), 1rem);
 	position: relative;
@@ -191,8 +185,12 @@ h1 {
 	transition: filter 0.5s, transform 0.5s, rotate 0.5s;
 }
 
+.playlist {
+	background-image: linear-gradient(to bottom, transparent 2em, #000A 2em, #0003 2.125em 2.25em, transparent 2.25em 2.5em, #000A 2.5em, #0004 2.625em 2.75em, transparent 2.75em 3em, #000A 3em, #0003 3.125em 3.25em, transparent 3.25em 3.5em, #000A 3.5em, #0003 3.625em 3.75em, transparent 3.75em 4em, #000A 4em, #0003 4.125em 4.25em, transparent 4.25em 11.5em), linear-gradient(150deg, transparent 50%, #0003), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500'%3E%3Cfilter id='noise' x='0' y='0'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeBlend mode='screen'/%3E%3C/filter%3E%3Crect width='500' height='500' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E");
+}
+
 .player.flip,
-.playList.flip {
+.playlist.flip {
 	transform: rotateX(5deg) rotate(180deg);
 }
 
@@ -202,14 +200,14 @@ h1 {
 
 .player:before,
 .player .power:after,
-.playList:before,
-.playList.power:after {
+.playlist:before,
+.playlist.power:after {
 	content: "";
 	position: absolute;
 }
 
 .player:before,
-.playList:before {
+.playlist:before {
 	top: 1.5em;
 	right: -0.75em;
 	width: 1.25em;
@@ -218,7 +216,7 @@ h1 {
 }
 
 .player h2,
-.playList h2 {
+.playlist h2 {
 	display: inline-block;
 	overflow: hidden;
 	padding-left: 0.5em;
@@ -236,8 +234,8 @@ h1 {
 
 .player h2 span,
 .player .power,
-.playList h2 span,
-.playList .power {
+.playlist h2 span,
+.playlist .power {
 	display: inline-block;
 	position: relative;
 	vertical-align: top;
@@ -246,7 +244,7 @@ h1 {
 }
 
 .player h2 span,
-.playList h2 span {
+.playlist h2 span {
 	padding: 0 0.5em;
 	margin-left: 0.5em;
 	font-weight: bold;
@@ -255,7 +253,7 @@ h1 {
 }
 
 .player .power,
-.playList .power {
+.playlist .power {
 	float: right;
 	padding: 0 1em 0 3.5em;
 	font-size: 0.5em;
@@ -265,7 +263,7 @@ h1 {
 }
 
 .player .power:after,
-.playList .power:after {
+.playlist .power:after {
 	content: "";
 	position: absolute;
 	left: 0.75em;
@@ -279,7 +277,7 @@ h1 {
 }
 
 .player output,
-.playList output {
+.playlist output {
 	clear: both;
 	position: relative;
 	display: block;
@@ -296,49 +294,53 @@ h1 {
 	text-shadow: 0 0 0.25em var(--outputTextColor);
 }
 
-.player output var,
-.playList output var {
+.playlist output {
+	font-size: 1em;
+	font-family: interface, monospace;
+	height: 24em;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	width: 24em;
+}
+
+.player output varZ {
 	float: left;
 }
 
 .player output:after,
 .player output:before,
 .player output var:before,
-.playList output:after,
-.playList output:before,
-.playList output var:before {
+.playlist output:after,
+.playlist output:before,
+.playlist output var:before {
 	opacity: var(--outputOffOpacity);
 	text-shadow: none;
 }
 
 .player output:before,
-.player output var:before,
-.playList output:before,
-.playList output var:before {
+.player output var:before {
 	display: block;
 	margin-bottom: -1.5em;
 }
 
-.player output:after,
-.playList output:after {
+.player output:after {
 	content: "------------";
 	position: absolute;
 	bottom: -0.5em;
 	right: 1em;
 }
 
-.player output:before,
-.playList output:before {
+.player output:before {
 	content: "~~~~~~~~~~~~";
 }
 
 .player output var:before,
-.playList output var:before {
+.playlist output var:before {
 	content: "";
 }
 
 .player output span,
-.playList output span {
+.playlist output span {
 	display: inline-block;
 	position: absolute;
 	bottom: -0.5em;
@@ -347,7 +349,7 @@ h1 {
 }
 
 .player .flags,
-.playList .flags {
+.playlist .flags {
 	display: flex;
 	align-items: stretch;
 	margin-bottom: 1.5em;
@@ -357,7 +359,7 @@ h1 {
 }
 
 .player .flags li,
-.playList .flags li {
+.playlist .flags li {
 	list-style: none;
 	flex-grow: 1;
 	text-align: center;
@@ -370,7 +372,7 @@ h1 {
 }
 
 .player .flags li:before,
-.playList .flags li:before {
+.playlist .flags li:before {
 	content: attr(data-text);
 	display: block;
 	margin-bottom: -2.125em;
@@ -379,14 +381,14 @@ h1 {
 }
 
 .player .flags li.smallGlyph,
-.playList .flags li.smallGlyph {
+.playlist .flags li.smallGlyph {
 	font-size: 1em;
 	font-weight: bold;
 	line-height: 1.59375;
 }
 
 .player .flags li.smallGlyph:before,
-.playList .flags li.smallGlyph:before {
+.playlist .flags li.smallGlyph:before {
 	margin-bottom: -1.59375em;
 }
 
@@ -396,7 +398,7 @@ h1 {
 
 .player fieldset,
 .player .mixcloud,
-.playList .nav {
+.playlist .nav {
 	overflow: hidden;
 	width: 19.3125em;
 	padding-right: 0.0625em;
@@ -408,8 +410,10 @@ h1 {
 	border-color: #0004 #FFF7 #FFF9 #0003;
 }
 
-.playList .nav {
-	width: 16em;
+.playlist .nav {
+	border-radius: 1.0625em;
+	border-width: 0.5em;
+	width: 14.750em;
 }
 
 .player fieldset:first-of-type,
@@ -421,21 +425,19 @@ h1 {
 	border-width: 0.5em;
 }
 
-.player fieldset:nth-of-type(2),
-.playList fieldset:nth-of-type(2) {
+.player fieldset:nth-of-type(2) {
 	border-radius: 1.0625em 1.0625em 0 0;
 	border-top-width: 0.5em;
 }
 
-.player fieldset:last-of-type,
-.playList fieldset:last-of-type {
+.player fieldset:last-of-type {
     padding-bottom: 0.0625em;
 	border-radius: 0 0 1.0625em 1.0625em;
 	border-bottom-width: 0.5em;
 }
 
 .player .mixcloud,
-.playList .mixcloud {
+.playlist .mixcloud {
     margin-top: 0.5em;
     width: 100% !important;
     height: calc(60px + 1em);
@@ -448,7 +450,7 @@ h1 {
 }
 
 .player button,
-.playList button {
+.playlist button {
 	position: relative;
 	overflow: hidden;
 	float: left;
@@ -466,7 +468,7 @@ h1 {
 }
 
 .player button.tall,
-.playList button.tall {
+.playlist button.tall {
 	float: right;
 	height: 9.0625em;
 	margin-left: -0.25em;
@@ -474,31 +476,31 @@ h1 {
 }
 
 .player fieldset:first-of-type button.tall,
-.playList fieldset:first-of-type button.tall {
+.playlist fieldset:first-of-type button.tall {
 	margin: 0;
 }
 
 .player button.wide,
-.playList button.wide {
+.playlist button.wide {
 	width: 9.0625em;
 	background-image: conic-gradient(at 50% 1.25em, #FFF3 65deg, #0002 75deg 115deg, #0007 120deg, #0004 125deg 240deg, #FFF3 252deg 280deg, #FFF7 285deg, #FFF3 290deg);
 }
 
 .player button:last-of-type,
-.playList button:last-of-type {
+.playlist button:last-of-type {
 	margin-right: -0.25em;
 }
 
 .player button:hover,
-.playList button:hover {
+.playlist button:hover {
 	top: 0.0625em;
 	--transitionTime: 0.1s;
 }
 
 .player button:focus,
 .player button.keyDown,
-.playList button:focus,
-.playList button.keyDown {
+.playlist button:focus,
+.playlist button.keyDown {
 	top: 0.125em;
 	transform: scale(0.97);
 	box-shadow: inset 0 0 0.5em 0.5em #0007;
@@ -506,7 +508,7 @@ h1 {
 }
 
 .player button:before,
-.playList button:before {
+.playlist button:before {
 	content: "";
 	position: absolute;
 	top: 0.375em;
@@ -518,12 +520,12 @@ h1 {
 }
 
 .player button.operator:before,
-.playList button.operator:before {
+.playlist button.operator:before {
 	background-image: linear-gradient(135deg, #0004, transparent 30%, #FFF6 60%, #FFF8 90%);
 }
 
 .player button span,
-.playList button span {
+.playlist button span {
 	position: relative;
 	font-size: 2em;
 	line-height: 1;
@@ -532,43 +534,43 @@ h1 {
 }
 
 .player button.brown,
-.playList button.brown {
+.playlist button.brown {
 	--buttonBgColor: var(--brownBgColor);
 	color: var(--brownTextColor);
 }
 
 .player button.blue,
-.playList button.blue {
+.playlist button.blue {
 	--buttonBgColor: var(--blueBgColor);
 	color: var(--blueTextColor);
 }
 
 .player button.grey,
-.playList button.grey {
+.playlist button.grey {
 	--buttonBgColor: var(--greyBgColor);
 	color: var(--greyTextColor);
 }
 
 .player button.red,
-.playList button.red {
+.playlist button.red {
 	--buttonBgColor: var(--redBgColor);
 	color: var(--redTextColor);
 }
 
 .player button.orange,
-.playList button.orange {
+.playlist button.orange {
 	--buttonBgColor: var(--clearEntryBgColor);
 	color: var(--clearEntryTextColor);
 }
 
 .player button.lightGrey,
-.playList button.lightGrey {
+.playlist button.lightGrey {
 	--buttonBgColor: var(--lightGreyBgColor);
 	color: var(--lightGreyTextColor);
 }
 
 .player button.index:after,
-.playList button.index:after {
+.playlist button.index:after {
 	content: "";
 	position: absolute;
 	top: 3em;
