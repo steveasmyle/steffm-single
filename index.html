@@ -22,6 +22,10 @@
    </head>
    <body>
       <div id="fauxBody">
+         <div id="playlistDisplay">
+            <ul id="categoryList"></ul>
+            <ul id="mixList"></ul>
+         </div>
          <div id="stateDisplay"><pre><code></code></pre></div>
          <h1>Stef.FM</h1>
          <!-- #fauxBody -->
@@ -200,14 +204,11 @@ let mixState = {
    },
    
    set mixcloudKey(value) {
-      console.log("set mixcloudKey");
       this._mixcloudKey = value;
       this._iframeUrl = config.iframeUrlPrefix + encodeURIComponent(value + "/");
       
-      console.log("mixcloudHeaderInfo", mixcloudHeaderInfo);
-
       // Search for the corresponding item in mixcloudHeaderInfo
-      const mixcloudHeaderItem = mixcloudHeaderInfo.find(item => item.mixcloudKey === value);
+      const mixcloudHeaderItem = mixcloudHeaderInfo.data.find(item => item.mixcloudKey === value);
 
       // Store the found item in _mixcloudHeaderInfo
       if(mixcloudHeaderItem) {
@@ -313,7 +314,6 @@ function stopChangingVolume() {
 }
 
 function volumeUp() {
-    console.log("volumeUp");
     widget.getVolume().then(volume => {
         if (volume + config.volumeIncrement <= 1) {
             widget.setVolume(volume + config.volumeIncrement);
@@ -324,7 +324,6 @@ function volumeUp() {
 }
 
 function volumeDown() {
-    console.log("volumeDown");
     widget.getVolume().then(volume => {
         if (volume - config.volumeIncrement >= 0) {
             widget.setVolume(volume - config.volumeIncrement);
@@ -335,7 +334,6 @@ function volumeDown() {
 }
 
 function loadNewMix(mixcloudKey) {
-    console.log("loadNewMix", mixcloudKey);
     mixState.mixcloudKey = mixcloudKey;
 
     var widgetElement = document.getElementById('mixcloudWidget');
@@ -363,15 +361,21 @@ function playListener() {
    flagPlay.innerHTML = "⏵";
 }
 
+let previousNumDashes = 0;
+
 function progressListener(progress, duration) {
    mixState.progress = progress;
-   const scale = 12 / duration;
-   const numDashes = Math.round(progress * scale);
-   const progressDiv = document.querySelector('#display1 + span');
-   const dashes = '-'.repeat(numDashes);
-   console.log("dashes", dashes);
-   progressDiv.textContent = dashes;
+   const scale = 11 / duration;
+   const numDashes = Math.max(1, Math.ceil(progress * scale));
+
+   if (numDashes !== previousNumDashes) {
+      const progressDiv = document.querySelector('#display1 + span');
+      const dashes = '-'.repeat(numDashes);
+      progressDiv.textContent = dashes;
+      previousNumDashes = numDashes;
+   }
 }
+
 
 function enter() {
     // your enter function code here
@@ -405,11 +409,69 @@ function skipForward() {
     loadNewMix("my-pair-of-shoes-volume-88");
 }
 
-// initial random track
 function selectRandomTrack() {
-   const randomIndex = Math.floor(Math.random() * mixcloudHeaderInfo.length);
-   const randomItem = mixcloudHeaderInfo[randomIndex];
+   const randomIndex = Math.floor(Math.random() * mixcloudHeaderInfo.data.length);
+   const randomItem = mixcloudHeaderInfo.data[randomIndex];
    loadNewMix(randomItem.mixcloudKey);
+}
+
+function populatePlaylist() {
+    const categoryList = document.getElementById('categoryList');
+    const mixList = document.getElementById('mixList');
+
+    // Clear current lists
+    categoryList.innerHTML = '';
+    mixList.innerHTML = '';
+
+    // Add 'All' item to category list
+    let allItem = document.createElement('li');
+    allItem.dataset.category = 'all';
+    allItem.textContent = 'All';
+    categoryList.appendChild(allItem);
+
+    // Populate category list
+    mixcloudHeaderInfo.categories.forEach(category => {
+        let listItem = document.createElement('li');
+        listItem.dataset.category = category.code;
+        listItem.textContent = category.name;
+        categoryList.appendChild(listItem);
+    });
+
+    // Populate mix list
+    mixcloudHeaderInfo.data.forEach(item => {
+      let listItem = document.createElement('li');
+      listItem.dataset.key = item.mixcloudKey;
+      listItem.dataset.category = item.category;
+      listItem.textContent = item.name;
+      listItem.classList.add('mix-item'); // Add the class here
+      mixList.appendChild(listItem);
+   });
+
+    // Add click event listener to each category
+    document.querySelectorAll('#categoryList li').forEach(category => {
+        category.addEventListener('click', function() {
+            const selectedCategory = this.dataset.category;
+
+            // Show all items if 'all' category is selected
+            if (selectedCategory === 'all') {
+                document.querySelectorAll('#mixList li').forEach(item => {
+                    item.style.display = 'list-item';
+                });
+            } else {
+                // Else, only show items that match the selected category
+                document.querySelectorAll('#mixList li').forEach(item => {
+                    item.style.display = item.dataset.category === selectedCategory ? 'list-item' : 'none';
+                });
+            }
+        });
+    });
+
+    // Add click event listener to each mix
+    document.querySelectorAll('#mixList li').forEach(item => {
+        item.addEventListener('click', function() {
+            loadNewMix(this.dataset.key);
+        });
+    });
 }
 
 // init
@@ -423,12 +485,19 @@ fetch('mixesheader.json')
     .then(json => {
         mixcloudHeaderInfo = json;
         selectRandomTrack();
+        populatePlaylist();
     })
-    .catch(function() {
-        console.log("Failed to load mixesheader.json file");
+    .catch(function(err) {
+        console.log("Failed to load mixesheader.json file", err);
     });
 
 initWidget();
+
+document.body.addEventListener('click', function(event) {
+    if (event.target.tagName.toLowerCase() === 'li' && event.target.classList.contains('mix-item')) {
+        loadNewMix(event.target.getAttribute('data-key'));
+    }
+});
 
      </script>
    </body>

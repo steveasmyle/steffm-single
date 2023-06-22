@@ -140,9 +140,24 @@ body {
 	justify-content: center;
 }
 
+#playlistDisplay {
+	background: lightblue;
+	/* display: none; */
+	font-family: monospace;
+	font-size: 0.8em;
+	height: 500px;
+	left: 20px;
+	opacity: 0.5;
+	overflow: scroll;
+	position: fixed;
+	top: 20px;
+	width: 500px;
+	z-index: 1000;
+}
+
 #stateDisplay {
 	background: orange;
-	/* display: none; */
+	display: none;
 	font-family: monospace;
 	font-size: 0.8em;
 	height: 500px;
@@ -151,7 +166,7 @@ body {
 	position: fixed;
 	right: 20px;
 	top: 20px;
-	width: 500px;
+	width: 300px;
 	z-index: 1000;
 }
 
