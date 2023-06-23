@@ -87,32 +87,31 @@
             <div class="power">&nbsp;</div>
             <h2>STEF&nbsp;.&nbsp;FM<span>9001</span></h2>
             <output>
-               <div id="playlistDisplay">
+               <div id="playlistDisplay" tabindex="0">
                   <ul id="categoryList"></ul>
                   <ul id="mixList"></ul>
                </div>
             </output>
             <fieldset class="nav">
-               <button class="blank" value="Blank">
+               <button id="testButton" class="blank" value="Blank">
                   <span></span>
                </button>
-               <button id="up" class="blue" value="Up">
+               <button id="upButton" class="blue" value="Up">
                   <span>↑</span>
                </button>
                <button class="blank" value="Blank">
                   <span></span>
                </button>
-               <button id="down" class="blue" value="Left">
+               <button id="leftButton" class="blue" value="Left">
                   <span>←</span>
                </button>
-               <button id="down" class="blue" value="Down">
+               <button id="downButton" class="blue" value="Down">
                   <span>↓</span>
                </button>
-               <button id="down" class="blue" value="Right">
+               <button id="rightButton" class="blue" value="Right">
                   <span>→</span>
                </button>
-            </fieldset>
-         </section>
+            </fieldset>         </section>
       </div>
       <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
       <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
@@ -122,7 +121,7 @@
 const config = {
    "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
    "volumeIncrement": 0.05,
-   "loadMixcloud": false,
+   "loadMixcloud": true,
    "keyHold": {
       "repeatInterval": 100,
       "initialDelay": 500
@@ -219,12 +218,11 @@ updatePerspective(
 
 // MIXCLOUD
 let widget;
-
 let mixcloudHeaderInfo;
-
+let currentIndex = 0;
 let mixState = {
    _mixcloudHeaderInfo: null,   
-   _mixcloudKey: "",
+   _mixcloudKey: null,
    _progress: 0,
    _iframeUrl: "",
    _status: "paused",
@@ -399,7 +397,7 @@ function progressListener(progress, duration) {
    const numDashes = Math.max(1, Math.ceil(progress * scale));
 
    if (numDashes !== previousNumDashes) {
-      const progressDiv = document.querySelector('#display1 + span');
+      const progressDiv = document.querySelector('#displayMain + span');
       const dashes = '-'.repeat(numDashes);
       progressDiv.textContent = dashes;
       previousNumDashes = numDashes;
@@ -445,64 +443,159 @@ function selectRandomTrack() {
    loadNewMix(randomItem.mixcloudKey);
 }
 
-function populatePlaylist() {
-    const categoryList = document.getElementById('categoryList');
-    const mixList = document.getElementById('mixList');
-
-    // Clear current lists
-    categoryList.innerHTML = '';
-    mixList.innerHTML = '';
-
-    // Add 'All' item to category list
-    let allItem = document.createElement('li');
-    allItem.dataset.category = 'all';
-    allItem.textContent = 'All';
-    categoryList.appendChild(allItem);
-
-    // Populate category list
-    mixcloudHeaderInfo.categories.forEach(category => {
-        let listItem = document.createElement('li');
-        listItem.dataset.category = category.code;
-        listItem.textContent = category.name;
-        categoryList.appendChild(listItem);
-    });
-
-    // Populate mix list
-    mixcloudHeaderInfo.data.forEach(item => {
-      let listItem = document.createElement('li');
-      listItem.dataset.key = item.mixcloudKey;
-      listItem.dataset.category = item.category;
-      listItem.textContent = item.shortName;
-      listItem.classList.add('mix-item'); // Add the class here
-      mixList.appendChild(listItem);
-   });
-
-    // Add click event listener to each category
-    document.querySelectorAll('#categoryList li').forEach(category => {
-        category.addEventListener('click', function() {
-            const selectedCategory = this.dataset.category;
-
-            // Show all items if 'all' category is selected
-            if (selectedCategory === 'all') {
-                document.querySelectorAll('#mixList li').forEach(item => {
-                    item.style.display = 'list-item';
-                });
-            } else {
-                // Else, only show items that match the selected category
-                document.querySelectorAll('#mixList li').forEach(item => {
-                    item.style.display = item.dataset.category === selectedCategory ? 'list-item' : 'none';
-                });
-            }
-        });
-    });
-
-    // Add click event listener to each mix
-    document.querySelectorAll('#mixList li').forEach(item => {
-        item.addEventListener('click', function() {
-            loadNewMix(this.dataset.key);
-        });
-    });
+// When the page first loads, we display the category list.
+window.onload = function() {
+    populateCategoryList();
 }
+
+// Populate category list
+function populateCategoryList() {
+  let categoryList = document.getElementById("categoryList");
+  let mixList = document.getElementById("mixList");
+
+  // Clear lists
+  while (categoryList.firstChild) categoryList.removeChild(categoryList.firstChild);
+  while (mixList.firstChild) mixList.removeChild(mixList.firstChild);
+
+  // Show category list, hide mix list
+  categoryList.style.display = "block";
+  mixList.style.display = "none";
+
+  // Add 'All' option
+  let allOption = document.createElement("li");
+  allOption.textContent = "All";
+  allOption.onclick = () => populateMixList(null);
+  categoryList.appendChild(allOption);
+
+  // Add categories
+  let categories = mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
+  categories.forEach((item, index) => {
+    let li = document.createElement("li");
+    li.textContent = item.name;
+    li.onclick = () => populateMixList(item.code);
+    categoryList.appendChild(li);
+  });
+
+  // Set initial active item
+  setCurrentActiveItem(categoryList, 0);
+}
+
+// Populate mix list
+function populateMixList(category) {
+  let categoryList = document.getElementById("categoryList");
+  let mixList = document.getElementById("mixList");
+
+  // Show mix list, hide category list
+  categoryList.style.display = "none";
+  mixList.style.display = "block";
+
+  // Add 'Back' option
+  let backOption = document.createElement("li");
+  backOption.textContent = "Back";
+  backOption.onclick = populateCategoryList;
+  mixList.appendChild(backOption);
+
+  // Add mixes
+  let mixes = mixcloudHeaderInfo.data;
+  if (category) mixes = mixes.filter(item => item.category === category);
+  mixes.sort((a, b) => a.shortName.localeCompare(b.shortName)).forEach(item => {
+    let li = document.createElement("li");
+    li.textContent = item.shortName;
+    li.onclick = () => {
+      mixState.mixcloudKey = item.mixcloudKey;
+      loadNewMix(mixState.mixcloudKey);
+    };
+    mixList.appendChild(li);
+  });
+
+  // Set initial active item
+  if (mixState.mixcloudKey) {
+    let index = mixes.findIndex(item => item.mixcloudKey === mixState.mixcloudKey);
+    setCurrentActiveItem(mixList, index !== -1 ? index + 1 : 0);  // Add 1 to index to account for 'Back' option
+  } else {
+    setCurrentActiveItem(mixList, 0);
+  }
+}
+
+function getOffsetTop(elem, parent) {
+    let offsetTop = 0;
+    do {
+        if (!isNaN(elem.offsetTop)) {
+            offsetTop += elem.offsetTop;
+        }
+    } while(elem = elem.offsetParent);
+    return offsetTop;
+}
+
+// Set current active item
+function setCurrentActiveItem(parent, index) {
+  let items = parent.getElementsByTagName("li");
+  for (let item of items) item.classList.remove("active");
+
+  if (items.length > 0) {
+    items[index].classList.add("active");
+    currentIndex = index;
+
+    let playlistDisplay = document.querySelector('#playlistDisplay');
+    let activeElement = items[index];
+    
+    let topPosition = getOffsetTop(activeElement, playlistDisplay) - (playlistDisplay.offsetHeight / 2) + (activeElement.offsetHeight / 2);
+    let maxScrollTop = playlistDisplay.scrollHeight - playlistDisplay.clientHeight;
+    let adjustedTopPosition = Math.min(Math.max(topPosition, 0), maxScrollTop);
+    playlistDisplay.scrollTo({ top: topPosition, behavior: 'smooth' });
+  }
+}
+
+// Navigate up/down options
+function navigateOption(direction) {
+  let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : "mixList";
+  let items = document.getElementById(parent).getElementsByTagName("li");
+  currentIndex += direction;
+  if (currentIndex < 0) currentIndex = 0;
+  if (currentIndex >= items.length) currentIndex = items.length - 1;
+  setCurrentActiveItem(document.getElementById(parent), currentIndex);
+}
+
+// Navigate right (select option)
+function navigateRight() {
+  let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : "mixList";
+  let items = document.getElementById(parent).getElementsByTagName("li");
+  items[currentIndex].click();
+}
+
+// Navigate left (go back)
+function navigateLeft() {
+  if (document.getElementById("mixList").style.display === "block") populateCategoryList();
+}
+
+// Listen for keypresses
+document.addEventListener("keydown", e => {
+  switch (e.code) {
+    case "ArrowUp": navigateOption(-1); break;
+    case "ArrowDown": navigateOption(1); break;
+    case "ArrowRight": navigateRight(); break;
+    case "ArrowLeft": navigateLeft(); break;
+    case "Enter": navigateRight(); break;
+  }
+});
+
+// Prevent default
+playlistDisplay.addEventListener('keydown', function(e) {
+  if (['ArrowUp', 'ArrowDown'].includes(e.key)) {
+    e.preventDefault();
+  }
+});
+
+// Button press handlers
+let upButton = document.getElementById("upButton");
+let downButton = document.getElementById("downButton");
+let rightButton = document.getElementById("rightButton");
+let leftButton = document.getElementById("leftButton");
+
+upButton.addEventListener("click", () => navigateOption(-1));
+downButton.addEventListener("click", () => navigateOption(1));
+rightButton.addEventListener("click", navigateRight);
+leftButton.addEventListener("click", navigateLeft);
 
 // init
 fetch('mixesheader.json')
@@ -519,7 +612,7 @@ fetch('mixesheader.json')
          selectRandomTrack();
         }
 
-        populatePlaylist();
+        populateCategoryList();
     })
     .catch(function(err) {
         console.log("Failed to load mixesheader.json file", err);
