@@ -358,15 +358,15 @@ function initWidget() {
 
         upButton.addEventListener('mousedown', function() {
             volumeUp();
-            timeoutId = setTimeout(function() {
-            intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
+            mixState.timeoutId = setTimeout(function() {
+            mixStateintervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
             }, config.keyHold.initialDelay);
         });
 
         downButton.addEventListener('mousedown', function() {
             volumeDown();
-            timeoutId = setTimeout(function() {
-            intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
+            mixState.timeoutId = setTimeout(function() {
+            mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
             }, config.keyHold.initialDelay);
         });
 
@@ -389,8 +389,8 @@ function initWidget() {
 }
 
 function stopChangingVolume() {
-    clearTimeout(timeoutId);
-    clearInterval(intervalId);
+    clearTimeout(mixState.timeoutId);
+    clearInterval(mixState.intervalId);
 }
 
 function volumeUp() {
@@ -446,11 +446,11 @@ function progressListener(progress, duration) {
    const scale = 11 / duration;
    const numDashes = Math.max(1, Math.ceil(progress * scale));
 
-   if (numDashes !== previousNumDashes) {
+   if (numDashes !== mixState.previousNumDashes) {
       const progressDiv = document.querySelector('#displayMain + span');
       const dashes = '-'.repeat(numDashes);
       progressDiv.textContent = dashes;
-      previousNumDashes = numDashes;
+      mixState.previousNumDashes = numDashes;
    }
 }
 
@@ -565,14 +565,14 @@ function populateMixList(category) {
     li.onclick = () => {
       mixState.mixcloudKey = item.mixcloudKey;
       loadNewMix(mixState.mixcloudKey);
-      if (selectedMixItem) selectedMixItem.classList.remove('selected');
+      if (mixState.selectedMixItem) mixState.selectedMixItem.classList.remove('selected');
       li.classList.add('selected');
-      selectedMixItem = li;
+      mixState.selectedMixItem = li;
       populateCurrentlyPlaying();
     };
     if (mixState.mixcloudKey === item.mixcloudKey) {
       li.classList.add('selected');
-      selectedMixItem = li;
+      mixState.selectedMixItem = li;
     }
     mixList.appendChild(li);
   });
