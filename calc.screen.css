@@ -58,11 +58,9 @@ summary,
 	cursor: pointer;
 }
 
-#categoryList {
-	display: none;
-}
-
-#mixList {
+#categoryList,
+#mixList,
+#currentlyPlaying {
 	display: none;
 }
 
@@ -334,8 +332,39 @@ h1 {
 	text-shadow: 0 0 0.1em var(--outputTextColor);
 }
 
+#playlistDisplay .has-image .image-wrapper {
+	position: relative;
+  }
+  
+  #playlistDisplay .has-image img {
+	width: 100%;
+	display: block;
+  }
+  
+  #playlistDisplay .has-image .image-wrapper::before,
+  #playlistDisplay .has-image .image-wrapper::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  }
+  
+  #playlistDisplay .has-image .image-wrapper::before {
+	background-color: rgb(240, 14, 46);
+	mix-blend-mode: darken;
+  }
+  
+  #playlistDisplay .has-image .image-wrapper::after {
+	background-color: rgb(25, 37, 80);
+	mix-blend-mode: lighten;
+  }
+  
+
 #categoryList,
-#mixList {
+#mixList,
+#currentlyPlaying {
 	display: none;
 	overflow: hidden;
 }
