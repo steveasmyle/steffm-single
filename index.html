@@ -671,16 +671,10 @@ async function populateCurrentlyPlaying() {
 
     let trackInfo = document.createElement("dl");
 
-    let dtSectionNumber = document.createElement("dt");
-    dtSectionNumber.textContent = "Section Number:";
-    trackInfo.appendChild(dtSectionNumber);
     let ddSectionNumber = document.createElement("dd");
     ddSectionNumber.textContent = track.sectionNumber;
     trackInfo.appendChild(ddSectionNumber);
 
-    let dtStartTime = document.createElement("dt");
-    dtStartTime.textContent = "Start Time:";
-    trackInfo.appendChild(dtStartTime);
     let ddStartTime = document.createElement("dd");
     ddStartTime.textContent = track.startTime;
     trackInfo.appendChild(ddStartTime);
@@ -695,34 +689,19 @@ async function populateCurrentlyPlaying() {
       trackInfo.appendChild(imageWrapper);
    }
 
-    let dtTrackName = document.createElement("dt");
-    dtTrackName.textContent = "Track Name:";
-    trackInfo.appendChild(dtTrackName);
     let ddTrackName = document.createElement("dd");
-    ddTrackName.textContent = track.trackName;
+    ddTrackName.textContent = track.trackName + " by " + track.artistName;
     trackInfo.appendChild(ddTrackName);
 
-    let dtArtistName = document.createElement("dt");
-    dtArtistName.textContent = "Artist Name:";
-    trackInfo.appendChild(dtArtistName);
-    let ddArtistName = document.createElement("dd");
-    ddArtistName.textContent = track.artistName;
-    trackInfo.appendChild(ddArtistName);
 
     if (track.remixArtistName) {
-      let dtRemixArtistName = document.createElement("dt");
-      dtRemixArtistName.textContent = "Remix Artist Name:";
-      trackInfo.appendChild(dtRemixArtistName);
       let ddRemixArtistName = document.createElement("dd");
-      ddRemixArtistName.textContent = track.remixArtistName;
+      ddRemixArtistName.textContent = "Remixed by " + track.remixArtistName;
       trackInfo.appendChild(ddRemixArtistName);
     }
 
-    let dtPublisher = document.createElement("dt");
-    dtPublisher.textContent = "Publisher:";
-    trackInfo.appendChild(dtPublisher);
     let ddPublisher = document.createElement("dd");
-    ddPublisher.textContent = track.publisher;
+    ddPublisher.textContent = "Published by " + track.publisher;
     trackInfo.appendChild(ddPublisher);
 
     li.appendChild(trackInfo);

@@ -372,6 +372,13 @@ h1 {
 	overflow: hidden;
 }
 
+#currentlyPlaying li.has-image {
+	margin: 1em 0;
+}
+
+#currentlyPlaying li.has-image img {
+}
+
 .player output varZ {
 	float: left;
 }
