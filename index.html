@@ -213,34 +213,70 @@ updatePerspective(
    config.perspective.fauxBodyMax
 );
 
-
-
-
 // MIXCLOUD
 let widget;
-let mixcloudHeaderInfo;
-let currentIndex = 0;
 let mixState = {
+   _currentIndex: 0,
+   _currentlyPlayingPage: false,
+   _intervalId: null,
    _mixcloudHeaderInfo: null,   
+   _mixcloudItemInfo: null,   
    _mixcloudKey: null,
+   _previousNumDashes: 0,
    _progress: 0,
    _iframeUrl: "",
+   _selectedMixItem: null,
    _status: "paused",
+   _timeoutId: null,
+
+   get currentIndex() {
+      return this._currentIndex;
+   },   
+   set currentIndex(value) {
+      this._currentIndex = value;
+   },
+
+   get currentlyPlayingPage() {
+      return this._currentlyPlayingPage;
+   },   
+   set currentlyPlayingPage(value) {
+      this._currentlyPlayingPage = value;
+   },
+
+   get intervalId() {
+      return this._intervalId;
+   },   
+   set intervalId(value) {
+      this._intervalId = value;
+   },
+
+   get mixcloudHeaderInfo() {
+      return this._mixcloudHeaderInfo;
+   },   
+   set mixcloudHeaderInfo(value) {
+      this._mixcloudHeaderInfo = value;
+   },
+
+   get mixcloudItemInfo() {
+      return this._mixcloudHeaderInfo;
+   },
+   set mixcloudItemInfo(value) {
+      this._mixcloudHeaderInfo = value;
+   },
 
    get mixcloudKey() {
       return this._mixcloudKey;
    },
-   
    set mixcloudKey(value) {
       this._mixcloudKey = value;
       this._iframeUrl = config.iframeUrlPrefix + encodeURIComponent(value + "/");
       
-      // Search for the corresponding item in mixcloudHeaderInfo
-      const mixcloudHeaderItem = mixcloudHeaderInfo.data.find(item => item.mixcloudKey === value);
+      // Search for the corresponding item in mixcloudItemInfo
+      const mixcloudHeaderItem = mixState.mixcloudItemInfo.data.find(item => item.mixcloudKey === value);
 
       // Store the found item in _mixcloudHeaderInfo
       if(mixcloudHeaderItem) {
-         this._mixcloudHeaderInfo = mixcloudHeaderItem;
+         this._mixcloudItemInfo = mixcloudHeaderItem;
       } else {
          console.warn('No mixcloudHeaderInfo item found for the provided mixcloudKey');
       }
@@ -249,10 +285,17 @@ let mixState = {
       this.updateScroller();
    },
 
+   get previousNumDashes() {
+      return this._previousNumDashes;
+   },
+   set previousNumDashes(value) {
+      this._previousNumDashes = value;
+      this.updateDisplay();
+   },
+
    get progress() {
       return this._status;
    },
-   
    set progress(value) {
       this._progress = value;
       this.updateDisplay();
@@ -261,16 +304,21 @@ let mixState = {
    get iframeUrl() {
       return this._iframeUrl;
    },
-   
    set iframeUrl(value) {
       this._iframeUrl = value;
       this.updateDisplay();
    },
 
+   get selectedMixItem() {
+      return this._selectedMixItem;
+   },   
+   set selectedMixItem(value) {
+      this._selectedMixItem = value;
+   },
+
    get status() {
       return this._status;
    },
-   
    set status(value) {
       this._status = value;
       this.updateDisplay();
@@ -280,20 +328,24 @@ let mixState = {
       const displayDiv = document.querySelector('#stateDisplay pre code');
       displayDiv.innerHTML = JSON.stringify(this, null, 2);
    },
-
    updateScroller() {
       startScroller(
          "displayMain", 
-         this._mixcloudHeaderInfo.name, 
+         this._mixcloudItemInfo.name, 
          config.output.characterCount, 
          config.output.tickInterval, 
          config.output.repeatInterval
       );
+   },
 
+   get timeoutId() {
+      return this._timeoutId;
+   },   
+   set timeoutId(value) {
+      this._timeoutId = value;
    }
-};
 
-let timeoutId, intervalId;
+};
 
 function initWidget() {
     widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
@@ -389,8 +441,6 @@ function playListener() {
    flagPlay.innerHTML = "⏵";
 }
 
-let previousNumDashes = 0;
-
 function progressListener(progress, duration) {
    mixState.progress = progress;
    const scale = 11 / duration;
@@ -403,7 +453,6 @@ function progressListener(progress, duration) {
       previousNumDashes = numDashes;
    }
 }
-
 
 function enter() {
     // your enter function code here
@@ -438,14 +487,14 @@ function skipForward() {
 }
 
 function selectRandomTrack() {
-   const randomIndex = Math.floor(Math.random() * mixcloudHeaderInfo.data.length);
-   const randomItem = mixcloudHeaderInfo.data[randomIndex];
+   const randomIndex = Math.floor(Math.random() * mixState.mixcloudHeaderInfo.data.length);
+   const randomItem = mixState.mixcloudHeaderInfo.data[randomIndex];
    loadNewMix(randomItem.mixcloudKey);
 }
 
 // When the page first loads, we display the category list.
 window.onload = function() {
-    populateCategoryList();
+    // populateCategoryList();
 }
 
 // Populate category list
@@ -467,8 +516,14 @@ function populateCategoryList() {
   allOption.onclick = () => populateMixList(null);
   categoryList.appendChild(allOption);
 
+  // Add 'Currently Playing' option at the top
+  let currentlyPlayingOption = document.createElement("li");
+  currentlyPlayingOption.textContent = "Currently Playing";
+  currentlyPlayingOption.onclick = populateCurrentlyPlaying;
+  categoryList.prepend(currentlyPlayingOption);
+
   // Add categories
-  let categories = mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
+  let categories = mixState.mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
   categories.forEach((item, index) => {
     let li = document.createElement("li");
     li.textContent = item.name;
@@ -495,8 +550,14 @@ function populateMixList(category) {
   backOption.onclick = populateCategoryList;
   mixList.appendChild(backOption);
 
+  // Add 'Currently Playing' option at the top
+  let currentlyPlayingOption = document.createElement("li");
+  currentlyPlayingOption.textContent = "Currently Playing";
+  currentlyPlayingOption.onclick = populateCurrentlyPlaying;
+  mixList.prepend(currentlyPlayingOption);
+
   // Add mixes
-  let mixes = mixcloudHeaderInfo.data;
+  let mixes = mixState.mixcloudHeaderInfo.data;
   if (category) mixes = mixes.filter(item => item.category === category);
   mixes.sort((a, b) => a.shortName.localeCompare(b.shortName)).forEach(item => {
     let li = document.createElement("li");
@@ -504,7 +565,15 @@ function populateMixList(category) {
     li.onclick = () => {
       mixState.mixcloudKey = item.mixcloudKey;
       loadNewMix(mixState.mixcloudKey);
+      if (selectedMixItem) selectedMixItem.classList.remove('selected');
+      li.classList.add('selected');
+      selectedMixItem = li;
+      populateCurrentlyPlaying();
     };
+    if (mixState.mixcloudKey === item.mixcloudKey) {
+      li.classList.add('selected');
+      selectedMixItem = li;
+    }
     mixList.appendChild(li);
   });
 
@@ -514,6 +583,48 @@ function populateMixList(category) {
     setCurrentActiveItem(mixList, index !== -1 ? index + 1 : 0);  // Add 1 to index to account for 'Back' option
   } else {
     setCurrentActiveItem(mixList, 0);
+  }
+}
+
+// Populate 'Currently Playing' page
+function populateCurrentlyPlaying() {
+  let mixList = document.getElementById("mixList");
+
+  // Clear list
+  while (mixList.firstChild) mixList.removeChild(mixList.firstChild);
+
+  // Show 'Currently Playing' page, hide category list
+  document.getElementById("categoryList").style.display = "none";
+  mixList.style.display = "block";
+
+  // Add 'Back' option
+  let backOption = document.createElement("li");
+  backOption.textContent = "Back";
+  backOption.onclick = () => {
+    mixState.currentlyPlayingPage = false;
+    if (mixState.mixcloudKey) populateMixList();
+    else populateCategoryList();
+  };
+  mixList.appendChild(backOption);
+
+  // Add currently playing mix name
+  let mixName = document.createElement("li");
+  mixName.textContent = mixState.mixcloudHeaderInfo.data.find(item => item.mixcloudKey === mixState.mixcloudKey).shortName;
+  mixList.appendChild(mixName);
+
+  // Set initial active item
+  setCurrentActiveItem(mixList, 1);
+
+  mixState.currentlyPlayingPage = true;
+}
+
+async function fetchTracklist() {
+  try {
+    let response = await fetch("tracklist.json");
+    let data = await response.json();
+    return data;
+  } catch (err) {
+    console.error(err);
   }
 }
 
@@ -534,7 +645,7 @@ function setCurrentActiveItem(parent, index) {
 
   if (items.length > 0) {
     items[index].classList.add("active");
-    currentIndex = index;
+    mixState.currentIndex = index;
 
     let playlistDisplay = document.querySelector('#playlistDisplay');
     let activeElement = items[index];
@@ -550,22 +661,29 @@ function setCurrentActiveItem(parent, index) {
 function navigateOption(direction) {
   let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : "mixList";
   let items = document.getElementById(parent).getElementsByTagName("li");
-  currentIndex += direction;
-  if (currentIndex < 0) currentIndex = 0;
-  if (currentIndex >= items.length) currentIndex = items.length - 1;
-  setCurrentActiveItem(document.getElementById(parent), currentIndex);
+  mixState.currentIndex += direction;
+  if (mixState.currentIndex < 0) currentIndex = 0;
+  if (mixState.currentIndex >= items.length) mixState.currentIndex = items.length - 1;
+  setCurrentActiveItem(document.getElementById(parent), mixState.currentIndex);
+}
+
+// Navigate left (go back)
+function navigateLeft() {
+  if (mixState.currentlyPlayingPage) {
+    mixState.currentlyPlayingPage = false;
+    if (mixState.mixcloudKey) populateMixList();
+    else populateCategoryList();
+  } else if (document.getElementById("mixList").style.display === "block") populateCategoryList();
 }
 
 // Navigate right (select option)
 function navigateRight() {
   let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : "mixList";
   let items = document.getElementById(parent).getElementsByTagName("li");
-  items[currentIndex].click();
-}
 
-// Navigate left (go back)
-function navigateLeft() {
-  if (document.getElementById("mixList").style.display === "block") populateCategoryList();
+  // Handle 'Currently Playing' option separately
+  if (items[mixState.currentIndex].textContent === "Currently Playing") populateCurrentlyPlaying();
+  else items[mixState.currentIndex].click();
 }
 
 // Listen for keypresses
@@ -606,7 +724,7 @@ fetch('mixesheader.json')
         return response.json();
     })
     .then(json => {
-        mixcloudHeaderInfo = json;
+        mixState.mixcloudHeaderInfo = json;
         
         if (config.loadMixcloud) {
          selectRandomTrack();

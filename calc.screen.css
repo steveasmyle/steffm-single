@@ -130,8 +130,8 @@ body {
 	--lightGreyBgColor: #988880;
 	--lightGreyTextColor: #000;
 	--widgetBackgroundColor: #25292c;
-	--highlightBackgroundColor: #f90;
-	--highlightTextColor: #09f;
+	--highlightBackgroundColor: #3AF;
+	--highlightTextColor: #024;
 	position: relative;
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
@@ -315,7 +315,7 @@ h1 {
 	overflow-x: hidden;
 	overflow-y: auto;
 	letter-spacing: 0.125em;
-	padding: 0.55em 0.5em 0.55em 0;
+	padding: 0.55em 0.5em;
 	position: relative;
 	scroll-behavior: smooth;
 	text-align: left;
@@ -323,10 +323,15 @@ h1 {
 	width: 24em;
 }
 
+#playlistDisplay li {
+	padding: 0 0.5em;
+}
+
 #playlistDisplay .active,
 #playlistDisplay .selected {
     background-color: var(--highlightBackgroundColor);
     color: var(--highlightTextColor);
+	text-shadow: 0 0 0.1em var(--outputTextColor);
 }
 
 #categoryList,
