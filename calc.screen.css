@@ -130,6 +130,8 @@ body {
 	--widgetBackgroundColor: #25292c;
 	--highlightBackgroundColor: #3AF;
 	--highlightTextColor: #024;
+	--duotoneImageLightColor: #3AF;
+	--duotoneImageDarkColor: #024;
 	position: relative;
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
@@ -337,8 +339,9 @@ h1 {
   }
   
   #playlistDisplay .has-image img {
-	width: 100%;
 	display: block;
+	/* filter: grayscale(100%); */
+	width: 30%;
   }
   
   #playlistDisplay .has-image .image-wrapper::before,
@@ -352,12 +355,12 @@ h1 {
   }
   
   #playlistDisplay .has-image .image-wrapper::before {
-	background-color: rgb(240, 14, 46);
+	background-color: var(--duotoneImageLightColor);
 	mix-blend-mode: darken;
   }
   
   #playlistDisplay .has-image .image-wrapper::after {
-	background-color: rgb(25, 37, 80);
+	background-color: var(--duotoneImageDarkColor);
 	mix-blend-mode: lighten;
   }
   
