@@ -99,6 +99,7 @@ body {
 	--highlightTextColor: #024;
 	--duotoneImageLightColor: #3AF;
 	--duotoneImageDarkColor: #024;
+	--backgroundSVG: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500'%3E%3Cfilter id='noise' x='0' y='0'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeBlend mode='screen'/%3E%3C/filter%3E%3Crect width='500' height='500' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E");
 	position: relative;
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
@@ -147,13 +148,13 @@ h1 {
 	padding: 2.375em 2em 1.5em;
 	margin: auto;
 	background-color: var(--caseBgColor);
-	background-image: linear-gradient(to bottom, transparent 2em, #000A 2em, #0003 2.125em 2.25em, transparent 2.25em 2.5em, #000A 2.5em, #0004 2.625em 2.75em, transparent 2.75em 3em, #000A 3em, #0003 3.125em 3.25em, transparent 3.25em 3.5em, #000A 3.5em, #0003 3.625em 3.75em, transparent 3.75em 4em, #000A 4em, #0003 4.125em 4.25em, transparent 4.25em 11.5em, #FFFC 11.625em, #0003 11.625em 13.25em, transparent 11.625em), linear-gradient(150deg, transparent 50%, #0003), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500'%3E%3Cfilter id='noise' x='0' y='0'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeBlend mode='screen'/%3E%3C/filter%3E%3Crect width='500' height='500' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E");
+	background-image: linear-gradient(to bottom, transparent 2em, #000A 2em, #0003 2.125em 2.25em, transparent 2.25em 2.5em, #000A 2.5em, #0004 2.625em 2.75em, transparent 2.75em 3em, #000A 3em, #0003 3.125em 3.25em, transparent 3.25em 3.5em, #000A 3.5em, #0003 3.625em 3.75em, transparent 3.75em 4em, #000A 4em, #0003 4.125em 4.25em, transparent 4.25em 11.5em, #FFFC 11.625em, #0003 11.625em 13.25em, transparent 11.625em), linear-gradient(150deg, transparent 50%, #0003), var(--backgroundSVG);
 	border-radius: 0.5em 0.5em 1em 1em;
 	box-shadow: 0.5em 0 1.25em #0008, 1.5em 0.5em 3em #000B;
 	transition: filter 0.5s, transform 0.5s, rotate 0.5s;
 }
 .playlist {
-	background-image: linear-gradient(to bottom, transparent 2em, #000A 2em, #0003 2.125em 2.25em, transparent 2.25em 2.5em, #000A 2.5em, #0004 2.625em 2.75em, transparent 2.75em 3em, #000A 3em, #0003 3.125em 3.25em, transparent 3.25em 3.5em, #000A 3.5em, #0003 3.625em 3.75em, transparent 3.75em 4em, #000A 4em, #0003 4.125em 4.25em, transparent 4.25em 11.5em), linear-gradient(150deg, transparent 50%, #0003), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500'%3E%3Cfilter id='noise' x='0' y='0'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeBlend mode='screen'/%3E%3C/filter%3E%3Crect width='500' height='500' filter='url(%23noise)' opacity='0.5'/%3E%3C/svg%3E");
+	background-image: linear-gradient(to bottom, transparent 2em, #000A 2em, #0003 2.125em 2.25em, transparent 2.25em 2.5em, #000A 2.5em, #0004 2.625em 2.75em, transparent 2.75em 3em, #000A 3em, #0003 3.125em 3.25em, transparent 3.25em 3.5em, #000A 3.5em, #0003 3.625em 3.75em, transparent 3.75em 4em, #000A 4em, #0003 4.125em 4.25em, transparent 4.25em 11.5em), linear-gradient(150deg, transparent 50%, #0003), var(--backgroundSVG);
 }
 .player.flip, .playlist.flip {
 	transform: rotateX(5deg) rotate(180deg);
@@ -394,6 +395,7 @@ h1 {
 .playlist .nav {
 	border-radius: 1.0625em;
 	border-width: 0.5em;
+	margin: 1em auto;
 	width: 14.750em;
 }
 .player fieldset:first-of-type, .player .mixcloud {
@@ -436,6 +438,23 @@ h1 {
 	--transitionTime: 0.3s;
 	transition: top var(--transitionTime), transform var(--transitionTime), box-shadow var(--transitionTime);
 	background: var(--buttonBgColor) conic-gradient(at 50% 1.5em, #FFF5 49deg, #0002 58deg 130deg, #0005 140deg, #0004 150deg 210deg, #FFF3 230deg 296deg, #FFF8 306deg, #FFF5 316deg);
+}
+.player .blank, .playlist .blank {
+	position: relative;
+	overflow: hidden;
+	float: left;
+	width: 4.5em;
+	height: 4.5em;
+	margin: 0.0625em 0 0 0.0625em;
+	padding-bottom: 0.875em;
+	border: 0;
+	border-radius: 0.5em;
+	color: var(--buttonTextColor);
+	box-shadow: inset 0 0 0.05em 0.05em #0009;
+	--transitionTime: 0.3s;
+	transition: top var(--transitionTime), transform var(--transitionTime), box-shadow var(--transitionTime);
+	background: var(--caseBgColor);
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.3) 10%, transparent 100%), var(--backgroundSVG);
 }
 .player button.tall, .playlist button.tall {
 	float: right;
