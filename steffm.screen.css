@@ -88,6 +88,8 @@ body {
 	--blueTextColor: #FFF;
 	--redBgColor: #C12;
 	--redTextColor: #D0D8D0;
+	--greenBgColor: #172;
+	--greenTextColor: #D0D8D0;
 	--clearEntryBgColor: #C60;
 	--clearEntryTextColor: #D0D8D0;
 	--greyBgColor: #485058;
@@ -256,12 +258,14 @@ h1 {
 	text-shadow: 0 0 0.05em var(--outputTextColor);
 	width: 24em;
 }
-#playlistDisplay .active, #playlistDisplay .selected {
+#playlistDisplay .active, #playlistDisplay .selected, #playlistDisplay li:hover {
 	background-color: var(--highlightBackgroundColor);
 	color: var(--highlightTextColor);
 	text-shadow: 0 0 0.1em var(--outputTextColor);
 }
-
+#playlistDisplay li {
+	cursor: pointer;
+}
 #playlistDisplay .titleCard {
 	display: flex;
 	flex-direction: column;
@@ -516,6 +520,10 @@ h1 {
 }
 .player button.red, .playlist button.red {
 	--buttonBgColor: var(--redBgColor);
+	color: var(--redTextColor);
+}
+.player button.green, .playlist button.green {
+	--buttonBgColor: var(--greenBgColor);
 	color: var(--redTextColor);
 }
 .player button.orange, .playlist button.orange {
