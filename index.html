@@ -634,85 +634,171 @@ async function populateCurrentlyPlaying() {
   };
   currentlyPlayingList.appendChild(backOption);
 
-  // Add currently playing mix name
-  let mixName = document.createElement("li");
-  mixName.textContent = mixState.mixcloudHeaderInfo.data.find(item => item.mixcloudKey === mixState.mixcloudKey).name;
-  currentlyPlayingList.appendChild(mixName);
+  // Add currently playing mix info
+  currentlyPlayingList.appendChild(
+   titleCardMixInfo(
+      mixState.mixcloudItemInfo.coverArtSmall,
+      mixState.mixcloudHeaderInfo.data.find(item => item.mixcloudKey === mixState.mixcloudKey).name,
+      mixState.mixcloudItemInfo.duration,
+      mixState.mixcloudItemInfo.releaseDate,
+      mixState.mixcloudItemInfo.notes
+   )
+  );
 
-  let hasImage = document.createElement("li");
-  hasImage.classList.add('has-image');
-  let imageWrapper = document.createElement("div");
-  imageWrapper.classList.add('image-wrapper');
-  hasImage.appendChild(imageWrapper);
-  let image = document.createElement("img");
-  image.src = mixState.mixcloudItemInfo.coverArtSmall;
-  imageWrapper.appendChild(image);
-  currentlyPlayingList.appendChild(hasImage);
-
-  let duration = document.createElement("li");
-  duration.textContent = "Duration: " + mixState.mixcloudItemInfo.duration;
-  currentlyPlayingList.appendChild(duration);
-
-  let releaseDate = document.createElement("li");
-  releaseDate.textContent = "Released: " + mixState.mixcloudItemInfo.releaseDate;
-  currentlyPlayingList.appendChild(releaseDate);
-
-  let notes = document.createElement("li");
-  notes.textContent = "Stef says: " + mixState.mixcloudItemInfo.notes;
-  currentlyPlayingList.appendChild(notes);
 
   // Fetch and add track list
   let tracklistData = await fetchTracklist();
   let tracklist = tracklistData.tracks;
 
   tracklist.forEach((track, index) => {
-    let li = document.createElement("li");
-    li.classList.add('has-image');
-
-    let trackInfo = document.createElement("dl");
-
-    let ddSectionNumber = document.createElement("dd");
-    ddSectionNumber.textContent = track.sectionNumber;
-    trackInfo.appendChild(ddSectionNumber);
-
-    let ddStartTime = document.createElement("dd");
-    ddStartTime.textContent = track.startTime;
-    trackInfo.appendChild(ddStartTime);
-
-   if (track.coverArtSmall) {
-      let imageWrapper = document.createElement("div");
-      imageWrapper.classList.add('image-wrapper');
-      hasImage.appendChild(imageWrapper);
-      let image = document.createElement("img");
-      image.src = track.coverArtSmall;
-      imageWrapper.appendChild(image);
-      trackInfo.appendChild(imageWrapper);
-   }
-
-    let ddTrackName = document.createElement("dd");
-    ddTrackName.textContent = track.trackName + " by " + track.artistName;
-    trackInfo.appendChild(ddTrackName);
-
-
-    if (track.remixArtistName) {
-      let ddRemixArtistName = document.createElement("dd");
-      ddRemixArtistName.textContent = "Remixed by " + track.remixArtistName;
-      trackInfo.appendChild(ddRemixArtistName);
-    }
-
-    let ddPublisher = document.createElement("dd");
-    ddPublisher.textContent = "Published by " + track.publisher;
-    trackInfo.appendChild(ddPublisher);
-
-    li.appendChild(trackInfo);
-
-    currentlyPlayingList.appendChild(li);
+   // Add currently playing mix info
+   currentlyPlayingList.appendChild(
+      titleCardTrackInfo(
+         track.sectionNumber,
+         track.startTime,
+         track.coverArtSmall,
+         track.trackName,
+         track.artistName,
+         track.publisher,
+         track.remixArtistName
+      )
+   );
   });
 
   // Set initial active item
   setCurrentActiveItem(currentlyPlayingList, 0);
 
   mixState.currentlyPlayingPage = true;
+}
+
+function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
+   let titleCard = document.createElement("li");
+   titleCard.classList.add('titleCard');
+
+   let coverArtWrapper = document.createElement("div");
+   coverArtWrapper.classList.add('coverArtWrapper');
+
+   let coverArtDiv = document.createElement("div");
+   coverArtDiv.classList.add('coverArt');
+   let image = document.createElement("img");
+   image.src = coverArt;
+   coverArtDiv.appendChild(image);
+
+   let itemInfoDiv = document.createElement("div");
+   itemInfoDiv.classList.add('itemInfo');
+
+   let mixNameDiv = document.createElement("h3");
+   mixNameDiv.textContent = name;
+   itemInfoDiv.appendChild(mixNameDiv);
+
+   let durationDiv = document.createElement("div");
+   durationDiv.textContent = duration;
+   itemInfoDiv.appendChild(durationDiv);
+
+   let releaseDateDiv = document.createElement("div");
+   releaseDateDiv.textContent = releaseDate;
+   itemInfoDiv.appendChild(releaseDateDiv);
+
+   coverArtWrapper.appendChild(coverArtDiv);
+   coverArtWrapper.appendChild(itemInfoDiv);
+
+   titleCard.appendChild(coverArtWrapper);  
+
+   let itemNotes = document.createElement("div");
+   itemNotes.classList.add('itemNotes');
+   itemNotes.textContent = notes;
+   titleCard.appendChild(itemNotes);
+
+   return titleCard;
+}
+
+function titleCardTrackInfo(sectionNumber, startTime, coverArt, trackName, artistName, publisher, remixArtistName) {
+   let titleCard = document.createElement("li");
+   titleCard.classList.add('titleCard');
+
+   let coverArtWrapper = document.createElement("div");
+   coverArtWrapper.classList.add('coverArtWrapper');
+
+   let coverArtDiv = document.createElement("div");
+   coverArtDiv.classList.add('coverArt');
+   let image = document.createElement("img");
+   image.src = coverArt;
+   coverArtDiv.appendChild(image);
+
+   let itemInfoDiv = document.createElement("div");
+   itemInfoDiv.classList.add('itemInfo');
+
+   let trackNameDiv = document.createElement("h3");
+   trackNameDiv.textContent = trackName;
+   itemInfoDiv.appendChild(trackNameDiv);
+
+   let sectionNumberDiv = document.createElement("div");
+   sectionNumberDiv.textContent = sectionNumber;
+   itemInfoDiv.appendChild(sectionNumberDiv);
+
+   let startTimeDiv = document.createElement("div");
+   startTimeDiv.textContent = startTime;
+   itemInfoDiv.appendChild(startTimeDiv);
+
+   let artistNameDiv = document.createElement("div");
+   artistNameDiv.textContent = artistName;
+   itemInfoDiv.appendChild(artistNameDiv);
+
+   let publisherDiv = document.createElement("div");
+   publisherDiv.textContent = publisher;
+   itemInfoDiv.appendChild(publisherDiv);
+
+   let remixArtistNameDiv = document.createElement("div");
+   remixArtistNameDiv.textContent = remixArtistName;
+   itemInfoDiv.appendChild(remixArtistNameDiv);
+
+   coverArtWrapper.appendChild(coverArtDiv);
+   coverArtWrapper.appendChild(itemInfoDiv);
+
+   titleCard.appendChild(coverArtWrapper);  
+
+   return titleCard;
+
+   // let li = document.createElement("li");
+   // li.classList.add('titleCard');
+
+   // let trackInfo = document.createElement("dl");
+
+   // let ddSectionNumber = document.createElement("dd");
+   // ddSectionNumber.textContent = sectionNumber;
+   // trackInfo.appendChild(ddSectionNumber);
+
+   // let ddStartTime = document.createElement("dd");
+   // ddStartTime.textContent = startTime;
+   // trackInfo.appendChild(ddStartTime);
+
+   // if (coverArt) {
+   //    let imageWrapper = document.createElement("div");
+   //    imageWrapper.classList.add('image-wrapper');
+   //    let image = document.createElement("img");
+   //    image.src = coverArt;
+   //    imageWrapper.appendChild(image);
+   //    trackInfo.appendChild(imageWrapper);
+   // }
+
+   // let ddTrackName = document.createElement("dd");
+   // ddTrackName.textContent = trackName + " by " + artistName;
+   // trackInfo.appendChild(ddTrackName);
+
+
+   // if (remixArtistName) {
+   //    let ddRemixArtistName = document.createElement("dd");
+   //    ddRemixArtistName.textContent = "Remixed by " + remixArtistName;
+   //    trackInfo.appendChild(ddRemixArtistName);
+   // }
+
+   // let ddPublisher = document.createElement("dd");
+   // ddPublisher.textContent = "Published by " + publisher;
+   // trackInfo.appendChild(ddPublisher);
+
+   // li.appendChild(trackInfo);
+
+   // return li;
 }
 
 async function fetchTracklist() {
