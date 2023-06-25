@@ -13,6 +13,9 @@
       <meta name="description" content="Stef.FM v2">
       <link rel="shortcut icon" href="favicon.ico">
       <!--[if !IE]>-->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="calc.screen.css" media="screen">
       <link rel="icon" href="vanilla.svg" type="image/svg+xml">
       <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -675,6 +678,10 @@ function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
    let titleCard = document.createElement("li");
    titleCard.classList.add('titleCard');
 
+   let mixNameDiv = document.createElement("h3");
+   mixNameDiv.textContent = name;
+   titleCard.appendChild(mixNameDiv);
+
    let coverArtWrapper = document.createElement("div");
    coverArtWrapper.classList.add('coverArtWrapper');
 
@@ -686,10 +693,6 @@ function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
 
    let itemInfoDiv = document.createElement("div");
    itemInfoDiv.classList.add('itemInfo');
-
-   let mixNameDiv = document.createElement("h3");
-   mixNameDiv.textContent = name;
-   itemInfoDiv.appendChild(mixNameDiv);
 
    let durationDiv = document.createElement("div");
    durationDiv.textContent = duration;
@@ -699,15 +702,15 @@ function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
    releaseDateDiv.textContent = releaseDate;
    itemInfoDiv.appendChild(releaseDateDiv);
 
+   let itemNotes = document.createElement("div");
+   itemNotes.classList.add('itemNotes');
+   itemNotes.textContent = notes;
+   itemInfoDiv.appendChild(itemNotes);
+
    coverArtWrapper.appendChild(coverArtDiv);
    coverArtWrapper.appendChild(itemInfoDiv);
 
    titleCard.appendChild(coverArtWrapper);  
-
-   let itemNotes = document.createElement("div");
-   itemNotes.classList.add('itemNotes');
-   itemNotes.textContent = notes;
-   titleCard.appendChild(itemNotes);
 
    return titleCard;
 }
@@ -715,6 +718,12 @@ function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
 function titleCardTrackInfo(sectionNumber, startTime, coverArt, trackName, artistName, publisher, remixArtistName) {
    let titleCard = document.createElement("li");
    titleCard.classList.add('titleCard');
+
+   if (sectionNumber === 1) {
+      let mixNameDiv = document.createElement("h3");
+      mixNameDiv.textContent = "Track Listing";
+      titleCard.appendChild(mixNameDiv);
+   }
 
    let coverArtWrapper = document.createElement("div");
    coverArtWrapper.classList.add('coverArtWrapper');
@@ -728,17 +737,13 @@ function titleCardTrackInfo(sectionNumber, startTime, coverArt, trackName, artis
    let itemInfoDiv = document.createElement("div");
    itemInfoDiv.classList.add('itemInfo');
 
+   let sectionNumberDiv = document.createElement("div");
+   sectionNumberDiv.textContent = `Track ${sectionNumber} - ${startTime}`;
+   itemInfoDiv.appendChild(sectionNumberDiv);
+
    let trackNameDiv = document.createElement("h3");
    trackNameDiv.textContent = trackName;
    itemInfoDiv.appendChild(trackNameDiv);
-
-   let sectionNumberDiv = document.createElement("div");
-   sectionNumberDiv.textContent = sectionNumber;
-   itemInfoDiv.appendChild(sectionNumberDiv);
-
-   let startTimeDiv = document.createElement("div");
-   startTimeDiv.textContent = startTime;
-   itemInfoDiv.appendChild(startTimeDiv);
 
    let artistNameDiv = document.createElement("div");
    artistNameDiv.textContent = artistName;
@@ -748,9 +753,12 @@ function titleCardTrackInfo(sectionNumber, startTime, coverArt, trackName, artis
    publisherDiv.textContent = publisher;
    itemInfoDiv.appendChild(publisherDiv);
 
-   let remixArtistNameDiv = document.createElement("div");
-   remixArtistNameDiv.textContent = remixArtistName;
-   itemInfoDiv.appendChild(remixArtistNameDiv);
+   if (remixArtistName) {
+      let remixArtistNameDiv = document.createElement("div");
+      remixArtistNameDiv.classList.add('itemNotes');
+      remixArtistNameDiv.textContent = `Remixed by ${remixArtistName}`;
+      itemInfoDiv.appendChild(remixArtistNameDiv);
+   }
 
    coverArtWrapper.appendChild(coverArtDiv);
    coverArtWrapper.appendChild(itemInfoDiv);
