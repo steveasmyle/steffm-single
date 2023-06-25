@@ -272,7 +272,7 @@ updatePerspective(
          downButton.addEventListener('mouseup', stopChangingVolume);
  
          document.getElementById('enter').addEventListener('click', enter);
-         document.getElementById('stop').addEventListener('click', stop);
+         document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
          document.getElementById('play').addEventListener('click', play);
          document.getElementById('pause').addEventListener('click', pause);
          document.getElementById('skipBackward').addEventListener('click', skipBackward);
@@ -356,10 +356,15 @@ updatePerspective(
      // your enter function code here
  }
  
- function stop() {
-     // your stop function code here
- }
- 
+ function togglePlaylist() {
+    var playlistElement = document.querySelector('.playlist'); // selecting the first element with 'playlist' class
+    if (playlistElement.style.display === 'none') {
+        playlistElement.style.display = 'block';
+    } else {
+        playlistElement.style.display = 'none';
+    }
+} 
+
  function play() {
      widget.play();
  }
