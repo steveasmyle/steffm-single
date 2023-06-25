@@ -49,12 +49,12 @@ body, button, input, table, textarea, select {
 }
 /* END RESET */
 body, #fauxBody {
-	perspective: 30rem;
 	transition: perspective 0.5s ease-out;
 }
 html, body {
 	height: 100%;
-	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
 	user-select: none;
 }
 body:before {
@@ -106,7 +106,7 @@ body {
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
 }
-#fauxBody, .modal, .modal>a {
+#fauxBody {
 	position: fixed;
 	bottom: 0;
 	right: 0;
@@ -114,12 +114,9 @@ body {
 	width: 100%;
 	overflow: auto;
 }
-.modal>a span, .modal>div>h2 a span {
-	position: absolute;
-	left: -200vw;
-}
 #fauxBody {
 	display: flex;
+	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 }
@@ -160,9 +157,6 @@ h1 {
 }
 .player.flip, .playlist.flip {
 	transform: rotateX(5deg) rotate(180deg);
-}
-.modal:target~.player {
-	filter: blur(0.5em);
 }
 .player:before, .player .power:after, .playlist:before, .playlist.power:after {
 	content: "";
@@ -310,7 +304,6 @@ h1 {
 	line-height: 1;
 	width: 100%;
 }
-
 #categoryList, #mixList, #currentlyPlaying {
 	display: none;
 	overflow: hidden;
@@ -545,18 +538,34 @@ h1 {
 	background: var(--buttonBgColor);
 	box-shadow: 0.0625em 0.0625em 0 #000C, -0.0625em -0.0625em 0 #FFF8;
 }
-@media (max-width:80rem) {
-	#inputAndControls>div {
-		max-width: 53em;
+@media (min-width:64rem) {
+	body, #fauxBody {
+		perspective: 30rem;
+   }
+	body {
+		overflow-x: hidden;
+		overflow-y: hidden;
    }
 }
-@media (max-width:32rem) {
-	.modal {
-		padding: 0;
+@media (max-width:64rem) {
+	body, #fauxBody {
+		perspective: unset;
    }
-	#inputAndControls>div {
-		max-width: 100vw;
-		border: 0;
-		border-radius: 0;
+	body {
+		overflow-x: hidden;
+		overflow-y: auto;
+   }
+	body:before {
+		bottom: 10vw;
+   }
+	#fauxBody {
+		flex-direction: column;
+		align-items: flex-start;
+		height: auto;
+		position: static;
+		width: 100%;
+   }
+	#fauxBody section {
+		margin-top: 4em;
    }
 }

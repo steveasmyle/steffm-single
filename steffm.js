@@ -73,26 +73,35 @@ const config = {
  
  // PERSPECTIVE SHIFT
  function updatePerspective(bodyMin, bodyMax, fauxBodyMin, fauxBodyMax) {
-     var bodyRange = bodyMax - bodyMin;
-     var fauxBodyRange = fauxBodyMax - fauxBodyMin;
- 
-     document.addEventListener('mousemove', function(event) {
-         var mouseY = event.clientY;
-         var viewportHeight = window.innerHeight;
-         var proportion = mouseY / viewportHeight;
-         var bodyPerspective = (bodyRange * proportion) + bodyMin;
-         var fauxBodyPerspective = (fauxBodyRange * proportion) + fauxBodyMin;
-         document.body.style.perspective = `${bodyPerspective}rem`;
-         document.getElementById('fauxBody').style.perspective = `${fauxBodyPerspective}rem`;
-     });
- }
- 
- updatePerspective(
+    var bodyRange = bodyMax - bodyMin;
+    var fauxBodyRange = fauxBodyMax - fauxBodyMin;
+
+    document.addEventListener('mousemove', function(event) {
+        // Using window.matchMedia to check if the viewport width is more than 64rem.
+        var isLargeViewport = window.matchMedia("(min-width: 64rem)").matches;
+        if(isLargeViewport) {
+            var mouseY = event.clientY;
+            var viewportHeight = window.innerHeight;
+            var proportion = mouseY / viewportHeight;
+            var bodyPerspective = (bodyRange * proportion) + bodyMin;
+            var fauxBodyPerspective = (fauxBodyRange * proportion) + fauxBodyMin;
+            document.body.style.perspective = `${bodyPerspective}rem`;
+            document.getElementById('fauxBody').style.perspective = `${fauxBodyPerspective}rem`;
+        }
+        // If the viewport width is less than 64rem, unset the perspective.
+        else {
+            document.body.style.perspective = `unset`;
+            document.getElementById('fauxBody').style.perspective = `unset`;
+        }
+    });
+}
+
+updatePerspective(
     config.perspective.bodyMin, 
     config.perspective.bodyMax, 
     config.perspective.fauxBodyMin,
     config.perspective.fauxBodyMax
- );
+);
  
  // MIXCLOUD
  let widget;
