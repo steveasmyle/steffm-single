@@ -738,9 +738,7 @@ function setCurrentActiveItem(parent, index) {
      playlistDisplay.scrollTo({ top: adjustedTopPosition, behavior: 'smooth' });
    }
  }
- 
- 
- 
+  
  // Navigate up/down options
  function navigateOption(direction) {
    let parent;
