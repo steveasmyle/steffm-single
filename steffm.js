@@ -684,22 +684,29 @@ updatePerspective(
  
 // Set current active item
 function setCurrentActiveItem(parent, index) {
-   let items = parent.getElementsByTagName("li");
-   for (let item of items) item.classList.remove("active");
- 
-   if (items.length > 0) {
-     items[index].classList.add("active");
-     mixState.currentIndex = index;
- 
-     let playlistDisplay = document.querySelector('#playlistDisplay');
-     let activeElement = items[index];
-     let topPosition = activeElement.offsetTop - (playlistDisplay.offsetHeight * 0.10);
-     let maxScrollTop = playlistDisplay.scrollHeight - playlistDisplay.clientHeight;
-     let adjustedTopPosition = Math.min(Math.max(topPosition, 0), maxScrollTop);
+    let items = parent.getElementsByTagName("li");
 
-     playlistDisplay.scrollTo({ top: adjustedTopPosition, behavior: 'smooth' });
-   }
- }
+    // Ensure index is within valid range
+    if (index < 0 || index >= items.length) {
+        console.warn(`Invalid index: ${index}`);
+        return;
+    }
+
+    for (let item of items) item.classList.remove("active");
+
+    if (items.length > 0) {
+        items[index].classList.add("active");
+        mixState.currentIndex = index;
+
+        let playlistDisplay = document.querySelector('#playlistDisplay');
+        let activeElement = items[index];
+        let topPosition = activeElement.offsetTop - (playlistDisplay.offsetHeight * 0.10);
+        let maxScrollTop = playlistDisplay.scrollHeight - playlistDisplay.clientHeight;
+        let adjustedTopPosition = Math.min(Math.max(topPosition, 0), maxScrollTop);
+
+        playlistDisplay.scrollTo({ top: adjustedTopPosition, behavior: 'smooth' });
+    }
+}
   
  // Navigate up/down options
  function navigateOption(direction) {
@@ -714,8 +721,8 @@ function setCurrentActiveItem(parent, index) {
    
    let items = document.getElementById(parent).getElementsByTagName("li");
    mixState.currentIndex += direction;
-   if (mixState.currentIndex < 0) mixState.currentIndex = 0;
-   if (mixState.currentIndex >= items.length) mixState.currentIndex = items.length - 1;
+   if (mixState.currentIndex < 0) mixState.currentIndex = items.length - 1;
+   if (mixState.currentIndex >= items.length) mixState.currentIndex = 0;
    setCurrentActiveItem(document.getElementById(parent), mixState.currentIndex);
  }
  
