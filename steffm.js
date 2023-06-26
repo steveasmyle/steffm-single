@@ -251,8 +251,6 @@ updatePerspective(
      widget.ready.then(function() {
          console.log("Mixcloud widget ready");
  
-         const volumeUpButton = document.getElementById('volumeUp');
-         const volumeDownButton = document.getElementById('volumeDown'); 
          const buttons = document.getElementsByTagName('button');
 
          let buttonFocusHandler = function(button) {
@@ -269,26 +267,73 @@ updatePerspective(
             });
         }
 
-        volumeUpButton.addEventListener('focus', function() {
+        const volumeUpButton = document.getElementById('volumeUp');
+        const volumeDownButton = document.getElementById('volumeDown');
+        const upButton = document.getElementById('upButton');
+        const downButton = document.getElementById('downButton');
+        const rightButton = document.getElementById('rightButton');
+        const leftButton = document.getElementById('leftButton');
+
+        volumeUpButton.addEventListener('click', function() {
             volumeUp();
             mixState.timeoutId = setTimeout(function() {
             mixState.intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
             }, config.keyHold.initialDelay);
         });
 
-        volumeDownButton.addEventListener('focus', function() {
+        volumeDownButton.addEventListener('click', function() {
             volumeDown();
             mixState.timeoutId = setTimeout(function() {
             mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
             }, config.keyHold.initialDelay);
         });
- 
-         volumeUpButton.addEventListener('mouseup', stopChangingVolume);
-         volumeDownButton.addEventListener('mouseup', stopChangingVolume);
-        volumeUpButton.addEventListener('mouseleave', stopChangingVolume);
-        volumeDownButton.addEventListener('mouseleave', stopChangingVolume);
-        volumeUpButton.addEventListener('blur', stopChangingVolume);
-        volumeDownButton.addEventListener('blur', stopChangingVolume);
+
+        upButton.addEventListener("click", function() {
+            navigateOption(-1);
+            mixState.timeoutId = setTimeout(function() {
+                mixState.intervalId = setInterval(function() { navigateOption(-1); }, config.keyHold.repeatInterval);
+                }, config.keyHold.initialDelay);
+        });
+
+        downButton.addEventListener("click", function() {
+            navigateOption(1);
+            mixState.timeoutId = setTimeout(function() {
+                mixState.intervalId = setInterval(function() { navigateOption(1); }, config.keyHold.repeatInterval);
+                }, config.keyHold.initialDelay);
+        });
+
+        rightButton.addEventListener("click", function() {
+            navigateRight();
+            mixState.timeoutId = setTimeout(function() {
+                mixState.intervalId = setInterval(navigateRight, config.keyHold.repeatInterval);
+                }, config.keyHold.initialDelay);
+        });
+
+        leftButton.addEventListener("click", function() {
+            navigateLeft();
+            mixState.timeoutId = setTimeout(function() {
+                mixState.intervalId = setInterval(navigateLeft, config.keyHold.repeatInterval);
+                }, config.keyHold.initialDelay);
+        });
+
+        volumeUpButton.addEventListener('mouseup', stopKeyHold);
+        volumeUpButton.addEventListener('mouseleave', stopKeyHold);
+        volumeUpButton.addEventListener('blur', stopKeyHold);
+        volumeDownButton.addEventListener('mouseup', stopKeyHold);
+        volumeDownButton.addEventListener('mouseleave', stopKeyHold);
+        volumeDownButton.addEventListener('blur', stopKeyHold);
+        upButton.addEventListener('mouseup', stopKeyHold);
+        upButton.addEventListener('mouseleave', stopKeyHold);
+        upButton.addEventListener('blur', stopKeyHold);
+        downButton.addEventListener('mouseup', stopKeyHold);
+        downButton.addEventListener('mouseleave', stopKeyHold);
+        downButton.addEventListener('blur', stopKeyHold);
+        rightButton.addEventListener('mouseup', stopKeyHold);
+        rightButton.addEventListener('mouseleave', stopKeyHold);
+        rightButton.addEventListener('blur', stopKeyHold);
+        leftButton.addEventListener('mouseup', stopKeyHold);
+        leftButton.addEventListener('mouseleave', stopKeyHold);
+        leftButton.addEventListener('blur', stopKeyHold);
 
          document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
          document.getElementById('play').addEventListener('click', play);
@@ -296,14 +341,14 @@ updatePerspective(
          document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
          document.getElementById('skipNext').addEventListener('click', skipNext);
          document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
- 
+          
          widget.events.pause.on(pauseListener);
          widget.events.play.on(playListener);
          widget.events.progress.on(progressListener, widget.getDuration());
      });
  }
  
- function stopChangingVolume() {
+ function stopKeyHold() {
      clearTimeout(mixState.timeoutId);
      clearInterval(mixState.intervalId);
  }
@@ -832,17 +877,6 @@ function setCurrentActiveItem(parent, index) {
      e.preventDefault();
    }
  });
- 
- // Button press handlers
- let upButton = document.getElementById("upButton");
- let downButton = document.getElementById("downButton");
- let rightButton = document.getElementById("rightButton");
- let leftButton = document.getElementById("leftButton");
- 
- upButton.addEventListener("click", () => navigateOption(-1));
- downButton.addEventListener("click", () => navigateOption(1));
- rightButton.addEventListener("click", navigateRight);
- leftButton.addEventListener("click", navigateLeft);
  
  // init
  fetch('mixesheader.json')
