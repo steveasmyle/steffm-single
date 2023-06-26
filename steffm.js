@@ -720,8 +720,8 @@ updatePerspective(
      return offsetTop;
  }
  
- // Set current active item
- function setCurrentActiveItem(parent, index) {
+// Set current active item
+function setCurrentActiveItem(parent, index) {
    let items = parent.getElementsByTagName("li");
    for (let item of items) item.classList.remove("active");
  
@@ -731,13 +731,15 @@ updatePerspective(
  
      let playlistDisplay = document.querySelector('#playlistDisplay');
      let activeElement = items[index];
-     
-     let topPosition = getOffsetTop(activeElement, playlistDisplay) - (playlistDisplay.offsetHeight / 2) + (activeElement.offsetHeight / 2);
+     let topPosition = activeElement.offsetTop - (playlistDisplay.offsetHeight * 0.10);
      let maxScrollTop = playlistDisplay.scrollHeight - playlistDisplay.clientHeight;
      let adjustedTopPosition = Math.min(Math.max(topPosition, 0), maxScrollTop);
-     playlistDisplay.scrollTo({ top: topPosition, behavior: 'smooth' });
+
+     playlistDisplay.scrollTo({ top: adjustedTopPosition, behavior: 'smooth' });
    }
  }
+ 
+ 
  
  // Navigate up/down options
  function navigateOption(direction) {
