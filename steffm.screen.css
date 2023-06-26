@@ -486,7 +486,7 @@ h1 {
 	top: 0.0625em;
 	--transitionTime: 0.1s;
 }
-.player button:focus, .player button.keyDown, .playlist button:focus, .playlist button.keyDown {
+.player button.focus, .player button.keyDown, .playlist button.focus, .playlist button.keyDown {
 	top: 0.125em;
 	transform: scale(0.97);
 	box-shadow: inset 0 0 0.5em 0.5em #0007;

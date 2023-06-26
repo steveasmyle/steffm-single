@@ -252,25 +252,44 @@ updatePerspective(
          console.log("Mixcloud widget ready");
  
          const volumeUpButton = document.getElementById('volumeUp');
-         const volumeDownButton = document.getElementById('volumeDown');
- 
-         volumeUpButton.addEventListener('mousedown', function() {
-             volumeUp();
-             mixState.timeoutId = setTimeout(function() {
-             mixState.intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
-             }, config.keyHold.initialDelay);
-         });
- 
-         volumeDownButton.addEventListener('mousedown', function() {
-             volumeDown();
-             mixState.timeoutId = setTimeout(function() {
-             mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
-             }, config.keyHold.initialDelay);
-         });
+         const volumeDownButton = document.getElementById('volumeDown'); 
+         const buttons = document.getElementsByTagName('button');
+
+         let buttonFocusHandler = function(button) {
+            button.classList.add('focus');
+
+            setTimeout(function() {
+                button.classList.remove('focus');
+            }, 200);
+        };
+
+        for (let i = 0; i < buttons.length; i++) {
+            buttons[i].addEventListener('focus', function() {
+                buttonFocusHandler(this);
+            });
+        }
+
+        volumeUpButton.addEventListener('focus', function() {
+            volumeUp();
+            mixState.timeoutId = setTimeout(function() {
+            mixState.intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
+            }, config.keyHold.initialDelay);
+        });
+
+        volumeDownButton.addEventListener('focus', function() {
+            volumeDown();
+            mixState.timeoutId = setTimeout(function() {
+            mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
+            }, config.keyHold.initialDelay);
+        });
  
          volumeUpButton.addEventListener('mouseup', stopChangingVolume);
          volumeDownButton.addEventListener('mouseup', stopChangingVolume);
- 
+        volumeUpButton.addEventListener('mouseleave', stopChangingVolume);
+        volumeDownButton.addEventListener('mouseleave', stopChangingVolume);
+        volumeUpButton.addEventListener('blur', stopChangingVolume);
+        volumeDownButton.addEventListener('blur', stopChangingVolume);
+
          document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
          document.getElementById('play').addEventListener('click', play);
          document.getElementById('pause').addEventListener('click', pause);
