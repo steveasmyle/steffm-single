@@ -282,14 +282,15 @@ h1 {
 	width: 100%;
 	height: 100%;
 }
-#playlistDisplay .coverArt::before {
+/* #playlistDisplay .coverArt::before {
 	background-color: var(--duotoneImageLightColor);
 	mix-blend-mode: darken;
-}
-#playlistDisplay .coverArt::after {
+} */
+/* #playlistDisplay .coverArt::after {
 	background-color: var(--duotoneImageDarkColor);
+	background: repeating-linear-gradient(0deg, var(--duotoneImageDarkColor), rgba(0, 0, 0, .2) 1px, transparent 1px, transparent 2px);
 	mix-blend-mode: lighten;
-}
+} */
 #playlistDisplay .coverArt img {
 	display: block;
 	width: 100%;
