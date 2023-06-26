@@ -267,74 +267,12 @@ updatePerspective(
             });
         }
 
-        const volumeUpButton = document.getElementById('volumeUp');
-        const volumeDownButton = document.getElementById('volumeDown');
-        const upButton = document.getElementById('upButton');
-        const downButton = document.getElementById('downButton');
-        const rightButton = document.getElementById('rightButton');
-        const leftButton = document.getElementById('leftButton');
-
-        volumeUpButton.addEventListener('click', function() {
-            volumeUp();
-            mixState.timeoutId = setTimeout(function() {
-            mixState.intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
-            }, config.keyHold.initialDelay);
-        });
-
-        volumeDownButton.addEventListener('click', function() {
-            volumeDown();
-            mixState.timeoutId = setTimeout(function() {
-            mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
-            }, config.keyHold.initialDelay);
-        });
-
-        upButton.addEventListener("click", function() {
-            navigateOption(-1);
-            mixState.timeoutId = setTimeout(function() {
-                mixState.intervalId = setInterval(function() { navigateOption(-1); }, config.keyHold.repeatInterval);
-                }, config.keyHold.initialDelay);
-        });
-
-        downButton.addEventListener("click", function() {
-            navigateOption(1);
-            mixState.timeoutId = setTimeout(function() {
-                mixState.intervalId = setInterval(function() { navigateOption(1); }, config.keyHold.repeatInterval);
-                }, config.keyHold.initialDelay);
-        });
-
-        rightButton.addEventListener("click", function() {
-            navigateRight();
-            mixState.timeoutId = setTimeout(function() {
-                mixState.intervalId = setInterval(navigateRight, config.keyHold.repeatInterval);
-                }, config.keyHold.initialDelay);
-        });
-
-        leftButton.addEventListener("click", function() {
-            navigateLeft();
-            mixState.timeoutId = setTimeout(function() {
-                mixState.intervalId = setInterval(navigateLeft, config.keyHold.repeatInterval);
-                }, config.keyHold.initialDelay);
-        });
-
-        volumeUpButton.addEventListener('mouseup', stopKeyHold);
-        volumeUpButton.addEventListener('mouseleave', stopKeyHold);
-        volumeUpButton.addEventListener('blur', stopKeyHold);
-        volumeDownButton.addEventListener('mouseup', stopKeyHold);
-        volumeDownButton.addEventListener('mouseleave', stopKeyHold);
-        volumeDownButton.addEventListener('blur', stopKeyHold);
-        upButton.addEventListener('mouseup', stopKeyHold);
-        upButton.addEventListener('mouseleave', stopKeyHold);
-        upButton.addEventListener('blur', stopKeyHold);
-        downButton.addEventListener('mouseup', stopKeyHold);
-        downButton.addEventListener('mouseleave', stopKeyHold);
-        downButton.addEventListener('blur', stopKeyHold);
-        rightButton.addEventListener('mouseup', stopKeyHold);
-        rightButton.addEventListener('mouseleave', stopKeyHold);
-        rightButton.addEventListener('blur', stopKeyHold);
-        leftButton.addEventListener('mouseup', stopKeyHold);
-        leftButton.addEventListener('mouseleave', stopKeyHold);
-        leftButton.addEventListener('blur', stopKeyHold);
-
+        document.getElementById('volumeUp').addEventListener('click', leftButton);
+        document.getElementById('volumeDown').addEventListener('click', volumeDown);
+        document.getElementById('upButton').addEventListener('click', function() { navigateOption(-1); });
+        document.getElementById('downButton').addEventListener('click', function() { navigateOption(1); });
+        document.getElementById('rightButton').addEventListener('click', navigateRight);
+        document.getElementById('leftButton').addEventListener('click', navigateLeft);
          document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
          document.getElementById('play').addEventListener('click', play);
          document.getElementById('pause').addEventListener('click', pause);
