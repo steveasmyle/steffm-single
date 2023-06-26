@@ -251,34 +251,32 @@ updatePerspective(
      widget.ready.then(function() {
          console.log("Mixcloud widget ready");
  
-         const upButton = document.getElementById('up');
-         const downButton = document.getElementById('down');
+         const volumeUpButton = document.getElementById('volumeUp');
+         const volumeDownButton = document.getElementById('volumeDown');
  
-         upButton.addEventListener('mousedown', function() {
+         volumeUpButton.addEventListener('mousedown', function() {
              volumeUp();
              mixState.timeoutId = setTimeout(function() {
              mixStateintervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
              }, config.keyHold.initialDelay);
          });
  
-         downButton.addEventListener('mousedown', function() {
+         volumeDownButton.addEventListener('mousedown', function() {
              volumeDown();
              mixState.timeoutId = setTimeout(function() {
              mixState.intervalId = setInterval(volumeDown, config.keyHold.repeatInterval);
              }, config.keyHold.initialDelay);
          });
  
-         upButton.addEventListener('mouseup', stopChangingVolume);
-         downButton.addEventListener('mouseup', stopChangingVolume);
+         volumeUpButton.addEventListener('mouseup', stopChangingVolume);
+         volumeDownButton.addEventListener('mouseup', stopChangingVolume);
  
-         document.getElementById('enter').addEventListener('click', enter);
          document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
          document.getElementById('play').addEventListener('click', play);
          document.getElementById('pause').addEventListener('click', pause);
-         document.getElementById('skipBackward').addEventListener('click', skipBackward);
-         document.getElementById('rewind').addEventListener('click', rewind);
-         document.getElementById('fastForward').addEventListener('click', fastForward);
-         document.getElementById('skipForward').addEventListener('click', skipForward);
+         document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
+         document.getElementById('skipNext').addEventListener('click', skipNext);
+         document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
  
          widget.events.pause.on(pauseListener);
          widget.events.play.on(playListener);
@@ -352,10 +350,6 @@ updatePerspective(
     }
  }
  
- function enter() {
-     // your enter function code here
- }
- 
  function togglePlaylist() {
     var playlistElement = document.querySelector('.playlist'); // selecting the first element with 'playlist' class
     if (playlistElement.style.display === 'none') {
@@ -373,20 +367,16 @@ updatePerspective(
      widget.pause();
  }
  
- function skipBackward() {
-     loadNewMix("my-pair-of-shoes-volume-87");
+ function skipPrevious() {
+   console.log("mixState.mixcloudHeaderInfo", mixState.mixcloudHeaderInfo);
+   mixState.currentIndex = mixState.currentIndex === 0 ? mixState.mixcloudHeaderInfo.data.length - 1 : mixState.currentIndex - 1;
+   loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
  }
- 
- function rewind() {
-     // your rewind function code here
- }
- 
- function fastForward() {
-     // your fastForward function code here
- }
- 
- function skipForward() {
-     loadNewMix("my-pair-of-shoes-volume-88");
+
+ function skipNext() {
+   console.log("mixState.mixcloudHeaderInfo", mixState.mixcloudHeaderInfo);
+   mixState.currentIndex = mixState.currentIndex === mixState.mixcloudHeaderInfo.data.length - 1 ? 0 : mixState.currentIndex + 1;
+   loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
  }
  
  function selectRandomTrack() {
@@ -657,47 +647,6 @@ updatePerspective(
     titleCard.appendChild(coverArtWrapper);  
  
     return titleCard;
- 
-    // let li = document.createElement("li");
-    // li.classList.add('titleCard');
- 
-    // let trackInfo = document.createElement("dl");
- 
-    // let ddSectionNumber = document.createElement("dd");
-    // ddSectionNumber.textContent = sectionNumber;
-    // trackInfo.appendChild(ddSectionNumber);
- 
-    // let ddStartTime = document.createElement("dd");
-    // ddStartTime.textContent = startTime;
-    // trackInfo.appendChild(ddStartTime);
- 
-    // if (coverArt) {
-    //    let imageWrapper = document.createElement("div");
-    //    imageWrapper.classList.add('image-wrapper');
-    //    let image = document.createElement("img");
-    //    image.src = coverArt;
-    //    imageWrapper.appendChild(image);
-    //    trackInfo.appendChild(imageWrapper);
-    // }
- 
-    // let ddTrackName = document.createElement("dd");
-    // ddTrackName.textContent = trackName + " by " + artistName;
-    // trackInfo.appendChild(ddTrackName);
- 
- 
-    // if (remixArtistName) {
-    //    let ddRemixArtistName = document.createElement("dd");
-    //    ddRemixArtistName.textContent = "Remixed by " + remixArtistName;
-    //    trackInfo.appendChild(ddRemixArtistName);
-    // }
- 
-    // let ddPublisher = document.createElement("dd");
-    // ddPublisher.textContent = "Published by " + publisher;
-    // trackInfo.appendChild(ddPublisher);
- 
-    // li.appendChild(trackInfo);
- 
-    // return li;
  }
  
  async function fetchTracklist() {
