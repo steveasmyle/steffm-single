@@ -310,22 +310,28 @@ updatePerspective(
  }
  
  function loadNewMix(mixcloudKey) {
-     mixState.mixcloudKey = mixcloudKey;
- 
-     var widgetElement = document.getElementById('mixcloudWidget');
-     widgetElement.parentNode.removeChild(widgetElement);
- 
-     var newWidgetElement = document.createElement('iframe');
-     newWidgetElement.id = 'mixcloudWidget';
-     newWidgetElement.width = '100%';
-     newWidgetElement.height = '60';
-     newWidgetElement.src = mixState.iframeUrl;
-     newWidgetElement.frameBorder = '0';
-     newWidgetElement.allow = 'autoplay';
-     document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
- 
-     initWidget();
- }
+    mixState.mixcloudKey = mixcloudKey;
+
+    var widgetElement = document.getElementById('mixcloudWidget');
+    widgetElement.parentNode.removeChild(widgetElement);
+
+    var newWidgetElement = document.createElement('iframe');
+    newWidgetElement.id = 'mixcloudWidget';
+    newWidgetElement.width = '100%';
+    newWidgetElement.height = '60';
+    newWidgetElement.src = mixState.iframeUrl;
+    newWidgetElement.frameBorder = '0';
+    newWidgetElement.allow = 'autoplay';
+    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
+
+    initWidget();
+
+    var currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
+
+    if (currentMix) {
+        document.title = `${currentMix.shortName} - Stef.FM`;
+    }
+}
  
  function pauseListener() {
      flagPlay.innerHTML = "";
@@ -367,14 +373,21 @@ updatePerspective(
      widget.pause();
  }
  
+ async function togglePlayPause() {
+    const isPaused = await widget.getIsPaused();
+    if(isPaused) {
+        widget.play();
+    } else {
+        widget.pause();
+    }
+}
+
  function skipPrevious() {
-   console.log("mixState.mixcloudHeaderInfo", mixState.mixcloudHeaderInfo);
    mixState.currentIndex = mixState.currentIndex === 0 ? mixState.mixcloudHeaderInfo.data.length - 1 : mixState.currentIndex - 1;
    loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
  }
 
  function skipNext() {
-   console.log("mixState.mixcloudHeaderInfo", mixState.mixcloudHeaderInfo);
    mixState.currentIndex = mixState.currentIndex === mixState.mixcloudHeaderInfo.data.length - 1 ? 0 : mixState.currentIndex + 1;
    loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
  }
@@ -528,7 +541,7 @@ updatePerspective(
        mixState.mixcloudItemInfo.notes
     )
    );
- 
+
  
    // Fetch and add track list
    let tracklistData = await fetchTracklist();
@@ -758,6 +771,12 @@ function setCurrentActiveItem(parent, index) {
      case "ArrowRight": navigateRight(); break;
      case "ArrowLeft": navigateLeft(); break;
      case "Enter": navigateRight(); break;
+     case "Space": togglePlayPause(); break;
+     case "KeyJ": skipPrevious(); break;
+     case "KeyK": togglePlayPause(); break;
+     case "KeyL": skipNext(); break;
+     case "KeyA": volumeUp(); break;
+     case "KeyZ": volumeDown(); break;
    }
  });
  
