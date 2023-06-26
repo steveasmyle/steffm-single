@@ -257,7 +257,7 @@ updatePerspective(
          volumeUpButton.addEventListener('mousedown', function() {
              volumeUp();
              mixState.timeoutId = setTimeout(function() {
-             mixStateintervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
+             mixState.intervalId = setInterval(volumeUp, config.keyHold.repeatInterval);
              }, config.keyHold.initialDelay);
          });
  
@@ -289,25 +289,45 @@ updatePerspective(
      clearInterval(mixState.intervalId);
  }
  
- function volumeUp() {
-     widget.getVolume().then(volume => {
-         if (volume + config.volumeIncrement <= 1) {
-             widget.setVolume(volume + config.volumeIncrement);
-         } else {
-             widget.setVolume(1);
-         }
-     });
- }
- 
- function volumeDown() {
-     widget.getVolume().then(volume => {
-         if (volume - config.volumeIncrement >= 0) {
-             widget.setVolume(volume - config.volumeIncrement);
-         } else {
-             widget.setVolume(0);
-         }
-     });
- }
+ // Function to display the volume indicator
+function displayVolumeIndicator(volume) {
+    let volumeIndicator = document.getElementById('displayMain');
+
+    let maxVolumeIndicator = 11;  // max number of dashes to display
+    let dashesCount = Math.round(volume * maxVolumeIndicator);
+
+    // Generate dashes
+    let dashes = '';
+    for (let i = 0; i < dashesCount; i++) {
+        dashes += '-<br>';
+    }
+
+    volumeIndicator.innerHTML = dashes;
+}
+
+// Function to increase volume
+function volumeUp() {
+    widget.getVolume().then(volume => {
+        if (volume + config.volumeIncrement <= 1) {
+            widget.setVolume(volume + config.volumeIncrement);
+        } else {
+            widget.setVolume(1);
+        }
+        displayVolumeIndicator(volume);
+   });
+}
+
+// Function to decrease volume
+function volumeDown() {
+    widget.getVolume().then(volume => {
+        if (volume - config.volumeIncrement >= 0) {
+            widget.setVolume(volume - config.volumeIncrement);
+        } else {
+            widget.setVolume(0);
+        }
+        displayVolumeIndicator(volume);
+   });
+}
  
  function loadNewMix(mixcloudKey) {
     mixState.mixcloudKey = mixcloudKey;
@@ -707,7 +727,7 @@ function setCurrentActiveItem(parent, index) {
         playlistDisplay.scrollTo({ top: adjustedTopPosition, behavior: 'smooth' });
     }
 }
-  
+
  // Navigate up/down options
  function navigateOption(direction) {
    let parent;
