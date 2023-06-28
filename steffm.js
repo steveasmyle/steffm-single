@@ -352,11 +352,14 @@ function volumeDown() {
 }
 
 function loadNewMix(mixcloudKey) {
+   // Update mixcloudKey state
    mixState.mixcloudKey = mixcloudKey;
 
+   // Remove previous widget element
    var widgetElement = document.getElementById('mixcloudWidget');
    widgetElement.parentNode.removeChild(widgetElement);
 
+   // Create and append new widget element
    var newWidgetElement = document.createElement('iframe');
    newWidgetElement.id = 'mixcloudWidget';
    newWidgetElement.width = '100%';
@@ -366,13 +369,52 @@ function loadNewMix(mixcloudKey) {
    newWidgetElement.allow = 'autoplay';
    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
 
+   // Initialize the new widget
    initWidget();
 
-   var currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
+   // Find the current mix in the header info
+   currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
 
    if (currentMix) {
+       // Update document title
        document.title = `${currentMix.shortName} - Stef.FM`;
+
+       // Update the display
+       mixState.updateDisplay();
+
+       // Update the scroller
+       mixState.updateScroller();
    }
+
+   let currentMixIndex = mixState.mixcloudHeaderInfo.data.findIndex(mix => mix.mixcloudKey === mixcloudKey);
+   if (currentMixIndex > -1) {
+       mixState.currentIndex = currentMixIndex;
+   } else {
+       console.error(`Could not find mix with key ${mixcloudKey} in mixcloudHeaderInfo`);
+   }
+
+   // Reset currently playing page flag
+   mixState.currentlyPlayingPage = false;
+
+   // Reset last active track
+   mixState.lastActiveTrack = null;
+
+   // Reset progress
+   mixState.progress = 0;
+
+   // Reset the selected mix item
+   mixState.selectedMixItem = null;
+
+   // Reset status
+   mixState.status = "paused";
+
+   // Redraw the mix list
+   populateMixList(); // NOTE: populateMixList needs a category as an argument. Here you should pass the current mix's category
+
+   setCurrentActiveItem(document.getElementById("mixList"), mixState.currentIndex); // This will adjust the scroll
+
+   // Populate 'Currently Playing' page
+   populateCurrentlyPlaying();
 }
 
 function pauseListener() {
@@ -478,13 +520,19 @@ async function togglePlayPause() {
 }
 
 function skipPrevious() {
-   mixState.currentIndex = mixState.currentIndex === 0 ? mixState.mixcloudHeaderInfo.data.length - 1 : mixState.currentIndex - 1;
-   loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
+   if (mixState.currentIndex > 0) { // To prevent going negative
+       mixState.currentIndex--;
+       loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
+   }
 }
 
 function skipNext() {
-   mixState.currentIndex = mixState.currentIndex === mixState.mixcloudHeaderInfo.data.length - 1 ? 0 : mixState.currentIndex + 1;
-   loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
+   // console.log("mixState.currentIndex", mixState.currentIndex);
+   // console.log("mixState.mixcloudKey", mixState.mixcloudKey);
+   if (mixState.currentIndex < mixState.mixcloudHeaderInfo.data.length - 1) { // To prevent exceeding the number of mixes
+       mixState.currentIndex++;
+       loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
+   }
 }
 
 function selectRandomTrack() {
@@ -791,7 +839,7 @@ function setCurrentActiveItem(parent, index) {
 
    if (items.length > 0) {
        items[index].classList.add("active");
-       mixState.currentIndex = index;
+       //mixState.currentIndex = index;
 
        let playlistDisplay = document.querySelector('#playlistDisplay');
        let activeElement = items[index];
