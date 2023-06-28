@@ -1,0 +1,225 @@
+{
+  "mixcloudKey": "cocksoup-dj-collective-ultra-yacht-rock-volume-3",
+  "tracks": [
+    {
+      "publisher": "Columbia",
+      "startTime": "00:00",
+      "trackName": "Give It Up For Love",
+      "artistName": "Ned Doheny",
+      "coverArtDate": "2021-07-20 23:01:48",
+      "coverArtLarge": "https://img.discogs.com/QPyrrQT6SczV8zL4MNztm-CrYKQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2100709-1415810388-8683.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2_W6bRXRa01V8LP0-4Eehyu3hkY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2100709-1415810388-8683.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Motown",
+      "startTime": "04:27",
+      "trackName": "Nice to Have You Back",
+      "artistName": "Nolen & Crossley",
+      "coverArtDate": "2021-07-20 23:01:51",
+      "coverArtLarge": "https://img.discogs.com/gO9libuEV3ISj71huUYUOG-sBeo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714133-1430248396-6945.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/x7exrKhmN0rat8DOziTkzjhR0rU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1714133-1430248396-6945.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "CBS",
+      "startTime": "08:53",
+      "trackName": "Lady Luck",
+      "artistName": "Kenny Loggins",
+      "coverArtDate": "2021-07-20 23:01:53",
+      "coverArtLarge": "https://img.discogs.com/GP3e5uKoXpd38TvNoC01mnhAodA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1343235-1352662688-1248.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ki8xSBMFeyYZBPxvJTQ5a59S14c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1343235-1352662688-1248.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "P-Vine Records",
+      "startTime": "13:41",
+      "trackName": "Costa Rica",
+      "artistName": "William Sikström",
+      "coverArtDate": "2021-07-20 23:01:56",
+      "coverArtLarge": "https://img.discogs.com/vf0sxCcZyOETDULuy8MGil5j3Gc=/fit-in/260x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7414862-1441035584-5142.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Ep2wpPF05oL2O6MQy5xWXxk2EdM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7414862-1441035584-5142.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Blue Corn Music",
+      "startTime": "17:04",
+      "trackName": "On Time",
+      "artistName": "Mingo Fishtrap",
+      "coverArtDate": "2021-07-20 23:01:59",
+      "coverArtLarge": "https://img.discogs.com/jQjjAZeckVq0UgUZ1T3uZJ3vYNU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15467108-1592033146-2215.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/0YRg0zPXNwlnoH1uq1N-LfbmADM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15467108-1592033146-2215.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Columbia",
+      "startTime": "19:58",
+      "trackName": "Waitin' On You",
+      "artistName": "Jimmy Messina",
+      "coverArtDate": "2021-07-20 23:02:01",
+      "coverArtLarge": "https://img.discogs.com/3hFE5zgYJs10eMJwMA3gD2DsORg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2395348-1349169713-6526.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FWU6YA8ovm7WP6AUsrzh0npm66E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2395348-1349169713-6526.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Full Moon",
+      "startTime": "23:11",
+      "trackName": "Fly With Steve Khan",
+      "artistName": "Bill Champlin",
+      "coverArtDate": "2021-07-20 23:02:04",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Canyon",
+      "startTime": "26:57",
+      "trackName": "Silly Crush",
+      "artistName": "Masaki Matsubara",
+      "coverArtDate": "2021-07-20 23:02:06",
+      "coverArtLarge": "https://img.discogs.com/67oSoF_CIpHtaRrzUp6TiZszL60=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114098-1399061788-3741.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/njlVQRTE5J6eFsehP_l-T_vMBMk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4114098-1399061788-3741.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "3BGO Records",
+      "startTime": "30:50",
+      "trackName": "Darlin' Darlin' Baby (Sweet Tender, Love)",
+      "artistName": "Steve Khan",
+      "coverArtDate": "2021-07-20 23:02:09",
+      "coverArtLarge": "https://img.discogs.com/H2_hQKrn-KvRhM-QNIQGKkzZ2I4=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917356-1252329531.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MHtUbCI00ZRz1wzhZT-8UnDHxGA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1917356-1252329531.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "GRP",
+      "startTime": "37:23",
+      "trackName": "Dragonfly",
+      "artistName": "Yukata",
+      "coverArtDate": "2021-07-20 23:02:11",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Kitty Records",
+      "startTime": "42:24",
+      "trackName": "Sexy Dance",
+      "artistName": "Mayayoshi Takanaka",
+      "coverArtDate": "2021-07-20 23:02:14",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 11,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Légère Recordings",
+      "startTime": "48:07",
+      "trackName": "Strangers on a Street",
+      "artistName": "Mamas Gun",
+      "coverArtDate": "2021-07-20 23:02:16",
+      "coverArtLarge": "https://img.discogs.com/-J8MoeLmhMvd9CcidZF7zA3XXOI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11605065-1519294117-8174.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/zudHpSKW2ExZWWx9vtm3VJ5Og6w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11605065-1519294117-8174.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Jagjaguwar",
+      "startTime": "52:08",
+      "trackName": "Follow The Leader",
+      "artistName": "Foxygen",
+      "coverArtDate": "2021-07-20 23:02:19",
+      "coverArtLarge": "https://img.discogs.com/WBozcj9v9Hohbu1yU1p7eS9cwj8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9682944-1619522340-7934.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cIs_DlzFTyCR_xoUoJVzLC2m6Lw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9682944-1619522340-7934.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Freejunket Music",
+      "startTime": "56:05",
+      "trackName": "I.G.Y.",
+      "artistName": "Donald Fagen",
+      "coverArtDate": "2021-07-20 23:02:21",
+      "coverArtLarge": "https://img.discogs.com/u3TUIx1M1DyEzNSKfik7280hSow=/fit-in/599x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1682712-1279848197.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1HeKOCtTtJp4bsiey9VK9lauDkI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1682712-1279848197.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Artisa",
+      "startTime": "1:02:07",
+      "trackName": "Wham Bam Shang-A-Lang",
+      "artistName": "Silver",
+      "coverArtDate": "2021-07-20 23:02:24",
+      "coverArtLarge": "https://img.discogs.com/5fSZTj2_Z4pSm5evPcNpLIrSP_Q=/fit-in/500x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056783-1227378583.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/xQMtcjdPWddsFVhcrFIPc5kGifU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1056783-1227378583.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "James Fox Higgins",
+      "startTime": "1:05:31",
+      "trackName": "Annie (You'll Be Okay)",
+      "artistName": "James Fox Higgins",
+      "coverArtDate": "2021-07-20 23:02:26",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Continental",
+      "startTime": "1:09:29",
+      "trackName": "Tasogare",
+      "artistName": "Mia Yamane",
+      "coverArtDate": "2021-07-20 23:02:29",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Beatservice Records",
+      "startTime": "1:15:17",
+      "trackName": "Point of No Return",
+      "artistName": "Fenomenon",
+      "coverArtDate": "2021-07-20 23:02:32",
+      "coverArtLarge": "https://img.discogs.com/Rn3U0VptAc5JMa_QsQgOZDthzXU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-607486-1537105783-5832.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ivlnhgctArtv5puMLt89lDopf2s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-607486-1537105783-5832.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Call Enzo Music",
+      "startTime": "1:19:19",
+      "trackName": "Fit In",
+      "artistName": "The Norwegian Fords",
+      "coverArtDate": "2021-07-20 23:02:34",
+      "coverArtLarge": "https://img.discogs.com/K8HUj7XK6Q8uLUM3kIBOYb3o17k=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757858-1426003732-5633.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/DQUPe7m8E06u1s2DPhTovOUY7hg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6757858-1426003732-5633.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Island Records",
+      "startTime": "1:22:27",
+      "trackName": "Lost",
+      "artistName": "Jonathan Jeremiah",
+      "coverArtDate": "2021-07-20 23:02:37",
+      "coverArtLarge": "https://img.discogs.com/XIc31X4qJwVgSX6c6uXfwwkJZx4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2858303-1330775142.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4yqYpNAsNDf8KhZ6hi9Rux_wxJ0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2858303-1330775142.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-108",
+  "tracks": [
+    {
+      "publisher": "Krome Boulevard Music",
+      "startTime": "00:00",
+      "trackName": "Come To Life",
+      "artistName": "Freaky Behaviour",
+      "coverArtDate": "2021-08-04 22:40:38",
+      "coverArtLarge": "https://img.discogs.com/9JzZEtM6cZV9AJO8hc2TWFZhmqI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10755084-1503735454-3984.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gMHiUfRITTVKgG_Tg8OP-JyTgEA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10755084-1503735454-3984.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "05:58",
+      "trackName": "The Moon Track",
+      "artistName": "Finest Wear & Jon Delerious",
+      "coverArtDate": "2021-08-04 22:40:40",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Mobilee Records",
+      "startTime": "11:44",
+      "trackName": "Easy Duke",
+      "artistName": "Kevin Over",
+      "coverArtDate": "2021-08-04 22:40:43",
+      "coverArtLarge": "https://img.discogs.com/FWzEOqmOSTuCjiy1JnJM6zRlrMw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10629442-1501262365-1169.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rqowulnOxHJM69N7SRW-0U9GGOc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10629442-1501262365-1169.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Street King",
+      "startTime": "14:04",
+      "trackName": "Step into a Groove",
+      "artistName": "Homero Espinosa",
+      "coverArtDate": "2021-08-04 22:40:46",
+      "coverArtLarge": "https://img.discogs.com/taWKIS6QJlaHR6OXgzSz1Qit6dM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7687032-1446737385-7285.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CICUreT3Qi0AmKj_BzlXx17A2hg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7687032-1446737385-7285.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Forteba Alternative Remix"
+    },
+    {
+      "publisher": "Foliage Records",
+      "startTime": "19:26",
+      "trackName": "Over The Sun",
+      "artistName": "Dilouya feat. Omar",
+      "coverArtDate": "2021-08-04 22:40:48",
+      "coverArtLarge": "https://img.discogs.com/h0UmHsi1nU7nVibQYAVM6PXi-4c=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9411670-1480105064-1073.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/8lWRhLXsVKX2B5BJhuA28lcmRak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9411670-1480105064-1073.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Atjazz Afro Tech Dub"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "24:31",
+      "trackName": "Reading You",
+      "artistName": "Jakobin & Domino",
+      "coverArtDate": "2021-08-04 22:40:51",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "31:41",
+      "trackName": "The Mysterious Walk Of Life",
+      "artistName": "Moon Rocket",
+      "coverArtDate": "2021-08-04 22:40:53",
+      "coverArtLarge": "https://img.discogs.com/jtXaK5m8hoha4WgFF27u9skypEA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235686-1493886259-9266.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/wzNR4s8EV78gz6i_d5GZLVNRtO4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10235686-1493886259-9266.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Dirt Crew Recordings",
+      "startTime": "36:54",
+      "trackName": "Uncle Buck",
+      "artistName": "Harry Wolfman & Loz Goddard",
+      "coverArtDate": "2021-08-04 22:40:56",
+      "coverArtLarge": "https://img.discogs.com/L-8wcn1-OiMmHCT8GaZ7kOwzKS8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8035551-1483125226-9766.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/J6KztGCVhbbHmjsIFR2WZrW4ftU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8035551-1483125226-9766.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Brame & Hamo Remix"
+    },
+    {
+      "publisher": "Closer To Truth",
+      "startTime": "42:07",
+      "trackName": "Trees Breez",
+      "artistName": "Intr0beatz",
+      "coverArtDate": "2021-08-04 22:40:58",
+      "coverArtLarge": "https://img.discogs.com/rF1tU-LwbjNRImDJ6lilIGG7yDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10751930-1503668785-9539.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YPf3RJZqpAXVRH3RfqR75JWai20=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10751930-1503668785-9539.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Classic Music Company",
+      "startTime": "46:41",
+      "trackName": "Loubar's Stars",
+      "artistName": "Armless Kid feat. Queen Rose",
+      "coverArtDate": "2021-08-04 22:41:01",
+      "coverArtLarge": "https://img.discogs.com/ZKya2Me-U6tS08r-umc5WZRh_9g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11131054-1510430078-9969.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/28zZqdxZkdjaT2nElGNt45pr6FQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11131054-1510430078-9969.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Madhouse Records",
+      "startTime": "50:20",
+      "trackName": "Destiny",
+      "artistName": "DJ Steaw",
+      "coverArtDate": "2021-08-04 22:41:03",
+      "coverArtLarge": "https://img.discogs.com/yHPK4sqN-ybayuFjgN9Qlte4UGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10968315-1507388435-9864.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/u08_CyvJvLlKYqP_UYB7Ft2aqVQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10968315-1507388435-9864.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Party Like Us Records",
+      "startTime": "57:07",
+      "trackName": "Bae",
+      "artistName": "Petey Clicks",
+      "coverArtDate": "2021-08-04 22:41:06",
+      "coverArtLarge": "https://img.discogs.com/-gBNjcVt9DYDwmLP_LfpEZFDGUE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8302301-1458946868-5995.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Zaak0rQ-FpBMje7PRqVInH6oEQI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8302301-1458946868-5995.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Pogo House Records",
+      "startTime": "1:00:22",
+      "trackName": "House Induction",
+      "artistName": "4Tek",
+      "coverArtDate": "2021-08-04 22:41:08",
+      "coverArtLarge": "https://img.discogs.com/NGzGZIH1anAohvpr62JyDc5yi1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9995288-1489854289-4496.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ESFz1qhV5va-O2qEMVkd4b_iD8Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9995288-1489854289-4496.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Body Rhythm Records",
+      "startTime": "1:05:04",
+      "trackName": "All I Want",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-08-04 22:41:11",
+      "coverArtLarge": "https://img.discogs.com/DzA-6TvV1ROuvTq88hbrnTHZ0ZU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7491664-1442584726-2224.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_bl8JawJvjC1Uem-uIBh4Xpu2t0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7491664-1442584726-2224.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "1:09:53",
+      "trackName": "The Only One",
+      "artistName": "Crackazat",
+      "coverArtDate": "2021-08-04 22:41:13",
+      "coverArtLarge": "https://img.discogs.com/cyigVuUTbOOV_6n5H501e9NnKtI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11185014-1511725097-2647.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/t3_bf43V8Cl4VQ7IBPQRZtKji-I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11185014-1511725097-2647.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "1:15:06",
+      "trackName": "Be With You",
+      "artistName": "Cup & String",
+      "coverArtDate": "2021-08-04 22:41:16",
+      "coverArtLarge": "https://img.discogs.com/D8GR6d3o5RaBMwEsaIRFSef9LjU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6520299-1484082506-7358.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/f97R8gq2m6p9qcqrthmoKVBya24=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6520299-1484082506-7358.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Pole Position Recordings",
+      "startTime": "1:19:48",
+      "trackName": "Bonne Nouvelle",
+      "artistName": "Sable Blanc",
+      "coverArtDate": "2021-08-04 22:41:18",
+      "coverArtLarge": "https://img.discogs.com/gpNKNea1mRXb8NyG0YRYKCBm-Bo=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10628502-1627761333-3526.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/D589NU3dYhEtwe0iDJQ9stxmI_c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10628502-1627761333-3526.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "R&S Records",
+      "startTime": "1:24:00",
+      "trackName": "From a Past Life",
+      "artistName": "Lone",
+      "coverArtDate": "2021-08-04 22:41:21",
+      "coverArtLarge": "https://img.discogs.com/4tJw-C965X-kP7A0q_wSLoKg02g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10204696-1493368221-4268.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/fOat_ntRS-q0hLueQ4NGywG68ag=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10204696-1493368221-4268.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:30:29",
+      "trackName": "Wanna Go",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-04 22:41:23",
+      "coverArtLarge": "https://img.discogs.com/L5ZaI7pbHo9QCLEXsTBT71Yf7bM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10131857-1492183134-4294.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1-ccKQ36TBlKkNJ4SZDcK1_GO5g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10131857-1492183134-4294.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:35:04",
+      "trackName": "That's When",
+      "artistName": "James Benedict",
+      "coverArtDate": "2021-08-04 22:41:26",
+      "coverArtLarge": "https://img.discogs.com/T9j13_Bc-BrADbFsnZu4zGX6JL4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10662061-1501926509-9113.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sBqCZ8xddTlaUVlKDFKTRmoDltc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10662061-1501926509-9113.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Classic Music Company",
+      "startTime": "1:40:04",
+      "trackName": "Insight",
+      "artistName": "Bwi-Bwi",
+      "coverArtDate": "2021-08-04 22:41:28",
+      "coverArtLarge": "https://img.discogs.com/xzRU2xeyA2WoNwFJrk0rnLXWcpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15359990-1590277428-9231.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cu9-NkeMsa_BwynqmUFOn3P8-Ds=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15359990-1590277428-9231.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "MCDE Recordings",
+      "startTime": "1:46:43",
+      "trackName": "My Son's Smile",
+      "artistName": "Pablo Valentino",
+      "coverArtDate": "2021-08-04 22:41:31",
+      "coverArtLarge": "https://img.discogs.com/bpz2eiwwfGvopXm5V3BT5v-xCZI=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10684722-1508796753-8297.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/WwsAGiKoWkjBRPIt6cfMrcWrtkg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10684722-1508796753-8297.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Anjunadeep",
+      "startTime": "1:51:25",
+      "trackName": "I Want Your Attention",
+      "artistName": "Moon Boots feat. Fiora",
+      "coverArtDate": "2021-08-04 22:41:33",
+      "coverArtLarge": "https://img.discogs.com/qZF39g91_qhklPkfEZ_Xz1e2JI8=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11339290-1514543292-4649.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/kXOarya5cMM-WLiTs83PZ_ulNqM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11339290-1514543292-4649.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "PIV Records",
+      "startTime": "1:56:07",
+      "trackName": "Wanna Dance",
+      "artistName": "Chris Stussy",
+      "coverArtDate": "2021-08-04 22:41:36",
+      "coverArtLarge": "https://img.discogs.com/KY3A-HgSZlBJcTYk3EITL6PbduU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9548771-1482511548-4684.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ROU8J5HUPkKR1dYVTDmmxXWUeWw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9548771-1482511548-4684.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Studioheist Remix"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-116",
+  "tracks": [
+    {
+      "publisher": "Local Talk",
+      "startTime": "00:00",
+      "trackName": "Bound",
+      "artistName": "NY*AK feat. Franc Syx",
+      "coverArtDate": "2021-07-26 17:15:16",
+      "coverArtLarge": "https://img.discogs.com/rEu-NWyisTqggKWEeGIRDBEiAqg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11643402-1519928414-8541.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nHhM2FQwiKjQOatyOdXBamfw1w0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11643402-1519928414-8541.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Reel People Music",
+      "startTime": "06:51",
+      "trackName": "Can't Fake The Feeling",
+      "artistName": "Reel People feat. Navasha Daya",
+      "coverArtDate": "2021-07-26 17:15:19",
+      "coverArtLarge": "https://img.discogs.com/Qlf0jzTWJsVE6gG75QEz3UDdhl4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11898706-1525289587-1726.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/0bFOQUStYlb_pLlFDD3fQ2XpQ-A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11898706-1525289587-1726.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "John Morales M+M Main Mix"
+    },
+    {
+      "publisher": "Sweat It Out",
+      "startTime": "13:55",
+      "trackName": "Encore",
+      "artistName": "Purple Disco Machine ft. Baxter",
+      "coverArtDate": "2021-07-26 17:15:22",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 3,
+      "remixArtistName": "Mousse T. Remix"
+    },
+    {
+      "publisher": "Groovy Riddim Records",
+      "startTime": "18:30",
+      "trackName": "Check Out",
+      "artistName": "El Funkador",
+      "coverArtDate": "2021-07-26 17:15:24",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Future Vision Records",
+      "startTime": "24:34",
+      "trackName": "Jazz Funk Freedom",
+      "artistName": "Ron Trent",
+      "coverArtDate": "2021-07-26 17:15:27",
+      "coverArtLarge": "https://img.discogs.com/3acg2eLLX4fq_N9Iaxr7pT6ipX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1550431-1452284043-7204.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/--Z1dW7Tjy3G9JMJsL3eHSj3ZPc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1550431-1452284043-7204.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "BBE",
+      "startTime": "32:57",
+      "trackName": "Everybody Loves The Sunshine",
+      "artistName": "Gabriele Poso",
+      "coverArtDate": "2021-07-26 17:15:29",
+      "coverArtLarge": "https://img.discogs.com/xskomSD15K1n2ynNiM9U9QK5kWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11990623-1526127638-8754.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7esrZiecbCr0fmBfjUwOzm-TvAA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11990623-1526127638-8754.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Opolopo Remix"
+    },
+    {
+      "publisher": "Bobbin Head Music",
+      "startTime": "38:57",
+      "trackName": "Say Hi",
+      "artistName": "Magnifik",
+      "coverArtDate": "2021-07-26 17:15:32",
+      "coverArtLarge": "https://img.discogs.com/91xZUZ5qme_bzbSC2LLI0kw4-58=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14130650-1568397720-7172.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NiJmwdoe5tg_rpEiriBzWkUz_Xc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14130650-1568397720-7172.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Body Rhythm",
+      "startTime": "43:46",
+      "trackName": "All My Love Inside",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-07-26 17:15:34",
+      "coverArtLarge": "https://img.discogs.com/OomVBvK7wYtsjifb5J0soDexwlw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12620277-1538750521-1939.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XWzjIDxvWErZWnPb7d19huAGsS4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12620277-1538750521-1939.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Check It Out Records",
+      "startTime": "48:17",
+      "trackName": "No More Love (Part 1)",
+      "artistName": "Kelvin Sylvester & Lee Wilson",
+      "coverArtDate": "2021-07-26 17:15:37",
+      "coverArtLarge": "https://img.discogs.com/TgtcVT5K7kQayiPhwCY2MB318PU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10132705-1492194375-5704.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/jIx2t2kDC0kGgyL36XecckX16PM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10132705-1492194375-5704.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Michele Chiavarini Main Mix"
+    },
+    {
+      "publisher": "RFB Colours",
+      "startTime": "54:58",
+      "trackName": "Again",
+      "artistName": "L'Atelier",
+      "coverArtDate": "2021-07-26 17:15:39",
+      "coverArtLarge": "https://img.discogs.com/pC0qDFvxPbcsBohoFJWyy1I4MT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2866979-1304734932.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7WqIuR0VdgDFk--o18FwnjCRLuQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2866979-1304734932.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Soulfuric Deep",
+      "startTime": "1:00:34",
+      "trackName": "Can't Get Enough!",
+      "artistName": "Soulsearcher",
+      "coverArtDate": "2021-07-26 17:15:42",
+      "coverArtLarge": "https://img.discogs.com/PYAXYM-YBp0QSZKszx8-ZmU6Czo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10769-1433272308-8175.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CT2aI0X-n5riVv8P5KHFpv2B2HE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10769-1433272308-8175.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Illyus & Barrentos Extended Last Boogie Mix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:05:54",
+      "trackName": "The Sweetest Pain",
+      "artistName": "S.E.L & Gary Hudgins",
+      "coverArtDate": "2021-07-26 17:15:44",
+      "coverArtLarge": "https://img.discogs.com/ciYgD4JxmP8UlanoeTY0U7VOGCw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11902225-1525088959-1415.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rXw_lXjvMKyWtFVDRCT_0N7QItw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11902225-1525088959-1415.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "John Morales M+M Vocal Remix"
+    },
+    {
+      "publisher": "Tropical Velvet",
+      "startTime": "1:14:04",
+      "trackName": "Join Us",
+      "artistName": "David Penn feat. Lisa Millet",
+      "coverArtDate": "2021-07-26 17:15:47",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 13,
+      "remixArtistName": "Full Intention Remix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "1:19:13",
+      "trackName": "Reprise De Fonk",
+      "artistName": "Art Of Tones",
+      "coverArtDate": "2021-07-26 17:15:50",
+      "coverArtLarge": "https://img.discogs.com/eWchpju_LD0NYBF7Xvd2j3scEWg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11919171-1524994399-2386.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bMqn1yVFqQOiIdsHckdyV_9V1OI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11919171-1524994399-2386.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Groove Culture",
+      "startTime": "1:24:56",
+      "trackName": "Special Love",
+      "artistName": "Jestofunk feat. Jocelyn Brown",
+      "coverArtDate": "2021-07-26 17:15:52",
+      "coverArtLarge": "https://img.discogs.com/bRQYyVWZItL6LbP_4KL8D9o-ECw=/fit-in/577x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-63146-1161706869.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/fRjrP53mKMcEKLss1Z0XUJUckEo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-63146-1161706869.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Micky More & Andy Tee Jazzy Vocal Mix"
+    },
+    {
+      "publisher": "Rhemi Music",
+      "startTime": "1:31:10",
+      "trackName": "Diamond",
+      "artistName": "Rhemi feat. Hanlei",
+      "coverArtDate": "2021-07-26 17:15:55",
+      "coverArtLarge": "https://img.discogs.com/PcwdHpAxn5HYJ0aY8JnJwoi2334=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7688408-1446761991-3941.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3qrE_O10AZBF6_r7ZLwqoucIaM0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7688408-1446761991-3941.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "DJ Spen & Michele Chiavarini Remix"
+    },
+    {
+      "publisher": "Capitaldisko",
+      "startTime": "1:38:38",
+      "trackName": "Because of You",
+      "artistName": "Michele Chiavarini, Paul Venice & Mike Belmondo feat. Pete Simpson",
+      "coverArtDate": "2021-07-26 17:15:57",
+      "coverArtLarge": "https://img.discogs.com/f_kSmGf_-1szrqm6199U6QiBkKg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11914911-1524662190-5083.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1Qry8hkTgtV0ZNabnTbYAzI7Pjw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11914911-1524662190-5083.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Things May Change!",
+      "startTime": "1:45:19",
+      "trackName": "Forever Luv",
+      "artistName": "Groove Assassin",
+      "coverArtDate": "2021-07-26 17:16:00",
+      "coverArtLarge": "https://img.discogs.com/Ueci0v36wcmqazT2sAds6wtusYo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12607079-1538490902-7326.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/c4JWItA69aUCLCnUekBEJYyT8Wg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12607079-1538490902-7326.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Lazy Starfish Records",
+      "startTime": "1:50:30",
+      "trackName": "Mystery",
+      "artistName": "Neslo and The Firebirds",
+      "coverArtDate": "2021-07-26 17:16:02",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Cruise Music",
+      "startTime": "1:54:47",
+      "trackName": "Superlovin'",
+      "artistName": "Mark Funk & Danny Cruz",
+      "coverArtDate": "2021-07-26 17:16:05",
+      "coverArtLarge": "https://img.discogs.com/TtUTR-L6EAWE0cKeAuKNuHa7ne8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14442778-1574613557-2158.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MTSyVe52IwHv7H-bBtFgJ3YH994=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14442778-1574613557-2158.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    }
+  ]
+}

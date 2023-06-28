@@ -1,0 +1,280 @@
+{
+  "mixcloudKey": "adventures-in-decent-music-volume-42",
+  "tracks": [
+    {
+      "publisher": "Cosmic Chronic",
+      "startTime": "00:00",
+      "trackName": "The Witching Hour",
+      "artistName": "Psychic Mirrors",
+      "coverArtDate": "2021-08-19 08:44:49",
+      "coverArtLarge": "https://img.discogs.com/-YfHfATCDYS86oaV0ixVtYo6JiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3847992-1346753791-2498.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MfRvWZIVAsICOJXWn6Rs2A-bX4w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3847992-1346753791-2498.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "BSTRD Boots",
+      "startTime": "04:18",
+      "trackName": "Never Gonna Give You Up",
+      "artistName": "Rick Astley",
+      "coverArtDate": "2021-08-19 08:44:52",
+      "coverArtLarge": "https://img.discogs.com/2e3s-w-JF4jdIeUTkIXjTsJY9Kw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-249504-1334592212.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/B6Jhg03KWlxWnhEyFkeVF4J2wLk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-249504-1334592212.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Drop Out Orchestra Dub"
+    },
+    {
+      "publisher": "Hunter Recordings",
+      "startTime": "09:11",
+      "trackName": "Sunshine",
+      "artistName": "Rodney Hunter feat. Jay Sebag",
+      "coverArtDate": "2021-08-19 08:44:54",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Gutterfunk",
+      "startTime": "14:53",
+      "trackName": "Holding You Tight",
+      "artistName": "Sure Thing",
+      "coverArtDate": "2021-08-19 08:44:57",
+      "coverArtLarge": "https://img.discogs.com/FvlkIvv90Iox-zv5th2SRjt04IY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3933485-1349713350-5914.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Un92xZCKIJCb33wT7TkCLxzvt2M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3933485-1349713350-5914.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Permanent Vacation",
+      "startTime": "17:59",
+      "trackName": "Need Your Lovin",
+      "artistName": "Tensnake",
+      "coverArtDate": "2021-08-19 08:45:00",
+      "coverArtLarge": "https://img.discogs.com/GDrYbT2_oqN_ny-8NwKWMKBSaXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254010-1445287488-9315.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/udTNO_HCWVWnHLoNY-IQ2nVD8v0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3254010-1445287488-9315.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Tiger & Woods Remix"
+    },
+    {
+      "publisher": "Jalapeno Records",
+      "startTime": "20:16",
+      "trackName": "Good For The City",
+      "artistName": "Kraak & Smaak ft. Sam Duckworth",
+      "coverArtDate": "2021-08-19 08:45:02",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Masterworks Music",
+      "startTime": "23:26",
+      "trackName": "Sunshine",
+      "artistName": "Dr. Packer",
+      "coverArtDate": "2021-08-19 08:45:05",
+      "coverArtLarge": "https://img.discogs.com/ddDwxIU2rkpZCu7FTcoWGSBLstk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8518749-1463243420-1220.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mMJhrlQY2ukKWMsqLAMhAB04_X4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8518749-1463243420-1220.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Wolf Music Recordings",
+      "startTime": "28:33",
+      "trackName": "Cream",
+      "artistName": "Greymatter feat. KRL",
+      "coverArtDate": "2021-08-19 08:45:07",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Futureboogie Recordings",
+      "startTime": "31:59",
+      "trackName": "Clouds",
+      "artistName": "Crazy P",
+      "coverArtDate": "2021-08-19 08:45:10",
+      "coverArtLarge": "https://img.discogs.com/L9I02eIdjqTuusvcUF0kZ8v-h68=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5067194-1383595416-4048.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9gLVzMqK7F_1HaH_JoUVF2M7xqs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5067194-1383595416-4048.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Jalapeno Records",
+      "startTime": "35:46",
+      "trackName": "Back Again",
+      "artistName": "Kraak & Smaak feat. John Turrell",
+      "coverArtDate": "2021-08-19 08:45:13",
+      "coverArtLarge": "https://img.discogs.com/kbJR9zA8YZNmKhg41JiKT1DDyxc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6540213-1421580895-1346.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/xRqTVCMn2KUf6HtJAbeCLWAcEJU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6540213-1421580895-1346.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Hot Toddy Remix"
+    },
+    {
+      "publisher": "Faze Action Records",
+      "startTime": "41:57",
+      "trackName": "Magic Touch",
+      "artistName": "Faze Action",
+      "coverArtDate": "2021-08-19 08:45:15",
+      "coverArtLarge": "https://img.discogs.com/Czpy2OEW11WBs4V6YoE4OBKYeuM=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7190239-1435759407-9494.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/xrnYqQz16uG-fSfy-oXlOabD0QM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7190239-1435759407-9494.png.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Beggars Banquet",
+      "startTime": "46:31",
+      "trackName": "Jet Set",
+      "artistName": "Dr. John",
+      "coverArtDate": "2021-08-19 08:45:18",
+      "coverArtLarge": "https://img.discogs.com/pwn5vtZwwNNEj_RHStRWxOFm1WM=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024465-1267984993.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/dmxtqc3mQZa_Y1Qd2vVnqZ7V8UA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2024465-1267984993.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Vendition Records",
+      "startTime": "51:36",
+      "trackName": "Adagio",
+      "artistName": "Nine Lives",
+      "coverArtDate": "2021-08-19 08:45:20",
+      "coverArtLarge": "https://img.discogs.com/pml_jC975Cim2it4Sg8sZlJxMug=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5619528-1398163014-8848.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nLN8iYDIk7km6UvaxNbgmM0wZpI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5619528-1398163014-8848.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Columbia",
+      "startTime": "55:27",
+      "trackName": "Make The World Go Round",
+      "artistName": "DJ Cassidy ft, R Kelly",
+      "coverArtDate": "2021-08-19 08:45:23",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 14,
+      "remixArtistName": "Gigamesh Remix"
+    },
+    {
+      "publisher": "Iglesias Recordings",
+      "startTime": "1:00:09",
+      "trackName": "Roberto Rodriguez Manolo Remix",
+      "artistName": "Magnus Jonsson feat. Earth - A Better Day",
+      "coverArtDate": "2021-08-19 08:45:25",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Delusions Of Grandeur",
+      "startTime": "1:06:01",
+      "trackName": "Never Forget",
+      "artistName": "Session Victim",
+      "coverArtDate": "2021-08-19 08:45:28",
+      "coverArtLarge": "https://img.discogs.com/1cwg7OL8-4jpIZ0I37qVWM7rK6E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296407-1415828078-3204.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/lDwfLU73mwBtEBjT4WAtvNWdHuk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6296407-1415828078-3204.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Wormland White",
+      "startTime": "1:11:00",
+      "trackName": "When I Hear That Music",
+      "artistName": "Ron Basejam",
+      "coverArtDate": "2021-08-19 08:45:30",
+      "coverArtLarge": "https://img.discogs.com/ReIdi3iD8Vt3cdY5Jiy6w0aCUmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981293-1431185661-7852.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/GfNFSbNsoNE2qBvqzknfqtlnSAg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6981293-1431185661-7852.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Editor's Kutz",
+      "startTime": "1:13:50",
+      "trackName": "You & I",
+      "artistName": "Disco Tech",
+      "coverArtDate": "2021-08-19 08:45:33",
+      "coverArtLarge": "https://img.discogs.com/a_i0OE_ERbm5iv6lsGPDmyD_Y98=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513206-1183648722.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/whcK6uQo_aQPH5mUsVUkSvrSZlc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-513206-1183648722.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Monocentric Music",
+      "startTime": "1:21:01",
+      "trackName": "Echoes",
+      "artistName": "Gedeon Luke & The People",
+      "coverArtDate": "2021-08-19 08:45:35",
+      "coverArtLarge": "https://img.discogs.com/XDw4pbRv1OFg1uHXVKgepMXdPk8=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15627177-1594816005-3920.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/BpCXUUchKeCUV0jKDVESL2K5Xv4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15627177-1594816005-3920.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Opolopo Boogie Bounce Remix"
+    },
+    {
+      "publisher": "Peppermint Jam",
+      "startTime": "1:26:31",
+      "trackName": "I Got It",
+      "artistName": "Drop Out Orchestra feat. Yvette",
+      "coverArtDate": "2021-08-19 08:45:38",
+      "coverArtLarge": "https://img.discogs.com/hdG5tb08K2X9-4N6Bn_tqRNGO2Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8570658-1464265729-6060.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/x7wOBA9TvONYOiH6O745OshIQgc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8570658-1464265729-6060.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Melbourne Deepcast",
+      "startTime": "1:32:46",
+      "trackName": "Come On Over",
+      "artistName": "Francis Inferno Orchestra",
+      "coverArtDate": "2021-08-19 08:45:41",
+      "coverArtLarge": "https://img.discogs.com/l44nKpff2f-tXj9CtnLy5nS1KJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8417021-1461186457-3903.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9O6t6nqoceTUUCwrnOfZo65yP-Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8417021-1461186457-3903.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "1:37:29",
+      "trackName": "Flights Over Egypt",
+      "artistName": "Debonair",
+      "coverArtDate": "2021-08-19 08:45:43",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "1:42:20",
+      "trackName": "Love Will Come Again",
+      "artistName": "George Benson",
+      "coverArtDate": "2021-08-19 08:45:46",
+      "coverArtLarge": "https://img.discogs.com/o_Qfp9IPk6uGRO0vyz_34r0F36s=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480125-1579634261-7247.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XnIPtl-7rCvJO-xuR-Kt0s_XQtc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-480125-1579634261-7247.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Joey Negro Edit"
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "1:49:14",
+      "trackName": "Ain't Nobody",
+      "artistName": "Rufus and Chaka Khan",
+      "coverArtDate": "2021-08-19 08:45:48",
+      "coverArtLarge": "https://img.discogs.com/LpDv4AdkEIFG9fJ3AH8wR-Wg_I4=/600x337/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-18982-1447942357-2296.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rR4QW24o7sB988jGXrM5RKn0oy8=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-18982-1447942357-2296.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Late Night Tuff Guy Rework"
+    },
+    {
+      "publisher": "Dessert Island Discs",
+      "startTime": "1:56:31",
+      "trackName": "Out On The Floor",
+      "artistName": "LNTG",
+      "coverArtDate": "2021-08-19 08:45:51",
+      "coverArtLarge": "https://img.discogs.com/iUrzfel48COSK-Uv89A9BD1y-t8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3431845-1628854313-7467.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/e6KZtapYE8ew9463ixo3lf85xXo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3431845-1628854313-7467.jpeg.jpg",
+      "sectionNumber": 25,
+      "remixArtistName": ""
+    }
+  ]
+}

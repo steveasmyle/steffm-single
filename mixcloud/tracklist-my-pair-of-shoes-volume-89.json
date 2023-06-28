@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-89",
+  "tracks": [
+    {
+      "publisher": "Local Talk",
+      "startTime": "00:00",
+      "trackName": "The Rainbow Song",
+      "artistName": "Art Of Tones",
+      "coverArtDate": "2021-12-03 23:04:31",
+      "coverArtLarge": "https://img.discogs.com/Hczzz539KLyieMcphqOgAWYaIPk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7022652-1564474325-1215.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CznQYFM_BF9XbaB0JucrFXVMtvo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7022652-1564474325-1215.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Peppermint Jam",
+      "startTime": "06:40",
+      "trackName": "Let Me Do My Thing",
+      "artistName": "Ferry Ultra ft. Gwen Mcrae",
+      "coverArtDate": "2021-12-03 23:04:33",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Opolopo Dub Remix"
+    },
+    {
+      "publisher": "Rawtone Recordings",
+      "startTime": "11:37",
+      "trackName": "My Last Call",
+      "artistName": "Adri Block",
+      "coverArtDate": "2021-12-03 23:04:35",
+      "coverArtLarge": "https://img.discogs.com/Ke8J6ToXvceF_cVa7okI4OKDhog=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7565151-1444139670-9313.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/DLBi74FNGPmOBVMFFAWVtQ5MR3E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7565151-1444139670-9313.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "GrooveJet Records",
+      "startTime": "16:05",
+      "trackName": "Downtown L.A.",
+      "artistName": "Micky More",
+      "coverArtDate": "2021-12-03 23:04:37",
+      "coverArtLarge": "https://img.discogs.com/ayOeBC141jKQh0-f_0AQ6vpM0Nk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7544650-1443698386-4715.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/p8J2SrPvn7jkJrfUm2vYMb84o68=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7544650-1443698386-4715.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Andy Tee Main Mix"
+    },
+    {
+      "publisher": "Ocean Trax",
+      "startTime": "21:35",
+      "trackName": "Look @ Here Daddy",
+      "artistName": "John Stoongard",
+      "coverArtDate": "2021-12-03 23:04:40",
+      "coverArtLarge": "https://img.discogs.com/tbHYgjqSyqJNDYZ3zVXj-mE1Lu8=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7083885-1433349160-3953.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/idxI6c6OE02e8MXWb7eU3ooZDM8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7083885-1433349160-3953.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Gianni Bini Rootsy Vocal Rework"
+    },
+    {
+      "publisher": "GrooveJet Records",
+      "startTime": "25:39",
+      "trackName": "It's Not Over",
+      "artistName": "Andy Tee & Danny Losito",
+      "coverArtDate": "2021-12-03 23:04:42",
+      "coverArtLarge": "https://img.discogs.com/ITw1s_4Pcq5pCaOYT18u1uPFtgc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7544956-1443705417-7051.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_kNJCWVyN5I5osEoe-AOdRL926A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7544956-1443705417-7051.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Breakdown Mix"
+    },
+    {
+      "publisher": "Freerange Records",
+      "startTime": "30:12",
+      "trackName": "Figure of Speech",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-12-03 23:04:44",
+      "coverArtLarge": "https://img.discogs.com/-dWHAoD4mwgsmewZsnO4jswkm3Y=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7008288-1487324369-4864.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/KxneQNr_E0_fRqEBjbAPMNcRq2o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7008288-1487324369-4864.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "34:11",
+      "trackName": "I Can Feel Your Body Rock",
+      "artistName": "Joey Negro",
+      "coverArtDate": "2021-12-03 23:04:47",
+      "coverArtLarge": "https://img.discogs.com/f2PBxEa5fhxCgSRuPOmvXQnZ8E8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8472811-1462288487-9526.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/U1KStdmzYHfAA0oQOhy1X5JniIc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8472811-1462288487-9526.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "JN Pianohead Dub"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "38:43",
+      "trackName": "Do What You Feel",
+      "artistName": "Joey Negro",
+      "coverArtDate": "2021-12-03 23:04:49",
+      "coverArtLarge": "https://img.discogs.com/fGorzzWUUMwNrZwgit9BJsJueoU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-231891-1614015917-4093.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7TdupJCTb4aSC_5ydvDdB_qy7xA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-231891-1614015917-4093.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "JN Revival Mix"
+    },
+    {
+      "publisher": "Uno Mas Digital Recordings",
+      "startTime": "43:31",
+      "trackName": "Feel Alright",
+      "artistName": "Enea Dj ft. Che Cherry",
+      "coverArtDate": "2021-12-03 23:04:51",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": "Yass Classic Mix"
+    },
+    {
+      "publisher": "Basement Boys Records",
+      "startTime": "50:08",
+      "trackName": "Reach",
+      "artistName": "Jasper Street Co.",
+      "coverArtDate": "2021-12-03 23:04:54",
+      "coverArtLarge": "https://img.discogs.com/5gFeCzJ263Gob1UzfdMJh60DyiA=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7453917-1442010978-5626.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/WWn2wXMYihPvwKBPJbHOebdJ2DQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7453917-1442010978-5626.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "KC+DFP Church Of Disco Mix Dj Friendly Mix"
+    },
+    {
+      "publisher": "Soul City Digital",
+      "startTime": "55:56",
+      "trackName": "No Diggity",
+      "artistName": "Soul Power",
+      "coverArtDate": "2021-12-03 23:04:56",
+      "coverArtLarge": "https://img.discogs.com/lIOT9VrzWh_CgpCoz1UUIUxhxAc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9421074-1480269292-6607.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7bekqvWkQpl80lwUSI4TTvOWeQQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9421074-1480269292-6607.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Soul Power Classic Club Mix"
+    },
+    {
+      "publisher": "Fogbank Recordings",
+      "startTime": "59:38",
+      "trackName": "Paris Friend Chicken",
+      "artistName": "Alec Carlsson",
+      "coverArtDate": "2021-12-03 23:04:58",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 13,
+      "remixArtistName": "J Paul Getto Remix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:05:02",
+      "trackName": "Move Me",
+      "artistName": "The Checkup",
+      "coverArtDate": "2021-12-03 23:05:00",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Gruv Shack Digital",
+      "startTime": "1:12:01",
+      "trackName": "Be My Lover",
+      "artistName": "Khowcie",
+      "coverArtDate": "2021-12-03 23:05:03",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": "Ultra Soul Project Broken Mashup"
+    },
+    {
+      "publisher": "Velcro City Records",
+      "startTime": "1:18:05",
+      "trackName": "Get Down",
+      "artistName": "Prefunk",
+      "coverArtDate": "2021-12-03 23:05:05",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "1:22:42",
+      "trackName": "Sunshine Boogie",
+      "artistName": "Kenny Summit & James Jordan",
+      "coverArtDate": "2021-12-03 23:05:07",
+      "coverArtLarge": "https://img.discogs.com/1pWcRVv54Ugl-sDpIDTMe-KvSR8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7780437-1448635684-3977.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nLJpoz1t6lNEm6BchQ1K3wVTXDc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7780437-1448635684-3977.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Rollerskaters Anthem"
+    },
+    {
+      "publisher": "Rawtone Records",
+      "startTime": "1:27:18",
+      "trackName": "Watcha Gonne Do",
+      "artistName": "Adri Block",
+      "coverArtDate": "2021-12-03 23:05:09",
+      "coverArtLarge": "https://img.discogs.com/VPvM2D1Rtv8EoYrhjzhyfCl59Jc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7564952-1444136280-4058.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/iCCZYfNIXF7LE09mAgGHvJZHGbg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7564952-1444136280-4058.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "1:32:02",
+      "trackName": "When I Think Of You",
+      "artistName": "Stuart Ojelay",
+      "coverArtDate": "2021-12-03 23:05:12",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Dirt Crew Recordings",
+      "startTime": "1:36:24",
+      "trackName": "Thoughts Of She",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-12-03 23:05:14",
+      "coverArtLarge": "https://img.discogs.com/LsohElGKfeBont0bpAWlx2AA9QI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5539733-1396006632-2410.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3sqBbTCTzfaiDIoNaQFgGvbQTy0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5539733-1396006632-2410.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Exploited",
+      "startTime": "1:41:08",
+      "trackName": "Forever Your Friend",
+      "artistName": "James Curd",
+      "coverArtDate": "2021-12-03 23:05:16",
+      "coverArtLarge": "https://img.discogs.com/DSqNYdENlGOhrpkovsOATbUS52Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7921128-1451703313-5866.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/0328k5cuwgGRPjhQEnnK1S_fWf4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7921128-1451703313-5866.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "1:47:05",
+      "trackName": "Get On Up",
+      "artistName": "Opolopo",
+      "coverArtDate": "2021-12-03 23:05:19",
+      "coverArtLarge": "https://img.discogs.com/O_sqdRqZS9DPZeduaRV47Mb16Cs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7030932-1432074538-9245.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/S8qLW4Ajln9Svw16uCJDG_B9qok=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7030932-1432074538-9245.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Album Mix"
+    },
+    {
+      "publisher": "Star Time",
+      "startTime": "1:51:29",
+      "trackName": "Every Woman",
+      "artistName": "Chaka Khan",
+      "coverArtDate": "2021-12-03 23:05:21",
+      "coverArtLarge": "https://img.discogs.com/kfZETC1tTvmuE7UmTBaBpV_Qf5w=/600x563/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-17035-1562005351-3813.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/G1d3cCYDCWRiRPlz7tcMPgxUBpk=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-17035-1562005351-3813.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "The Reflex Revision"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-98",
+  "tracks": [
+    {
+      "publisher": "Soundstate Records",
+      "startTime": "04:32",
+      "trackName": "Waste My Time",
+      "artistName": "Cafe 432 feat. Marcelle Duprey",
+      "coverArtDate": "2021-08-29 22:19:53",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Unique 2 Rhythm",
+      "startTime": "08:35",
+      "trackName": "My Feelin'",
+      "artistName": "AM2PM",
+      "coverArtDate": "2021-08-29 22:19:56",
+      "coverArtLarge": "https://img.discogs.com/UtpaN9GwjMMIJiB6bH0jJEEuRhE=/600x591/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-3757225-1564734627-3753.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/d55di9kcWVQdHa7AbC7wm4adOhQ=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3757225-1564734627-3753.png.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Unique2Rhythm Remix"
+    },
+    {
+      "publisher": "Cut Rec",
+      "startTime": "00:00",
+      "trackName": "Music In The Streets",
+      "artistName": "Re-Tide",
+      "coverArtDate": "2021-08-29 22:19:58",
+      "coverArtLarge": "https://img.discogs.com/xrOiLWTop3i33E9sT3kIPfkUlZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3712615-1477227637-1383.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/dRAU_EtLB8_aHbZx4y961U73rvY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3712615-1477227637-1383.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "MoBlack Records",
+      "startTime": "14:15",
+      "trackName": "Calabash",
+      "artistName": "MoBlack ft. Baba",
+      "coverArtDate": "2021-08-29 22:20:00",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 4,
+      "remixArtistName": "M.Caporale Soul Remix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "18:37",
+      "trackName": "Fanatica",
+      "artistName": "Nova Fronteira",
+      "coverArtDate": "2021-08-29 22:20:02",
+      "coverArtLarge": "https://img.discogs.com/9WJ6Vg7m9aVQyniWRVuihn9kPUs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8806694-1469176808-2243.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/KsvQTQib0DGWNp_rVHws50YKWEQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8806694-1469176808-2243.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Duffnote Recordings",
+      "startTime": "24:20",
+      "trackName": "I'll Be Here",
+      "artistName": "The Checkup ft. John James",
+      "coverArtDate": "2021-08-29 22:20:05",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": "Jeremy Juno Remix"
+    },
+    {
+      "publisher": "Cut Rec Promos",
+      "startTime": "28:51",
+      "trackName": "The Power",
+      "artistName": "Re-Tide",
+      "coverArtDate": "2021-08-29 22:20:07",
+      "coverArtLarge": "https://img.discogs.com/ZXMkCOSmfI5pUGk_M1QsSnyJ6_U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2253620-1340085591-7282.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/LTn553X6NZWiRRV0Xlzv3RbWCxo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2253620-1340085591-7282.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Lutefisk Records",
+      "startTime": "35:25",
+      "trackName": "Naked Attempt",
+      "artistName": "Don Sizzle",
+      "coverArtDate": "2021-08-29 22:20:09",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Original"
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "39:32",
+      "trackName": "Howsmusic",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-08-29 22:20:12",
+      "coverArtLarge": "https://img.discogs.com/-480o2PJn5japUC7y-Jd_ssafWE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8200965-1457161587-3617.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/AHaxw20r6UHmf-E27WtNPHEwWak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8200965-1457161587-3617.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "PPmusic",
+      "startTime": "45:13",
+      "trackName": "Six Years",
+      "artistName": "Funk The Beat feat. Bruno V",
+      "coverArtDate": "2021-08-29 22:20:14",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "50:05",
+      "trackName": "Elevation",
+      "artistName": "SEL",
+      "coverArtDate": "2021-08-29 22:20:16",
+      "coverArtLarge": "https://img.discogs.com/gjoXPevpbe53ncAG5Nyo7mI_yBM=/fit-in/600x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601717-1370701164-2742.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/JMrIlhlCLCTLzPCBXW1gXOk5MUk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-601717-1370701164-2742.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "DJ Spen & Michele Chiavarini Long Version Vocal Mix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "56:08",
+      "trackName": "I Can See It",
+      "artistName": "Lisa Shaw",
+      "coverArtDate": "2021-08-29 22:20:19",
+      "coverArtLarge": "https://img.discogs.com/8m1X1xDosFpRoRfg0-wQTVMeoss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8360650-1460104544-1408.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sVuSSyCaoE9vnflfP4rGTP4Ew4Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8360650-1460104544-1408.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Miguel Migs Salted Vocal Mix"
+    },
+    {
+      "publisher": "Plastik People Digital",
+      "startTime": "1:02:12",
+      "trackName": "Into The Light",
+      "artistName": "Marc Cotterell feat. Doreen Younglove",
+      "coverArtDate": "2021-08-29 22:20:21",
+      "coverArtLarge": "https://img.discogs.com/zNqAxfSaqko3E-IFFYHQIjtRL0M=/fit-in/577x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8086789-1454872361-4718.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/J6I4f-ImQhekM1HooHLJ8-1T79c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8086789-1454872361-4718.png.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Reelsoul Vocal Mix"
+    },
+    {
+      "publisher": "Magnolia Street Records",
+      "startTime": "1:07:53",
+      "trackName": "Get Down With It",
+      "artistName": "Larry A feat. Jamie Aditya",
+      "coverArtDate": "2021-08-29 22:20:23",
+      "coverArtLarge": "https://img.discogs.com/NpmW7PU_TrjYwHysHlFvF4-EQ84=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8973430-1472554380-4279.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/hkZe8VKwWnomhiYkWRk5cdNHY0g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8973430-1472554380-4279.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Michele Chiavarini Remix"
+    },
+    {
+      "publisher": "Purple Music",
+      "startTime": "1:13:55",
+      "trackName": "Ma Quale Idea",
+      "artistName": "Pino D'Angio",
+      "coverArtDate": "2021-08-29 22:20:26",
+      "coverArtLarge": "https://img.discogs.com/BzZ8EbP-7socmV-tZ_bH-8OTkV4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-599954-1350578294-4949.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2c8oaIkGkOhSezbqrGJeLFShTJg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-599954-1350578294-4949.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Jamie Lewis Sex On The Beach Mix"
+    },
+    {
+      "publisher": "Unique 2 Rhythm",
+      "startTime": "1:19:54",
+      "trackName": "Tell Me",
+      "artistName": "Unique2Rhythm feat. Tommie Cotton",
+      "coverArtDate": "2021-08-29 22:20:28",
+      "coverArtLarge": "https://img.discogs.com/Y6L3-nA_JDU5RxRTxS-g5b3Qfa0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8798879-1469005933-4379.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/U94f_qh7r6Tbd2d0RpNgRzo1ydo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8798879-1469005933-4379.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Bandcamp",
+      "startTime": "1:25:10",
+      "trackName": "The Edge Of Deepness",
+      "artistName": "Michele Chiavarini",
+      "coverArtDate": "2021-08-29 22:20:30",
+      "coverArtLarge": "https://img.discogs.com/VwNqYtqCXwGa_xh5rsfYZ3uJvto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8519591-1463254547-7364.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/twEyTZ0MMGcVaMoJuslWeVfmNrE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8519591-1463254547-7364.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Deflect",
+      "startTime": "1:31:30",
+      "trackName": "What Am I Here For",
+      "artistName": "The DangerFeel Newbies",
+      "coverArtDate": "2021-08-29 22:20:33",
+      "coverArtLarge": "https://img.discogs.com/gMLM0ksoF4ZSf0K-nnTNzp1_7gM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7377281-1453038880-4388.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/6l2cxQwdvLCxj3MGmsWVVwW7IRU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7377281-1453038880-4388.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original NDATL Vocal"
+    },
+    {
+      "publisher": "Reel People Music",
+      "startTime": "1:37:40",
+      "trackName": "All The Things You Are",
+      "artistName": "Tony Momrelle",
+      "coverArtDate": "2021-08-29 22:20:35",
+      "coverArtLarge": "https://img.discogs.com/CowUJ3eUN3zFd1moqgs4DrYwc54=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8400353-1487192074-5663.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2i9RynO1bXxEsdB4aCgrwg8JIWU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8400353-1487192074-5663.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Louie Vega Remix"
+    },
+    {
+      "publisher": "Uptown Boogie",
+      "startTime": "1:45:07",
+      "trackName": "Fools Believe",
+      "artistName": "Samma Lone",
+      "coverArtDate": "2021-08-29 22:20:37",
+      "coverArtLarge": "https://img.discogs.com/ZT9BrUpS3VE_BadfxAdu7JfyEek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7875949-1450696948-2604.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4OXqwzmjDbfOPkHAjhRjqeqQN_M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7875949-1450696948-2604.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Quantize Records",
+      "startTime": "1:50:27",
+      "trackName": "Doing Things My Way",
+      "artistName": "Michele Chiavarini feat. Cinnamon Brown",
+      "coverArtDate": "2021-08-29 22:20:40",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": "DJ Spen & Reelsoul Remix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "1:57:40",
+      "trackName": "Hot Medusa",
+      "artistName": "Munk",
+      "coverArtDate": "2021-08-29 22:20:42",
+      "coverArtLarge": "https://img.discogs.com/E7d5SImuzhEXf8MBcu0pWsGHMQk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8122373-1455723174-8273.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/L3f-j6meJrgxShcxz_WL_VJ9raw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8122373-1455723174-8273.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Kai Alce Remix"
+    }
+  ]
+}

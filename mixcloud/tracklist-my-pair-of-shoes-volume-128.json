@@ -1,0 +1,247 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-128",
+  "tracks": [
+    {
+      "publisher": "Rocksteady Disco",
+      "startTime": "00:00",
+      "trackName": "Que Locos",
+      "artistName": "Eddie Logix",
+      "coverArtDate": "2021-07-19 17:10:41",
+      "coverArtLarge": "https://img.discogs.com/GIEUYCa6ONL10Gb_6z-3n9DmOfU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14602852-1577988193-2768.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/-UQlsgQfsWv4h__EdCOjX1Tgw0w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14602852-1577988193-2768.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Stealth Records",
+      "startTime": "04:37",
+      "trackName": "Alma Roja",
+      "artistName": "Roger Sanchez feat. Oba Frank Lords",
+      "coverArtDate": "2021-07-19 17:10:43",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "DJ Chus Remix"
+    },
+    {
+      "publisher": "Unknown",
+      "startTime": "10:02",
+      "trackName": "What A Difference",
+      "artistName": "Earl Tutu & John Khan feat. Mike City",
+      "coverArtDate": "2021-07-19 17:10:46",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 3,
+      "remixArtistName": "Booker T Kings Of Soul Vocal Mix"
+    },
+    {
+      "publisher": "Foliage Records",
+      "startTime": "15:40",
+      "trackName": "Or Stay Alive",
+      "artistName": "Daniel Rateuke feat. Ursula Rucker",
+      "coverArtDate": "2021-07-19 17:10:48",
+      "coverArtLarge": "https://img.discogs.com/cbaxH_P6gqbppmoNLyX8BjVIngQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15887431-1599607795-7346.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/M_arcm57CMzG20J0Q5V2A3nvYiU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15887431-1599607795-7346.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Richard Earnshaw \"Inner Spirit\" Extended Mix"
+    },
+    {
+      "publisher": "Vibe45 Records",
+      "startTime": "19:01",
+      "trackName": "My Paradise",
+      "artistName": "Tony Momrelle",
+      "coverArtDate": "2021-07-19 17:10:51",
+      "coverArtLarge": "https://img.discogs.com/JS6iVgNPzUfZUhQbG-Sc2WH_E2U=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13729885-1559915776-8903.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/wMkIUOsM0Pwgn-ORPjy0DkTxgP4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13729885-1559915776-8903.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Louie Vega Remix"
+    },
+    {
+      "publisher": "Bae Electronica",
+      "startTime": "26:06",
+      "trackName": "Tropic City",
+      "artistName": "Gina Jeanz & Mumbi Kasumba",
+      "coverArtDate": "2021-07-19 17:10:53",
+      "coverArtLarge": "https://img.discogs.com/ETwytcwnR2HbtA0hARCZLPzhu_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15652258-1595270383-3373.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/e8OMw7D-atoyz36rZfcfFfU-3CA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15652258-1595270383-3373.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Simbad Suite"
+    },
+    {
+      "publisher": "Foliage Records",
+      "startTime": "31:22",
+      "trackName": "Things U Do 4 Me",
+      "artistName": "Modaji",
+      "coverArtDate": "2021-07-19 17:10:56",
+      "coverArtLarge": "https://img.discogs.com/6d7iTALLPiOjrKlWbFPImm9ekGs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-97701-1426261567-1648.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MBrUUkq9_Wj7hXH4WLvMjLAqJas=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-97701-1426261567-1648.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "Little Jack",
+      "startTime": "36:12",
+      "trackName": "Freak Like Me",
+      "artistName": "T.Markakis",
+      "coverArtDate": "2021-07-19 17:10:59",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Groove Culture",
+      "startTime": "42:07",
+      "trackName": "Interstellar",
+      "artistName": "The Super Phonics",
+      "coverArtDate": "2021-07-19 17:11:01",
+      "coverArtLarge": "https://img.discogs.com/q5FDD-WkHlzCme1pyM8uw5CyZBg=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1283096-1206224446.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/5HAJQ7ftfZeBVpcqngF2T-q78Mk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1283096-1206224446.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Micky More & Andy Tee Mix"
+    },
+    {
+      "publisher": "Dfctd",
+      "startTime": "48:02",
+      "trackName": "Mountains",
+      "artistName": "The Vision feat. Andreya Triana",
+      "coverArtDate": "2021-07-19 17:11:04",
+      "coverArtLarge": "https://img.discogs.com/ZQVg8c5qKR-7qflV5K5WpPWPbaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18421924-1619175057-6683.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NHpHpSN_DufeFzrKBmddYJBD3Jc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-18421924-1619175057-6683.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Joey Negro Live And Direct Extended Mix"
+    },
+    {
+      "publisher": "SoSure Music",
+      "startTime": "55:21",
+      "trackName": "Get Over U",
+      "artistName": "Frankie Knuckles pres. Director's Cut feat. B. Slade",
+      "coverArtDate": "2021-07-19 17:11:06",
+      "coverArtLarge": "https://img.discogs.com/1BJ4pzVgCnpyeSWhLUPHjMLuDW4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790607-1426066688-3553.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/pKUQBXsACOZSlKQjveX6GVEUqCU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3790607-1426066688-3553.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Tedd Patterson Extended Remix"
+    },
+    {
+      "publisher": "La Vie D'Artiste Music",
+      "startTime": "1:01:22",
+      "trackName": "The Tribute",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-19 17:11:09",
+      "coverArtLarge": "https://img.discogs.com/oDznjRl47Tm_7MfjZ9UKhCg7HEI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/UtZzfvi_TF2Dd_gAusdpd-w1qHU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Big Beat Records",
+      "startTime": "1:04:58",
+      "trackName": "Mama Told Me",
+      "artistName": "Alex Newell",
+      "coverArtDate": "2021-07-19 17:11:11",
+      "coverArtLarge": "https://img.discogs.com/QEClW5aS6S3ILRTN2_wsyKyAQAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15200172-1588006007-2318.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rFqyRiGeIGrMmtIjnenkLqoLviM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15200172-1588006007-2318.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "David Penn Extended Mix"
+    },
+    {
+      "publisher": "Milk & Sugar",
+      "startTime": "1:09:36",
+      "trackName": "Undisputed Queen of Disco",
+      "artistName": "Hatiras & Sebb Junior",
+      "coverArtDate": "2021-07-19 17:11:14",
+      "coverArtLarge": "https://img.discogs.com/P9EO4ecEFYryj1gc29uKFBjEJoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16143892-1604170418-1762.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PZWOa2M9JcSSAV8iCg9qRAoHOAM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-16143892-1604170418-1762.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "LW Recordings",
+      "startTime": "1:15:00",
+      "trackName": "Alright",
+      "artistName": "Namara",
+      "coverArtDate": "2021-07-19 17:11:16",
+      "coverArtLarge": "https://img.discogs.com/DobaFaganjXbAsdqXTwMQ70Pawg=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5260884-1393332795-2336.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/eZWQyxgjRtmEJ1aITZQdENPCoFM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5260884-1393332795-2336.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Sakura Music",
+      "startTime": "1:20:10",
+      "trackName": "Oh Yeah",
+      "artistName": "Tommy Glasses",
+      "coverArtDate": "2021-07-19 17:11:19",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": "Mark Lower Remix"
+    },
+    {
+      "publisher": "HSR Records",
+      "startTime": "1:24:16",
+      "trackName": "If Your Love Is True",
+      "artistName": "Soulbridge feat. Dana Divine",
+      "coverArtDate": "2021-07-19 17:11:22",
+      "coverArtLarge": "https://img.discogs.com/b-JPq9b2nA0-PClp-x5uC_cB68c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15187934-1587840315-8024.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Sz3N-zXTcaXnq92VCHiZ-Ue_y0o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15187934-1587840315-8024.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "SoulHouse",
+      "startTime": "1:31:14",
+      "trackName": "Time After Time",
+      "artistName": "Brian Power Presents Lifford",
+      "coverArtDate": "2021-07-19 17:11:24",
+      "coverArtLarge": "https://img.discogs.com/1rXJ9m4-a5qOS-YP3uHeVNPCkJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11065134-1509204825-7696.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vGiPXVMgdvEGpRKDHidGS8jB-Qo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11065134-1509204825-7696.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Classic Music Company",
+      "startTime": "1:37:24",
+      "trackName": "Love. Hope. Happiness",
+      "artistName": "Luke Solomon feat. Amy Douglas & Queen Rose",
+      "coverArtDate": "2021-07-19 17:11:27",
+      "coverArtLarge": "https://img.discogs.com/KHGEQBAJ7y9BhNYrhI11SreHmmo=/fit-in/600x679/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17352388-1612979267-8105.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3Y21NcydjErovWKQtsGMBjcg_EA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-17352388-1612979267-8105.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Extended Happiness Mix"
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:44:37",
+      "trackName": "Dolla Bill",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-19 17:11:29",
+      "coverArtLarge": "https://img.discogs.com/Ie-HveDYfpiHwATyt9miMjeuqnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16143808-1604169245-3262.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4Fno6XBmIkMWW2yp_m3WpJbRn1k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-16143808-1604169245-3262.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "High Fashion Music",
+      "startTime": "1:49:11",
+      "trackName": "Inside Your Love (2 People)",
+      "artistName": "Disco Dandies feat. Leon Ware",
+      "coverArtDate": "2021-07-19 17:11:32",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Poetry in Motion",
+      "startTime": "1:54:20",
+      "trackName": "Liaison",
+      "artistName": "Erik Ellmann",
+      "coverArtDate": "2021-07-19 17:11:34",
+      "coverArtLarge": "https://img.discogs.com/sBLm-WrUu2PYcTnFPe3r-VayiBE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15804003-1598102518-4497.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/us13TFVbbNsB4vj-OtA7rWuC5Yo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15804003-1598102518-4497.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    }
+  ]
+}

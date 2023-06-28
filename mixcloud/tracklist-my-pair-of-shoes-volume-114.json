@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-114",
+  "tracks": [
+    {
+      "publisher": "Toy Tronics",
+      "startTime": "00:00",
+      "trackName": "Stromboli",
+      "artistName": "Harry Wolfman",
+      "coverArtDate": "2021-07-28 19:35:23",
+      "coverArtLarge": "https://img.discogs.com/iwPVTyem6jW3UrS4d45S5ASDKSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11874478-1523898691-5817.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/8gL2fSLwlm6eJxCMky767cxFnuk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11874478-1523898691-5817.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Juiced Music",
+      "startTime": "05:55",
+      "trackName": "Get Together",
+      "artistName": "Hawksburn",
+      "coverArtDate": "2021-07-28 19:35:26",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soul Revolution Records",
+      "startTime": "11:00",
+      "trackName": "Make It Through",
+      "artistName": "Lombard Street",
+      "coverArtDate": "2021-07-28 19:35:28",
+      "coverArtLarge": "https://img.discogs.com/RTTWQUfiVHCrcvYB9794sO8TvTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15833073-1598631358-8235.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PH_7cdjjXP7mTtb5xQrn_K5uYEk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15833073-1598631358-8235.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Strickktly Riddim",
+      "startTime": "16:30",
+      "trackName": "Moobie Storm Chasers",
+      "artistName": "Timmy P",
+      "coverArtDate": "2021-07-28 19:35:31",
+      "coverArtLarge": "https://img.discogs.com/qBnXv9-FNwdbUAOeLAw4a0McNP0=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13643752-1558151849-5178.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/SwwWfyW3OwEYbKUkwermgB6-YaM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13643752-1558151849-5178.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "2EllE Records",
+      "startTime": "23:50",
+      "trackName": "Boom 909",
+      "artistName": "Yves Rock",
+      "coverArtDate": "2021-07-28 19:35:33",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "SuperDuperSoul",
+      "startTime": "28:50",
+      "trackName": "Feel Alright",
+      "artistName": "Tony S",
+      "coverArtDate": "2021-07-28 19:35:36",
+      "coverArtLarge": "https://img.discogs.com/wVdOFOPmfsFg1-futLOmDtOUT-Y=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326264-1416529212-2635.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/h0mFjY8oko9AkbSV05OEKt8ae7A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6326264-1416529212-2635.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Ross Couch Remix"
+    },
+    {
+      "publisher": "Closer To Truth",
+      "startTime": "33:28",
+      "trackName": "All Day",
+      "artistName": "Jus Tadi",
+      "coverArtDate": "2021-07-28 19:35:38",
+      "coverArtLarge": "https://img.discogs.com/OkyQ2C8dzZip8NTn1YPZHi0Rj3M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11703067-1520938197-6079.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XUEchY2aTNWLZPJPlZ5cz9jOh44=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11703067-1520938197-6079.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Oh! Records Stockholm",
+      "startTime": "39:33",
+      "trackName": "Pink Rupture",
+      "artistName": "Kornum & Karma",
+      "coverArtDate": "2021-07-28 19:35:41",
+      "coverArtLarge": "https://img.discogs.com/sYya1MyHTXdb5rbZR36ZtgXWMbE=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13738000-1560085822-2148.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4dnc4sV8WWAdEEcU2Na_BVuVjrk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13738000-1560085822-2148.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "44:27",
+      "trackName": "Just Not Norma",
+      "artistName": "Detroit Swindle feat. Mark De Clive-Lowe",
+      "coverArtDate": "2021-07-28 19:35:43",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "La Vie D'Artiste Music",
+      "startTime": "49:57",
+      "trackName": "We Used To Say",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-28 19:35:46",
+      "coverArtLarge": "https://img.discogs.com/_84wjDb2Rht2a1B7ZIo9Bea3JTQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11685043-1520773657-7854.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/jag4AAApBGQL5Jk9AfsneHMmui0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11685043-1520773657-7854.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Gents & Dandy's",
+      "startTime": "55:14",
+      "trackName": "Swingin' Times",
+      "artistName": "Khillaudio",
+      "coverArtDate": "2021-07-28 19:35:48",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 11,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "i! Records",
+      "startTime": "1:00:12",
+      "trackName": "Dance Floor Jesus",
+      "artistName": "Matt Mclarrie",
+      "coverArtDate": "2021-07-28 19:35:51",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Nite Grooves",
+      "startTime": "1:05:46",
+      "trackName": "Piano Pop",
+      "artistName": "James Benedict",
+      "coverArtDate": "2021-07-28 19:35:53",
+      "coverArtLarge": "https://img.discogs.com/o7oVbl4b0WhQYvxTY4k49qXocFI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11444805-1516460818-4419.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/189Di23tRWWJ8gZNag7v3ren-jA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11444805-1516460818-4419.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "1:10:45",
+      "trackName": "Big Boy Pants",
+      "artistName": "Opolopo",
+      "coverArtDate": "2021-07-28 19:35:56",
+      "coverArtLarge": "https://img.discogs.com/JcQTBpsC-upwHVJoUSA0jwSsxqU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11698464-1520856830-4811.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MfZFVRFEy0AMt8EYgQ2oz4CODz4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11698464-1520856830-4811.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "WotNot Music",
+      "startTime": "1:14:27",
+      "trackName": "What Would You Know",
+      "artistName": "Charo",
+      "coverArtDate": "2021-07-28 19:35:58",
+      "coverArtLarge": "https://img.discogs.com/oYYUY6nmCfuN_VABmCn4omv4YDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-231175-1297151524.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/DFb0JNRBbdcyn55R0vg50-sbU6M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-231175-1297151524.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "SMBD Dub"
+    },
+    {
+      "publisher": "Closer To Truth",
+      "startTime": "1:19:18",
+      "trackName": "By Your Side",
+      "artistName": "Intr0beatz",
+      "coverArtDate": "2021-07-28 19:36:01",
+      "coverArtLarge": "https://img.discogs.com/rF1tU-LwbjNRImDJ6lilIGG7yDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10751930-1503668785-9539.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YPf3RJZqpAXVRH3RfqR75JWai20=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10751930-1503668785-9539.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Be Adult Music",
+      "startTime": "1:23:38",
+      "trackName": "My Feelings",
+      "artistName": "Eartone feat. Eider",
+      "coverArtDate": "2021-07-28 19:36:03",
+      "coverArtLarge": "https://img.discogs.com/0_1US77QIpOEIs-D9y9ouYLnVRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14472655-1575224272-4691.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/g4Z3b1hLI7iuZCfXcLzUAnosM9Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14472655-1575224272-4691.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Scott Diaz Grand Plans Dub"
+    },
+    {
+      "publisher": "Homage",
+      "startTime": "1:28:55",
+      "trackName": "See You When I Git My Heart Broken",
+      "artistName": "Chevals",
+      "coverArtDate": "2021-07-28 19:36:06",
+      "coverArtLarge": "https://img.discogs.com/KuEZYUWE1GI_nGTVZvw-SIGN7Rc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11137616-1511533062-5223.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/z2ndqXpxrPnGtTdwLVaKzQffqCc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11137616-1511533062-5223.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Pogo House Records",
+      "startTime": "1:35:03",
+      "trackName": "Knees On Zols",
+      "artistName": "Joe Olindo",
+      "coverArtDate": "2021-07-28 19:36:08",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:40:43",
+      "trackName": "Rusty",
+      "artistName": "Raw Underground feat. Sebb Junior",
+      "coverArtDate": "2021-07-28 19:36:11",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nu Faze Records",
+      "startTime": "1:46:02",
+      "trackName": "Ask Me To Come On",
+      "artistName": "DJ Romain",
+      "coverArtDate": "2021-07-28 19:36:13",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Firehouse",
+      "startTime": "1:50:44",
+      "trackName": "Togetherness",
+      "artistName": "Jozef K & Winter Son",
+      "coverArtDate": "2021-07-28 19:36:16",
+      "coverArtLarge": "https://img.discogs.com/3X16g2ZMMozm19g-zhgbwipd9JE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11290872-1513533448-3057.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3XGA6rd2xLdJDIG0a5QqU0GVPBc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11290872-1513533448-3057.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Sampling As An Art Records",
+      "startTime": "1:56:02",
+      "trackName": "OrangePeelSkin",
+      "artistName": "Turbojazz",
+      "coverArtDate": "2021-07-28 19:36:18",
+      "coverArtLarge": "https://img.discogs.com/SuNFlvgSQUJFhXVvMatfuFCnAZM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11711271-1524086796-8270.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/KagivGdKXwgNxaaSrF55dpMQ7tM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11711271-1524086796-8270.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    }
+  ]
+}

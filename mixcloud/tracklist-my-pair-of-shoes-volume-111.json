@@ -1,0 +1,269 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-111",
+  "tracks": [
+    {
+      "publisher": "Simma Black",
+      "startTime": "00:00",
+      "trackName": "The Scene",
+      "artistName": " Audio Bullys",
+      "coverArtDate": "2021-08-02 21:42:31",
+      "coverArtLarge": "https://img.discogs.com/A89RtswPyx4yOsaUHKzdK3xzLLI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11190424-1511553447-7600.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/x159d41-n5hYJB5FEZytT7Pg9P4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11190424-1511553447-7600.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Hatcha & Smokey Bubblin B Remix"
+    },
+    {
+      "publisher": "Let There Be House Records",
+      "startTime": "03:51",
+      "trackName": "Get On Down",
+      "artistName": "Cailum Staats",
+      "coverArtDate": "2021-08-02 21:42:33",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "08:44",
+      "trackName": "RedHouse",
+      "artistName": "Disk Nation",
+      "coverArtDate": "2021-08-02 21:42:36",
+      "coverArtLarge": "https://img.discogs.com/v1BuJ48MLrbVXxajyKTgoLRzv48=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11094052-1509741488-8012.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/aQHPr2EOis4qjLb8h9QFEHM5Gfo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11094052-1509741488-8012.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Different Attitudes",
+      "startTime": "13:18",
+      "trackName": "It's Cool",
+      "artistName": "Deepkeen",
+      "coverArtDate": "2021-08-02 21:42:38",
+      "coverArtLarge": "https://img.discogs.com/EoxdUAw_3eKcpPQ1wIUlpw84THU=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-4625692-1442994709-5004.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/LnhHcDtqib_5ZPF0wJ3LHwUsNIQ=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4625692-1442994709-5004.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Double-Up",
+      "startTime": "17:56",
+      "trackName": "Make You Feel It",
+      "artistName": "Mark Maxwell",
+      "coverArtDate": "2021-08-02 21:42:41",
+      "coverArtLarge": "https://img.discogs.com/KluEXeEckCy_sYoez-UPffdqlew=/fit-in/300x254/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9163296-1475901007-4683.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/jB8TwNUc1ISFnBcHv3UR-XFcJ2o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9163296-1475901007-4683.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soul Revolution Records",
+      "startTime": "21:21",
+      "trackName": "Your Body",
+      "artistName": "Mike Millrain",
+      "coverArtDate": "2021-08-02 21:42:43",
+      "coverArtLarge": "https://img.discogs.com/FxOJsXCGd0-k16_9RdP6AIhD_Qc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13729884-1559914720-1571.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/78_89j5LZUFPK2YbvzLayydurA0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13729884-1559914720-1571.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Myriad Black Records",
+      "startTime": "26:45",
+      "trackName": "Downtown City",
+      "artistName": "JR From Dallas",
+      "coverArtDate": "2021-08-02 21:42:46",
+      "coverArtLarge": "https://img.discogs.com/NhFrsm-LPN4Gv9DlOZsfJ6sBxuI=/fit-in/600x483/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8382127-1460518645-3630.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FDLZ1UAj-qk95XX7AzVhdbB1acA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8382127-1460518645-3630.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "30:37",
+      "trackName": "All I Wanna Know",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-02 21:42:48",
+      "coverArtLarge": "https://img.discogs.com/yUvQ7O_2p1NUxUPHpymeLcKcW9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7670348-1446380817-9909.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PdxLKEBcJV6-4FAUiZAB-VRwPac=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7670348-1446380817-9909.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nervous Records",
+      "startTime": "34:58",
+      "trackName": "Concrete Vibes",
+      "artistName": "Shems Edine",
+      "coverArtDate": "2021-08-02 21:42:51",
+      "coverArtLarge": "https://img.discogs.com/izAVSdw8phMcfEzw7_G-cmWIfbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10279279-1494579752-6282.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ePJUyZJa9UFqwMaX1_oZt5jl4Ts=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10279279-1494579752-6282.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Love Harder Records",
+      "startTime": "39:47",
+      "trackName": "Always and Forever",
+      "artistName": "Tony Lionni",
+      "coverArtDate": "2021-08-02 21:42:53",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "45:53",
+      "trackName": "Hamdi",
+      "artistName": "Nachtbraker",
+      "coverArtDate": "2021-08-02 21:42:56",
+      "coverArtLarge": "https://img.discogs.com/R3dqqt2VKLeqFif0RA5xo4s_avM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10822517-1505581077-2317.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/J65eWppx5modc7GMe9F5XMLCKVE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10822517-1505581077-2317.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Fouk Remix"
+    },
+    {
+      "publisher": "Lazy Days Music",
+      "startTime": "52:06",
+      "trackName": "Le Pasteur",
+      "artistName": "Aroop Roy",
+      "coverArtDate": "2021-08-02 21:42:58",
+      "coverArtLarge": "https://img.discogs.com/V2-IxZkBmNpRoyXRptxRacRXsXE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11296403-1513704768-2539.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/LgIbx80Vm_ejF6bSd9blbWVPV5U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11296403-1513704768-2539.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "LW Recordings",
+      "startTime": "58:31",
+      "trackName": "Maufakas (Local Bullshhhh)",
+      "artistName": "Demuir",
+      "coverArtDate": "2021-08-02 21:43:01",
+      "coverArtLarge": "https://img.discogs.com/t4MEpSgQ0t5SOQ9TIChk5ZVY4D8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11393949-1515528374-7341.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XQnfzdB9sq5KiVO-8_lw_FTjRjU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11393949-1515528374-7341.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Hoover The House",
+      "startTime": "1:04:00",
+      "trackName": "Sunday Bedtime",
+      "artistName": "Markus Quittner",
+      "coverArtDate": "2021-08-02 21:43:03",
+      "coverArtLarge": "https://img.discogs.com/hFauGE6PYCfsBL0OuLYuJIzRKfQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18661771-1620601679-1082.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_DC-09aGxTHe-vM7Xdg0n-fZKUA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-18661771-1620601679-1082.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Jon Billick Remix"
+    },
+    {
+      "publisher": "Be Adult Music",
+      "startTime": "1:08:40",
+      "trackName": "Solaris",
+      "artistName": "Eartone",
+      "coverArtDate": "2021-08-02 21:43:06",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Blockhead Recordings",
+      "startTime": "1:14:18",
+      "trackName": "Too Close To Cut It",
+      "artistName": "Gary Tuohy",
+      "coverArtDate": "2021-08-02 21:43:09",
+      "coverArtLarge": "https://img.discogs.com/0Axx6ErY5MFKyk9JWPhvh6SmcOU=/fit-in/501x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14400006-1573753996-3394.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/siRb7nYycjrI2IGc_qqZ699aPVo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14400006-1573753996-3394.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:19:50",
+      "trackName": "Gift Horse",
+      "artistName": "Neil Smallridge",
+      "coverArtDate": "2021-08-02 21:43:11",
+      "coverArtLarge": "https://img.discogs.com/43SsLwtMMtHGR4Y66QwTKf-3vR8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11667563-1520334389-5949.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4ol0kD5RUL65801WMpaINPKhIgg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11667563-1520334389-5949.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Ovum Recordings",
+      "startTime": "1:25:37",
+      "trackName": "Tracklights",
+      "artistName": "Michel De Hey",
+      "coverArtDate": "2021-08-02 21:43:14",
+      "coverArtLarge": "https://img.discogs.com/4rGs4sNne7SRMfdO7XVzRWL716o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10330215-1495441518-1325.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PAnfB0seGKGBiVc-BU295_vh7b4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10330215-1495441518-1325.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Crackazat Dub"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:31:26",
+      "trackName": "Your Name",
+      "artistName": "Anthony Mea",
+      "coverArtDate": "2021-08-02 21:43:16",
+      "coverArtLarge": "https://img.discogs.com/R3cJs6_xZUpHgkPIprKDmouVnYg=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9985288-1489688488-2529.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mfXi17TBAdgPMJuyL4tRQwa0VF8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9985288-1489688488-2529.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Piston Recordings",
+      "startTime": "1:35:07",
+      "trackName": "I Know Ur There",
+      "artistName": "Rick Wade",
+      "coverArtDate": "2021-08-02 21:43:18",
+      "coverArtLarge": "https://img.discogs.com/jCJ0GQtFAaQM6N1MmANYHaajJpc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11786373-1522359637-7908.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FGTWcnfpN6md-y7RCbC3pCd20f4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11786373-1522359637-7908.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:39:45",
+      "trackName": "Got Yo Lovin'",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-02 21:43:21",
+      "coverArtLarge": "https://img.discogs.com/hdeTa_-mlszAkNQnMatoG8JC1pw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10957098-1507191940-6394.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9TzbAFsOhhNMdq45dpn4tX5GPjM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10957098-1507191940-6394.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "Myriad Black Records",
+      "startTime": "1:45:58",
+      "trackName": "Purple Night",
+      "artistName": "Fallou & Mastercris",
+      "coverArtDate": "2021-08-02 21:43:23",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Play It Down",
+      "startTime": "1:50:08",
+      "trackName": "We Are The One",
+      "artistName": "Oliver Dollar & Brillstein feat. DJ Vas",
+      "coverArtDate": "2021-08-02 21:43:26",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Klamauk",
+      "startTime": "1:55:48",
+      "trackName": "Work It",
+      "artistName": "Tilman",
+      "coverArtDate": "2021-08-02 21:43:28",
+      "coverArtLarge": "https://img.discogs.com/iJm47FOkSNCgGnIZzeZULQI30EU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11180878-1511364263-7915.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mEy48psr5eQpzBUEik-AWBu7EvY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11180878-1511364263-7915.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": ""
+    }
+  ]
+}

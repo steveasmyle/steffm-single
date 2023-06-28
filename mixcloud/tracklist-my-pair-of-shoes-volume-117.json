@@ -1,0 +1,280 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-117",
+  "tracks": [
+    {
+      "publisher": "Lionoil Records",
+      "startTime": "00:00",
+      "trackName": "Rooms For Speculation",
+      "artistName": "Telfort",
+      "coverArtDate": "2021-07-25 22:54:34",
+      "coverArtLarge": "https://img.discogs.com/XEbyTkA7liH6GPoDFC-S3tp_urY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11883829-1524072711-1298.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/H0VMgtxO72m7HZpFBEhgZzJgzTg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11883829-1524072711-1298.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "De La Groove",
+      "startTime": "05:44",
+      "trackName": "Ace, At The Point Of Collapse",
+      "artistName": "Cody Currie",
+      "coverArtDate": "2021-07-25 22:54:36",
+      "coverArtLarge": "https://img.discogs.com/cbf_BxCAXpc_tfUO972ZGPcAkzk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12168600-1529679336-8235.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cCXjq64OKxUa4R1qtjWWdhASwZA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12168600-1529679336-8235.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Pogo House Records",
+      "startTime": "07:53",
+      "trackName": "Honey",
+      "artistName": "Lombard Street",
+      "coverArtDate": "2021-07-25 22:54:39",
+      "coverArtLarge": "https://img.discogs.com/C2Q2poGlkZLvWYAEQIhcney7p-g=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9811193-1486684511-3329.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/JlnJhIYoJvmn2C_cfB_DoIY6shY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9811193-1486684511-3329.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Moiss Music",
+      "startTime": "12:27",
+      "trackName": "Secrid",
+      "artistName": "Aron Volta",
+      "coverArtDate": "2021-07-25 22:54:41",
+      "coverArtLarge": "https://img.discogs.com/U39vNSVF31YecUfKSbEub_Y-RGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13051690-1547195556-2661.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gsvFqgJkSJUu1mQrcJ5yZD300Kw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13051690-1547195556-2661.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Hi! Energy Records",
+      "startTime": "18:48",
+      "trackName": "Run It",
+      "artistName": "Demarkus Lewis",
+      "coverArtDate": "2021-07-25 22:54:44",
+      "coverArtLarge": "https://img.discogs.com/N7mBRvte9uwaDKonLzeWiDMUlRc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7337538-1439228192-7969.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gCvGFHBgEEEBIIFR0L6c-9OeQsk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7337538-1439228192-7969.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Criss Korey Remix"
+    },
+    {
+      "publisher": "AOC Records",
+      "startTime": "22:22",
+      "trackName": "Make Me Feel",
+      "artistName": "Bellaire",
+      "coverArtDate": "2021-07-25 22:54:47",
+      "coverArtLarge": "https://img.discogs.com/-iRiJz-uks5pHQd_tc1Zzzk1VOw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12872283-1543586250-8425.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Tj5Cfs0ruEYuryarfQJ5xXFbWG0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12872283-1543586250-8425.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Moiss Music",
+      "startTime": "27:11",
+      "trackName": "Solid Sense State",
+      "artistName": "Phaze Dee",
+      "coverArtDate": "2021-07-25 22:54:49",
+      "coverArtLarge": "https://img.discogs.com/-S7YIg6ZXVmFC7gbky1xIRWmA-0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13051666-1547194934-5354.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2WCHFaKAqlbJzGVom-LPrnxAAf4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13051666-1547194934-5354.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Watergate Records",
+      "startTime": "32:32",
+      "trackName": "Checkmate",
+      "artistName": "Kerri Chandler",
+      "coverArtDate": "2021-07-25 22:54:52",
+      "coverArtLarge": "https://img.discogs.com/PA0Z5j-UOnztH9nswu7HZElhT_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10991718-1507809754-4995.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FyUCNwUuASA1OIO4Gfs8cZUefB0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10991718-1507809754-4995.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Cinthie Remix"
+    },
+    {
+      "publisher": "Kolour Recordings",
+      "startTime": "38:04",
+      "trackName": "Feelin You",
+      "artistName": "Junior Revere",
+      "coverArtDate": "2021-07-25 22:54:54",
+      "coverArtLarge": "https://img.discogs.com/pdXNkW6pqPs8JKofTgpdtc2cFjk=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14208727-1570134746-4331.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_s_qkfYiMR5zIYRN0PugzDnh9Ec=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14208727-1570134746-4331.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Random Soul Recordings",
+      "startTime": "42:37",
+      "trackName": "Together",
+      "artistName": "Random Soul",
+      "coverArtDate": "2021-07-25 22:54:57",
+      "coverArtLarge": "https://img.discogs.com/-FpepbAdabVSK6vvucxX4prqE2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13260957-1551440055-3056.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/QEeT_xcx8LO1TbWBX63DDvas2oc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13260957-1551440055-3056.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Phoenix Music Inc.",
+      "startTime": "46:18",
+      "trackName": "Baby You're Free",
+      "artistName": "Dirty Secretz",
+      "coverArtDate": "2021-07-25 22:54:59",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Pogo House Records",
+      "startTime": "50:07",
+      "trackName": "Rewind",
+      "artistName": "Sasha Virus",
+      "coverArtDate": "2021-07-25 22:55:02",
+      "coverArtLarge": "https://img.discogs.com/ysJOacy3o6IgskJirWW9tGFOhhk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091730-1387825655-4047.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FGKPXwXKcZ8mIr9tvWLmpEccdok=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3091730-1387825655-4047.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "14th Level Of Paradise",
+      "startTime": "55:57",
+      "trackName": "In Depths",
+      "artistName": "Soledrifter",
+      "coverArtDate": "2021-07-25 22:55:05",
+      "coverArtLarge": "https://img.discogs.com/sv2DAFzL9TnVtaHWHO1xW6s9_rw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14918948-1584082162-1889.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MClkTSBoxWT3wn-zOc7kCqbmLnc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14918948-1584082162-1889.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Clone Royal Oak",
+      "startTime": "1:00:00",
+      "trackName": "Pianos Of Gold",
+      "artistName": "Jovonn",
+      "coverArtDate": "2021-07-25 22:55:07",
+      "coverArtLarge": "https://img.discogs.com/td6gwhgrejCOS28M_TCgHe5rmGU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-142617-1200112425.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/WCil6dtSRWDfDPeTTbGau_dw6jg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-142617-1200112425.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Ian Pooley Mix"
+    },
+    {
+      "publisher": "MoBlack Records",
+      "startTime": "1:04:58",
+      "trackName": "Kuar",
+      "artistName": "Emmanuel Jal",
+      "coverArtDate": "2021-07-25 22:55:10",
+      "coverArtLarge": "https://img.discogs.com/uXsCrkE17lF0yGhfSUfKbVn71k4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2472359-1289665558.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/SglGea__bpand_nm5MdC_yyd7DI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2472359-1289665558.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "FNX Omar Remix"
+    },
+    {
+      "publisher": "Merecumbe Recordings",
+      "startTime": "1:10:25",
+      "trackName": "Spic Me",
+      "artistName": "Doug Gomez feat. Sincerity",
+      "coverArtDate": "2021-07-25 22:55:12",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": "FNX Omar Instrumental Remix"
+    },
+    {
+      "publisher": "U-I Records Ltd.",
+      "startTime": "1:15:00",
+      "trackName": "Where You Come From",
+      "artistName": "Disclosure",
+      "coverArtDate": "2021-07-25 22:55:15",
+      "coverArtLarge": "https://img.discogs.com/32rxwdS7GwE1rCRJobih_JHnCLM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12890301-1544276235-9327.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3W-ThFqqz0TjUw0TSzrc1GtC40k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12890301-1544276235-9327.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Hudd Traxx",
+      "startTime": "1:18:40",
+      "trackName": "Get Up To Get Down",
+      "artistName": "Goshawk feat. Eric Rico",
+      "coverArtDate": "2021-07-25 22:55:17",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 18,
+      "remixArtistName": "Art Of Tones Dub"
+    },
+    {
+      "publisher": "Blacklight Music",
+      "startTime": "1:21:49",
+      "trackName": "That Brooklyn Ish (Part 2)",
+      "artistName": "DJ E-Clyps",
+      "coverArtDate": "2021-07-25 22:55:20",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Simma Black",
+      "startTime": "1:26:32",
+      "trackName": "Dance To Be Free",
+      "artistName": "Wolf Story feat. Mr. V",
+      "coverArtDate": "2021-07-25 22:55:22",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Lazy Days Music",
+      "startTime": "1:32:22",
+      "trackName": "Barbarella",
+      "artistName": "Fred Everything",
+      "coverArtDate": "2021-07-25 22:55:25",
+      "coverArtLarge": "https://img.discogs.com/KdrfvSi60oTQAAI9vLUWt8vuvlw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18698014-1620895250-1161.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/tWkAZ2EX5PahWhikfo04IoB_5Uw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-18698014-1620895250-1161.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Bunny Tiger",
+      "startTime": "1:37:26",
+      "trackName": "Fever",
+      "artistName": "Fish From Japan",
+      "coverArtDate": "2021-07-25 22:55:27",
+      "coverArtLarge": "https://img.discogs.com/jYrhLDqioDxZgEhgxxwskLUCvSw=/fit-in/596x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1085697-1190942846.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CqYYm_1EvGyTec1fWAjgWURIimY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1085697-1190942846.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Dub Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "1:42:20",
+      "trackName": "Power Of Love",
+      "artistName": "Deee-Lite",
+      "coverArtDate": "2021-07-25 22:55:30",
+      "coverArtLarge": "https://img.discogs.com/lI4kue-HyGjavfBpR4MmBi8FIbY=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-4119-1621901246-2692.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YOdpWBopZjB9weMF6EJ88ozIbjY=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4119-1621901246-2692.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Loves Last Episode's Beach Dub"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:46:34",
+      "trackName": "Toxic Desire",
+      "artistName": "Lucas Keizer",
+      "coverArtDate": "2021-07-25 22:55:33",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 24,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "R&S Records",
+      "startTime": "1:52:08",
+      "trackName": "Blue Moon Tree",
+      "artistName": "Lone",
+      "coverArtDate": "2021-07-25 22:55:35",
+      "coverArtLarge": "https://img.discogs.com/a-XxAaRD-qMie37DRKB07HvJ63k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12513368-1536755113-6988.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/IyFNtYgTOOy1BUFXD-nRhPztqgc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12513368-1536755113-6988.jpeg.jpg",
+      "sectionNumber": 25,
+      "remixArtistName": ""
+    }
+  ]
+}

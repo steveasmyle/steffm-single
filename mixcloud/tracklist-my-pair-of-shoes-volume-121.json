@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-121",
+  "tracks": [
+    {
+      "publisher": "Local Talk",
+      "startTime": "00:00",
+      "trackName": "Jazzy Joint",
+      "artistName": "Turbojazz",
+      "coverArtDate": "2021-07-19 17:22:44",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Union Records",
+      "startTime": "05:10",
+      "trackName": "Suena El Sabor",
+      "artistName": "Mijangos",
+      "coverArtDate": "2021-07-19 17:22:47",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "RNDT",
+      "startTime": "11:04",
+      "trackName": "Check One Two",
+      "artistName": "RNDT feat. Kleophazz",
+      "coverArtDate": "2021-07-19 17:22:49",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "15:02",
+      "trackName": "Express Yourself",
+      "artistName": "Mark Lower",
+      "coverArtDate": "2021-07-19 17:22:52",
+      "coverArtLarge": "https://img.discogs.com/OD2GMUxTsDV7I4eHTuaqcYKLO28=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13951252-1564758695-9348.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/v5xFyi_H9aboy0-MvThQzHYbo7k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13951252-1564758695-9348.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soulfuric Deep",
+      "startTime": "20:12",
+      "trackName": "People Everywhere",
+      "artistName": "Moon Rocket & Re-Tide",
+      "coverArtDate": "2021-07-19 17:22:54",
+      "coverArtLarge": "https://img.discogs.com/o4JoUy9agq8B_XRLaAjEEuZWxF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13461093-1554647571-6254.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/a5rPbs3c3UqG4HboqYUAFeHPDPU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13461093-1554647571-6254.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "Seventy Four",
+      "startTime": "24:28",
+      "trackName": "Spread Love",
+      "artistName": "MVZZIK",
+      "coverArtDate": "2021-07-19 17:22:57",
+      "coverArtLarge": "https://img.discogs.com/09EQ5xfPzfsWHzHqupJ_T57ZnJU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12356053-1533585048-2431.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/6S_O-_VwWMluvoeK1j0LFyiWMbA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12356053-1533585048-2431.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Plastik People Digital",
+      "startTime": "28:50",
+      "trackName": "So In Love With You",
+      "artistName": "Marc Cotterell feat. Anthony Levaltier",
+      "coverArtDate": "2021-07-19 17:22:59",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 7,
+      "remixArtistName": "Original Vocal Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "34:16",
+      "trackName": "Fly Away",
+      "artistName": "The Sunburst Band",
+      "coverArtDate": "2021-07-19 17:23:02",
+      "coverArtLarge": "https://img.discogs.com/Xe2yyFPdGjWdIT8qa1A94Bh22KA=/fit-in/293x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-345785-1108556057.jpg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sWuXwLg1hU26WM9AGpwIU0VZSD4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-345785-1108556057.jpg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "GOGO Music",
+      "startTime": "39:18",
+      "trackName": "Uyakhala",
+      "artistName": "Ralf Gum feat. Mafikizolo",
+      "coverArtDate": "2021-07-19 17:23:04",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": "Ralf Gum Main Mix"
+    },
+    {
+      "publisher": "Vibe Boutique Records",
+      "startTime": "45:52",
+      "trackName": "I Need To Know",
+      "artistName": "Rona Ray",
+      "coverArtDate": "2021-07-19 17:23:07",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": "Kelvin Sylvester Vocal Mix"
+    },
+    {
+      "publisher": "HSR Records",
+      "startTime": "52:03",
+      "trackName": "Beautiful World",
+      "artistName": "DJ Umbi feat. Montel Moore",
+      "coverArtDate": "2021-07-19 17:23:10",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nova 017 Ltd",
+      "startTime": "58:45",
+      "trackName": "Make Me (Go Crazy)",
+      "artistName": "Change",
+      "coverArtDate": "2021-07-19 17:23:12",
+      "coverArtLarge": "https://img.discogs.com/4H04KuuUF61OhDYd4Uy3edLgcKw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14007355-1566041148-6688.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cLzJo93B-abGhMjEZI6XNVA37x4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14007355-1566041148-6688.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Opolopo Remix"
+    },
+    {
+      "publisher": "Let There be House Records",
+      "startTime": "1:05:14",
+      "trackName": "I'm Gonna Hold On",
+      "artistName": "Peter Brown",
+      "coverArtDate": "2021-07-19 17:23:15",
+      "coverArtLarge": "https://img.discogs.com/UJjNHI7jLcdoV2drh7bVUBgaZFE=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6294354-1415992713-4617.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/R9YV-R7_xJSMlcamnIGaUAkSusY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6294354-1415992713-4617.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "Rhemi Music",
+      "startTime": "1:10:22",
+      "trackName": "Comeback",
+      "artistName": "Walter G",
+      "coverArtDate": "2021-07-19 17:23:17",
+      "coverArtLarge": "https://img.discogs.com/ukddwnCvpXLxMw96g2HKsE6sL7M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13579222-1556875201-4824.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YrfKyj-xvZ7OfehAlDvIhM6KfcY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13579222-1556875201-4824.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Neil Pierce Rework"
+    },
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "1:16:35",
+      "trackName": "I Don't Understand",
+      "artistName": "Risk Assessment",
+      "coverArtDate": "2021-07-19 17:23:20",
+      "coverArtLarge": "https://img.discogs.com/b-emiEaLQx_YGW2sc81vNa2Qm_w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14690430-1580134809-2686.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/hq9sY0PR4oqRVIo88I_IkM2DQYU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14690430-1580134809-2686.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Body Rhythm",
+      "startTime": "1:20:41",
+      "trackName": "Connection",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-07-19 17:23:22",
+      "coverArtLarge": "https://img.discogs.com/ZKj4wyzOzADGo9Y2UgQYx2wyK4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14173323-1569232332-9087.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/14a1_zYvjN1J5PwC1bQtvcUSBRk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14173323-1569232332-9087.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Guess Records",
+      "startTime": "1:26:21",
+      "trackName": "Rendezvous",
+      "artistName": "Spiritchaser",
+      "coverArtDate": "2021-07-19 17:23:25",
+      "coverArtLarge": "https://img.discogs.com/IidlwaMksbfikosOUQj3RORwrtU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7141187-1434639746-3547.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7SDbBPo5tREWU8ot4dYF9g1REVY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7141187-1434639746-3547.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Richard Earnshaw Extended Rework"
+    },
+    {
+      "publisher": "Pogo House Records",
+      "startTime": "1:30:05",
+      "trackName": "Unmute",
+      "artistName": "Despa",
+      "coverArtDate": "2021-07-19 17:23:27",
+      "coverArtLarge": "https://img.discogs.com/W0ZvQ2ihhssvv12Z7Sia7wiyXdY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14877025-1583291791-3068.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/SkmEcbyctOaKNPjCJF4cDI69rgU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14877025-1583291791-3068.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "1:35:40",
+      "trackName": "Running Out",
+      "artistName": "Disco Town feat. LauMii",
+      "coverArtDate": "2021-07-19 17:23:30",
+      "coverArtLarge": "https://img.discogs.com/iFl7nupeFJibwpSblmOHxxC5UMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13724648-1559809858-4624.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/0CX1_CPlYiTlUfGjg0QLNDhcmLA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13724648-1559809858-4624.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Live Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "1:38:12",
+      "trackName": "Gotta Keep Pushin'",
+      "artistName": "Z Factor",
+      "coverArtDate": "2021-07-19 17:23:32",
+      "coverArtLarge": "https://img.discogs.com/KKs8sSeJV7ROOurkrilaopMS2MM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-117699-1190917833.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Ic3Yc30TJNNEusZL_34Kpk6QTiA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-117699-1190917833.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Grant Nelson Remix"
+    },
+    {
+      "publisher": "La Vie D'Artiste Music",
+      "startTime": "1:44:24",
+      "trackName": "Beach",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-19 17:23:35",
+      "coverArtLarge": "https://img.discogs.com/oDznjRl47Tm_7MfjZ9UKhCg7HEI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/UtZzfvi_TF2Dd_gAusdpd-w1qHU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "Suol",
+      "startTime": "1:49:30",
+      "trackName": "Agent Keys",
+      "artistName": "M.ono",
+      "coverArtDate": "2021-07-19 17:23:37",
+      "coverArtLarge": "https://img.discogs.com/EH8wITTPOZpr4ZPoasnnDcmxxrQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12683099-1540200695-9731.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FZAuoQt6A1b4s48Pwj32Cu8mzZg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12683099-1540200695-9731.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Shall Not Fade",
+      "startTime": "1:55:28",
+      "trackName": "North West",
+      "artistName": "Contours",
+      "coverArtDate": "2021-07-19 17:23:40",
+      "coverArtLarge": "https://img.discogs.com/lPv-rUvv9NNVS7stxTRWh4DEYjI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13152672-1548966763-7337.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nTrirWnD5sshleW3O7BaP1WOs1E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13152672-1548966763-7337.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Kaidi Tatham Remix"
+    }
+  ]
+}

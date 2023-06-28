@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-106",
+  "tracks": [
+    {
+      "publisher": "Peppermint Jam Records",
+      "startTime": "00:00",
+      "trackName": "Turkish Delight",
+      "artistName": "Mousse T & Lovebirds",
+      "coverArtDate": "2021-08-15 22:46:25",
+      "coverArtLarge": "https://img.discogs.com/t0KVRH-40h4D0e91MuM7TNPYN5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10166972-1492778150-8453.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/JWGDpmal_g1qyv8HgV65zYhaX44=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10166972-1492778150-8453.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Monoside",
+      "startTime": "05:48",
+      "trackName": "Movin'",
+      "artistName": "Mark Lower",
+      "coverArtDate": "2021-08-15 22:46:27",
+      "coverArtLarge": "https://img.discogs.com/A5SMApUMvz5HUZ_Y2Aubpff0z44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-250175-1506303195-8434.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/tvtD0EyfRzzAD7nQpFxhKt4G_w0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-250175-1506303195-8434.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "HSR Records",
+      "startTime": "09:25",
+      "trackName": "Fantasy",
+      "artistName": "Soulbridge feat. Elan Noelle",
+      "coverArtDate": "2021-08-15 22:46:30",
+      "coverArtLarge": "https://img.discogs.com/0ewc0nKTIg93emOmcQZwam2WPNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14619335-1578308644-4594.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/yPH1ikCh4O3enrYhi9fyBkfzVTs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14619335-1578308644-4594.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Melodymathics",
+      "startTime": "16:21",
+      "trackName": "Midnight Boogie",
+      "artistName": "Sue Avenu feat. Kunde",
+      "coverArtDate": "2021-08-15 22:46:32",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Delve Deeper Recordings",
+      "startTime": "20:30",
+      "trackName": "Stellar",
+      "artistName": "Cleanfield",
+      "coverArtDate": "2021-08-15 22:46:35",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "25:01",
+      "trackName": "Latican Boogie",
+      "artistName": "Joey Negro",
+      "coverArtDate": "2021-08-15 22:46:37",
+      "coverArtLarge": "https://img.discogs.com/bh2ek0-_2_aPwve5DbeJaGjITjo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10450591-1499521310-1969.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Hs-ueDIvuMuPAoQgXmaZRXkMK0k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10450591-1499521310-1969.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "G.A.M.M.",
+      "startTime": "30:42",
+      "trackName": "Quem Vai Querer",
+      "artistName": "Aroop Roy",
+      "coverArtDate": "2021-08-15 22:46:40",
+      "coverArtLarge": "https://img.discogs.com/axxwnB1ovckH8Dol02xTztRsJfM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6973364-1431360124-3125.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NyvFcO0qJbTWQw67SmSxlTT0a1M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6973364-1431360124-3125.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "34:05",
+      "trackName": "Affirmation",
+      "artistName": "Nebraska",
+      "coverArtDate": "2021-08-15 22:46:42",
+      "coverArtLarge": "https://img.discogs.com/Bvc8HIi6J3QgMsdxJzVQRj6qD1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11145839-1510689766-5269.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/y49zg0QkMha8tOCCAp_PDDzynbA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11145839-1510689766-5269.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Dee Cf Records",
+      "startTime": "39:09",
+      "trackName": "That's Funky pt. 2",
+      "artistName": "Scott Diaz",
+      "coverArtDate": "2021-08-15 22:46:44",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soul Love",
+      "startTime": "44:19",
+      "trackName": "The Pressure",
+      "artistName": "Haji & Emanuel",
+      "coverArtDate": "2021-08-15 22:46:47",
+      "coverArtLarge": "https://img.discogs.com/ASmdOnCO7Thk0jlt_CKeqyGhiI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6549845-1617548476-4287.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vOdAdnIrYmKkyk6EjaoPinFmfZc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6549845-1617548476-4287.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Michele Chiavarini Remix"
+    },
+    {
+      "publisher": "miniMarket",
+      "startTime": "50:47",
+      "trackName": "Music Selecta 2017",
+      "artistName": "Alfred Azzetto & Ian Carrera",
+      "coverArtDate": "2021-08-15 22:46:49",
+      "coverArtLarge": "https://img.discogs.com/FMx-7SyniLdn4uOh4WJlM-gu8UM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10448243-1497640419-6908.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/otOPmURRhKBbR51xyCdhbCHQL9Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10448243-1497640419-6908.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Ian Carrera Club Mix"
+    },
+    {
+      "publisher": "Rhemi Music",
+      "startTime": "56:27",
+      "trackName": "Back To The One",
+      "artistName": "Rhemi feat. Alex Mills",
+      "coverArtDate": "2021-08-15 22:46:52",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soundstate Records",
+      "startTime": "1:02:24",
+      "trackName": "Voodoo",
+      "artistName": "Cafe 432 feat. Asia Yarwood",
+      "coverArtDate": "2021-08-15 22:46:54",
+      "coverArtLarge": "https://img.discogs.com/imPFbjsVZvPwihghZU_JIpSkqqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9815028-1486753244-2275.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PaVZrMF5te5ETVqPSFobceZfyuM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9815028-1486753244-2275.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "1:07:34",
+      "trackName": "Till You Surrender",
+      "artistName": "Prospect Park",
+      "coverArtDate": "2021-08-15 22:46:57",
+      "coverArtLarge": "https://img.discogs.com/NTGQFOGx0xv851xJ7ed4PELsjQs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11010270-1508173085-8028.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/t9tAN3jKjciZpJmVRDU8zKHo6q4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11010270-1508173085-8028.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "DJ Fudge Disco Mix"
+    },
+    {
+      "publisher": "Play It Down",
+      "startTime": "1:13:56",
+      "trackName": "Ron Hardy",
+      "artistName": "Avon Stringer",
+      "coverArtDate": "2021-08-15 22:46:59",
+      "coverArtLarge": "https://img.discogs.com/blWh_6gIGmhwjBdps2f2pt8x5II=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14957945-1584725294-8585.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bvNXpmskMK0OT0FgDjS_hV7PZDQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14957945-1584725294-8585.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Things May Change!",
+      "startTime": "1:18:34",
+      "trackName": "Baby Baby",
+      "artistName": "Groove Assassin",
+      "coverArtDate": "2021-08-15 22:47:02",
+      "coverArtLarge": "https://img.discogs.com/3AZPzmB7_dt0PpGqQVSZbcd09_E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8572989-1464300274-3852.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1O0sicVwyqWseGMnoc89pyq0k2g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8572989-1464300274-3852.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Groove Culture",
+      "startTime": "1:24:14",
+      "trackName": "Philly Sensation",
+      "artistName": "Micky More & Andy Tee",
+      "coverArtDate": "2021-08-15 22:47:04",
+      "coverArtLarge": "https://img.discogs.com/VxDSXlq9eNlHs05GZBIaRFkD1D4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7545130-1443708336-8613.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/OS5HkRMB8yuTs29-8PzWfqCjmkM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7545130-1443708336-8613.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Michele Chiavarini Remix"
+    },
+    {
+      "publisher": "United Music Records",
+      "startTime": "1:30:41",
+      "trackName": "It's Jazz",
+      "artistName": "Hallex M, MdCL & E-Man",
+      "coverArtDate": "2021-08-15 22:47:07",
+      "coverArtLarge": "https://img.discogs.com/7rJGpsCaW8mp0gEMODq1ZqhlFTo=/600x556/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-4304094-1472026271-2031.gif.jpg",
+      "coverArtSmall": "https://img.discogs.com/9HzJyIrp9ZaNWei47WBSCLrKzNw=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4304094-1472026271-2031.gif.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Foliage Records",
+      "startTime": "1:36:22",
+      "trackName": "Willing To Go",
+      "artistName": "Pulse",
+      "coverArtDate": "2021-08-15 22:47:09",
+      "coverArtLarge": "https://img.discogs.com/GiHNc8UB59E4d73K8vS49owPCyE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-355412-1417863887-6545.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_g-Q0nc8POtmHTBDqneVvyxOOF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-355412-1417863887-6545.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Vocal Mix"
+    },
+    {
+      "publisher": "Let There Be House Records",
+      "startTime": "1:41:36",
+      "trackName": "Not Over",
+      "artistName": "Glen Horsborough & In It Together",
+      "coverArtDate": "2021-08-15 22:47:12",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 20,
+      "remixArtistName": "Kort Remix"
+    },
+    {
+      "publisher": "Play It Down",
+      "startTime": "1:47:12",
+      "trackName": "Appreciate",
+      "artistName": "Jesse Rose feat. Seven Davis Jr.",
+      "coverArtDate": "2021-08-15 22:47:14",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Cut Rec Promos",
+      "startTime": "1:50:56",
+      "trackName": "Thousand Finger Man",
+      "artistName": "Re-Tide & Moon Rocket feat. Libby Baeeloo",
+      "coverArtDate": "2021-08-15 22:47:17",
+      "coverArtLarge": "https://img.discogs.com/SoRDe1YIx4yITKEGLAhHMbGXzLU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11002202-1508009878-1976.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4CbkYidNTmGUVGlBNywf8P_ug90=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11002202-1508009878-1976.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Believe in Disco",
+      "startTime": "1:56:53",
+      "trackName": "Let Love Enter",
+      "artistName": "The Disco House Lovers",
+      "coverArtDate": "2021-08-15 22:47:19",
+      "coverArtLarge": "https://img.discogs.com/l44nKpff2f-tXj9CtnLy5nS1KJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8417021-1461186457-3903.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9O6t6nqoceTUUCwrnOfZo65yP-Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8417021-1461186457-3903.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    }
+  ]
+}

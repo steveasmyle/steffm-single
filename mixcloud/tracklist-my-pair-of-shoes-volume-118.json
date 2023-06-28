@@ -1,0 +1,236 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-118",
+  "tracks": [
+    {
+      "publisher": "Good For You Records",
+      "startTime": "00:00",
+      "trackName": "Somebody 2 Love",
+      "artistName": "Lee Wilson feat. Samo",
+      "coverArtDate": "2021-07-25 22:17:18",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 1,
+      "remixArtistName": "KORT Mix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "05:27",
+      "trackName": "Don't Do It",
+      "artistName": "Moon Rocket",
+      "coverArtDate": "2021-07-25 22:17:20",
+      "coverArtLarge": "https://img.discogs.com/A_ntLhsqqyzh-TjGsB-v9GsnKEE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4964261-1380764027-4974.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rnpkA2XI8nwCRvl9E1WklwYZcCo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4964261-1380764027-4974.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Ocean Trax ",
+      "startTime": "10:18",
+      "trackName": "I Wish",
+      "artistName": "Claudio Silvestri, The Klaim, Alessandro Costa",
+      "coverArtDate": "2021-07-25 22:17:23",
+      "coverArtLarge": "https://img.discogs.com/YZN_tztDsaxY0f8zoTCyVBJNzC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12695135-1540210948-5425.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NZQAofdTj-9HnH4mwzhyPrjF5po=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12695135-1540210948-5425.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Paradise Bootleg Mix"
+    },
+    {
+      "publisher": "Quantize Records",
+      "startTime": "15:48",
+      "trackName": "Your Love Is Medicine",
+      "artistName": "The Jagg",
+      "coverArtDate": "2021-07-25 22:17:25",
+      "coverArtLarge": "https://img.discogs.com/Ty5LwAuEp2pbosgrpdZBg3dAh4E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12890103-1543934011-6843.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/HN7NTxAsY5TwcIii7yUvMtZQMu0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12890103-1543934011-6843.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Soulfuledge & DJ Spen Remix"
+    },
+    {
+      "publisher": "FOMP",
+      "startTime": "21:03",
+      "trackName": "Rhythm Of The Night",
+      "artistName": "Stones & Bones",
+      "coverArtDate": "2021-07-25 22:17:28",
+      "coverArtLarge": "https://img.discogs.com/A-UX7bK--Hpkw0y6tCTE78eQCOI=/fit-in/600x898/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12935678-1544878420-2187.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/LaUbCCv-qHJXWq9n6GBMULM4Z1E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12935678-1544878420-2187.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Groove Assassin Remix"
+    },
+    {
+      "publisher": "Bayacou Records",
+      "startTime": "26:34",
+      "trackName": "Already Knew",
+      "artistName": "Ezel feat. Mike City",
+      "coverArtDate": "2021-07-25 22:17:31",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Quantize Records",
+      "startTime": "33:07",
+      "trackName": "I Feel",
+      "artistName": "Ann Nesby",
+      "coverArtDate": "2021-07-25 22:17:33",
+      "coverArtLarge": "https://img.discogs.com/Ycu-V9XFjgRB9hazJTIFW3nQQEk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12695864-1540221997-2425.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/kfoGxvtti51yHsN1cCl_XvaDYDM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12695864-1540221997-2425.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "DJ Spen Disco Dreams Re-Edit"
+    },
+    {
+      "publisher": "Columbus",
+      "startTime": "40:32",
+      "trackName": "Promises",
+      "artistName": "Calvinn Harris feat. Sam Smith",
+      "coverArtDate": "2021-07-25 22:17:36",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Mousse T.'s Extended Disco Shizzle Remix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "45:40",
+      "trackName": "Celebration",
+      "artistName": "Funkatron",
+      "coverArtDate": "2021-07-25 22:17:38",
+      "coverArtLarge": "https://img.discogs.com/LxWxILJINkCr7_Kt8C_4jB5NGtw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12868105-1543501006-7014.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/saTEJeQFVIgbYogE0NwPoHGe0aY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12868105-1543501006-7014.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "51:10",
+      "trackName": "Fascinated By You",
+      "artistName": "Moon Rocket",
+      "coverArtDate": "2021-07-25 22:17:41",
+      "coverArtLarge": "https://img.discogs.com/JUD2zXTifS_GH3VH1pq4-435g-M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12984917-1545915189-1813.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/N2Bp7bEsgiGy_fJt0wYYjkBEt3o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12984917-1545915189-1813.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Mood Funk Records",
+      "startTime": "56:21",
+      "trackName": "Disco Strangenes",
+      "artistName": "Deeplomatik",
+      "coverArtDate": "2021-07-25 22:17:43",
+      "coverArtLarge": "https://img.discogs.com/FggqRuwm4naFDQh46IHdXD4y_z8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12014472-1526578805-2961.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/6ld06MEKCKl8WjU33pvGG8K6JiU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12014472-1526578805-2961.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Soulstice Music",
+      "startTime": "1:01:36",
+      "trackName": "Where Has Love Been (WHLB)",
+      "artistName": "Feelosophy",
+      "coverArtDate": "2021-07-25 22:17:46",
+      "coverArtLarge": "https://img.discogs.com/4sjHJzf_H1e4UIEKrF52BJUpM9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12517493-1536832426-2675.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/AhPQWNuodWd47u_UtB9ej15pDu4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12517493-1536832426-2675.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Shane D Remix"
+    },
+    {
+      "publisher": "SoulHouse Music",
+      "startTime": "1:07:16",
+      "trackName": "Falling Back Into Love",
+      "artistName": "Brian Power feat. Marc Evans",
+      "coverArtDate": "2021-07-25 22:17:48",
+      "coverArtLarge": "https://img.discogs.com/FwpITZtLZBEqti1V4lSW5dl78nI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13402007-1556746373-9694.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/GsKCOFzhh5KfSwlTzFcWyufonKM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13402007-1556746373-9694.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "DJ Spen Remix"
+    },
+    {
+      "publisher": "Tropical Disco Records",
+      "startTime": "1:14:20",
+      "trackName": "Turn It Up",
+      "artistName": "Sartorial & Moodena",
+      "coverArtDate": "2021-07-25 22:17:51",
+      "coverArtLarge": "https://img.discogs.com/T-nHyyfVB8JU8tX7STxgy6rfa5E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12546292-1537370690-7443.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/wsTpkkyNKWB8_sBSgRal1MY4DhI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12546292-1537370690-7443.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Juiced Music",
+      "startTime": "1:19:57",
+      "trackName": "Funk Revolution",
+      "artistName": "Disk Nation",
+      "coverArtDate": "2021-07-25 22:17:54",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Juiced Music",
+      "startTime": "1:23:22",
+      "trackName": "Watching You",
+      "artistName": "Enrico BSJ Ferrari & Jo Paciello",
+      "coverArtDate": "2021-07-25 22:17:56",
+      "coverArtLarge": "https://img.discogs.com/zQDX7YJczSXvnwpbBKh7BkPxbBo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13504413-1555442090-4389.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Z5WljDnI7mqJlZejzFMjghQOmxU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13504413-1555442090-4389.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "BSJ Remix"
+    },
+    {
+      "publisher": "Soulstice Music",
+      "startTime": "1:29:08",
+      "trackName": "Love Yourself",
+      "artistName": "Soulista feat. Rona Ray",
+      "coverArtDate": "2021-07-25 22:17:59",
+      "coverArtLarge": "https://img.discogs.com/Hqy6AYC3Nb2Z6ZDniQCEcIq9H-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12900205-1544130333-4392.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/n0-Zv0VKXqueAgN0ShO4pgjznqI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12900205-1544130333-4392.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Rightside & Mark Di Meo Remix"
+    },
+    {
+      "publisher": "Cruise Music",
+      "startTime": "1:35:42",
+      "trackName": "Do The Dance",
+      "artistName": "Jarred Gallo",
+      "coverArtDate": "2021-07-25 22:18:01",
+      "coverArtLarge": "https://img.discogs.com/MJUbZdveGlRrJn8tP7EY015viZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14568786-1577292387-2048.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/iaVb8AFNiaMQOAn64-FNI6AHhbI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14568786-1577292387-2048.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Quantize Records",
+      "startTime": "1:40:18",
+      "trackName": "I Need Your Lovin'",
+      "artistName": "Spencer Morales feat. Tasha LaRae",
+      "coverArtDate": "2021-07-25 22:18:04",
+      "coverArtLarge": "https://img.discogs.com/o1E4DElwiyQHsvgnzD9Sr0R0aHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14174351-1569250793-5512.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ZKesh_hTJl_fanEEsjowj1ENBwY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14174351-1569250793-5512.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Opolopo Remix"
+    },
+    {
+      "publisher": "Eureka!",
+      "startTime": "1:47:15",
+      "trackName": "Doop Doop",
+      "artistName": "S3A",
+      "coverArtDate": "2021-07-25 22:18:06",
+      "coverArtLarge": "https://img.discogs.com/-jMRm4OKsrGpYvrVp8FInGNqWLo=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12282320-1532875702-7246.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/H-0lfeVMYJA_8HMPsh_JCuGxsN8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12282320-1532875702-7246.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Bergerac",
+      "startTime": "1:52:21",
+      "trackName": "Deep Blue (Trumpet by Vicky Flint)",
+      "artistName": "Tommy Rawson",
+      "coverArtDate": "2021-07-25 22:18:09",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    }
+  ]
+}

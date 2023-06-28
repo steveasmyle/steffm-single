@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-112",
+  "tracks": [
+    {
+      "publisher": "SoulHouse Music",
+      "startTime": "00:00",
+      "trackName": "You Mean the World to Me",
+      "artistName": "Brian Power feat. Marc Avon Evans",
+      "coverArtDate": "2021-08-02 17:28:22",
+      "coverArtLarge": "https://img.discogs.com/Vnyb8Mn1fYiPW8GBSnGlXwMXKNo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13124889-1548506453-1836.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PH9DytVDiO4Pj7w22IcKGKUEVf0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13124889-1548506453-1836.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Irma Dancefloor",
+      "startTime": "06:40",
+      "trackName": "We Use to Live Together",
+      "artistName": "The Soultrend Orchestra feat. Adika Pongo",
+      "coverArtDate": "2021-08-02 17:28:24",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Mark Di Meo Remix"
+    },
+    {
+      "publisher": "Impératrice",
+      "startTime": "12:17",
+      "trackName": "Is It Wrong",
+      "artistName": "Todd Edwards",
+      "coverArtDate": "2021-08-02 17:28:27",
+      "coverArtLarge": "https://img.discogs.com/289UREA3bF8Vxg1mQR4O6GqJB2g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13731798-1559950664-4305.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/pKk0z5MuE7FNU9Uc0qLE5nWrJhI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13731798-1559950664-4305.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Todd Edwards Dub"
+    },
+    {
+      "publisher": "Grin Trax",
+      "startTime": "17:09",
+      "trackName": "When You Feel Good",
+      "artistName": "Stema",
+      "coverArtDate": "2021-08-02 17:28:29",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Universal",
+      "startTime": "21:33",
+      "trackName": "Ultimatum",
+      "artistName": "Disclosure feat. Fatoumata Diawara",
+      "coverArtDate": "2021-08-02 17:28:32",
+      "coverArtLarge": "https://img.discogs.com/aHrIjYR6YloFeoniuKQJf5iD2kc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12821384-1542901099-1846.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/fYnK3z6teH9vnTJX3R1vPXrwQPM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12821384-1542901099-1846.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Foliage Records",
+      "startTime": "26:13",
+      "trackName": "Believe",
+      "artistName": "Nathan Haines feat. Shelley Nelson",
+      "coverArtDate": "2021-08-02 17:28:34",
+      "coverArtLarge": "https://img.discogs.com/b7_EIYEg1Q8X1JG9QO_WD39UQ8I=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-173872-1197859316.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FBBaFrnMUPK9WxVP101fXPNm9Ss=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-173872-1197859316.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "The Layabouts Vocal Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "32:51",
+      "trackName": "Love To The Limit",
+      "artistName": "Mistura",
+      "coverArtDate": "2021-08-02 17:28:37",
+      "coverArtLarge": "https://img.discogs.com/Ic3k5CEqruT3fPpq0KgZ0EOJHqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11754489-1521816313-9499.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PoKJI4cg9FROwEueJcXeYl1NctY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11754489-1521816313-9499.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Shur-i-kan Zanzibar Dub"
+    },
+    {
+      "publisher": "Things May Change!",
+      "startTime": "36:11",
+      "trackName": "Visions Of You",
+      "artistName": "Groove Assassin",
+      "coverArtDate": "2021-08-02 17:28:39",
+      "coverArtLarge": "https://img.discogs.com/zDRLP61362cgxJkzEmWXKcUDHEA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11682094-1520587122-2472.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ba6vjq5pQwJw1ZBG5ZXbubOGbPE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11682094-1520587122-2472.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Get Grooved Record",
+      "startTime": "41:15",
+      "trackName": "Under Club",
+      "artistName": "Kenny Bizzarro",
+      "coverArtDate": "2021-08-02 17:28:42",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Glitterbox Recordings",
+      "startTime": "45:50",
+      "trackName": "So Special",
+      "artistName": "Reverendos Of Soul",
+      "coverArtDate": "2021-08-02 17:28:44",
+      "coverArtLarge": "https://img.discogs.com/ttLyipMeRxMkHLXJxqM1FgSaV60=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11065116-1509204672-5145.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YtN3Jt33Vmls2HlNbmb0kvYTRRI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11065116-1509204672-5145.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Micky More & Andy Tee Edit"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "50:10",
+      "trackName": "Made For The Night",
+      "artistName": "Block & Crown",
+      "coverArtDate": "2021-08-02 17:28:47",
+      "coverArtLarge": "https://img.discogs.com/VtEoRnzwvM2mGfm2-McY_kY1CA4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11105954-1509946263-1265.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/tLrYNPU5VtvGp8P7WhCCKOopWaU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11105954-1509946263-1265.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Vibe Boutique Records",
+      "startTime": "54:14",
+      "trackName": "Fly Away",
+      "artistName": "Kelvin Sylvester & Natasha Watts",
+      "coverArtDate": "2021-08-02 17:28:49",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 12,
+      "remixArtistName": "Opolopo Remix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "59:53",
+      "trackName": "Where The One Is",
+      "artistName": "Art Of Tones",
+      "coverArtDate": "2021-08-02 17:28:51",
+      "coverArtLarge": "https://img.discogs.com/eWchpju_LD0NYBF7Xvd2j3scEWg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11919171-1524994399-2386.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bMqn1yVFqQOiIdsHckdyV_9V1OI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11919171-1524994399-2386.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Body Heat",
+      "startTime": "1:04:14",
+      "trackName": "Funky Trumpy",
+      "artistName": "Angelo Ferreri",
+      "coverArtDate": "2021-08-02 17:28:54",
+      "coverArtLarge": "https://img.discogs.com/DOZlbGqSITQtb4Bz9jJiDXsfrtE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11946744-1525252757-8252.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/8Ln1aqQ_SvPjI0nnBKwKrshQAqo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11946744-1525252757-8252.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Astrx Records",
+      "startTime": "1:07:43",
+      "trackName": "Blessed",
+      "artistName": "Hawksburn",
+      "coverArtDate": "2021-08-02 17:28:56",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "MoodyHouse Recordings",
+      "startTime": "1:13:36",
+      "trackName": "It's Alright",
+      "artistName": "Milty Evans & Brian Boncher",
+      "coverArtDate": "2021-08-02 17:28:59",
+      "coverArtLarge": "https://img.discogs.com/9UtIrZ9E3EG4tSsg2suBtXeME_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10930000-1506705285-1337.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Oql6GEXXd2uTBg0psnNQ9shfmhY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10930000-1506705285-1337.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:18:12",
+      "trackName": "Everybody (On The Dancefloor)",
+      "artistName": "Michele Chiavarini feat. Samantha-Antoinette & Little 'L'",
+      "coverArtDate": "2021-08-02 17:29:01",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 17,
+      "remixArtistName": "Michele Chiavarini & DJ Spen Vocal Mix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:25:21",
+      "trackName": "This Time Baby",
+      "artistName": "Dave Anthony & Lisa Lillett",
+      "coverArtDate": "2021-08-02 17:29:04",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 18,
+      "remixArtistName": "Richard Earnshaw Remix"
+    },
+    {
+      "publisher": "BBE",
+      "startTime": "1:30:44",
+      "trackName": "All Night",
+      "artistName": "Katzuma",
+      "coverArtDate": "2021-08-02 17:29:06",
+      "coverArtLarge": "https://img.discogs.com/Hy1K_34WD40jgeIojDlW9_p-16g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5022601-1382379856-6697.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/E26ItQfWMIO1bEASnproivVmbyU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5022601-1382379856-6697.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "M+M Mix"
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:36:45",
+      "trackName": "El Son Montuno",
+      "artistName": "Silvano Del Gado",
+      "coverArtDate": "2021-08-02 17:29:09",
+      "coverArtLarge": "https://img.discogs.com/RH5h40B4JjbgLy_HJ85_1lXAmj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11768449-1522051003-9717.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Z3Q2q3gjPg6gzsb6elOXx0F2ZTY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11768449-1522051003-9717.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Ammo Recordings",
+      "startTime": "1:45:56",
+      "trackName": "My Life",
+      "artistName": "Felipe Avelar",
+      "coverArtDate": "2021-08-02 17:29:11",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": "JedX's Disco Retox"
+    },
+    {
+      "publisher": "Full Intention Records",
+      "startTime": "1:50:31",
+      "trackName": "Be Yourself",
+      "artistName": "Full Intention & Blaze",
+      "coverArtDate": "2021-08-02 17:29:14",
+      "coverArtLarge": "https://img.discogs.com/Kp-QgP5p-M2Dh_Aq1O33TWSbZLw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11654703-1520287155-5882.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CneY6KZMQvwurQnEHNRIoqyklNM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11654703-1520287155-5882.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Farplane Records",
+      "startTime": "1:56:09",
+      "trackName": "So Good",
+      "artistName": "Rasmus Faber feat. OhHeyMy",
+      "coverArtDate": "2021-08-02 17:29:16",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 23,
+      "remixArtistName": ""
+    }
+  ]
+}

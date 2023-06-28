@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-105",
+  "tracks": [
+    {
+      "publisher": "Local Talk",
+      "startTime": "00:00",
+      "trackName": "Cesar",
+      "artistName": "SMBD",
+      "coverArtDate": "2021-08-19 08:05:26",
+      "coverArtLarge": "https://img.discogs.com/abrYQ7LeXuixMyMXYzqozv0rQtI=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10122194-1493810975-8862.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Xi5iMSfb4vbpKwH7P9ck8nzJhpo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10122194-1493810975-8862.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Body Rhythm",
+      "startTime": "04:33",
+      "trackName": "What You're Doing To Me",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-08-19 08:05:28",
+      "coverArtLarge": "https://img.discogs.com/XvjMUPpRnYztF5FmPHzwKa2WO6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10653073-1501741278-2468.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Z52hkSIt53jXLAXVEy1W7PITBcM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10653073-1501741278-2468.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Get Twisted Records",
+      "startTime": "08:27",
+      "trackName": "Deja Vu",
+      "artistName": "Curtis Gabriel",
+      "coverArtDate": "2021-08-19 08:05:31",
+      "coverArtLarge": "https://img.discogs.com/v8RDQRAkK-TXlHwCGe8yNEAD9TY=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7810068-1449701885-3217.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/lBq3tO8KeGdThaqnpG7IK_l3CtU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7810068-1449701885-3217.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Spacedisco Records",
+      "startTime": "14:14",
+      "trackName": "Work Hard",
+      "artistName": "Gettoblaster & Rescue",
+      "coverArtDate": "2021-08-19 08:05:33",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Phoenix Music Inc",
+      "startTime": "17:31",
+      "trackName": "In Da Warehouse",
+      "artistName": "Soledrifter",
+      "coverArtDate": "2021-08-19 08:05:36",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "21:09",
+      "trackName": "Where To Go",
+      "artistName": "James Benedict",
+      "coverArtDate": "2021-08-19 08:05:38",
+      "coverArtLarge": "https://img.discogs.com/Xgq1okKSMPgO5TNd4WKdzbNsmrA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7756203-1448128760-1651.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/EeYgLHlMBKtKr4jDL_Pit3hK-5w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7756203-1448128760-1651.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "PIC Records",
+      "startTime": "27:05",
+      "trackName": "Wanna Dance",
+      "artistName": "Chris Stussy",
+      "coverArtDate": "2021-08-19 08:05:41",
+      "coverArtLarge": "https://img.discogs.com/KY3A-HgSZlBJcTYk3EITL6PbduU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9548771-1482511548-4684.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ROU8J5HUPkKR1dYVTDmmxXWUeWw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9548771-1482511548-4684.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Studioheist Remix"
+    },
+    {
+      "publisher": "Great Lakes Audio",
+      "startTime": "31:47",
+      "trackName": "Luvin' to Nothing",
+      "artistName": "Demuir",
+      "coverArtDate": "2021-08-19 08:05:43",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Eton Messy",
+      "startTime": "37:16",
+      "trackName": "You Can't Hide",
+      "artistName": "Golf Clap & Sebb Junior",
+      "coverArtDate": "2021-08-19 08:05:46",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Monkey Junk",
+      "startTime": "42:26",
+      "trackName": "Jazz Got Me",
+      "artistName": "Delgado",
+      "coverArtDate": "2021-08-19 08:05:48",
+      "coverArtLarge": "https://img.discogs.com/CdeizK8DA4EezvXIh0LdSeWxaHE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3543650-1385215303-8106.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Y76niebsb9uNsIWkSYQp6CfXeiQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3543650-1385215303-8106.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Beyond The Groove",
+      "startTime": "50:53",
+      "trackName": "South of the River",
+      "artistName": "Tom Misch",
+      "coverArtDate": "2021-08-19 08:05:51",
+      "coverArtLarge": "https://img.discogs.com/DtHhL45-0OTm3o_DrpRBnGGAzWA=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-3814795-1578079588-8146.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mM1Cac-cBtS3UfV5VSnHdSu11Pw=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3814795-1578079588-8146.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Detroit Swindle Remix"
+    },
+    {
+      "publisher": "Moon Rocket Music",
+      "startTime": "56:59",
+      "trackName": "The Mysterious Walk Of Life",
+      "artistName": "Moon Rocket",
+      "coverArtDate": "2021-08-19 08:05:54",
+      "coverArtLarge": "https://img.discogs.com/jtXaK5m8hoha4WgFF27u9skypEA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235686-1493886259-9266.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/wzNR4s8EV78gz6i_d5GZLVNRtO4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10235686-1493886259-9266.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "LPH White",
+      "startTime": "1:02:10",
+      "trackName": "Dont Stop The Acid",
+      "artistName": "Adesse Versions",
+      "coverArtDate": "2021-08-19 08:05:56",
+      "coverArtLarge": "https://img.discogs.com/a4rvIgM9YleqmYNsHXd0jSuxtG0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10102948-1492108965-8116.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/-_GBagh-Y3ea0dvQY18rDC6ynHw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10102948-1492108965-8116.png.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "City Soul Recordings",
+      "startTime": "1:08:24",
+      "trackName": "Representin' Music",
+      "artistName": "Ryan Briggs (City Soul Project)",
+      "coverArtDate": "2021-08-19 08:05:59",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 14,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Amplified Records",
+      "startTime": "1:13:04",
+      "trackName": "Wavey",
+      "artistName": "K & K",
+      "coverArtDate": "2021-08-19 08:06:01",
+      "coverArtLarge": "https://img.discogs.com/Ize-KLrLatj_sLBD9pxyDfSyxUY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-183462-1270943980.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ZOjtUc6xcobVEEpZXARCuxiuChE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-183462-1270943980.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Back To 96 Remix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:17:30",
+      "trackName": "Baby Come Back",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:06:04",
+      "coverArtLarge": "https://img.discogs.com/C-lzCT2rzFSSRa0EtmZ2lmLz2mg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14195023-1569653812-5348.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/VRs95F3OxaSutn6oWsCVRvwjxLQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14195023-1569653812-5348.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Great Lakes Audio",
+      "startTime": "1:22:24",
+      "trackName": "Unicorn",
+      "artistName": "Demuir",
+      "coverArtDate": "2021-08-19 08:06:07",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 17,
+      "remixArtistName": "Dub"
+    },
+    {
+      "publisher": "17 Steps",
+      "startTime": "1:27:22",
+      "trackName": "Cold Heart",
+      "artistName": "Dusky",
+      "coverArtDate": "2021-08-19 08:06:09",
+      "coverArtLarge": "https://img.discogs.com/5O7GLW4ZXbR8-KNcLdnGv8AR3P8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10504766-1498899781-1511.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/k7ewuGPZ_GpqV3rbUSgeuwikCVM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10504766-1498899781-1511.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "House Of Disco",
+      "startTime": "1:32:38",
+      "trackName": "We Together",
+      "artistName": "Aroop Roy",
+      "coverArtDate": "2021-08-19 08:06:12",
+      "coverArtLarge": "https://img.discogs.com/22IMXfVcvgafDSDSQDpF26geaDk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10052783-1490796997-8875.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/duyPjJdf59Iq4MH38U4et6XvnvA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10052783-1490796997-8875.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "1:38:40",
+      "trackName": "The Only One",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:06:14",
+      "coverArtLarge": "https://img.discogs.com/KcdyG-Uo088jq5PP19nTO5XiWn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9919070-1488550348-1240.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/k4qxa2cAAMhcAC5HbBeUfKvQSCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9919070-1488550348-1240.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "MPC Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:43:36",
+      "trackName": "Baby Tell Me",
+      "artistName": "Fish Go Deep",
+      "coverArtDate": "2021-08-19 08:06:17",
+      "coverArtLarge": "https://img.discogs.com/xRdQv3IpL7-FSq1i06ZH8Hq-NCw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10625814-1501188176-6629.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/zfPalR6_SEowQ3xuHBKnpXCCNGo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10625814-1501188176-6629.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nu Soul",
+      "startTime": "1:49:41",
+      "trackName": "Odoru",
+      "artistName": "Watanabe",
+      "coverArtDate": "2021-08-19 08:06:19",
+      "coverArtLarge": "https://img.discogs.com/g7y465YVggUinsEp_7_v_Td3ZLw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-44387-1618766862-6375.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XbAvYO3Np2LcribZkrgPftNkhQE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-44387-1618766862-6375.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Unreleased Version Re Mastered"
+    },
+    {
+      "publisher": "Faces Records",
+      "startTime": "1:54:22",
+      "trackName": "Now (Loving You)",
+      "artistName": "Creative Swing Alliance",
+      "coverArtDate": "2021-08-19 08:06:22",
+      "coverArtLarge": "https://img.discogs.com/2tY27UMCH10TAkwSRktfriBmR7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677075-1547422858-7826.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/AM8wg9v3-uXlRseTIUDMsRA8rYY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2677075-1547422858-7826.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    }
+  ]
+}

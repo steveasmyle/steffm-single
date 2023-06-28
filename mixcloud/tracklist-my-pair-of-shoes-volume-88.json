@@ -1,0 +1,269 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-88",
+  "tracks": [
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "00:00",
+      "trackName": "The Breakup",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-12-09 23:01:44",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "06:40",
+      "trackName": "Next Drop",
+      "artistName": "Deeplomatik",
+      "coverArtDate": "2021-12-09 23:01:47",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Snazzy Traxx",
+      "startTime": "11:13",
+      "trackName": "Hot 97",
+      "artistName": "Lombard Street",
+      "coverArtDate": "2021-12-09 23:01:49",
+      "coverArtLarge": "https://img.discogs.com/wA9ffPtWXzWFSdHOAzbjGFLWZo4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2n5hE9Y9_5G9TFeO4IpyriCcKBc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nite Grooves",
+      "startTime": "16:15",
+      "trackName": "Early In The Morning",
+      "artistName": "Yogi & Tikki Tembo",
+      "coverArtDate": "2021-12-09 23:01:51",
+      "coverArtLarge": "https://img.discogs.com/Ay86IWG_DyPaP8_QruuxwMyZIC4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7688158-1446757912-9839.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rLUIPGcnkrWg1_qfNUrTlkzYPCM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7688158-1446757912-9839.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Get Physical Music",
+      "startTime": "21:50",
+      "trackName": "When I",
+      "artistName": "Smash TV",
+      "coverArtDate": "2021-12-09 23:01:53",
+      "coverArtLarge": "https://img.discogs.com/KEktiJxvp7oKe2JY8Lxc7bd9-xA=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3096571-1550270084-8460.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/CKsjRz4xcA7DDxbh-qJhrPQqVQU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3096571-1550270084-8460.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Version"
+    },
+    {
+      "publisher": "Philpot Records",
+      "startTime": "26:32",
+      "trackName": "All Lights Go Off",
+      "artistName": "SoulPhiction",
+      "coverArtDate": "2021-12-09 23:01:56",
+      "coverArtLarge": "https://img.discogs.com/-n0w_2A7uvko6-Gr-5TAiPOR8O4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5189783-1386967471-3326.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/-fBbv9krcdXtPDMb1GNOv8zehBg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5189783-1386967471-3326.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Luvbug Recordings",
+      "startTime": "31:20",
+      "trackName": "Drifting",
+      "artistName": "LTS",
+      "coverArtDate": "2021-12-09 23:01:58",
+      "coverArtLarge": "https://img.discogs.com/T8ndYaF08NFXqqJeDBGMcQUO4q4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6855595-1568432007-4570.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/BLwNzcrVp5PSHyD4DOD79qEgxmU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6855595-1568432007-4570.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Nathan G ReFeel"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "36:09",
+      "trackName": "States",
+      "artistName": "Jacob Bech",
+      "coverArtDate": "2021-12-09 23:02:00",
+      "coverArtLarge": "https://img.discogs.com/qFGAiOAvcP9ByMak1UaBqNMxmJY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8436334-1461572063-5748.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1pBWNFVmQ9jPqOr4w0IdbTMBqGg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8436334-1461572063-5748.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Club Mod",
+      "startTime": "41:29",
+      "trackName": "One Day",
+      "artistName": "Softwar",
+      "coverArtDate": "2021-12-09 23:02:03",
+      "coverArtLarge": "https://img.discogs.com/Ju0UKjZj-98LTc0tTsaPlF7wpL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4693125-1372833747-4276.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/VMP0mUFhq9H5ymOTDazzr-PM2_Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4693125-1372833747-4276.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Detroit Swindle Remix"
+    },
+    {
+      "publisher": "Large Musicx",
+      "startTime": "46:33",
+      "trackName": "The Game",
+      "artistName": "Lars Vegas",
+      "coverArtDate": "2021-12-09 23:02:05",
+      "coverArtLarge": "https://img.discogs.com/SV3V_LM2OfzWB5MLfa0jYKgS9Qs=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4507634-1366848309-6580.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/l_2h4tZYHYIW4C7DNPR-WkLUXBE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4507634-1366848309-6580.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Join The Doits",
+      "startTime": "50:32",
+      "trackName": "I Said Yes Sir",
+      "artistName": "The Francis Inferno Orchestra",
+      "coverArtDate": "2021-12-09 23:02:07",
+      "coverArtLarge": "https://img.discogs.com/i4i_tb8tu-XYnaYNUjQp8TpvUyY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3106973-1316086830.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vEU9I7D72CslYt_Vy5ATHBivlBQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3106973-1316086830.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Underground Source Records",
+      "startTime": "55:04",
+      "trackName": "Can't Nobody",
+      "artistName": "Alex Agore",
+      "coverArtDate": "2021-12-09 23:02:09",
+      "coverArtLarge": "https://img.discogs.com/VdS1tpR9ce7jSiRi_bcG3dVYdE0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6317002-1416313069-3298.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/xZwHzhN2DdqBwHdt6uk7RmB4WcU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6317002-1416313069-3298.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Dub Mix"
+    },
+    {
+      "publisher": "Moda Black",
+      "startTime": "1:00:56",
+      "trackName": "Going Down",
+      "artistName": "Sidney Charles",
+      "coverArtDate": "2021-12-09 23:02:12",
+      "coverArtLarge": "https://img.discogs.com/25sfz1EI0U-1K9kF3BjEPZa978A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5939862-1406872098-4095.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_ZN5dSQww2KOvoEIDcHrtm8pzzc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5939862-1406872098-4095.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "MadTech",
+      "startTime": "1:08:44",
+      "trackName": "Incoming",
+      "artistName": "Celsius",
+      "coverArtDate": "2021-12-09 23:02:14",
+      "coverArtLarge": "https://img.discogs.com/eZzhjoE5YmK7_vFft9vztCnVuX8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5630228-1398437893-8169.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_cduB7u2KsVBbqb18VuorG-CjaM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5630228-1398437893-8169.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Snazzy Traxx",
+      "startTime": "1:12:04",
+      "trackName": "In The Pool",
+      "artistName": "Lombard Street",
+      "coverArtDate": "2021-12-09 23:02:16",
+      "coverArtLarge": "https://img.discogs.com/wA9ffPtWXzWFSdHOAzbjGFLWZo4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2n5hE9Y9_5G9TFeO4IpyriCcKBc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Box Aus Holz",
+      "startTime": "1:17:24",
+      "trackName": "In the Disse",
+      "artistName": "Max Graef",
+      "coverArtDate": "2021-12-09 23:02:19",
+      "coverArtLarge": "https://img.discogs.com/ZYAK_ZXhy64CpxTMigYObwFbDws=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4147720-1396342100-6087.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/-stFV1irbinFGqF3M1H9emf9gk4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4147720-1396342100-6087.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Dirt Crew Recordings",
+      "startTime": "1:21:07",
+      "trackName": "Guess What",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-12-09 23:02:21",
+      "coverArtLarge": "https://img.discogs.com/Tw7bpLnFQGKXx0XsWT4OqcfKR6w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4089745-1354890980-2349.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vEmkDbaClUAUzuNalhGwPxGCKUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4089745-1354890980-2349.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Futureboogie Recordings",
+      "startTime": "1:27:20",
+      "trackName": "Virtuality",
+      "artistName": "Crazy P",
+      "coverArtDate": "2021-12-09 23:02:23",
+      "coverArtLarge": "https://img.discogs.com/L9I02eIdjqTuusvcUF0kZ8v-h68=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5067194-1383595416-4048.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9gLVzMqK7F_1HaH_JoUVF2M7xqs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5067194-1383595416-4048.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Delusion Of Grandeur",
+      "startTime": "1:32:57",
+      "trackName": "Whispering Twirl",
+      "artistName": "Tornado Wallace",
+      "coverArtDate": "2021-12-09 23:02:25",
+      "coverArtLarge": "https://img.discogs.com/ObkAUCpJ-T_iQTcmqCoUacHzDhU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511248-1288012382.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/hn3SHOSEko82ITnovMXR9uq707A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2511248-1288012382.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Body Rhythm Records",
+      "startTime": "1:37:15",
+      "trackName": "Connected",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-12-09 23:02:28",
+      "coverArtLarge": "https://img.discogs.com/_dKbEYS6XCqaUyWRlG1l82n-an4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2339601-1278072003.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/qBD29l9GzyQ0Ht0E9iKbI2VjEFk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2339601-1278072003.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "i! Records",
+      "startTime": "1:43:37",
+      "trackName": "Do You Want My Love",
+      "artistName": "Studioheist",
+      "coverArtDate": "2021-12-09 23:02:30",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Beatdown",
+      "startTime": "1:48:26",
+      "trackName": "If You Feel",
+      "artistName": "Juliet Fox",
+      "coverArtDate": "2021-12-09 23:02:32",
+      "coverArtLarge": "https://img.discogs.com/tDq-QIIAlOX6CE9DExldf3iowR4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443877-1554204415-3789.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/GkmufT5HN7sl3oYHaHG95n5FSF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-443877-1554204415-3789.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "The Gym",
+      "startTime": "1:55:22",
+      "trackName": "No. 5",
+      "artistName": "Max Graef",
+      "coverArtDate": "2021-12-09 23:02:35",
+      "coverArtLarge": "https://img.discogs.com/_PuCkebWjno7BgFzQ2et_7Q2dSo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5339221-1392104090-6843.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/eYCqwFopExTiTJuY3cEALG27g44=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5339221-1392104090-6843.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Tartelet Records",
+      "startTime": "1:58:20",
+      "trackName": "Love Jones",
+      "artistName": "Glenn Astro",
+      "coverArtDate": "2021-12-09 23:02:37",
+      "coverArtLarge": "https://img.discogs.com/FjwH-hbXdARJcaCKlhRfTqvzuVg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5468036-1397213359-1359.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/pAx-YIRpI5Xg-oveNBIe2Jfsf5Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5468036-1397213359-1359.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "CTEPEO '57 Remix"
+    }
+  ]
+}

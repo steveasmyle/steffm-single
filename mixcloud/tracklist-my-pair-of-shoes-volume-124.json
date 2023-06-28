@@ -1,0 +1,247 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-124",
+  "tracks": [
+    {
+      "publisher": "Better Listen Records",
+      "startTime": "00:00",
+      "trackName": "Make Sure You Mean That Shit",
+      "artistName": "Dorsi Plantar",
+      "coverArtDate": "2021-07-19 17:17:13",
+      "coverArtLarge": "https://img.discogs.com/CTSf24Zrw21wJiVY05nS6PFSNsM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12641775-1539181843-5178.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gdphKRB5VV87oN7CmLjJHQEuqks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12641775-1539181843-5178.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "05:28",
+      "trackName": "Jazz Bar",
+      "artistName": "N-You-Up",
+      "coverArtDate": "2021-07-19 17:17:16",
+      "coverArtLarge": "https://img.discogs.com/Rlri6oRecRjUl7xyDTUn5ssSte0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15726426-1596735915-2545.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/VIsJcCIQogsbiDLMzonhILU_q2U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15726426-1596735915-2545.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Saison Rework"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "10:50",
+      "trackName": "In The Studio",
+      "artistName": "Deeplomatik",
+      "coverArtDate": "2021-07-19 17:17:18",
+      "coverArtLarge": "https://img.discogs.com/qr_kyO19LxjQssHKC2y6srQOP9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14523923-1576319420-4760.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/r5bMyBkqW8G6mLhU7XFtOIC48Z4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14523923-1576319420-4760.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "I Records",
+      "startTime": "16:08",
+      "trackName": "Trust",
+      "artistName": "Kevin Yost & Peter Funk",
+      "coverArtDate": "2021-07-19 17:17:21",
+      "coverArtLarge": "https://img.discogs.com/3YnwOICHqAGW6PKXHvJmMAdqah8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4781659-1375330583-5938.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/17pTglkgiO-rnFh37k3NwB-KKh8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4781659-1375330583-5938.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Jesusdapnk Dub Remix"
+    },
+    {
+      "publisher": "Atjazz Records Company",
+      "startTime": "21:44",
+      "trackName": "Lullaby",
+      "artistName": "SGVO",
+      "coverArtDate": "2021-07-19 17:17:23",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 5,
+      "remixArtistName": "Dub"
+    },
+    {
+      "publisher": "SP Recordings",
+      "startTime": "27:36",
+      "trackName": "The Deep",
+      "artistName": "City Soul Project",
+      "coverArtDate": "2021-07-19 17:17:26",
+      "coverArtLarge": "https://img.discogs.com/eC1HASmJ1TCwEEp3xq228fzma-0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24311-1429796757-1915.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/y3LEPdXr1_DQZayX3smFzkbfrSI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-24311-1429796757-1915.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Mood Funk Records",
+      "startTime": "33:28",
+      "trackName": "Building Slowly",
+      "artistName": "Lunabass",
+      "coverArtDate": "2021-07-19 17:17:29",
+      "coverArtLarge": "https://img.discogs.com/nHZ_whyBEJY9dtUjY9ARA9Ngqys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12868116-1543501175-1185.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FSquJ75d0l8O5UvWH3H5oo3fXXM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12868116-1543501175-1185.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Romantics",
+      "startTime": "38:48",
+      "trackName": "Smoked Out",
+      "artistName": "Sondrio",
+      "coverArtDate": "2021-07-19 17:17:31",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "wewillalwaysbealovesong",
+      "startTime": "43:26",
+      "trackName": "Azucena Malagon",
+      "artistName": "Felipe Gordon",
+      "coverArtDate": "2021-07-19 17:17:34",
+      "coverArtLarge": "https://img.discogs.com/D3rshmVUBsPniviEdXpCOX_SnsQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13656389-1558391410-2403.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/HQw8cLjkT826iNIP4Xuy14D5PEA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13656389-1558391410-2403.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Jimpster Remix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "50:22",
+      "trackName": "Ed Witten",
+      "artistName": "Opolopo",
+      "coverArtDate": "2021-07-19 17:17:36",
+      "coverArtLarge": "https://img.discogs.com/JcQTBpsC-upwHVJoUSA0jwSsxqU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11698464-1520856830-4811.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MfZFVRFEy0AMt8EYgQ2oz4CODz4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11698464-1520856830-4811.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "56:08",
+      "trackName": "Soul Driven",
+      "artistName": "Sek",
+      "coverArtDate": "2021-07-19 17:17:39",
+      "coverArtLarge": "https://img.discogs.com/9YziqCs_MhuU-ET7VY7TeUuAv8A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12586095-1538107861-6139.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/WahL9T__gwJuIdyP-rJTt-IlnR4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12586095-1538107861-6139.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Cruise Music",
+      "startTime": "1:00:51",
+      "trackName": "Waiting (For You)",
+      "artistName": "Danny Cruz",
+      "coverArtDate": "2021-07-19 17:17:41",
+      "coverArtLarge": "https://img.discogs.com/pDKc5pIIXTdA--548vHKLszfq-A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13624084-1557751301-3572.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9xv_XHQy02lHysJIKUtk77Zp-6I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13624084-1557751301-3572.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "La Vie D'Artiste Music",
+      "startTime": "1:07:02",
+      "trackName": "Sunshine",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-19 17:17:44",
+      "coverArtLarge": "https://img.discogs.com/MaRfFEZRnlp3UZTP8icmsmw6qbU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11426565-1516124052-4039.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Tt55RGjGVFpEWSvCjkSiXe2U3dc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11426565-1516124052-4039.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Super Tuff Records",
+      "startTime": "1:10:55",
+      "trackName": "House Gospel",
+      "artistName": "Niles Cooper",
+      "coverArtDate": "2021-07-19 17:17:46",
+      "coverArtLarge": "https://img.discogs.com/sOIEoohcFq5dqqqTVAX0a7ws8TI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12700002-1540451411-8703.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/d9lmSiIfrlxSJjhICzFXuEHoe7w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12700002-1540451411-8703.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Black Loops Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:15:20",
+      "trackName": "This Melody",
+      "artistName": "Miguel Migs Feat. Lisa Shaw",
+      "coverArtDate": "2021-07-19 17:17:49",
+      "coverArtLarge": "https://img.discogs.com/JzSmdccjqlJs3Na_tzQ8mkz3B4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12554534-1537524964-4091.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/RxywOVhsfpeIqgr6rqPVcVDn84U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12554534-1537524964-4091.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Monoside",
+      "startTime": "1:22:00",
+      "trackName": "Rare Groove Weapon",
+      "artistName": "Sammy Deuce & Sebb Junior",
+      "coverArtDate": "2021-07-19 17:17:51",
+      "coverArtLarge": "https://img.discogs.com/40PFK_oXwJbhFoGzMKHDYegwzQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11950872-1525336420-9875.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Cmx2PgETHCIHJ780WFIQqqfTDvE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11950872-1525336420-9875.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Cr2 Records",
+      "startTime": "1:26:58",
+      "trackName": "Make You Mine",
+      "artistName": "Deftone",
+      "coverArtDate": "2021-07-19 17:17:54",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nervous Records",
+      "startTime": "1:30:55",
+      "trackName": "How Are You",
+      "artistName": "Angelo Ferreri",
+      "coverArtDate": "2021-07-19 17:17:56",
+      "coverArtLarge": "https://img.discogs.com/AXz9rGzzbpQUxGexA9gTAuqE06U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12007257-1526444867-3992.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/HdSYM7TFf9D5eQkNlfK2MX7do30=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12007257-1526444867-3992.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "1:35:54",
+      "trackName": "Some Day",
+      "artistName": "Crackazat",
+      "coverArtDate": "2021-07-19 17:17:59",
+      "coverArtLarge": "https://img.discogs.com/BV-8CVvEJH7xmuyO51S3lEUdAVQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13382608-1553171892-5600.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/W-1ByLcA90nq25CXItWXzLbg65E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13382608-1553171892-5600.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Better Listen Records",
+      "startTime": "1:40:45",
+      "trackName": "Naturist Behavior",
+      "artistName": "Saint Paul",
+      "coverArtDate": "2021-07-19 17:18:01",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Kontemporary",
+      "startTime": "1:46:02",
+      "trackName": "Love To The World",
+      "artistName": "L.T.D.",
+      "coverArtDate": "2021-07-19 17:18:04",
+      "coverArtLarge": "https://img.discogs.com/u-hnaNNndbGYSYl_m9gEi0aQmeA=/600x587/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-189430-1489734488-6973.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bKNpomruZU3YGJbSt8JniOHSaxc=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-189430-1489734488-6973.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Kon's Instrumental"
+    },
+    {
+      "publisher": "Ouer",
+      "startTime": "1:54:38",
+      "trackName": "35mm",
+      "artistName": "OUER",
+      "coverArtDate": "2021-07-19 17:18:06",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    }
+  ]
+}

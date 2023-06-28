@@ -1,0 +1,291 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-91",
+  "tracks": [
+    {
+      "publisher": "Salted Music",
+      "startTime": "00:00",
+      "trackName": "The Answer",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-10-17 22:53:30",
+      "coverArtLarge": "https://img.discogs.com/gWGy7RKYOvngeOIUELgEtoCmrrU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7065240-1501882073-1171.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/xQy469LqepytS4F4x1qeM2pG2_I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7065240-1501882073-1171.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Love Inc Music",
+      "startTime": "10:00",
+      "trackName": "It's True",
+      "artistName": "IDQ",
+      "coverArtDate": "2021-10-17 22:53:32",
+      "coverArtLarge": "https://img.discogs.com/y1vON9Vf_dQFu2kr9lb-2NU6E3c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7525645-1443293626-1242.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/wvHWGojflmKtqhq3Fl-8ejMUR2A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7525645-1443293626-1242.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Freerange Records",
+      "startTime": "14:33",
+      "trackName": "Victoria's Secret",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-10-17 22:53:34",
+      "coverArtLarge": "https://img.discogs.com/-dWHAoD4mwgsmewZsnO4jswkm3Y=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7008288-1487324369-4864.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/KxneQNr_E0_fRqEBjbAPMNcRq2o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7008288-1487324369-4864.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Numbers",
+      "startTime": "16:56",
+      "trackName": "Walk On In",
+      "artistName": "Doc Daneeka feat. Ratcatcher",
+      "coverArtDate": "2021-10-17 22:53:36",
+      "coverArtLarge": "https://img.discogs.com/Rwv4s9Ba7pU2PylpzV-8GkR7Z4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5066596-1394186500-7970.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/DIRyPF-mztpBn4LfEm5lJCi1EbY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5066596-1394186500-7970.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Errected",
+      "startTime": "21:29",
+      "trackName": "Feel The Same",
+      "artistName": "Hercules Poirot & Hate Affair",
+      "coverArtDate": "2021-10-17 22:53:39",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 5,
+      "remixArtistName": "Todd Derby Dub"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "25:11",
+      "trackName": "Get On Down",
+      "artistName": "The Checkup",
+      "coverArtDate": "2021-10-17 22:53:41",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Something Different Records",
+      "startTime": "30:23",
+      "trackName": "5th Element",
+      "artistName": "Moreno (LDN)",
+      "coverArtDate": "2021-10-17 22:53:43",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 7,
+      "remixArtistName": "A Lister Remix"
+    },
+    {
+      "publisher": "Lost My Dog",
+      "startTime": "34:38",
+      "trackName": "Gold Digger",
+      "artistName": "Mountal",
+      "coverArtDate": "2021-10-17 22:53:46",
+      "coverArtLarge": "https://img.discogs.com/hGzba7AR4SyGqZnjjlbTqtCuJvQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15735901-1596828044-2109.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/jxiT_lue4g1a40yrhJ4WnUU7hQM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15735901-1596828044-2109.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Swedish Brandy Productions",
+      "startTime": "37:32",
+      "trackName": "Yuki",
+      "artistName": "Eric Ericksson",
+      "coverArtDate": "2021-10-17 22:53:48",
+      "coverArtLarge": "https://img.discogs.com/lstYUGR5Uj9Y2xyNzzLmpqmeKIY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4886046-1397138479-7230.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/T_KQgmmh9aRVOICb46itw_U1vzQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4886046-1397138479-7230.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Deeper Dub"
+    },
+    {
+      "publisher": "High Strings",
+      "startTime": "41:45",
+      "trackName": "The Doctrine",
+      "artistName": "Ghetto Chords",
+      "coverArtDate": "2021-10-17 22:53:50",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Dirt Crew Recordings",
+      "startTime": "46:00",
+      "trackName": "Shotgun",
+      "artistName": "Detroit swindle",
+      "coverArtDate": "2021-10-17 22:53:52",
+      "coverArtLarge": "https://img.discogs.com/LsohElGKfeBont0bpAWlx2AA9QI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5539733-1396006632-2410.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3sqBbTCTzfaiDIoNaQFgGvbQTy0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5539733-1396006632-2410.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Madhouse Records",
+      "startTime": "50:44",
+      "trackName": "Okay",
+      "artistName": "Demarkus Lewis",
+      "coverArtDate": "2021-10-17 22:53:55",
+      "coverArtLarge": "https://img.discogs.com/N7mBRvte9uwaDKonLzeWiDMUlRc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7337538-1439228192-7969.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gCvGFHBgEEEBIIFR0L6c-9OeQsk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7337538-1439228192-7969.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Plastic City",
+      "startTime": "56:02",
+      "trackName": "Rising",
+      "artistName": "Silt",
+      "coverArtDate": "2021-10-17 22:53:57",
+      "coverArtLarge": "https://img.discogs.com/B29YST9GMyZUMnnJ3Ft2LGROIww=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060721-1189018862.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PYgm46cO_wehCfuKKAxM-ATzKtw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1060721-1189018862.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "ZRecords",
+      "startTime": "1:01:19",
+      "trackName": "Found My Way",
+      "artistName": "Sean McCabe",
+      "coverArtDate": "2021-10-17 22:53:59",
+      "coverArtLarge": "https://img.discogs.com/S2EWm5GEOATUx33Cc8zC9pRqKX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6310190-1460898331-1637.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/qYFQ-Y3ohnGZzjbDWykqLPSPX7E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6310190-1460898331-1637.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Extended 12\" Mix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "1:07:24",
+      "trackName": "Daydreaming",
+      "artistName": "Claes Rosen",
+      "coverArtDate": "2021-10-17 22:54:01",
+      "coverArtLarge": "https://img.discogs.com/o2hOZYMU5-1F5eJVuwa4YGykSy4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4710334-1375257083-5213.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/w9cNNZlRKgHw5mjI6JDK5i2jg-o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4710334-1375257083-5213.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Piston Recordings",
+      "startTime": "1:10:03",
+      "trackName": "Pussycats Howl",
+      "artistName": "Garcynoise feat. Bizzarre DJ",
+      "coverArtDate": "2021-10-17 22:54:04",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": "Metropolis Experience Remix"
+    },
+    {
+      "publisher": "Pura Music",
+      "startTime": "1:16:22",
+      "trackName": "Rare Love",
+      "artistName": "Hector Couto",
+      "coverArtDate": "2021-10-17 22:54:06",
+      "coverArtLarge": "https://img.discogs.com/3B7XbSi84A6vifBt9zXjaMz6Ae0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4231853-1359222982-8119.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vYeZr80eJrAca2wZpk2tJY8R3zc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4231853-1359222982-8119.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Josh Butler Remix"
+    },
+    {
+      "publisher": "I Records",
+      "startTime": "1:18:46",
+      "trackName": "Messing With My Soul",
+      "artistName": "Kevin Yost",
+      "coverArtDate": "2021-10-17 22:54:09",
+      "coverArtLarge": "https://img.discogs.com/5vay65_TaWyKhGZQDM6Fnz2pLio=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5986761-1408134239-1790.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/y6G1N9Up90lM95TQzqMIKvIX3us=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5986761-1408134239-1790.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "1:23:23",
+      "trackName": "Flights Over Egypt",
+      "artistName": "Debonair",
+      "coverArtDate": "2021-10-17 22:54:11",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "MPOS Fights Over Egypt Edit"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "1:25:13",
+      "trackName": "Sleepin",
+      "artistName": "Demarkus Lewis & J Paul Getto",
+      "coverArtDate": "2021-10-17 22:54:13",
+      "coverArtLarge": "https://img.discogs.com/YWC9RqC-gkTQpH4Vm-gY_bIO6KI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6731242-1425490769-5278.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/orDoaFJYO7-b7fdFVboNoNfYkkI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6731242-1425490769-5278.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Freerange Records",
+      "startTime": "1:30:32",
+      "trackName": "Under The Spell",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-10-17 22:54:15",
+      "coverArtLarge": "https://img.discogs.com/ZCRrPrR5iFczWqdmJHLuutovFtE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5094231-1384795908-1826.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/8OcJv7wMuLhjJkAiocLf7emrVkc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5094231-1384795908-1826.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Orignal Mix"
+    },
+    {
+      "publisher": "Snazzy Traxx",
+      "startTime": "1:34:53",
+      "trackName": "Run 2 Me",
+      "artistName": "James Johnston",
+      "coverArtDate": "2021-10-17 22:54:18",
+      "coverArtLarge": "https://img.discogs.com/ePX4h5juXgN41H2slcNTpJi9dS0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10864128-1505576638-8659.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Ow66mcqfWsZGLiRV0_LlXH_EDTU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10864128-1505576638-8659.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Snazzy Traxx",
+      "startTime": "1:40:26",
+      "trackName": "Deep Trouble",
+      "artistName": "Lombard Street",
+      "coverArtDate": "2021-10-17 22:54:20",
+      "coverArtLarge": "https://img.discogs.com/wA9ffPtWXzWFSdHOAzbjGFLWZo4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2n5hE9Y9_5G9TFeO4IpyriCcKBc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10864434-1505579859-1951.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Body Rhythm Records",
+      "startTime": "1:44:56",
+      "trackName": "Hold Me Tight",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-10-17 22:54:23",
+      "coverArtLarge": "https://img.discogs.com/nihaTS-7gv5cf2zwEC7KQO-G1Xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5125231-1385184858-4180.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/-GgtQM6M46g_ZZKqlAIca1BjHeA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5125231-1385184858-4180.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "La Musique Fantastique",
+      "startTime": "1:49:25",
+      "trackName": "Heartbreakin'",
+      "artistName": "The Sunchasers feat. Bryzey",
+      "coverArtDate": "2021-10-17 22:54:25",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 25,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Bargrooves",
+      "startTime": "​1:54:26",
+      "trackName": "Photon",
+      "artistName": "Deetron",
+      "coverArtDate": "2021-10-17 22:54:28",
+      "coverArtLarge": "https://img.discogs.com/dl7HSv4AUYsgkTCSA8njzi7POlE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14351638-1573558572-6737.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vJAjkRrLgScHjcPnABGg82Nzu6o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14351638-1573558572-6737.jpeg.jpg",
+      "sectionNumber": 26,
+      "remixArtistName": "Original Mix"
+    }
+  ]
+}

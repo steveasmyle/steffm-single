@@ -1,0 +1,280 @@
+{
+  "mixcloudKey": "adventures-in-decent-music-volume-38",
+  "tracks": [
+    {
+      "publisher": "Needwant",
+      "startTime": "00:00",
+      "trackName": "3two5",
+      "artistName": "Bonar Bradberry",
+      "coverArtDate": "2021-10-19 22:12:11",
+      "coverArtLarge": "https://img.discogs.com/W7qXm7JPxXUoKrCRizNyAChMR0A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4723357-1373443767-9576.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/fJrboNy3R4fa-IRGJuYXwHKdj5U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4723357-1373443767-9576.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Mario Basanov Remix"
+    },
+    {
+      "publisher": "Kittball",
+      "startTime": "06:14",
+      "trackName": "Where We Belong",
+      "artistName": "Purple Disco Machine",
+      "coverArtDate": "2021-10-19 22:12:14",
+      "coverArtLarge": "https://img.discogs.com/PYwiBxevarcsu98NZzwK42EFccg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7514192-1443112879-2478.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/_V7qFUjHnkYvDmqq4FRRAnLIEF4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7514192-1443112879-2478.png.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "RawJackers",
+      "startTime": "11:23",
+      "trackName": "Keep On Risin",
+      "artistName": "Adri Block & Arno Krijnen",
+      "coverArtDate": "2021-10-19 22:12:16",
+      "coverArtLarge": "https://img.discogs.com/_Og_KiCIkZNhVRUCEefVjI5vPXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7662998-1446221235-5700.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/t2fCqRhcsLPSfoj4tnYKWGaB8Lk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7662998-1446221235-5700.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Enormous Tunes",
+      "startTime": "15:27",
+      "trackName": "Commitment",
+      "artistName": "Paul Richmond",
+      "coverArtDate": "2021-10-19 22:12:19",
+      "coverArtLarge": "https://img.discogs.com/PMBDjaKn_D0xTF9BScsn74PJCDE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6506162-1420828363-3523.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/u1csec-ctWizShhv2beC8MSNevw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6506162-1420828363-3523.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Giant Cuts Digital",
+      "startTime": "20:44",
+      "trackName": "Dance Dance Dance",
+      "artistName": "Lux Experience",
+      "coverArtDate": "2021-10-19 22:12:21",
+      "coverArtLarge": "https://img.discogs.com/yD2owTct-_YKYT1E0yo9ohHrQg4=/fit-in/497x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6617225-1423176970-6129.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/6d3LZOvo6v6WGiBaFxmiGIfTxFY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6617225-1423176970-6129.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Delusions Of Grandeur",
+      "startTime": "26:40",
+      "trackName": "Good Intentions",
+      "artistName": "Session Victim",
+      "coverArtDate": "2021-10-19 22:12:23",
+      "coverArtLarge": "https://img.discogs.com/O755oaa0nCt_2JsPaVXJX5Qk0oM=/fit-in/352x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3641583-1338526387-5302.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/8z0Ifmhe8ixK0Q39SX9LpCVxnx0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3641583-1338526387-5302.png.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "LP Mix"
+    },
+    {
+      "publisher": "Tasty Recordings",
+      "startTime": "32:14",
+      "trackName": "Doin Their Own Thang",
+      "artistName": "Discotron",
+      "coverArtDate": "2021-10-19 22:12:26",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Keno Records",
+      "startTime": "36:42",
+      "trackName": "Swaggin",
+      "artistName": "David Jach & Beatamines",
+      "coverArtDate": "2021-10-19 22:12:28",
+      "coverArtLarge": "https://img.discogs.com/xdW-TkB9DB-GTM463FkTWRydbGk=/fit-in/600x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4833011-1376918860-7895.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Ju7siCkFfMeT2wZleKDrlQ6WOiY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4833011-1376918860-7895.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "39:17",
+      "trackName": "Groove Is In The Heart",
+      "artistName": "Dee lite",
+      "coverArtDate": "2021-10-19 22:12:30",
+      "coverArtLarge": "https://img.discogs.com/lI4kue-HyGjavfBpR4MmBi8FIbY=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-4119-1621901246-2692.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YOdpWBopZjB9weMF6EJ88ozIbjY=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4119-1621901246-2692.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Gigamesh Remix"
+    },
+    {
+      "publisher": "Good Stuff Recordings",
+      "startTime": "43:21",
+      "trackName": "Army Of Lover",
+      "artistName": "Quell",
+      "coverArtDate": "2021-10-19 22:12:33",
+      "coverArtLarge": "https://img.discogs.com/gb_UWnnqD6suI38c9XW2eVRBY-s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2489864-1286854289.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gaFptb8BxMnxFUiz1nsgLTJTiik=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2489864-1286854289.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Miles Maeda Mix"
+    },
+    {
+      "publisher": "Disco Sonitus",
+      "startTime": "47:58",
+      "trackName": "Try It",
+      "artistName": "Diamond D",
+      "coverArtDate": "2021-10-19 22:12:35",
+      "coverArtLarge": "https://img.discogs.com/RSQzb5CvGab-36flL4WdGalSGEE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831435-1163270182.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/IBlU6zKGyxhTLklB0Eu0ywb41zs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-831435-1163270182.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Nurvous Records",
+      "startTime": "54:53",
+      "trackName": "Viel Fein",
+      "artistName": "Robosonic & Purple Disco Machine",
+      "coverArtDate": "2021-10-19 22:12:37",
+      "coverArtLarge": "https://img.discogs.com/sTXXE1rJffzXEzBK2Gv3KgPccKk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14855791-1582905666-9438.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sDxfiP2-z-Hs8CnCa_MlzAlk0Iw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14855791-1582905666-9438.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "1:00:18",
+      "trackName": "My Lady",
+      "artistName": "The Crusaders",
+      "coverArtDate": "2021-10-19 22:12:40",
+      "coverArtLarge": "https://img.discogs.com/M1vtZePKSsNwd6R1RDJxyb72SNc=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184113-1163712028.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bUsphlJkhAqTfK8BWXzrT-yQ8sc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-184113-1163712028.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Purple Disco Machine Re-Edit"
+    },
+    {
+      "publisher": "Moda Music",
+      "startTime": "1:06:00",
+      "trackName": "Mr. Overtime",
+      "artistName": "Punks Jump Up feat. Dave 1",
+      "coverArtDate": "2021-10-19 22:12:42",
+      "coverArtLarge": "https://img.discogs.com/we7fMNU4YbwCB4vJGD0iPZ4CYiU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7952984-1452337900-1094.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/OXPv1H5VDY_rftKVleoE_apOGK8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7952984-1452337900-1094.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Gigamesh Remix"
+    },
+    {
+      "publisher": "Dikso Records",
+      "startTime": "1:11:01",
+      "trackName": "Tonite",
+      "artistName": "Larse",
+      "coverArtDate": "2021-10-19 22:12:44",
+      "coverArtLarge": "https://img.discogs.com/ZQTLHJKtllezf1Ny31jkceWEEcU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3925178-1349442258-3995.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rdSZXpITL7duqaNj2Onhqo4UPs4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3925178-1349442258-3995.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "RvS",
+      "startTime": "1:16:51",
+      "trackName": "Love capacity",
+      "artistName": "Asadinho feat. Ingrid Hakanson",
+      "coverArtDate": "2021-10-19 22:12:46",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 16,
+      "remixArtistName": "Original Vox Mix"
+    },
+    {
+      "publisher": "Chicago Connection Records",
+      "startTime": "1:23:09",
+      "trackName": "Out Of My Hands",
+      "artistName": "Unfinished Business",
+      "coverArtDate": "2021-10-19 22:12:49",
+      "coverArtLarge": "https://img.discogs.com/5etIVCs-DqTJrDpf_X2uC40QHKQ=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-260681-1158164934.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/vUdTBshfxJnIaHaBHHh1yKJ370U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-260681-1158164934.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Club Mix"
+    },
+    {
+      "publisher": "Jiscomusic",
+      "startTime": "1:27:25",
+      "trackName": "Unfinished Edits Are Out Of My Hands",
+      "artistName": "The Revenge",
+      "coverArtDate": "2021-10-19 22:12:51",
+      "coverArtLarge": "https://img.discogs.com/j84c8KtqQJR1aMJZUB3jdlIAnqM=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1526679-1226158085.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/rxfyhKLvlPwey73KzDuyVh_rAxw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1526679-1226158085.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Clair de Lune Records",
+      "startTime": "1:29:30",
+      "trackName": "Classique",
+      "artistName": "Lumoon & Rob!n",
+      "coverArtDate": "2021-10-19 22:12:54",
+      "coverArtLarge": "https://img.discogs.com/7SwYuhPqprrj2cs8OsXl5QsMx04=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13823409-1561970217-6203.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/H5P5dq62MVRUnQECO-SDAoZadc8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13823409-1561970217-6203.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Instruments of Rapture",
+      "startTime": "1:32:15",
+      "trackName": "Final",
+      "artistName": "Evan Evans",
+      "coverArtDate": "2021-10-19 22:12:56",
+      "coverArtLarge": "https://img.discogs.com/NHYjeGdHS8SP6v4491UE_Om7IX8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3209972-1619087420-9187.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/qnZ17iCCHW47A1wfkv4y5y3TOm0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3209972-1619087420-9187.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Art Of Tones Disco Dub Remix"
+    },
+    {
+      "publisher": "Full Pupp",
+      "startTime": "1:39:35",
+      "trackName": "Lyd & Bilde",
+      "artistName": "Chmmr",
+      "coverArtDate": "2021-10-19 22:12:58",
+      "coverArtLarge": "https://img.discogs.com/M9GbpnIl22y0QH4NxNEABVwEb1s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6166201-1413906514-9490.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/oz4uAt2pVlxvlLW1Q-COS5a92MI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6166201-1413906514-9490.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Sound Stream",
+      "startTime": "1:42:49",
+      "trackName": "Bass Affairs",
+      "artistName": "Sound Stream",
+      "coverArtDate": "2021-10-19 22:13:01",
+      "coverArtLarge": "https://img.discogs.com/ONcR8G2gBT0ANWyJyRrENtJyvF8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6824131-1429540796-2813.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/EMe3D-dI1wufsrQG_i8eeJwFS0I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6824131-1429540796-2813.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "R&S Records",
+      "startTime": "1:48:52",
+      "trackName": "Lying In The Reeds",
+      "artistName": "Lone",
+      "coverArtDate": "2021-10-19 22:13:03",
+      "coverArtLarge": "https://img.discogs.com/Ix505Q9n6S_w-WuG480fsbe4AgY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573363-1335863076.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/v1RvU8sCEt-4rnxkCYNI0YBPzWs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3573363-1335863076.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "THIS IS Recordings",
+      "startTime": "1:53:00",
+      "trackName": "The Healer",
+      "artistName": "Sander Kleinenberg",
+      "coverArtDate": "2021-10-19 22:13:05",
+      "coverArtLarge": "https://img.discogs.com/NLjOdtHIpKSh3Ww0jPiP8TXwljA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604543-1587585250-9750.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/8TqWVL8ER9yFKUT8znlSy33YPMw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2604543-1587585250-9750.png.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Shazam Remix"
+    },
+    {
+      "publisher": "Here & Now",
+      "startTime": "1:56:36",
+      "trackName": "It's Only Just a Garden",
+      "artistName": "Chanan Hanspal feat. Imaani",
+      "coverArtDate": "2021-10-19 22:13:08",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 25,
+      "remixArtistName": "Yam Who Rework"
+    }
+  ]
+}

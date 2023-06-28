@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-126",
+  "tracks": [
+    {
+      "publisher": "Local Talk",
+      "startTime": "00:00",
+      "trackName": "U'll Like It",
+      "artistName": "Soulphiction",
+      "coverArtDate": "2021-07-19 17:13:42",
+      "coverArtLarge": "https://img.discogs.com/NOt1gd4V2JWrtZhjlknOgTmW_Mo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14386130-1573546843-1373.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/yXyXnTTlsoT00L5z716GP9bd16k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14386130-1573546843-1373.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Robsoul",
+      "startTime": "03:32",
+      "trackName": "Detour Jazz",
+      "artistName": "Mark Farina & Homero Espinosa",
+      "coverArtDate": "2021-07-19 17:13:44",
+      "coverArtLarge": "https://img.discogs.com/tIBq05x7Y4hKqwDNh8Gg6Ero3ds=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14729566-1580499078-1502.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cMtgpEh2ctVLqXhsBRbu7Im_6hE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14729566-1580499078-1502.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Reelsoul Musik",
+      "startTime": "06:55",
+      "trackName": "Yes I Can",
+      "artistName": "Reelsoul",
+      "coverArtDate": "2021-07-19 17:13:47",
+      "coverArtLarge": "https://img.discogs.com/Nv0FcJIqbiizPAMzDIImtT-U9C0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14311774-1572000987-6637.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FN_dNHaUe9cjEaLu27uB7vy3UN0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14311774-1572000987-6637.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "10:31",
+      "trackName": "Vibin'",
+      "artistName": "N-You-Up",
+      "coverArtDate": "2021-07-19 17:13:49",
+      "coverArtLarge": "https://img.discogs.com/Rlri6oRecRjUl7xyDTUn5ssSte0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15726426-1596735915-2545.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/VIsJcCIQogsbiDLMzonhILU_q2U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15726426-1596735915-2545.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Saison Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "16:00",
+      "trackName": "Deep Feels Dub",
+      "artistName": "Miguel Migs feat. Lisa Shaw",
+      "coverArtDate": "2021-07-19 17:13:52",
+      "coverArtLarge": "https://img.discogs.com/DhmvMXKXlzffJbyIpyYr9ROtcvo=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2204635-1270589846.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NvqHIXnsDHeocQbtVn9IIS94L0c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2204635-1270589846.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Plastik People Digital",
+      "startTime": "20:08",
+      "trackName": "You Better",
+      "artistName": "Marc Cotterell",
+      "coverArtDate": "2021-07-19 17:13:54",
+      "coverArtLarge": "https://img.discogs.com/3yKY1pQKYe62-Rsvr9He5Z0FPb0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13089701-1547876008-7830.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/iwVV9H8l0EogtWLy6E_HujmcJgs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13089701-1547876008-7830.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Garage House Cut"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "26:13",
+      "trackName": "Yep",
+      "artistName": "WillowMan",
+      "coverArtDate": "2021-07-19 17:13:57",
+      "coverArtLarge": "https://img.discogs.com/v-rGFDqMNrdaLIJ4mTDL__lyGuQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12835801-1542888432-7007.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4S3Zgpwd1SHj7r0dEVLHGz9tuEo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12835801-1542888432-7007.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Ballloom",
+      "startTime": "30:52",
+      "trackName": "Boujee",
+      "artistName": "Alek Soltirov",
+      "coverArtDate": "2021-07-19 17:13:59",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 8,
+      "remixArtistName": "Q Narongwate Remix"
+    },
+    {
+      "publisher": "Lazy Days Recordings",
+      "startTime": "35:33",
+      "trackName": "Koniokola",
+      "artistName": "Art Of Tones",
+      "coverArtDate": "2021-07-19 17:14:02",
+      "coverArtLarge": "https://img.discogs.com/pGPJnA19px-X0wVojv6xOVnHQpc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10861692-1505543409-1195.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/pA4gkasKDQ4zyIKLFXveUJKQRZs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10861692-1505543409-1195.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Fred Everything Remix"
+    },
+    {
+      "publisher": "Night People",
+      "startTime": "42:10",
+      "trackName": "Flashing Lights",
+      "artistName": "Eli Escobar",
+      "coverArtDate": "2021-07-19 17:14:04",
+      "coverArtLarge": "https://img.discogs.com/l7qJb8BXc_CWV7F6szwwkN3y91c=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15829797-1607039342-1647.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/JFG3PrYFdcbVB_FYnDvXDkiKp84=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15829797-1607039342-1647.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Poetry in Motion",
+      "startTime": "47:32",
+      "trackName": "Rain Dance",
+      "artistName": "Roberto Rodriguez",
+      "coverArtDate": "2021-07-19 17:14:07",
+      "coverArtLarge": "https://img.discogs.com/rgffIyszzpxJkIedkX8OOpf2oZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14481867-1575408105-6107.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/kVYLL0mqxc3RxbwNzHmoxAXRRS8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14481867-1575408105-6107.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Madhouse Records",
+      "startTime": "53:59",
+      "trackName": "Kilimanjaro Coconut",
+      "artistName": "Carlo",
+      "coverArtDate": "2021-07-19 17:14:10",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "AMFlow Records",
+      "startTime": "59:02",
+      "trackName": "Cloudy Bay",
+      "artistName": "Yuko Jikido",
+      "coverArtDate": "2021-07-19 17:14:12",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 13,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Shall Not Fade",
+      "startTime": "1:04:30",
+      "trackName": "Meditation",
+      "artistName": "Nicholas",
+      "coverArtDate": "2021-07-19 17:14:15",
+      "coverArtLarge": "https://img.discogs.com/fim5zHwWY5wSE2E5aKiHeZE98wE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14434369-1582848017-1180.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/rjRX80W35-G2R2Uy-DThNvgLXIU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14434369-1582848017-1180.png.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Clone Royal Oak",
+      "startTime": "1:08:57",
+      "trackName": "Strings",
+      "artistName": "KiNK",
+      "coverArtDate": "2021-07-19 17:14:17",
+      "coverArtLarge": "https://img.discogs.com/lBqiUC2risfFFFvlTEsS1qyvBss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8653172-1567901319-9238.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/A9a7x0ZYJyLLooAlpv2e7uNX_BY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8653172-1567901319-9238.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "K7 Records",
+      "startTime": "1:16:23",
+      "trackName": "Saturday Night",
+      "artistName": "Lone",
+      "coverArtDate": "2021-07-19 17:14:20",
+      "coverArtLarge": "https://img.discogs.com/0sS4Sjr03kE2vtXnMMcb1YhmQ5I=/fit-in/571x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3279887-1566661950-5451.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/O1WZ2uxan7LmULruMx074A7YbvM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3279887-1566661950-5451.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Gotta Keep Faith",
+      "startTime": "1:21:13",
+      "trackName": "Groove Meditation",
+      "artistName": "Black Jazz Consortium",
+      "coverArtDate": "2021-07-19 17:14:22",
+      "coverArtLarge": "https://img.discogs.com/g5oCEBISNWj_eA0c7eyeBQB1blU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817068-1190710305.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ENzC3bOo90LIMT90tnfoIZ87bug=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-817068-1190710305.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Gents & Dandy's",
+      "startTime": "1:28:02",
+      "trackName": "Between",
+      "artistName": "Damian Rausch",
+      "coverArtDate": "2021-07-19 17:14:25",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "1:32:02",
+      "trackName": "The Life Behind Things",
+      "artistName": "Detroit Swindle",
+      "coverArtDate": "2021-07-19 17:14:27",
+      "coverArtLarge": "https://img.discogs.com/R2DcwdYRiNZC99vnCg0vkbnbvVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14325392-1572268398-1755.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/HPnt9EAuC_I7g18gTecbL-JxNbE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14325392-1572268398-1755.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "DFFD",
+      "startTime": "1:38:04",
+      "trackName": "Devotion",
+      "artistName": "Ashibah",
+      "coverArtDate": "2021-07-19 17:14:30",
+      "coverArtLarge": "https://img.discogs.com/z03LxLJH7dcK4cxYttpRa7_jP68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15798848-1598003215-9334.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/L2bvSYmCcJpxrwidVcmr_axb47Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15798848-1598003215-9334.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Extended Mix"
+    },
+    {
+      "publisher": "Moiss Music",
+      "startTime": "1:42:17",
+      "trackName": "Inside Me",
+      "artistName": "Andrea Sardo",
+      "coverArtDate": "2021-07-19 17:14:32",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "1:47:15",
+      "trackName": "Lo 'n' Deep",
+      "artistName": "Vozmediano",
+      "coverArtDate": "2021-07-19 17:14:35",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 22,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Toy Tonics",
+      "startTime": "1:53:02",
+      "trackName": "Theme One",
+      "artistName": "Joel Holmes & Cody Currie",
+      "coverArtDate": "2021-07-19 17:14:38",
+      "coverArtLarge": "https://img.discogs.com/10xXZ8Edp4J9oW745pl2q8m7tZ8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14303900-1584832937-3676.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/82fMYHWSSChIvy5ZL1CcA5RwWaw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14303900-1584832937-3676.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": ""
+    }
+  ]
+}

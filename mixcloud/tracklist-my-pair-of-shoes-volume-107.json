@@ -1,0 +1,269 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-107",
+  "tracks": [
+    {
+      "publisher": "Sweat It Out!",
+      "startTime": "00:00",
+      "trackName": "Love For Days",
+      "artistName": "Purple Disco Machine & Boris Dlugosch feat. Karen Harding",
+      "coverArtDate": "2021-08-14 23:14:23",
+      "coverArtLarge": "https://img.discogs.com/4RCA-j1RXBUNK2_DkAAeXFpowaU=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13527120-1588350048-2009.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/_5-ifH0dEwvKBklVol55czx_fZQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13527120-1588350048-2009.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Kenny Dope Remix"
+    },
+    {
+      "publisher": "Decadencia",
+      "startTime": "06:33",
+      "trackName": "Track Two",
+      "artistName": "Paradise Garage",
+      "coverArtDate": "2021-08-14 23:14:25",
+      "coverArtLarge": "https://img.discogs.com/WAAhxXPucfW6iUFTq-g6ovbfs9o=/fit-in/490x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233752-1380902413-1613.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/OZUZmlmfA5o0tlrrpgQHhRtsfHg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-233752-1380902413-1613.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Re-Tide Re-Grooved Mix"
+    },
+    {
+      "publisher": "Soul Love",
+      "startTime": "13:22",
+      "trackName": "Running Away",
+      "artistName": "Belezamusica",
+      "coverArtDate": "2021-08-14 23:14:28",
+      "coverArtLarge": "https://img.discogs.com/WplIDAv76xsAlCofjmwdOamlQGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-332840-1140954512.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YeKr-Nxd9MPCGQ51fNa03jmNU8w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-332840-1140954512.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Dr Packer Remix"
+    },
+    {
+      "publisher": "Late Shift",
+      "startTime": "19:54",
+      "trackName": "Save Our Love",
+      "artistName": "Werkshy",
+      "coverArtDate": "2021-08-14 23:14:30",
+      "coverArtLarge": "https://img.discogs.com/vErlJW2t-_lPsgCQm8Oky7qaGXc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11290328-1513526363-1784.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/E2o_t9egrU-dGSulU_Uk-6qrevI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11290328-1513526363-1784.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "CDr",
+      "startTime": "24:48",
+      "trackName": "Step By Step",
+      "artistName": "Al Jarreau",
+      "coverArtDate": "2021-08-14 23:14:33",
+      "coverArtLarge": "https://img.discogs.com/iFleJ0tS0ng7IegfpZXTfEvq-IQ=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-925017-1350643818-6247.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/BJIkrlVFuEnbsToFHWVXMd_kbx0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-925017-1350643818-6247.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Matt Early Remix"
+    },
+    {
+      "publisher": "File Under Disco",
+      "startTime": "30:49",
+      "trackName": "All Night",
+      "artistName": "Oh Yeah",
+      "coverArtDate": "2021-08-14 23:14:35",
+      "coverArtLarge": "https://img.discogs.com/uzYEIxIDcKlSxgyEkENXxmzZs0Q=/fit-in/600x622/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2684037-1537116013-9201.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FwIwgXIXxGLodz7I0I8ANGJ5QLc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2684037-1537116013-9201.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Dr Packer Mix"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "36:19",
+      "trackName": "Made For The Night",
+      "artistName": "Block & Crown",
+      "coverArtDate": "2021-08-14 23:14:38",
+      "coverArtLarge": "https://img.discogs.com/VtEoRnzwvM2mGfm2-McY_kY1CA4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11105954-1509946263-1265.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/tLrYNPU5VtvGp8P7WhCCKOopWaU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11105954-1509946263-1265.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "40:47",
+      "trackName": "Keep The Bass",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-14 23:14:40",
+      "coverArtLarge": "https://img.discogs.com/qo6dqIJGMSL8IR1dRcMN86PIdbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10567762-1500045380-5840.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/USUbygupcJnH3aReBndMJFjImE4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10567762-1500045380-5840.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Dirt Crew Recordings",
+      "startTime": "45:31",
+      "trackName": "And I Said",
+      "artistName": "Lorenz Rhode",
+      "coverArtDate": "2021-08-14 23:14:43",
+      "coverArtLarge": "https://img.discogs.com/salhSmn7lm5r9hgqVJ4MdIzBqvc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117337-1510163403-7615.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/aSppUczF-WTdujKn7XSWARi32EU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11117337-1510163403-7615.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "PWL Intl",
+      "startTime": "50:30",
+      "trackName": "When I'm Good And Ready",
+      "artistName": "Sybil",
+      "coverArtDate": "2021-08-14 23:14:45",
+      "coverArtLarge": "https://img.discogs.com/qnb-V8NlJlE4ejU7zcgS52P4Pwc=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806500-1285736540.gif.jpg",
+      "coverArtSmall": "https://img.discogs.com/nzqhOhbxq6TPVrs8uZge8i8bGnY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-806500-1285736540.gif.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "12\" Club Mix"
+    },
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "55:10",
+      "trackName": "Breath Life",
+      "artistName": "Saison",
+      "coverArtDate": "2021-08-14 23:14:48",
+      "coverArtLarge": "https://img.discogs.com/1SRrnvXKxeeoRiSlW9zIP_xFtPM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14974997-1584968725-3923.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/fw5vFdXrR0xFgVqTcpdrR77EzJY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14974997-1584968725-3923.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Inflamable Records",
+      "startTime": "1:00:32",
+      "trackName": "Summer In Paris",
+      "artistName": "DJ Cam feat. Anggun",
+      "coverArtDate": "2021-08-14 23:14:50",
+      "coverArtLarge": "https://img.discogs.com/_8QwSVgbbUI9N_2GM--L9Tt6zWQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9730425-1485464100-4917.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/NW9GQhPwCMg5BW0kp_7HcLJtcG0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9730425-1485464100-4917.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Pablo Valentino Remix"
+    },
+    {
+      "publisher": "Glitterbox Recordings",
+      "startTime": "1:04:58",
+      "trackName": "Love Is What You Need (Look Ahead)",
+      "artistName": "King Unique",
+      "coverArtDate": "2021-08-14 23:14:53",
+      "coverArtLarge": "https://img.discogs.com/SnIEMRiFaL1xqpiua8CcTM7Cpj4=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-88420-1110544614.jpg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mdja0E9cLpvFHokCUg2mgm9GW7Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-88420-1110544614.jpg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Dr Packer Remix"
+    },
+    {
+      "publisher": "Quantize Records",
+      "startTime": "1:11:31",
+      "trackName": "Free Love",
+      "artistName": "Marco Valery ft. Sharlene Hector",
+      "coverArtDate": "2021-08-14 23:14:55",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 14,
+      "remixArtistName": "Michele Chiavarini & DJ Spen Extended Mix"
+    },
+    {
+      "publisher": "Dee Cf Records",
+      "startTime": "1:18:06",
+      "trackName": "Join Hands",
+      "artistName": "The Sunchasers",
+      "coverArtDate": "2021-08-14 23:14:58",
+      "coverArtLarge": "https://img.discogs.com/T6RkSmrah2O0Q9McYhNEN6fCTVU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11349973-1514731106-7795.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/p6Fn6FstoYGh-7yGXvRi2XqXELQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11349973-1514731106-7795.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Scott Diaz Remix"
+    },
+    {
+      "publisher": "Big Love",
+      "startTime": "1:23:52",
+      "trackName": "I Walk Alone",
+      "artistName": "Those Guys",
+      "coverArtDate": "2021-08-14 23:15:00",
+      "coverArtLarge": "https://img.discogs.com/UQbLMtk1beuqZetmKlAZHOLHzSc=/fit-in/296x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396632-1149614631.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/yKnitfRJfDuMLuC8sa6meW1pPuY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-396632-1149614631.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Robosonic Remix"
+    },
+    {
+      "publisher": "Island Records",
+      "startTime": "1:26:46",
+      "trackName": "Give It Up",
+      "artistName": "Endor x Youngr",
+      "coverArtDate": "2021-08-14 23:15:03",
+      "coverArtLarge": "https://img.discogs.com/OP-xGYHvI6_v1BzaKsJEeLC3g_k=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669523-1539710757-7869.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nKFvnDxomnw5eLf6PqdTdsPa4fk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12669523-1539710757-7869.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:31:16",
+      "trackName": "Feel The Same",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-14 23:15:05",
+      "coverArtLarge": "https://img.discogs.com/ZpTXF-JG67Br8m7fXLJ6rYSsEzg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15050409-1586016176-7348.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/GQZDi9iYOwroY62ASkH7HE3gjpU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15050409-1586016176-7348.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Country Club Disco",
+      "startTime": "1:36:29",
+      "trackName": "Come Together",
+      "artistName": "Todd Edwards & Golf Clap",
+      "coverArtDate": "2021-08-14 23:15:08",
+      "coverArtLarge": "https://img.discogs.com/u35b47Emsj8NFSchoHQ6z9dcspk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12917136-1544472550-1971.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/FwYM6X_3i6mdJxB8Ttm9Fpak6n8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12917136-1544472550-1971.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "1:40:26",
+      "trackName": "Called My Name (Meet The Band)",
+      "artistName": "Crackazat",
+      "coverArtDate": "2021-08-14 23:15:10",
+      "coverArtLarge": "https://img.discogs.com/sq02ah4iaELd41f1t6RmH2ePmqI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10772730-1505429688-3154.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/GImJiIHeqgXgmWGAZCbZtlhh09E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10772730-1505429688-3154.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Glitterbox Recordings",
+      "startTime": "1:45:26",
+      "trackName": "The Power and The Blessing of Unity",
+      "artistName": "Folamour",
+      "coverArtDate": "2021-08-14 23:15:13",
+      "coverArtLarge": "https://img.discogs.com/wL6Ab_6u9oEuzk9-SoPk6fCYeq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597337-1500726105-2230.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/M2a1ydWw3-5w3cED1aXSlUBml6I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10597337-1500726105-2230.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Nervous Records",
+      "startTime": "1:50:38",
+      "trackName": "Do What You Like",
+      "artistName": "Samuele Sartini feat. Smashing Beat",
+      "coverArtDate": "2021-08-14 23:15:15",
+      "coverArtLarge": "https://img.discogs.com/_EDR7SbPj2OFunARMLKJbwbL8xQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10205357-1493378998-5374.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/gNqJ8TLv6qzD4iNieUfaQ73kPe4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10205357-1493378998-5374.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Body Rhythm Records",
+      "startTime": "1:54:24",
+      "trackName": "Addicted To You",
+      "artistName": "Ross Couch",
+      "coverArtDate": "2021-08-14 23:15:18",
+      "coverArtLarge": "https://img.discogs.com/iA-cu6tKSbN0MatP1LZ9EYMLvds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10102697-1491657179-1182.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mHCOx9c8LKqjENTBkIiPAuvKAKY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10102697-1491657179-1182.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "4x4 Mix"
+    },
+    {
+      "publisher": "SoulHouse Music",
+      "startTime": "1:58:38",
+      "trackName": "I Really Don't Need No Light",
+      "artistName": "Mr Brian Power feat. Lloyd Wade",
+      "coverArtDate": "2021-08-14 23:15:20",
+      "coverArtLarge": "https://img.discogs.com/B9Zi1Mv4mRzwsao6iL4iSFAPIUM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9252569-1477407777-1184.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/kvyjKjuy4sfM5nfogqqmNIIl-cs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9252569-1477407777-1184.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "DJ Spen & Gary Hudgins Vocal"
+    }
+  ]
+}

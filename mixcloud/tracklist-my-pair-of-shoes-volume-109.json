@@ -1,0 +1,280 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-109",
+  "tracks": [
+    {
+      "publisher": "No Fuss Records",
+      "startTime": "00:00",
+      "trackName": "Something Made Me",
+      "artistName": "Saison",
+      "coverArtDate": "2021-08-03 22:41:05",
+      "coverArtLarge": "https://img.discogs.com/9j_nS9O3AevlWtPtzDkqQXu-KhM=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13974739-1575332895-1566.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/3_e46RkGaSB59MnkhL8YcBxBooo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13974739-1575332895-1566.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Delusion Of Grandeur",
+      "startTime": "05:58",
+      "trackName": "New York Iz All I Know",
+      "artistName": "Son Of Sound",
+      "coverArtDate": "2021-08-03 22:41:08",
+      "coverArtLarge": "https://img.discogs.com/r4dKLaCIGKzx7_OwmjCq3uNkmlE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11245914-1513875953-3404.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/w2AjpFTTJhDSjMmi29YxpjHFI6E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11245914-1513875953-3404.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Aroop Roy Remix"
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "11:16",
+      "trackName": "Groove On",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-03 22:41:10",
+      "coverArtLarge": "https://img.discogs.com/CCecsRA1JQVuPtqyv1zVZPGJCgc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9847983-1487317460-1815.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/AKelQyR0L-wjqWET7Qgx92HEV4A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9847983-1487317460-1815.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "17:13",
+      "trackName": "Guilt Trip",
+      "artistName": "Lucas Keizer",
+      "coverArtDate": "2021-08-03 22:41:13",
+      "coverArtLarge": "https://img.discogs.com/rjEXRJLSs2L5TadCkbxL-cAvSc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10783337-1504256561-5539.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/BMB_kg1gWxa7ZfxXcpcqZxAJTpE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10783337-1504256561-5539.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Dirt Loopz Makerz Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "20:55",
+      "trackName": "On Even Keel",
+      "artistName": "Mr. Bootsauce",
+      "coverArtDate": "2021-08-03 22:41:15",
+      "coverArtLarge": "https://img.discogs.com/xUNXA-Qm_wOthY3S5q8e1ZCk_Aw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10859779-1505499925-3305.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/hOimOvl0bP8mgQLYvnd-k-G0Hpg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10859779-1505499925-3305.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Sirsounds Records",
+      "startTime": "25:45",
+      "trackName": "Feel so Good",
+      "artistName": "Lovebirds",
+      "coverArtDate": "2021-08-03 22:41:18",
+      "coverArtLarge": "https://img.discogs.com/Put37QGf1lCHL9e3qonyY5V929Q=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5834290-1404126017-4178.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sxBcGSz8MCR5SPRI63_5j8Y9pEY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5834290-1404126017-4178.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Rainer Trueby & Corrado Bucci present Truccy Remix"
+    },
+    {
+      "publisher": "Ondule Recordings",
+      "startTime": "30:36",
+      "trackName": "Beaches",
+      "artistName": "Labeuz",
+      "coverArtDate": "2021-08-03 22:41:20",
+      "coverArtLarge": "https://img.discogs.com/K_DWXu6JC05Oo6iZg5Bz_SlRN48=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11501848-1517471248-4855.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/UgcYTsmcChGoqSF6HPFK6VF_rbA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11501848-1517471248-4855.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "La Vie D'Artiste Music",
+      "startTime": "36:09",
+      "trackName": "1nd Vibration",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-03 22:41:23",
+      "coverArtLarge": "https://img.discogs.com/6h-DszA3m9I0b6_neatuMVntLzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14594926-1577815379-5336.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Ww4SWavZVOCMv0mYzQjQXcgfvo0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14594926-1577815379-5336.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Pole Position Recordings",
+      "startTime": "36:10",
+      "trackName": "Tangerine",
+      "artistName": "Sable Blanc",
+      "coverArtDate": "2021-08-03 22:41:25",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Tsuba",
+      "startTime": "44:03",
+      "trackName": "Your Love",
+      "artistName": "Milton Jackson",
+      "coverArtDate": "2021-08-03 22:41:28",
+      "coverArtLarge": "https://img.discogs.com/T7UfnCkQCX4liMVwFNInnuZCslw=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7519654-1443174285-2120.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/TjZWN7csTOAZGyAqMW5hVK-pA9c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7519654-1443174285-2120.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Strictly Riddim",
+      "startTime": "46:41",
+      "trackName": "Lil' Bit",
+      "artistName": "Greco (NYC) x Mad Villains",
+      "coverArtDate": "2021-08-03 22:41:30",
+      "coverArtLarge": "https://img.discogs.com/93nJji_X-A8tHlD5Rvocr_zFguI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12418213-1534883341-2502.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/AI7-0jiKM6ffcj5MuLlXt0KwSM4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12418213-1534883341-2502.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Madhouse Records",
+      "startTime": "48:49",
+      "trackName": "Bel Air",
+      "artistName": "DJ Steaw",
+      "coverArtDate": "2021-08-03 22:41:33",
+      "coverArtLarge": "https://img.discogs.com/yHPK4sqN-ybayuFjgN9Qlte4UGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10968315-1507388435-9864.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/u08_CyvJvLlKYqP_UYB7Ft2aqVQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10968315-1507388435-9864.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Fade To Funk",
+      "startTime": "52:48",
+      "trackName": "Melodic Space",
+      "artistName": "JaMerwe feat. Mig Madiq",
+      "coverArtDate": "2021-08-03 22:41:36",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 13,
+      "remixArtistName": "TapeOut Remix"
+    },
+    {
+      "publisher": "Cyanide Records",
+      "startTime": "57:49",
+      "trackName": "Everything Disappeared",
+      "artistName": "Jamin Hernandez",
+      "coverArtDate": "2021-08-03 22:41:38",
+      "coverArtLarge": "https://img.discogs.com/szUo1d-8U-XcbHWM-jySARjqu5s=/fit-in/411x411/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7851812-1450169030-5255.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9n3u3g2hHryPPzbovFDXZRBB2Do=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7851812-1450169030-5255.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:03:06",
+      "trackName": "The Sun Track",
+      "artistName": "Finest Wear feat. Jon Delerious",
+      "coverArtDate": "2021-08-03 22:41:41",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Moulton Music",
+      "startTime": "1:08:55",
+      "trackName": "Gurl",
+      "artistName": "The SyntheTigers",
+      "coverArtDate": "2021-08-03 22:41:43",
+      "coverArtLarge": "https://img.discogs.com/Ljv3Vc2iE1nQBoXPp_MgNOHgy2c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10930147-1506707417-1544.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/lo-vHElZoq6qOOhVtIclRxBP4ks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10930147-1506707417-1544.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Bastard Jazz Recordings",
+      "startTime": "1:13:41",
+      "trackName": "Good Times",
+      "artistName": "Nick Wisdom",
+      "coverArtDate": "2021-08-03 22:41:46",
+      "coverArtLarge": "https://img.discogs.com/OMcsoGXBpAhdGQHpyuCqBPEcOzs=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10507310-1561229995-9990.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ur_Mguh7v4PFmG32akVWCYmrQEc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10507310-1561229995-9990.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Le Bien Et Le Mal Recordings",
+      "startTime": "1:18:03",
+      "trackName": "Work That Body",
+      "artistName": "Babert",
+      "coverArtDate": "2021-08-03 22:41:48",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 18,
+      "remixArtistName": "Babert Remix"
+    },
+    {
+      "publisher": "Deeper Traxx",
+      "startTime": "1:22:49",
+      "trackName": "Hard Case",
+      "artistName": "Alex Ranerro",
+      "coverArtDate": "2021-08-03 22:41:51",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Toy Tronics",
+      "startTime": "1:27:15",
+      "trackName": "Mary's Tool",
+      "artistName": "Rhode & Brown",
+      "coverArtDate": "2021-08-03 22:41:53",
+      "coverArtLarge": "https://img.discogs.com/QriUCvw2cju-2ioaSNfn4nCLAOw=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11091702-1510705782-7214.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7Y1ugtcZ5Iev89ZEzjK7_Mt_GDU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11091702-1510705782-7214.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Bobbin Head Music",
+      "startTime": "1:31:33",
+      "trackName": "Underground Talk",
+      "artistName": "Karl Sierra",
+      "coverArtDate": "2021-08-03 22:41:56",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Groove Culture",
+      "startTime": "1:36:43",
+      "trackName": "So Special",
+      "artistName": "Reverendos Of Soul",
+      "coverArtDate": "2021-08-03 22:41:58",
+      "coverArtLarge": "https://img.discogs.com/ttLyipMeRxMkHLXJxqM1FgSaV60=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11065116-1509204672-5145.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YtN3Jt33Vmls2HlNbmb0kvYTRRI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11065116-1509204672-5145.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Micky More & Andy Tee Edit"
+    },
+    {
+      "publisher": "Monoside",
+      "startTime": "1:42:23",
+      "trackName": "Movin'",
+      "artistName": "Mark Lower",
+      "coverArtDate": "2021-08-03 22:42:01",
+      "coverArtLarge": "https://img.discogs.com/A5SMApUMvz5HUZ_Y2Aubpff0z44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-250175-1506303195-8434.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/tvtD0EyfRzzAD7nQpFxhKt4G_w0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-250175-1506303195-8434.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:46:15",
+      "trackName": "Funk 2gether",
+      "artistName": "Deeplomatik & Pan Majestic",
+      "coverArtDate": "2021-08-03 22:42:04",
+      "coverArtLarge": "https://img.discogs.com/1kwwLPCosSrdl0OBcoNzZYrFv5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11419711-1516011229-8633.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ZjULk3KOsgTD6XN2lq2gt7jpXd4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11419711-1516011229-8633.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Heartbeat",
+      "startTime": "1:51:56",
+      "trackName": "Deep Inside",
+      "artistName": "Shafty",
+      "coverArtDate": "2021-08-03 22:42:06",
+      "coverArtLarge": "https://img.discogs.com/-IU1Qrc0BcbAoxjKwFVahBuZf0E=/fit-in/459x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-26196-1234517549.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/RLDH0oJXPoCYSCcBPBxtyIRT1gA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-26196-1234517549.jpeg.jpg",
+      "sectionNumber": 25,
+      "remixArtistName": "Soul Trance Mix"
+    }
+  ]
+}

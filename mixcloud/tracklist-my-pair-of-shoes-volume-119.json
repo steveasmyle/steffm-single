@@ -1,0 +1,258 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-119",
+  "tracks": [
+    {
+      "publisher": "Blockhead Recordings",
+      "startTime": "00:00",
+      "trackName": "Mono Skillz",
+      "artistName": "Deftone",
+      "coverArtDate": "2021-07-19 17:28:39",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 1,
+      "remixArtistName": "Sebb Junior Remix"
+    },
+    {
+      "publisher": "Sub_Urban",
+      "startTime": "05:37",
+      "trackName": "205 Days",
+      "artistName": "Scott Diaz",
+      "coverArtDate": "2021-07-19 17:28:41",
+      "coverArtLarge": "https://img.discogs.com/eNNC7bTZN1YRwcFRNz5Ojgif0Yw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13456794-1554568430-6116.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/ULLQLidfs1OfkpIroXVB5PVJwLo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13456794-1554568430-6116.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Plastic People Recordings",
+      "startTime": "10:41",
+      "trackName": "Trigger Jump",
+      "artistName": "Soledrifter",
+      "coverArtDate": "2021-07-19 17:28:44",
+      "coverArtLarge": "https://img.discogs.com/hiFKO7tyk22hxJmEgf4ybHHgSGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13324671-1552106595-5536.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/j54Qev1xxRaTK5qWC-prm4eUD04=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13324671-1552106595-5536.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Vinyl Cut"
+    },
+    {
+      "publisher": "Plastic People Digital",
+      "startTime": "17:18",
+      "trackName": "Deep In My Soul",
+      "artistName": "Zetbee",
+      "coverArtDate": "2021-07-19 17:28:46",
+      "coverArtLarge": "https://img.discogs.com/lPWOAklR93QKdX79LTfAZvYRdq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13089714-1547876353-7781.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/bLbQShXfeL7yp5mkdobxfSGfLiw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13089714-1547876353-7781.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Local Talk Records",
+      "startTime": "20:56",
+      "trackName": "1990",
+      "artistName": "Deymare",
+      "coverArtDate": "2021-07-19 17:28:49",
+      "coverArtLarge": "https://img.discogs.com/tsQdbwTCBSvykTwfZmtYIb9ZApw=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3365234-1327503923.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9DJp1aeHsX8WVu6SQJMywF5JVhM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3365234-1327503923.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Crackazat Rework"
+    },
+    {
+      "publisher": "Heist Recordings",
+      "startTime": "25:54",
+      "trackName": "Late Night Studio Moves",
+      "artistName": "Pitto",
+      "coverArtDate": "2021-07-19 17:28:51",
+      "coverArtLarge": "https://img.discogs.com/ZirTn2NkRxB3xaNPrzF7I3pRZB8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12280493-1532066211-9043.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/RXHAaIUTygIxcWgBnyNPoyk0f7U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12280493-1532066211-9043.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Midnight Riot",
+      "startTime": "34:15",
+      "trackName": "Give Me the Sunshine",
+      "artistName": "Modento",
+      "coverArtDate": "2021-07-19 17:28:54",
+      "coverArtLarge": "https://img.discogs.com/CXzYAGjGjhgPyCgtCDHv9hABG70=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13243072-1550595987-5328.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9_uR9H7OBXpyz-im8JjcImP-gUQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13243072-1550595987-5328.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Vertigini Remix"
+    },
+    {
+      "publisher": "Local Talk",
+      "startTime": "39:24",
+      "trackName": "Mission",
+      "artistName": "Kyoto Jazz Sextet",
+      "coverArtDate": "2021-07-19 17:28:56",
+      "coverArtLarge": "https://img.discogs.com/BcCfjs6KITIjP3l9_akHhCU6Pu0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7621486-1622577845-8246.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/uOPlneTrU0_3ulWj3X3nXrYJhGY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7621486-1622577845-8246.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Jaxx Madicine Remix"
+    },
+    {
+      "publisher": "Apparel Music",
+      "startTime": "46:02",
+      "trackName": "005A1",
+      "artistName": "Apparel Wax",
+      "coverArtDate": "2021-07-19 17:28:59",
+      "coverArtLarge": "https://img.discogs.com/7gOLN998FHHJMGWQ1FPXvIK6TYI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12615708-1538660514-7738.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/PkrmXc7sEjxQEZlSk9yrMJ79wUM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12615708-1538660514-7738.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Wired",
+      "startTime": "50:38",
+      "trackName": "OtherSide",
+      "artistName": "Qubiko",
+      "coverArtDate": "2021-07-19 17:29:01",
+      "coverArtLarge": "https://img.discogs.com/RmoN4up9HC9iS297iMqKe14KwCk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14664120-1579185714-6230.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sH15JJp4DAh2t7L-gxCR9vyAurc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14664120-1579185714-6230.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Spring Tube",
+      "startTime": "55:28",
+      "trackName": "Wanna Do Right",
+      "artistName": "Claes Rosen",
+      "coverArtDate": "2021-07-19 17:29:04",
+      "coverArtLarge": "https://img.discogs.com/kW4H3vFV3N_4N2CXz5bU_rgOUXA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8394060-1460760196-4077.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/4-rQF5QSHwpQmzl9T7Juzd9ZN04=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8394060-1460760196-4077.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "BBE",
+      "startTime": "1:01:04",
+      "trackName": "Everything Must Change",
+      "artistName": "Georg Levin",
+      "coverArtDate": "2021-07-19 17:29:06",
+      "coverArtLarge": "https://img.discogs.com/LMFKgMoKU6pUmf68HIWpxEihdcU=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2237755-1274110157.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/OgovOWFluUp0cHwNyhnyj6aDEcI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2237755-1274110157.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": "Bara Bröst Disco Dub Remix"
+    },
+    {
+      "publisher": "Subtractive Recordings",
+      "startTime": "1:07:42",
+      "trackName": "I Want U Here",
+      "artistName": "Johan S",
+      "coverArtDate": "2021-07-19 17:29:09",
+      "coverArtLarge": "https://img.discogs.com/vcbScn1Te-JrLrOfMu7HMMAneAc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1757823-1475688814-2263.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/VQ7zPwjdkh-WXGCqpYgZRwpf6WM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1757823-1475688814-2263.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Darker Dub"
+    },
+    {
+      "publisher": "La Vie DArtiste Music",
+      "startTime": "1:11:54",
+      "trackName": "Don't Play That",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-07-19 17:29:11",
+      "coverArtLarge": "https://img.discogs.com/G8uXuXEiQyKkBbM8zWI3dMMUzrU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12476940-1536061107-9641.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/l-QvymKpEOuedtzn3stJYC2Tzyo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12476940-1536061107-9641.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "D-Vine Sounds",
+      "startTime": "1:16:22",
+      "trackName": "Wasted All Of My Time",
+      "artistName": "Alessio Cala'",
+      "coverArtDate": "2021-07-19 17:29:14",
+      "coverArtLarge": "https://img.discogs.com/X6wFDVNIL4UsyQt57iaSVqo45aE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12998433-1546171784-5952.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/2GcGzXfjIxyRI6y1ve7PzvjDY5c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12998433-1546171784-5952.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Low Steppa Remix"
+    },
+    {
+      "publisher": "Phoenix Music Inc",
+      "startTime": "1:20:06",
+      "trackName": "My Love",
+      "artistName": "Stereosoulz",
+      "coverArtDate": "2021-07-19 17:29:16",
+      "coverArtLarge": "https://img.discogs.com/EBYaLUJpZiltRUXfrsk_n29veLo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10747077-1503572432-4963.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/31laQO6YMPERANrC-wkSz1B-U4Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10747077-1503572432-4963.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Let There Be House Records",
+      "startTime": "1:26:34",
+      "trackName": "Like You Don't Care",
+      "artistName": "Black Legend Project feat. Veselina Popova",
+      "coverArtDate": "2021-07-19 17:29:19",
+      "coverArtLarge": "https://img.discogs.com/7SFlPD1alXBYKHmCHElMuQw0QVA=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479483-1575369170-8650.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Inzj9E30t5WS1UXRN2XMYtjmMrI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14479483-1575369170-8650.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Mattei & Omich Piano Dub"
+    },
+    {
+      "publisher": "Spirit Soul Music",
+      "startTime": "1:30:54",
+      "trackName": "Fever",
+      "artistName": "TsuruSwing",
+      "coverArtDate": "2021-07-19 17:29:21",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 18,
+      "remixArtistName": "Crackazat Remix"
+    },
+    {
+      "publisher": "Cr2 Records",
+      "startTime": "1:36:14",
+      "trackName": "Give This Up",
+      "artistName": "Archie B",
+      "coverArtDate": "2021-07-19 17:29:24",
+      "coverArtLarge": "https://img.discogs.com/e96KI7LQyAbHqC_iy61HRf75Hv4=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12588580-1538153052-9717.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/aPloMAbdlKEMu3s-Xmk9aXk2xN4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12588580-1538153052-9717.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:41:52",
+      "trackName": "Deep Inside",
+      "artistName": "Sek",
+      "coverArtDate": "2021-07-19 17:29:27",
+      "coverArtLarge": "https://img.discogs.com/4Rnt_-eLBGqPsbQwQK8O1vy5vQg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5691452-1400058370-2500.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/8meJAolixoZWG2I1zmTEgkmXVhw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5691452-1400058370-2500.jpeg.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Rhythm People",
+      "startTime": "1:47:07",
+      "trackName": "Body Werk",
+      "artistName": "Soledrifter",
+      "coverArtDate": "2021-07-19 17:29:29",
+      "coverArtLarge": "https://img.discogs.com/thjOJ416jwtyjt846_xqgrlmJ_M=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12016196-1532363452-3894.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/qiQsFC0E8REZ6eF5jpxn_B5BnJw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12016196-1532363452-3894.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": "Mike Millrain VIP Dub Mix"
+    },
+    {
+      "publisher": "Guess Records",
+      "startTime": "1:50:58",
+      "trackName": "The Dreams We Have",
+      "artistName": "Spiritchaser",
+      "coverArtDate": "2021-07-19 17:29:32",
+      "coverArtLarge": "https://img.discogs.com/7Tst269M0ezr2FMBJcvnmh4mCuc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-19541815-1626638462-9417.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/I6DwInc7BoTAZJGcZcQMt_bseMI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-19541815-1626638462-9417.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Club Mix"
+    },
+    {
+      "publisher": "Robsoul Recordings",
+      "startTime": "1:56:27",
+      "trackName": "Your Fantasy",
+      "artistName": "Mark Farina & Homero Espinosa",
+      "coverArtDate": "2021-07-19 17:29:34",
+      "coverArtLarge": "https://img.discogs.com/MlGOFdhlTFKbNBpaT54N96GIS0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12660748-1539538517-5859.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/H7UIKRdgxCNWvlC5y8XBg39U31g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12660748-1539538517-5859.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": ""
+    }
+  ]
+}

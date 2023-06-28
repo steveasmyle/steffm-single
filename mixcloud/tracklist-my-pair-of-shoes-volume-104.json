@@ -1,0 +1,269 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-104",
+  "tracks": [
+    {
+      "publisher": "House of Disco Records",
+      "startTime": "00:00",
+      "trackName": "Talkin Bout Life",
+      "artistName": "Aroop Roy",
+      "coverArtDate": "2021-08-19 08:06:24",
+      "coverArtLarge": "https://img.discogs.com/22IMXfVcvgafDSDSQDpF26geaDk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10052783-1490796997-8875.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/duyPjJdf59Iq4MH38U4et6XvnvA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10052783-1490796997-8875.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Brisa Remix"
+    },
+    {
+      "publisher": "Springbok Records",
+      "startTime": "03:59",
+      "trackName": "Listen Here",
+      "artistName": "HP Vince & Dave Leatherman",
+      "coverArtDate": "2021-08-19 08:06:27",
+      "coverArtLarge": "https://img.discogs.com/BIDVulOvQyUwBWdrvOSzmDIAPfI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10517122-1499067469-5402.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/z-7xQrpm2zPiUqAvyz5fisI1UxU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10517122-1499067469-5402.jpeg.jpg",
+      "sectionNumber": 2,
+      "remixArtistName": "The Nu Disco Mix"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "07:54",
+      "trackName": "Pumping It Up",
+      "artistName": "Risk Assessment",
+      "coverArtDate": "2021-08-19 08:06:29",
+      "coverArtLarge": "https://img.discogs.com/yEHODo7uaVutbcLqWrrgQzZjVrI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11266661-1513037955-8622.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XtLW950Fh3KhnBmne37qJEDBIFc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11266661-1513037955-8622.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Main Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "12:52",
+      "trackName": "Like 94",
+      "artistName": "James Benedict",
+      "coverArtDate": "2021-08-19 08:06:32",
+      "coverArtLarge": "https://img.discogs.com/jTuPwCZwEpdOOuu4IyJU9_9Q8fA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14164012-1569047212-1624.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/OXeLmTct6w8NGK9Kq0FbYvMoU2c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14164012-1569047212-1624.jpeg.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "18:06",
+      "trackName": "Be Free",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:06:35",
+      "coverArtLarge": "https://img.discogs.com/oDznjRl47Tm_7MfjZ9UKhCg7HEI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/UtZzfvi_TF2Dd_gAusdpd-w1qHU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10992074-1530389278-9390.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "22:33",
+      "trackName": "I Need You",
+      "artistName": "Cup & String",
+      "coverArtDate": "2021-08-19 08:06:37",
+      "coverArtLarge": "https://img.discogs.com/VOCrqTphNW6NQvjk1tFdgQ6U7rQ=/fit-in/600x1116/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4170653-1486326837-9535.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/LeS3bgM-nqH_APo9ClwTArT2L0M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4170653-1486326837-9535.jpeg.jpg",
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "26:12",
+      "trackName": "Keep On Lifting",
+      "artistName": "Roland Nights",
+      "coverArtDate": "2021-08-19 08:06:40",
+      "coverArtLarge": "https://img.discogs.com/7ErKdaZhKnk_AlcM5snnP_9-R5I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14487284-1575538893-4808.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/0sgylyzoeslDp-CW03k3CIb9Nnw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14487284-1575538893-4808.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "29:36",
+      "trackName": "Such An Ease",
+      "artistName": "Jay Potter & DJ Queen B",
+      "coverArtDate": "2021-08-19 08:06:42",
+      "coverArtLarge": "https://img.discogs.com/WHoRHv3x33dqfPNtjjX6McbH7MM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10062157-1490967108-5339.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/aOtBERrj7A5q9eDjrIExWn0fpHM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10062157-1490967108-5339.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "31:58",
+      "trackName": "This Hot",
+      "artistName": "DJ Romain feat. Emory",
+      "coverArtDate": "2021-08-19 08:06:45",
+      "coverArtLarge": "https://img.discogs.com/uIbwkIXEf9-DpyfGWxwpK6AIizs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10502709-1498767295-8848.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/5HODbpW4J6u470YuDg-0NvfAjVg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10502709-1498767295-8848.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "DJ Spen & Sean McCabe Summer Solstice Mix"
+    },
+    {
+      "publisher": "Vigin",
+      "startTime": "42:02",
+      "trackName": "Real Life",
+      "artistName": "Duke Dumond & Gordon City",
+      "coverArtDate": "2021-08-19 08:06:47",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 10,
+      "remixArtistName": "Solardo Extended Mix"
+    },
+    {
+      "publisher": "Rinse",
+      "startTime": "47:47",
+      "trackName": "Mean It",
+      "artistName": "Man Without A Clue",
+      "coverArtDate": "2021-08-19 08:06:50",
+      "coverArtLarge": "https://img.discogs.com/JVOIVbKenGApwwUCu8F-CKIkNiM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12942941-1545008471-5026.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/9pTVwAXz9t_26OZfZdrN60bFY6E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12942941-1545008471-5026.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "52:00",
+      "trackName": "The Dreams",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:06:52",
+      "coverArtLarge": "https://img.discogs.com/jiSpZ_Zw2tsNkSE7F1UhWwHAuhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8050373-1454183368-6081.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/cKBe_F5jmwYd8eD0kpVH_npu0sQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8050373-1454183368-6081.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Tribal America",
+      "startTime": "56:59",
+      "trackName": "The Dream",
+      "artistName": "Deep Dish present Prana",
+      "coverArtDate": "2021-08-19 08:06:55",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 13,
+      "remixArtistName": "sharam's Deep Dish Dreamscape"
+    },
+    {
+      "publisher": "Soul Revolution Records",
+      "startTime": "1:03:31",
+      "trackName": "Inside Your Soul",
+      "artistName": "Mike Millrain",
+      "coverArtDate": "2021-08-19 08:06:58",
+      "coverArtLarge": "https://img.discogs.com/l_-RTT4FJoZz1dBjebAXe6tfZ8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10281465-1494613211-8072.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/HkV3Hcy3SqwxbDyV03Jzf_6k2sY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10281465-1494613211-8072.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:10:18",
+      "trackName": "Wait",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:07:00",
+      "coverArtLarge": "https://img.discogs.com/L5ZaI7pbHo9QCLEXsTBT71Yf7bM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10131857-1492183134-4294.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1-ccKQ36TBlKkNJ4SZDcK1_GO5g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10131857-1492183134-4294.jpeg.jpg",
+      "sectionNumber": 15,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Monoside",
+      "startTime": "1:14:28",
+      "trackName": "That DJ Made My Day",
+      "artistName": "DJ James Ingram",
+      "coverArtDate": "2021-08-19 08:07:03",
+      "coverArtLarge": "https://img.discogs.com/qCvNo6WkocfEk_kljQQ2vQSy5mA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10156622-1492606757-2938.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/sh0C-3dhY62Z8ZCKIIJVj_KrqII=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10156622-1492606757-2938.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "1:19:20",
+      "trackName": "Houz Rhythmz",
+      "artistName": "Dirt Loopz Makerz",
+      "coverArtDate": "2021-08-19 08:07:05",
+      "coverArtLarge": "https://img.discogs.com/1n1hKjkT6zyXOvCu5APrrEUy-rA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10448399-1497642839-2743.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Bp71jteYjZfjSBTV-uG4yav13nM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10448399-1497642839-2743.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Good For You Records",
+      "startTime": "1:24:16",
+      "trackName": "Hommersaus",
+      "artistName": "Kornum & Karma",
+      "coverArtDate": "2021-08-19 08:07:08",
+      "coverArtLarge": "https://img.discogs.com/Eojxtb9Uw2nZOAQiEu2HVCU7-iE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10167951-1492788899-9043.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/v8JMhqh1qyqpaCHVlAXfpOJlZ5o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10167951-1492788899-9043.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Large Music",
+      "startTime": "1:29:38",
+      "trackName": "Back To 80",
+      "artistName": "Hurlee",
+      "coverArtDate": "2021-08-19 08:07:10",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 19,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Guesthouse Music",
+      "startTime": "1:34:44",
+      "trackName": "Dancin'",
+      "artistName": "Peter Brown",
+      "coverArtDate": "2021-08-19 08:07:13",
+      "coverArtLarge": "https://img.discogs.com/QRD1FHgWUpPRN6Pb8anSXSH7U1s=/fit-in/550x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028958-1615646472-8285.png.jpg",
+      "coverArtSmall": "https://img.discogs.com/mopVXtIQflbxVpix6j-Wu1LRYuM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1028958-1615646472-8285.png.jpg",
+      "sectionNumber": 20,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Betino's Record Sound",
+      "startTime": "1:39:25",
+      "trackName": "Manbo",
+      "artistName": "Franck Roger",
+      "coverArtDate": "2021-08-19 08:07:15",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:43:52",
+      "trackName": "Bring You Down",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-19 08:07:18",
+      "coverArtLarge": "https://img.discogs.com/qo6dqIJGMSL8IR1dRcMN86PIdbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10567762-1500045380-5840.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/USUbygupcJnH3aReBndMJFjImE4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10567762-1500045380-5840.jpeg.jpg",
+      "sectionNumber": 22,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Groove Culture",
+      "startTime": "1:49:01",
+      "trackName": "Love Blind",
+      "artistName": "Right To Life",
+      "coverArtDate": "2021-08-19 08:07:20",
+      "coverArtLarge": "https://img.discogs.com/bEk8WmYepNe8GR5bpBcQAaZ3WSE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7850529-1450131499-6731.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/1Wik9LIa0DOIBagqlHX5u2Zdg_8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7850529-1450131499-6731.jpeg.jpg",
+      "sectionNumber": 23,
+      "remixArtistName": "Micky More & Andy Tee Remix"
+    },
+    {
+      "publisher": "Salted Music",
+      "startTime": "1:55:00",
+      "trackName": "Misunderstood",
+      "artistName": "Miguel Migs feat. Coco Bonne",
+      "coverArtDate": "2021-08-19 08:07:23",
+      "coverArtLarge": "https://img.discogs.com/UsDDhzTBKjn7hjRVbrbXlhaRc88=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10505125-1498828720-4582.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/XOZnYTaYwZG_GCpsU7l_9NiIfHc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10505125-1498828720-4582.jpeg.jpg",
+      "sectionNumber": 24,
+      "remixArtistName": "Stripped & Salty Vocal"
+    }
+  ]
+}

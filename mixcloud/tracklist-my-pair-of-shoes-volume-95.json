@@ -1,0 +1,236 @@
+{
+  "mixcloudKey": "my-pair-of-shoes-volume-95",
+  "tracks": [
+    {
+      "publisher": "unique2rhythm",
+      "startTime": "00:00",
+      "trackName": "Need It",
+      "artistName": " Unique2Rhythm",
+      "coverArtDate": "2021-08-31 22:41:52",
+      "coverArtLarge": "https://img.discogs.com/y_8-UvrpMcnIoOiA9F4qjtfvcd8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8799001-1469008270-3588.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/44iXXSOZtdp3tZmVx0bTfUzFy74=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8799001-1469008270-3588.jpeg.jpg",
+      "sectionNumber": 1,
+      "remixArtistName": "Jc Unique Remix"
+    },
+    {
+      "publisher": "Double Cheese Records",
+      "startTime": "05:40",
+      "trackName": "Gipsy Woman",
+      "artistName": "Namy",
+      "coverArtDate": "2021-08-31 22:41:54",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 2,
+      "remixArtistName": "Luyo Sara-La-Kali Remix"
+    },
+    {
+      "publisher": "Rhemi Music",
+      "startTime": "10:54",
+      "trackName": "Shake Your Body Down",
+      "artistName": "Rhemi",
+      "coverArtDate": "2021-08-31 22:41:57",
+      "coverArtLarge": "https://img.discogs.com/jSSC5lir2jQ2KaLGJ63z4-szkrg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8330577-1459507242-5240.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/t-kfrjw5TJLOJPdCRjsVZ1fKBQI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8330577-1459507242-5240.jpeg.jpg",
+      "sectionNumber": 3,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Groove Odyssey",
+      "startTime": "17:05",
+      "trackName": "Feeling",
+      "artistName": "Hallex M feat. Darien",
+      "coverArtDate": "2021-08-31 22:41:59",
+      "coverArtLarge": "https://img.discogs.com/7rJGpsCaW8mp0gEMODq1ZqhlFTo=/600x556/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-4304094-1472026271-2031.gif.jpg",
+      "coverArtSmall": "https://img.discogs.com/9HzJyIrp9ZaNWei47WBSCLrKzNw=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4304094-1472026271-2031.gif.jpg",
+      "sectionNumber": 4,
+      "remixArtistName": "Vocal Mix"
+    },
+    {
+      "publisher": "inspotMusic",
+      "startTime": "21:58",
+      "trackName": "Unexpected",
+      "artistName": "Mass Digital",
+      "coverArtDate": "2021-08-31 22:42:01",
+      "coverArtLarge": "https://img.discogs.com/rMLY9HCCJItXelF6mGThRiVWQq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15636854-1594983040-5049.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/YmubURSRSMzA16MXCTbyQZP8VJU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15636854-1594983040-5049.jpeg.jpg",
+      "sectionNumber": 5,
+      "remixArtistName": "Demarkus Lewis Remix"
+    },
+    {
+      "publisher": "Soundstate Records",
+      "startTime": "27:26",
+      "trackName": "Move On",
+      "artistName": "Cafe 432 feat. Miss Swaby",
+      "coverArtDate": "2021-08-31 22:42:04",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 6,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "HSR Records",
+      "startTime": "31:51",
+      "trackName": "Happy Land",
+      "artistName": "Guido P feat. Josiah Ruff",
+      "coverArtDate": "2021-08-31 22:42:06",
+      "coverArtLarge": "https://img.discogs.com/fPGv1erHroIyqWVMunLd_EoxRZs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8048292-1454156495-2159.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/WXmiUGgB8F56N7aHSI-TLZfSAaA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8048292-1454156495-2159.jpeg.jpg",
+      "sectionNumber": 7,
+      "remixArtistName": "Guido P Remix"
+    },
+    {
+      "publisher": "Whartone Records",
+      "startTime": "37:30",
+      "trackName": "In My House",
+      "artistName": "Dirty Secretz",
+      "coverArtDate": "2021-08-31 22:42:09",
+      "coverArtLarge": "https://img.discogs.com/fqsuBsq6wXaBcQDelnOTPez5AmU=/fit-in/167x167/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3108532-1316174620.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/nIzEENDkrcY8kWFFX_ZZBeKmEVU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3108532-1316174620.jpeg.jpg",
+      "sectionNumber": 8,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Frigo Vide Records",
+      "startTime": "42:30",
+      "trackName": "Pressure Of Life",
+      "artistName": "Sebb Junior",
+      "coverArtDate": "2021-08-31 22:42:11",
+      "coverArtLarge": "https://img.discogs.com/AuGVeuBRabgwGnbYx_Q9C78JzuU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8484640-1462531373-4854.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/Fl4Hdi94YDIug23QQdn-mHgA-Tc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8484640-1462531373-4854.jpeg.jpg",
+      "sectionNumber": 9,
+      "remixArtistName": "Original Mix"
+    },
+    {
+      "publisher": "Things May Change!",
+      "startTime": "47:39",
+      "trackName": "Heat",
+      "artistName": "Sean McCabe & Groove Assassin",
+      "coverArtDate": "2021-08-31 22:42:13",
+      "coverArtLarge": "https://img.discogs.com/putgDHAeYQCshyRGNnrJFE8hkHg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8484379-1462526551-8811.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/528n1MYepOOspNFr6522xJgetl0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8484379-1462526551-8811.jpeg.jpg",
+      "sectionNumber": 10,
+      "remixArtistName": "Main Mix"
+    },
+    {
+      "publisher": "Groove Odyssey",
+      "startTime": "52:33",
+      "trackName": "My Everything",
+      "artistName": "Wipe The Needle feat. Michelle Weeks",
+      "coverArtDate": "2021-08-31 22:42:16",
+      "coverArtLarge": "https://img.discogs.com/l80jNzKAW7LYeLai8g95piU58bw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708172-1485105852-5740.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/lelyx4KZBhdwzSHUCubo5eWATKg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9708172-1485105852-5740.jpeg.jpg",
+      "sectionNumber": 11,
+      "remixArtistName": "Opolopo Remix"
+    },
+    {
+      "publisher": "Nurvous Records",
+      "startTime": "59:23",
+      "trackName": "You Give Me Love",
+      "artistName": "Other2Sides",
+      "coverArtDate": "2021-08-31 22:42:18",
+      "coverArtLarge": "https://img.discogs.com/H2QXAW_Vd6RKWio0CpU9fwZ4FU0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4467066-1365692470-9208.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/7a9Lr4QuhImacqdV3qQiGBmmjLo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4467066-1365692470-9208.jpeg.jpg",
+      "sectionNumber": 12,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Big Beat Records",
+      "startTime": "1:04:18",
+      "trackName": "Kill The Lights",
+      "artistName": "Alex Newell, Jess Glynne & DJ Cassidy with Nile Rodgers",
+      "coverArtDate": "2021-08-31 22:42:20",
+      "coverArtLarge": "https://img.discogs.com/idPPNYWYJ4uA9J4UH-IoQX_EszQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8989164-1530653842-2066.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/T5TPe6L9JBsH0PE5d9-Mcky1bsM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8989164-1530653842-2066.jpeg.jpg",
+      "sectionNumber": 13,
+      "remixArtistName": "Dimitri From Paris Remix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:11:35",
+      "trackName": "Don't You Take Your Love",
+      "artistName": "Michele Chiavarini feat. Jillian",
+      "coverArtDate": "2021-08-31 22:42:23",
+      "coverArtLarge": "https://img.discogs.com/AtfQQlX4hb44XLmblt3kiZY5cvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7278276-1437852747-4021.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/mA88dSTRmUfsWQMrVp9VnCtKBb8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7278276-1437852747-4021.jpeg.jpg",
+      "sectionNumber": 14,
+      "remixArtistName": "Mr. Michele's Ultramagnetic Funk Mix"
+    },
+    {
+      "publisher": "Reel People Music",
+      "startTime": "1:19:20",
+      "trackName": "I Ain't Mad",
+      "artistName": "Reel People ft. Lydia Harrell",
+      "coverArtDate": "2021-08-31 22:42:25",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 15,
+      "remixArtistName": "Reel People Vocal Mix"
+    },
+    {
+      "publisher": "Tony Records",
+      "startTime": "1:25:32",
+      "trackName": "Love Rain Down",
+      "artistName": "Soulful Session starring Selina Campbell",
+      "coverArtDate": "2021-08-31 22:42:27",
+      "coverArtLarge": "https://img.discogs.com/HoKZHlQLxVLuShvrjZn1WV1Q1Yk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9063582-1474130368-3598.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/njXEEVG0yVd6voVGTiii78KZtec=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9063582-1474130368-3598.jpeg.jpg",
+      "sectionNumber": 16,
+      "remixArtistName": "Kenny Carpenter Comfort Zone Mix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:31:43",
+      "trackName": "Caught Up",
+      "artistName": "Mario Marques feat. C.T. Martin",
+      "coverArtDate": "2021-08-31 22:42:30",
+      "coverArtLarge": "https://img.discogs.com/kCYQui5HiwcMXUKpHkN8fvgKjMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8451848-1461875873-6762.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/MMa2XpWctJ9KVMyiOeXJj4LZrmo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8451848-1461875873-6762.jpeg.jpg",
+      "sectionNumber": 17,
+      "remixArtistName": "Kenny Carpenter Honeybun Vocal Mix"
+    },
+    {
+      "publisher": "Quantize Recordings",
+      "startTime": "1:38:11",
+      "trackName": "Don't Quit (Be A Believer)",
+      "artistName": "Diephuis & Eastar feat. Jocelyn Brown",
+      "coverArtDate": "2021-08-31 22:42:32",
+      "coverArtLarge": "https://img.discogs.com/Ywb7mGpPZHJaSn-qJ14dS_Svo8w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8265223-1458248009-2453.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/UqUresU3ZCNDLAvceq79KhCCLQo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8265223-1458248009-2453.jpeg.jpg",
+      "sectionNumber": 18,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Papa Records",
+      "startTime": "1:45:09",
+      "trackName": "Seeing You",
+      "artistName": "Eli Escobar",
+      "coverArtDate": "2021-08-31 22:42:34",
+      "coverArtLarge": "https://img.discogs.com/gvZKxRueznUiz1g38_XnosaK9CU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6386314-1417966761-5242.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/eCFNWnZgQTYhni0tlp5TUwHfAq4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6386314-1417966761-5242.jpeg.jpg",
+      "sectionNumber": 19,
+      "remixArtistName": "Richard Earnshaw"
+    },
+    {
+      "publisher": "Z Records",
+      "startTime": "1:50:35",
+      "trackName": "Everything's Alright",
+      "artistName": "Sean McCabe feat. Erik Dillard",
+      "coverArtDate": "2021-08-31 22:42:37",
+      "coverArtLarge": null,
+      "coverArtSmall": null,
+      "sectionNumber": 20,
+      "remixArtistName": "Art Of Tones Remix"
+    },
+    {
+      "publisher": "Electrik Funk",
+      "startTime": "1:56:15",
+      "trackName": "Full Intention Remix",
+      "artistName": "Michael Gray feat. Ann Saunderson - Walk Into The Sun",
+      "coverArtDate": "2021-08-31 22:42:39",
+      "coverArtLarge": "https://img.discogs.com/JzQOKATqOUfRBT-vcpwDkKp9Ow4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14905175-1584213284-6451.jpeg.jpg",
+      "coverArtSmall": "https://img.discogs.com/6qYZFY3OsS2Xb15SnwflnrAEVMs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14905175-1584213284-6451.jpeg.jpg",
+      "sectionNumber": 21,
+      "remixArtistName": ""
+    }
+  ]
+}
