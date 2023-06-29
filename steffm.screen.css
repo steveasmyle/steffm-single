@@ -563,6 +563,12 @@ h1 {
 		overflow-x: hidden;
 		overflow-y: hidden;
    }
+   #fauxBody section:first-of-type {
+		margin: auto 3em auto auto;
+	}
+	#fauxBody section:last-of-type {
+		margin: auto auto auto 3em;
+	}
 }
 @media (max-width:64rem) {
 	body, #fauxBody {
@@ -583,6 +589,7 @@ h1 {
 		width: 100%;
    }
 	#fauxBody section {
-		margin-top: 4em;
-   }
+		margin: 4em auto auto auto;
+
+	}
 }
