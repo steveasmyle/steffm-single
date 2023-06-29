@@ -283,26 +283,10 @@ function initWidget() {
            });
        }
 
-       document.getElementById('volumeUp').addEventListener('click', leftButton);
-       document.getElementById('volumeDown').addEventListener('click', volumeDown);
-       document.getElementById('upButton').addEventListener('click', function() {
-           navigateOption(-1);
-       });
-       document.getElementById('downButton').addEventListener('click', function() {
-           navigateOption(1);
-       });
-       document.getElementById('rightButton').addEventListener('click', navigateRight);
-       document.getElementById('leftButton').addEventListener('click', navigateLeft);
-       document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
-       document.getElementById('play').addEventListener('click', play);
-       document.getElementById('pause').addEventListener('click', pause);
-       document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
-       document.getElementById('skipNext').addEventListener('click', skipNext);
-       document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
-
        widget.events.pause.on(pauseListener);
        widget.events.play.on(playListener);
        widget.events.progress.on(progressListener, widget.getDuration());
+       widget.events.ended.on(endedListener);
    });
 }
 
@@ -415,6 +399,9 @@ function loadNewMix(mixcloudKey) {
 
    // Populate 'Currently Playing' page
    populateCurrentlyPlaying();
+
+   // Update widget variable without re-initializing event listeners
+   widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
 }
 
 function pauseListener() {
@@ -541,9 +528,8 @@ function selectRandomTrack() {
    loadNewMix(randomItem.mixcloudKey);
 }
 
-// When the page first loads, we display the category list.
-window.onload = function() {
-   // populateCategoryList();
+function endedListener() {
+    selectRandomTrack();
 }
 
 // Populate category list
@@ -984,12 +970,31 @@ fetch('mixcloud/mixesheader.json')
        globalError = true;
    });
 
-if (config.loadMixcloud) {
-   initWidget();
-}
-
 document.body.addEventListener('click', function(event) {
    if (event.target.tagName.toLowerCase() === 'li' && event.target.classList.contains('mix-item')) {
        loadNewMix(event.target.getAttribute('data-key'));
    }
 });
+
+
+// Initialize widget and event listeners when page loads
+window.onload = function() {
+    initWidget();
+
+    document.getElementById('volumeUp').addEventListener('click', leftButton);
+    document.getElementById('volumeDown').addEventListener('click', volumeDown);
+    document.getElementById('upButton').addEventListener('click', function() {
+        navigateOption(-1);
+    });
+    document.getElementById('downButton').addEventListener('click', function() {
+        navigateOption(1);
+    });
+    document.getElementById('rightButton').addEventListener('click', navigateRight);
+    document.getElementById('leftButton').addEventListener('click', navigateLeft);
+    document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
+    document.getElementById('play').addEventListener('click', play);
+    document.getElementById('pause').addEventListener('click', pause);
+    document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
+    document.getElementById('skipNext').addEventListener('click', skipNext);
+    document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
+};
