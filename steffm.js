@@ -261,35 +261,6 @@ let mixState = {
 
 };
 
-function initWidget() {
-   widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
-
-   widget.ready.then(function() {
-       console.log("Mixcloud widget ready");
-
-       const buttons = document.getElementsByTagName('button');
-
-       let buttonFocusHandler = function(button) {
-           button.classList.add('focus');
-
-           setTimeout(function() {
-               button.classList.remove('focus');
-           }, 200);
-       };
-
-       for (let i = 0; i < buttons.length; i++) {
-           buttons[i].addEventListener('focus', function() {
-               buttonFocusHandler(this);
-           });
-       }
-
-       widget.events.pause.on(pauseListener);
-       widget.events.play.on(playListener);
-       widget.events.progress.on(progressListener, widget.getDuration());
-       widget.events.ended.on(endedListener);
-   });
-}
-
 function stopKeyHold() {
    clearTimeout(mixState.timeoutId);
    clearInterval(mixState.intervalId);
@@ -753,9 +724,16 @@ function titleCardTrackInfo(sectionNumber, startTime, coverArt, trackName, artis
 
    let coverArtDiv = document.createElement("div");
    coverArtDiv.classList.add('coverArt');
-   let image = document.createElement("img");
-   image.src = coverArt;
-   coverArtDiv.appendChild(image);
+
+   if (coverArt) {
+       let image = document.createElement("img");
+       image.src = coverArt;
+       coverArtDiv.appendChild(image);
+   } else {
+       let placeholder = document.createElement("div");
+       placeholder.classList.add('coverArtPlaceholder');
+       coverArtDiv.appendChild(placeholder);
+   }
 
    let itemInfoDiv = document.createElement("div");
    itemInfoDiv.classList.add('itemInfo');
@@ -861,26 +839,25 @@ function navigateOption(direction) {
 // Navigate left (go back)
 function navigateLeft() {
    if (mixState.currentlyPlayingPage) {
-       // Hide 'Currently Playing'
        document.getElementById("currentlyPlaying").style.display = "none";
 
        // Show the last active page
        if (mixState.lastPage === "categoryList") {
            document.getElementById("categoryList").style.display = "block";
            mixState.currentlyPlayingPage = false;
-           mixState.currentIndex = 0; // Reset index
+           mixState.currentIndex = 0;
            populateCategoryList();
        } else if (mixState.lastPage === "mixList") {
            document.getElementById("mixList").style.display = "block";
            mixState.currentlyPlayingPage = false;
-           mixState.currentIndex = 0; // Reset index
+           mixState.currentIndex = 0;
            populateMixList();
        }
    } else if (document.getElementById("mixList").style.display !== "none") {
        document.getElementById("mixList").style.display = "none";
        document.getElementById("categoryList").style.display = "block";
        mixState.lastPage = "categoryList";
-       mixState.currentIndex = 0; // Reset index
+       mixState.currentIndex = 0;
        populateCategoryList();
    }
 }
@@ -890,9 +867,7 @@ function navigateRight() {
    let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : (document.getElementById("mixList").style.display === "block" ? "mixList" : "currentlyPlaying");
    let items = document.getElementById(parent).getElementsByTagName("li");
 
-   // Handle 'Currently Playing' option separately
    if (items[mixState.currentIndex].textContent === "[ Currently Playing ]") {
-       // Store the last page before navigating to 'Currently Playing'
        mixState.lastPage = parent;
        populateCurrentlyPlaying();
    } else if (items[mixState.currentIndex].textContent === "[ Back ]" && parent === "currentlyPlaying") {
@@ -976,7 +951,45 @@ document.body.addEventListener('click', function(event) {
    }
 });
 
-
+function initWidget() {
+    widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
+ 
+    widget.ready.then(function() {
+        console.log("Mixcloud widget ready");
+ 
+        const buttons = document.getElementsByTagName('button');
+ 
+        let buttonFocusHandler = function(button) {
+            button.classList.add('focus');
+ 
+            setTimeout(function() {
+                button.classList.remove('focus');
+            }, 200);
+        };
+ 
+        for (let i = 0; i < buttons.length; i++) {
+            buttons[i].addEventListener('focus', function() {
+                buttonFocusHandler(this);
+            });
+        }
+ 
+        if (widget.events) {
+            if (widget.events.pause) {
+                widget.events.pause.on(pauseListener);
+            }
+            if (widget.events.play) {
+                widget.events.play.on(playListener);
+            }
+            if (widget.events.progress) {
+                widget.events.progress.on(progressListener, widget.getDuration());
+            }
+            if (widget.events.ended) {
+                widget.events.ended.on(endedListener);
+            }
+        }
+    });
+ }
+ 
 // Initialize widget and event listeners when page loads
 window.onload = function() {
     initWidget();
