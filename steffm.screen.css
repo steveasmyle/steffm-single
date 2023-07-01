@@ -596,3 +596,29 @@ h1 {
 	   margin: 4em auto auto auto;
 	}
  }
+
+
+
+  #fauxBody:not(.single) section:first-of-type::before {
+	content: "";
+	position: absolute;
+	top: 25%;
+	right: -6em;
+	height: 1em;
+	width: 6em;
+	background-color: var(--lightGreyBgColor);
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), transparent 20%, transparent 30%, rgba(0,0,0,0.8));
+	z-index: -1;
+  }
+
+  #fauxBody:not(.single) section:first-of-type::after {
+	content: "";
+	position: absolute;
+	top: 25%;
+	right: -6em;
+	height: 1em;
+	width: 6em;
+	background-image: 
+    linear-gradient(to right, rgba(0,0,0,0.2) 0%, transparent 20%, transparent 80%, rgba(0,0,0,0.2) 100%);
+	z-index: -1;
+  }
