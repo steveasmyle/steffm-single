@@ -155,7 +155,6 @@ let mixState = {
         }
 
         volumeIndicator.innerHTML = dashes;
-
     },
 
     get intervalId() {
@@ -374,6 +373,7 @@ async function loadNewMix(mixcloudKey) {
     mixState.progress = 0;
     mixState.selectedMixItem = null;
     mixState.status = "paused";
+    mixState.currentVolume = mixState.currentVolume;
 
     // Redraw the mix list
     populateMixList(null);
@@ -1035,9 +1035,9 @@ window.onload = function() {
     });
 
     document.body.addEventListener('click', function(event) {
-    if (event.target.tagName.toLowerCase() === 'li' && event.target.classList.contains('mix-item')) {
-        loadNewMix(event.target.getAttribute('data-key'));
-    }
+        if (event.target.tagName.toLowerCase() === 'li' && event.target.classList.contains('mix-item')) {
+            loadNewMix(event.target.getAttribute('data-key'));
+        }
     });
 
     document.getElementById('volumeUp').addEventListener('mousedown', volumeUp);
