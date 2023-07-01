@@ -387,7 +387,7 @@ h1 {
 	text-align: center;
 	font-size: 0.75em;
 	line-height: 2.125;
-	height: 1.59375em;
+	height: 2.1em;
 	color: var(--flagsTextColor);
 	text-shadow: -0.125em 0 0.25em var(--flagsTextShadow), 0.125em 0 0.25em var(--flagsTextShadow);
 	transform: scaleX(0.8);
