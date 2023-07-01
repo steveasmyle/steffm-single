@@ -122,6 +122,9 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+#fauxBody.single {
+	justify-content: center;
+}
 #stateDisplay {
 	background: orange;
 	display: none;
@@ -556,40 +559,40 @@ h1 {
 	box-shadow: 0.0625em 0.0625em 0 #000C, -0.0625em -0.0625em 0 #FFF8;
 }
 @media (min-width:64rem) {
-	body, #fauxBody {
-		perspective: 30rem;
-   }
-	body {
-		overflow-x: hidden;
-		overflow-y: hidden;
-   }
-   #fauxBody section:first-of-type {
-		margin: auto 3em auto auto;
+	body, #fauxBody:not(.single) {
+	   perspective: 30rem;
 	}
-	#fauxBody section:last-of-type {
-		margin: auto auto auto 3em;
-	}
-}
-@media (max-width:64rem) {
-	body, #fauxBody {
-		perspective: unset;
-   }
 	body {
-		overflow-x: hidden;
-		overflow-y: auto;
-   }
+	   overflow-x: hidden;
+	   overflow-y: hidden;
+	}
+	#fauxBody:not(.single) section:first-of-type {
+	   margin: auto 3em auto auto;
+	}
+	#fauxBody:not(.single) section:last-of-type {
+	   margin: auto auto auto 3em;
+	}
+ }
+ 
+ @media (max-width:64rem) {
+	body, #fauxBody {
+	   perspective: unset;
+	}
+	body {
+	   overflow-x: hidden;
+	   overflow-y: auto;
+	}
 	body:before {
-		bottom: 10vw;
-   }
-	#fauxBody {
-		flex-direction: column;
-		align-items: flex-start;
-		height: auto;
-		position: static;
-		width: 100%;
-   }
-	#fauxBody section {
-		margin: 4em auto auto auto;
-
+	   bottom: 10vw;
 	}
-}
+	#fauxBody {
+	   flex-direction: column;
+	   align-items: flex-start;
+	   height: auto;
+	   position: static;
+	   width: 100%;
+	}
+	#fauxBody section {
+	   margin: 4em auto auto auto;
+	}
+ }

@@ -459,10 +459,13 @@ function getTrackFromTime(progress) {
 
 function togglePlaylist() {
     var playlistElement = document.querySelector('.playlist'); // selecting the first element with 'playlist' class
+    var fauxBody = document.getElementById('fauxBody');
     if (playlistElement.style.display === 'none') {
         playlistElement.style.display = 'block';
+        fauxBody.classList.remove('single');
     } else {
         playlistElement.style.display = 'none';
+        fauxBody.classList.add('single');
     }
 }
 
