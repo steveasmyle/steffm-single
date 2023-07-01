@@ -360,12 +360,12 @@ function loadNewMix(mixcloudKey) {
 
 function pauseListener() {
    flagPlay.innerHTML = "";
-   flagPause.innerHTML = "⏸";
+   flagPause.innerHTML = "PAUSE";
 }
 
 function playListener() {
    flagPause.innerHTML = "";
-   flagPlay.innerHTML = "⏵";
+   flagPlay.innerHTML = "PLAY";
 }
 
 function progressListener(progress, duration) {
