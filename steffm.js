@@ -331,8 +331,6 @@ function volumeDown() {
 }
 
 async function loadNewMix(mixcloudKey) {
-    console.log("loadNewMix");
-
     // Update mixcloudKey state
     mixState.mixcloudKey = mixcloudKey;
 
@@ -343,7 +341,6 @@ async function loadNewMix(mixcloudKey) {
     }
 
     // Create and append new widget element
-    console.log("About to create new widget-----------------------------------------");
     var newWidgetElement = document.createElement('iframe');
     newWidgetElement.id = 'mixcloudWidget';
     newWidgetElement.width = '100%';
@@ -385,13 +382,11 @@ async function loadNewMix(mixcloudKey) {
 }
 
 function pauseListener() {
-    console.log("pauseListener");
     flagPlay.innerHTML = "";
     flagPause.innerHTML = "PAUSE";
 }
 
 function playListener() {
-    console.log("playListener");
     flagPause.innerHTML = "";
     flagPlay.innerHTML = "PLAY";
 }
@@ -517,8 +512,6 @@ function skipNext() {
 }
 
 function selectRandomTrack() {
-    console.log("selectRandomTrack");
-
     const randomIndex = Math.floor(Math.random() * mixState.mixcloudHeaderInfo.data.length);
     const randomItem = mixState.mixcloudHeaderInfo.data[randomIndex];
     loadNewMix(randomItem.mixcloudKey);
@@ -950,10 +943,8 @@ playlistDisplay.addEventListener('keydown', function(e) {
 
 async function initWidget() {
     widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
-    console.log("Mixcloud widget ready");
 
     await widget.ready;
-    console.log("widget ready", widget);
 
     const buttons = document.getElementsByTagName('button');
 
@@ -975,11 +966,9 @@ async function initWidget() {
 }
 
 async function handleWidgetEvents() {
-    console.log("handleWidgetEvents");
     await widget.ready;
 
     if (widget.events) {
-        console.log("widget.events is true");
         if (widget.events.pause) {
             widget.events.pause.on(pauseListener);
         }
@@ -1008,7 +997,6 @@ let mutationObserverCallback = function(mutationsList, observer) {
             for(let node of mutation.addedNodes) {
                 // Check if the added node is an iframe with the id "mixcloudWidget"
                 if(node.nodeName.toLowerCase() === 'iframe' && node.id === 'mixcloudWidget') {
-                    console.log("New Mixcloud widget has been added to the DOM");
                     handleWidgetEvents();
                 }
             }
@@ -1024,8 +1012,6 @@ widgetObserver.observe(mutationObserverTargetNode, mutationObserverConfig);
 
 // Initialize widget and event listeners when page loads
 window.onload = function() {
-    console.log("onload");
-
     // init
     fetch('mixcloud/mixesheader.json')
     .then(response => {
