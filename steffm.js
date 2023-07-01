@@ -325,19 +325,14 @@ function loadNewMix(mixcloudKey) {
    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
 
    // Initialize the new widget
-   initWidget();
+   initWidget(false);
 
    // Find the current mix in the header info
    currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
 
    if (currentMix) {
-       // Update document title
        document.title = `${currentMix.shortName} - Stef.FM`;
-
-       // Update the display
        mixState.updateDisplay();
-
-       // Update the scroller
        mixState.updateScroller();
    }
 
@@ -348,27 +343,15 @@ function loadNewMix(mixcloudKey) {
        console.error(`Could not find mix with key ${mixcloudKey} in mixcloudHeaderInfo`);
    }
 
-   // Reset currently playing page flag
    mixState.currentlyPlayingPage = false;
-
-   // Reset last active track
    mixState.lastActiveTrack = null;
-
-   // Reset progress
    mixState.progress = 0;
-
-   // Reset the selected mix item
    mixState.selectedMixItem = null;
-
-   // Reset status
    mixState.status = "paused";
 
    // Redraw the mix list
-   populateMixList(); // NOTE: populateMixList needs a category as an argument. Here you should pass the current mix's category
-
+   populateMixList(null);
    setCurrentActiveItem(document.getElementById("mixList"), mixState.currentIndex); // This will adjust the scroll
-
-   // Populate 'Currently Playing' page
    populateCurrentlyPlaying();
 
    // Update widget variable without re-initializing event listeners
@@ -623,7 +606,7 @@ async function populateCurrentlyPlaying() {
        currentlyPlayingList.style.display = "none";
        if (mixState.mixcloudKey) {
            document.getElementById("mixList").style.display = "block";
-           populateMixList();
+           populateMixList(null);
        } else {
            document.getElementById("categoryList").style.display = "block";
            populateCategoryList();
@@ -851,7 +834,7 @@ function navigateLeft() {
            document.getElementById("mixList").style.display = "block";
            mixState.currentlyPlayingPage = false;
            mixState.currentIndex = 0;
-           populateMixList();
+           populateMixList(null);
        }
    } else if (document.getElementById("mixList").style.display !== "none") {
        document.getElementById("mixList").style.display = "none";
@@ -951,11 +934,16 @@ document.body.addEventListener('click', function(event) {
    }
 });
 
-function initWidget() {
+function initWidget(firstTime) {
     widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
  
     widget.ready.then(function() {
         console.log("Mixcloud widget ready");
+
+        if (firstTime) {
+            widget.setVolume(0.8);
+            displayVolumeIndicator(0.8);
+        }
  
         const buttons = document.getElementsByTagName('button');
  
@@ -992,7 +980,7 @@ function initWidget() {
  
 // Initialize widget and event listeners when page loads
 window.onload = function() {
-    initWidget();
+    initWidget(true);
 
     document.getElementById('volumeUp').addEventListener('click', leftButton);
     document.getElementById('volumeDown').addEventListener('click', volumeDown);
