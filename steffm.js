@@ -306,7 +306,7 @@ function volumeDown() {
    });
 }
 
-function loadNewMix(mixcloudKey) {
+async function loadNewMix(mixcloudKey) {
    // Update mixcloudKey state
    mixState.mixcloudKey = mixcloudKey;
 
@@ -325,7 +325,7 @@ function loadNewMix(mixcloudKey) {
    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
 
    // Initialize the new widget
-   initWidget(false);
+   await initWidget(false);
 
    // Find the current mix in the header info
    currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
@@ -461,16 +461,28 @@ async function togglePlayPause() {
 }
 
 function skipPrevious() {
-   if (mixState.currentIndex > 0) { // To prevent going negative
+    const flagSkipPrevious = document.querySelector('#flagSkipPrevious');
+    flagSkipPrevious.textContent = "PREV";
+
+    setTimeout(function() {
+        flagSkipPrevious.textContent = "";
+    }, 500);
+
+    if (mixState.currentIndex > 0) { // To prevent going negative
        mixState.currentIndex--;
        loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
    }
 }
 
 function skipNext() {
-   // console.log("mixState.currentIndex", mixState.currentIndex);
-   // console.log("mixState.mixcloudKey", mixState.mixcloudKey);
-   if (mixState.currentIndex < mixState.mixcloudHeaderInfo.data.length - 1) { // To prevent exceeding the number of mixes
+    const flagSkipNext = document.querySelector('#flagSkipNext');
+    flagSkipNext.textContent = "NEXT";
+
+    setTimeout(function() {
+        flagSkipNext.textContent = "";
+    }, 500);
+
+    if (mixState.currentIndex < mixState.mixcloudHeaderInfo.data.length - 1) { // To prevent exceeding the number of mixes
        mixState.currentIndex++;
        loadNewMix(mixState.mixcloudHeaderInfo.data[mixState.currentIndex].mixcloudKey);
    }
@@ -937,8 +949,8 @@ document.body.addEventListener('click', function(event) {
 function initWidget(firstTime) {
     widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
  
-    widget.ready.then(function() {
-        console.log("Mixcloud widget ready");
+    return widget.ready.then(function() {
+        // console.log("Mixcloud widget ready");
 
         if (firstTime) {
             widget.setVolume(0.8);
