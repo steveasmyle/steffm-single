@@ -358,7 +358,7 @@ h1 {
 	content: "------------";
 	position: absolute;
 	bottom: -0.5em;
-	right: 1em;
+	left: 1em;
 }
 .player output:before {
 	content: "~~~~~~~~~~~~";
@@ -427,10 +427,17 @@ h1 {
 	margin: 1em auto;
 	width: 14.750em;
 }
-.player fieldset:first-of-type, .player .mixcloud {
+.player .mixcloud {
+	float: left;
+	width: 10.125em;
+	margin-right: 0.5em;
+	border-radius: 1.0625em;
+	border-width: 0.5em;
+}
+.player fieldset:first-of-type {
 	float: left;
 	width: 5.0625em;
-	margin-right: 3.825em;
+	margin-right: 4.5em;
 	border-radius: 1.0625em;
 	border-width: 0.5em;
 }
