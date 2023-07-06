@@ -429,8 +429,8 @@ h1 {
 }
 .player fieldset:first-of-type, .player .mixcloud {
 	float: left;
-	width: 10.125em;
-	margin-right: 0.5em;
+	width: 5.0625em;
+	margin-right: 3.825em;
 	border-radius: 1.0625em;
 	border-width: 0.5em;
 }
