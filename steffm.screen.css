@@ -65,7 +65,7 @@ body:before {
 	right: -200vw;
 	bottom: 0;
 	transform: rotateX(15deg) translateZ(-30em) scale(1.5);
-	background: #8CF url(images/canvas_1.webp) center center repeat;
+	background: #8CF url(images/wood1.png) center center repeat;
 }
 body {
 	--caseBgColor: #E8D8B0;
