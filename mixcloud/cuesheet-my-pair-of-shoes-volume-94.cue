@@ -1,0 +1,99 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 94"
+FILE "stef_-_my_pair_of_shoes_vol._94.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Ganz"
+TITLE "Brainwash"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Nile Rodgers"
+TITLE "Do What You Wanna Do"
+INDEX 01 04:57:00
+TRACK 02 AUDIO
+PERFORMER "Ross Couch"
+TITLE "Supersonic"
+INDEX 01 08:22:00
+TRACK 03 AUDIO
+PERFORMER "Dale Howard"
+TITLE "Get You"
+INDEX 01 13:19:00
+TRACK 04 AUDIO
+PERFORMER "Literon"
+TITLE "Knob Explotation"
+INDEX 01 16:58:00
+TRACK 05 AUDIO
+PERFORMER "Roland Nights"
+TITLE "Ready to Go"
+INDEX 01 20:07:00
+TRACK 06 AUDIO
+PERFORMER "The Checkup"
+TITLE "Hold Me Real Close Original"
+INDEX 01 25:22:00
+TRACK 07 AUDIO
+PERFORMER "Deeplomatik"
+TITLE "Rude Boyz"
+INDEX 01 31:20:00
+TRACK 08 AUDIO
+PERFORMER "Paggi & Costanzi feat Mr. V"
+TITLE " It's Party Time"
+INDEX 01 36:49:00
+TRACK 09 AUDIO
+PERFORMER "Stanny Abram, RAMA7"
+TITLE "Mayanga"
+INDEX 01 41:18:00
+TRACK 10 AUDIO
+PERFORMER "Soledrifter ft Ryan Holliday"
+TITLE "Turn Away"
+INDEX 01 46:31:00
+TRACK 11 AUDIO
+PERFORMER "Deep City Central"
+TITLE "Quiet Days"
+INDEX 01 51:28:00
+TRACK 12 AUDIO
+PERFORMER "Muzart"
+TITLE "The Great I Am"
+INDEX 01 46:33:00
+TRACK 13 AUDIO
+PERFORMER "TCTS"
+TITLE "These Heights"
+INDEX 01 61:01:00
+TRACK 14 AUDIO
+PERFORMER "Waze & Odyssey"
+TITLE "Please Don't Dance"
+INDEX 01 66:57:00
+TRACK 15 AUDIO
+PERFORMER "Sweet Female Attitude"
+TITLE "Flowers"
+INDEX 01 72:20:00
+TRACK 16 AUDIO
+PERFORMER "The Sunchasers feat. Bryzey"
+TITLE "Heartbreakin"
+INDEX 01 77:03:00
+TRACK 17 AUDIO
+PERFORMER "Voyeur"
+TITLE "The Long Way Home"
+INDEX 01 80:10:00
+TRACK 18 AUDIO
+PERFORMER "Todd Terry vs. Stuart Ojelay"
+TITLE "Leaving Me Again"
+INDEX 01 86:28:00
+TRACK 19 AUDIO
+PERFORMER "Raw Jam"
+TITLE "I Dont Wanna"
+INDEX 01 93:18:00
+TRACK 20 AUDIO
+PERFORMER "Ross Couch"
+TITLE "End Of Days"
+INDEX 01 97:13:00
+TRACK 21 AUDIO
+PERFORMER "Silvia Zaragoza & Francois A feat. Dyanna Fearon"
+TITLE "Find A Better Way"
+INDEX 01 102:10:00
+TRACK 22 AUDIO
+PERFORMER "Portia Monique"
+TITLE "Never Give You Up"
+INDEX 01 108:03:00
+TRACK 23 AUDIO
+PERFORMER "Los Charly's Orchestra feat. Xantone Blacq"
+TITLE "All Around The World"
+INDEX 01 113:47:00

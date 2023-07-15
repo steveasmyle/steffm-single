@@ -1,0 +1,91 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 92"
+FILE "stef_-_my_pair_of_shoes_vol._92.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Munchies"
+TITLE "Are You"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Moullinex"
+TITLE "Don't You Feel"
+INDEX 01 05:40:00
+TRACK 02 AUDIO
+PERFORMER "JD73 feat. Fraser"
+TITLE "Believe In Love"
+INDEX 01 10:50:00
+TRACK 03 AUDIO
+PERFORMER "Timmy Vegas"
+TITLE "Timmy's Choir"
+INDEX 01 16:03:00
+TRACK 04 AUDIO
+PERFORMER "J Paul Getto"
+TITLE "Strong"
+INDEX 01 21:27:00
+TRACK 05 AUDIO
+PERFORMER "Jay Vegas"
+TITLE "Say To Ya"
+INDEX 01 24:17:00
+TRACK 06 AUDIO
+PERFORMER "Antonello Ferrari, Aldo Bergamasco &  Michele Chiavarini feat. Samantha Johnson"
+TITLE "Tenderness"
+INDEX 01 29:05:00
+TRACK 07 AUDIO
+PERFORMER "Boogie Freaks"
+TITLE "Dreamin'"
+INDEX 01 36:17:00
+TRACK 08 AUDIO
+PERFORMER "Serial Thrilla"
+TITLE "The Comeback"
+INDEX 01 40:34:00
+TRACK 09 AUDIO
+PERFORMER "Sebb Junior"
+TITLE "My Love My Sins"
+INDEX 01 45:48:00
+TRACK 10 AUDIO
+PERFORMER "JC Unique"
+TITLE "Together"
+INDEX 01 51:36:00
+TRACK 11 AUDIO
+PERFORMER "Sheree Hicks"
+TITLE "Something For Nothing "
+INDEX 01 55:59:00
+TRACK 12 AUDIO
+PERFORMER "DJ PP"
+TITLE "Michael"
+INDEX 01 64:14:00
+TRACK 13 AUDIO
+PERFORMER "Roxanna Lynn"
+TITLE "It's Because"
+INDEX 01 69:08:00
+TRACK 14 AUDIO
+PERFORMER "DeezBootz"
+TITLE "Catch The Train"
+INDEX 01 75:22:00
+TRACK 15 AUDIO
+PERFORMER "J. Lettow"
+TITLE "The Last Time"
+INDEX 01 81:00:00
+TRACK 16 AUDIO
+PERFORMER "Boogie Freaks"
+TITLE "Forever"
+INDEX 01 86:55:00
+TRACK 17 AUDIO
+PERFORMER "Kenny Summit"
+TITLE "Piano On Fleek"
+INDEX 01 92:04:00
+TRACK 18 AUDIO
+PERFORMER "Sean McCabe"
+TITLE "Holding On"
+INDEX 01 97:45:00
+TRACK 19 AUDIO
+PERFORMER "Shuya Okino"
+TITLE "Still in Love"
+INDEX 01 103:25:00
+TRACK 20 AUDIO
+PERFORMER "Lee Tristram feat. Sandy Spady"
+TITLE "On It"
+INDEX 01 107:15:00
+TRACK 21 AUDIO
+PERFORMER "Ultra Tone feat. Vaalsow & DJ Sue"
+TITLE "Stars (Everlasting Love)"
+INDEX 01 116:36:00

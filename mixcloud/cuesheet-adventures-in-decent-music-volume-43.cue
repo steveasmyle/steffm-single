@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 43"
+FILE "stef_-_adventures_in_decent_music_vol._43.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Anderson .Paak featuring Schoolboy Q"
+TITLE "Am I Wrong"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "The Groovers"
+TITLE "Make Me Feel"
+INDEX 01 04:15:00
+TRACK 02 AUDIO
+PERFORMER "MadMixMustang"
+TITLE "Wanna Get Up And Start Being A Sex Machine"
+INDEX 01 08:34:00
+TRACK 03 AUDIO
+PERFORMER "The Reflex"
+TITLE "Burn The Disco (Out)"
+INDEX 01 13:13:00
+TRACK 04 AUDIO
+PERFORMER "McCrei"
+TITLE "Take My Hand"
+INDEX 01 19:22:00
+TRACK 05 AUDIO
+PERFORMER "Kenya"
+TITLE "Let Me"
+INDEX 01 24:18:00
+TRACK 06 AUDIO
+PERFORMER "JazzyFunk & Stephane Deschezeaux feat. James John"
+TITLE "Funk You Up"
+INDEX 01 30:45:00
+TRACK 07 AUDIO
+PERFORMER "Pablo & Shoey"
+TITLE "Raw Human Emotion (Part 2)"
+INDEX 01 36:28:00
+TRACK 08 AUDIO
+PERFORMER "Pages"
+TITLE "Chemistry"
+INDEX 01 43:19:00
+TRACK 09 AUDIO
+PERFORMER "Omar"
+TITLE "Get Away"
+INDEX 01 48:30:00
+TRACK 10 AUDIO
+PERFORMER "Curtis Mayfield"
+TITLE "Tripping Out"
+INDEX 01 52:55:00
+TRACK 11 AUDIO
+PERFORMER "Jan Akkerman"
+TITLE "Streetwalker"
+INDEX 01 58:00:00
+TRACK 12 AUDIO
+PERFORMER "Samuel Jonathan Johnson"
+TITLE "My Music"
+INDEX 01 64:39:00
+TRACK 13 AUDIO
+PERFORMER "Domo Genesis feat. Anderson .Paak"
+TITLE "Dapper"
+INDEX 01 70:03:00
+TRACK 14 AUDIO
+PERFORMER "Yellowjackets"
+TITLE "Sittin' In"
+INDEX 01 73:05:00
+TRACK 15 AUDIO
+PERFORMER "The Jackson 5"
+TITLE "Dancing Machine"
+INDEX 01 77:41:00
+TRACK 16 AUDIO
+PERFORMER "Billy Griffin"
+TITLE "Systematic"
+INDEX 01 80:59:00
+TRACK 17 AUDIO
+PERFORMER "The Perfect Circle"
+TITLE "The Hands Of Time"
+INDEX 01 86:18:00
+TRACK 18 AUDIO
+PERFORMER "Linda Evans"
+TITLE "You Control Me"
+INDEX 01 92:35:00
+TRACK 19 AUDIO
+PERFORMER "Chaos In The CBD"
+TITLE "Observe"
+INDEX 01 99:44:00
+TRACK 20 AUDIO
+PERFORMER "The Sunburst Band"
+TITLE "U Make Me So Hot"
+INDEX 01 104:03:00
+TRACK 21 AUDIO
+PERFORMER "Tatsuro Yamashita"
+TITLE "Love Talkin' (Honey It's You)"
+INDEX 01 108:26:00
+TRACK 22 AUDIO
+PERFORMER "Nicolay"
+TITLE "The Brightest Star"
+INDEX 01 114:04:00
+TRACK 23 AUDIO
+PERFORMER "Ziad Rahbani"
+TITLE "Abu Ali"
+INDEX 01 121:14:00
+TRACK 24 AUDIO
+PERFORMER "Steph Pockets"
+TITLE "Flowers"
+INDEX 01 134:23:00

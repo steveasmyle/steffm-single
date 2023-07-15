@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 41"
+FILE "stef_-_adventures_in_decent_music_vol._41.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Casual Connection"
+TITLE "Love Stoned"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Change"
+TITLE "Lover's Holiday"
+INDEX 01 04:51:00
+TRACK 02 AUDIO
+PERFORMER "Le Pamplemousse - You Can Get Off On The Music"
+TITLE "Fat Camp Edit"
+INDEX 01 09:49:00
+TRACK 03 AUDIO
+PERFORMER "Late Nite Tuff Guy"
+TITLE "Say U Love Me"
+INDEX 01 15:00:00
+TRACK 04 AUDIO
+PERFORMER "Juan Laya & Jorge Montiel feat. Chennez McKenzie"
+TITLE "Groove On"
+INDEX 01 20:59:00
+TRACK 05 AUDIO
+PERFORMER "Polygon Palace"
+TITLE "Tokyo Getaway"
+INDEX 01 25:41:00
+TRACK 06 AUDIO
+PERFORMER "Genius Of Time"
+TITLE "Houston We Have A Problem"
+INDEX 01 30:40:00
+TRACK 07 AUDIO
+PERFORMER "Thatmanmonkz"
+TITLE "Make It Now"
+INDEX 01 35:52:00
+TRACK 08 AUDIO
+PERFORMER "First Choice"
+TITLE "Love Thang"
+INDEX 01 43:08:00
+TRACK 09 AUDIO
+PERFORMER "September"
+TITLE "Are You Free Tonight"
+INDEX 01 46:36:00
+TRACK 10 AUDIO
+PERFORMER "Les Loups"
+TITLE "Disceaux"
+INDEX 01 52:08:00
+TRACK 11 AUDIO
+PERFORMER "Discotron"
+TITLE "Disco Ballin"
+INDEX 01 55:09:00
+TRACK 12 AUDIO
+PERFORMER "Art Of Tones vs Vernon"
+TITLE "Steppin In And Out"
+INDEX 01 61:24:00
+TRACK 13 AUDIO
+PERFORMER "Lisa Shaw"
+TITLE "Honey"
+INDEX 01 64:11:00
+TRACK 14 AUDIO
+PERFORMER "Al Hudson & One Way"
+TITLE "I Need It"
+INDEX 01 69:19:00
+TRACK 15 AUDIO
+PERFORMER "Late Night Tuff Guy"
+TITLE "Do I Believe In God (Controversy)"
+INDEX 01 74:31:00
+TRACK 16 AUDIO
+PERFORMER "Crazy P & The Syndromes"
+TITLE "The Hit"
+INDEX 01 81:55:00
+TRACK 17 AUDIO
+PERFORMER "Jack Le Funk"
+TITLE "It's Comin'"
+INDEX 01 87:29:00
+TRACK 18 AUDIO
+PERFORMER "Phonetica vs. Soulemotion"
+TITLE "Impossible Love"
+INDEX 01 91:43:00
+TRACK 19 AUDIO
+PERFORMER "Jimmy The Twin"
+TITLE "Midnight Shuffle"
+INDEX 01 97:32:00
+TRACK 20 AUDIO
+PERFORMER "Haywoode"
+TITLE "A Time Like This"
+INDEX 01 103:30:00
+TRACK 21 AUDIO
+PERFORMER "Bill Brandon"
+TITLE "We Fell In Love While Dancing"
+INDEX 01 107:10:00
+TRACK 22 AUDIO
+PERFORMER "Kon & The Gang"
+TITLE "Get It Together"
+INDEX 01 111:59:00
+TRACK 23 AUDIO
+PERFORMER "Sheree Hicks"
+TITLE "Your Love"
+INDEX 01 117:12:00
+TRACK 24 AUDIO
+PERFORMER "Outro: How Prince Describes His Music"
+TITLE "1999 CNN Interview - RIP Prince Rogers Nelson"
+INDEX 01 121:14:00

@@ -1,0 +1,67 @@
+PERFORMER "Stef.FM"
+TITLE "Stef's Soulful Summer Mix for The Mobil Soul Show"
+FILE "Stefs_Soulful_Summer_Mix_for_The_Mobil_Soul_Show_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Can 7"
+TITLE "Taking It All Away"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Belezamusica"
+TITLE "Running Away"
+INDEX 01 05:22:00
+TRACK 02 AUDIO
+PERFORMER "Bah Samba"
+TITLE "Everybody Get Up"
+INDEX 01 10:30:00
+TRACK 03 AUDIO
+PERFORMER "Louie Vega"
+TITLE "Cerca De Mi"
+INDEX 01 15:20:00
+TRACK 04 AUDIO
+PERFORMER "Louis Bendetti pres. Gene Perez"
+TITLE "Bottoms Up"
+INDEX 01 20:28:00
+TRACK 05 AUDIO
+PERFORMER "Feet"
+TITLE "I'll Think Of You"
+INDEX 01 26:06:00
+TRACK 06 AUDIO
+PERFORMER "Nathan Haines"
+TITLE "Believe"
+INDEX 01 32:00:00
+TRACK 07 AUDIO
+PERFORMER "The Sunburst Band"
+TITLE "Fly Away"
+INDEX 01 39:50:00
+TRACK 08 AUDIO
+PERFORMER "Mayhem & Bones"
+TITLE "Feels Good"
+INDEX 01 46:03:00
+TRACK 09 AUDIO
+PERFORMER "Yolanda Wyns"
+TITLE "I Know You, I Live You"
+INDEX 01 50:22:00
+TRACK 10 AUDIO
+PERFORMER "The Sunburst Band"
+TITLE "Just Do It"
+INDEX 01 56:54:00
+TRACK 11 AUDIO
+PERFORMER "The Brand New Heavies"
+TITLE "Dream Come True"
+INDEX 01 63:08:00
+TRACK 12 AUDIO
+PERFORMER "Jasper Street Co."
+TITLE "Smile"
+INDEX 01 68:44:00
+TRACK 13 AUDIO
+PERFORMER "Blaze"
+TITLE "Found Love"
+INDEX 01 75:58:00
+TRACK 14 AUDIO
+PERFORMER "Shawn Christopher"
+TITLE "Don't Lose The Magic"
+INDEX 01 81:50:00
+TRACK 15 AUDIO
+PERFORMER "The Reese Project"
+TITLE "Direct Me"
+INDEX 01 87:40:00

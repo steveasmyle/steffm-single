@@ -9,7 +9,7 @@
 
     <script>
         async function processJSON() {
-            let response = await fetch('mixes.json');
+            let response = await fetch('mixcloud/mixes.json');
             let data = await response.json();
 
             let headerRecords = [];

@@ -1,0 +1,87 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 87"
+FILE "stef_-_my_pair_of_shoes_vol._87.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Skream & Sam Frank"
+TITLE "Rollercoaster"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Ghosts Of Venice"
+TITLE "Her"
+INDEX 01 06:51:00
+TRACK 02 AUDIO
+PERFORMER "Adri Block"
+TITLE "All That Was"
+INDEX 01 12:06:00
+TRACK 03 AUDIO
+PERFORMER "Lem feat. Jamelle Jones"
+TITLE "Journey (We Can Make It)"
+INDEX 01 17:06:00
+TRACK 04 AUDIO
+PERFORMER "Soulpersona & Princess Freesia"
+TITLE "Keep It Working"
+INDEX 01 23:15:00
+TRACK 05 AUDIO
+PERFORMER "Crazibiza vs. House Of Prayers"
+TITLE "House Ready"
+INDEX 01 28:28:00
+TRACK 06 AUDIO
+PERFORMER "Jamie Lewis (UK)"
+TITLE "Something About You"
+INDEX 01 33:54:00
+TRACK 07 AUDIO
+PERFORMER "Reel People feat. Tony Momrelle"
+TITLE "Star"
+INDEX 01 36:48:00
+TRACK 08 AUDIO
+PERFORMER "Random Soul"
+TITLE "Forbidden Love"
+INDEX 01 43:00:00
+TRACK 09 AUDIO
+PERFORMER "Twism & B3RAO"
+TITLE "Jump To It"
+INDEX 01 48:55:00
+TRACK 10 AUDIO
+PERFORMER "Adri Block"
+TITLE "All I Do"
+INDEX 01 53:47:00
+TRACK 11 AUDIO
+PERFORMER "RaShaan Houston"
+TITLE "Be With You"
+INDEX 01 59:16:00
+TRACK 12 AUDIO
+PERFORMER "Cupcakes"
+TITLE "Saturday Nite"
+INDEX 01 64:13:00
+TRACK 13 AUDIO
+PERFORMER "Mateo & Matos"
+TITLE "Body'N'Soul"
+INDEX 01 69:42:00
+TRACK 14 AUDIO
+PERFORMER "Giulio Bonaccio pres. David Walker"
+TITLE "You"
+INDEX 01 75:NaN:00
+TRACK 15 AUDIO
+PERFORMER "Bluey"
+TITLE "Sky"
+INDEX 01 83:13:00
+TRACK 16 AUDIO
+PERFORMER "Tommy Rawson"
+TITLE "Don't Lose It"
+INDEX 01 89:05:00
+TRACK 17 AUDIO
+PERFORMER "Homework"
+TITLE "Rally Racquet Club"
+INDEX 01 96:15:00
+TRACK 18 AUDIO
+PERFORMER "Adri Block"
+TITLE "It Must Be Love"
+INDEX 01 103:26:00
+TRACK 19 AUDIO
+PERFORMER "Antonello Ferrari feat. Dawn Tallman"
+TITLE "Read Between The Lines"
+INDEX 01 107:51:00
+TRACK 20 AUDIO
+PERFORMER "Saliva Commandos feat. Michelle Rivera"
+TITLE "Breaking These Chains"
+INDEX 01 113:13:00

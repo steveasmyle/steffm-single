@@ -1,0 +1,59 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Stef's Music"
+FILE "Adventures in Stef's Music.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Stevie Wonder"
+TITLE "Do I Do"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Curiosity Killed the Cat"
+TITLE "Bullet"
+INDEX 01 09:19:00
+TRACK 02 AUDIO
+PERFORMER "Nancy Wilson"
+TITLE "I'm in Love"
+INDEX 01 13:41:00
+TRACK 03 AUDIO
+PERFORMER "Odyssey"
+TITLE "Don't Tell Me, Tell Her"
+INDEX 01 19:07:00
+TRACK 04 AUDIO
+PERFORMER "Ashford & Simpson"
+TITLE "One More Try"
+INDEX 01 24:55:00
+TRACK 05 AUDIO
+PERFORMER "Diana Ross"
+TITLE "No One Gets the Prize"
+INDEX 01 30:44:00
+TRACK 06 AUDIO
+PERFORMER "Delegation"
+TITLE "Darlin' (I Think About You)"
+INDEX 01 37:02:00
+TRACK 07 AUDIO
+PERFORMER "Lenny Fontana"
+TITLE "Spread Love"
+INDEX 01 44:33:00
+TRACK 08 AUDIO
+PERFORMER "David Bendeth"
+TITLE "Feel the Real"
+INDEX 01 52:27:00
+TRACK 09 AUDIO
+PERFORMER "Dynasty"
+TITLE "Satisfied"
+INDEX 01 60:00:00
+TRACK 10 AUDIO
+PERFORMER "Jackpot Edit"
+TITLE "Top Of The World"
+INDEX 01 67:21:00
+TRACK 11 AUDIO
+PERFORMER "Kendra Cash"
+TITLE "Smile"
+INDEX 01 72:49:00
+TRACK 12 AUDIO
+PERFORMER "Michael Jackson"
+TITLE "P.Y.T. (Pretty Young Thing)"
+INDEX 01 77:43:00
+TRACK 13 AUDIO
+PERFORMER "Gary Byrd & The G.B. Experience"
+TITLE "The Crown"
+INDEX 01 83:16:00

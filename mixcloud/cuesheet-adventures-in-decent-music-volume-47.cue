@@ -1,0 +1,91 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 47"
+FILE "stef_-_adventures_in_decent_music_vol._47.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Body Music"
+TITLE "Get It Baby"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Michael The Lion feat. Amy Douglas"
+TITLE "Get It On"
+INDEX 01 06:18:00
+TRACK 02 AUDIO
+PERFORMER "Holm CPU"
+TITLE "Fotspor"
+INDEX 01 14:23:00
+TRACK 03 AUDIO
+PERFORMER "Casio Social Club"
+TITLE "Feels Right & 121 In Luv"
+INDEX 01 18:45:00
+TRACK 04 AUDIO
+PERFORMER "Juan Laya & Jorge Montiel feat. Andre Espeut"
+TITLE "Got This Feeling"
+INDEX 01 24:53:00
+TRACK 05 AUDIO
+PERFORMER "Ago"
+TITLE "You Make Me Do It"
+INDEX 01 28:49:00
+TRACK 06 AUDIO
+PERFORMER "Jafunk"
+TITLE "Dazed"
+INDEX 01 34:32:00
+TRACK 07 AUDIO
+PERFORMER "Satin Jackets feat. Scavenger Hunt"
+TITLE "Feel Good"
+INDEX 01 39:34:00
+TRACK 08 AUDIO
+PERFORMER "Aroop Roya"
+TITLE "First Time Around"
+INDEX 01 45:00:00
+TRACK 09 AUDIO
+PERFORMER "Stephane Deschezeaux"
+TITLE "Lonely"
+INDEX 01 51:57:00
+TRACK 10 AUDIO
+PERFORMER "Mad8"
+TITLE "I Keep Dancing"
+INDEX 01 55:13:00
+TRACK 11 AUDIO
+PERFORMER "Stephane Deschezeaux"
+TITLE "Stay Tonight"
+INDEX 01 61:12:00
+TRACK 12 AUDIO
+PERFORMER "HNNY"
+TITLE "Oma Doris"
+INDEX 01 66:22:00
+TRACK 13 AUDIO
+PERFORMER "Cool Million feat. Marc Evans"
+TITLE "Dontcha Wanna Dance"
+INDEX 01 69:54:00
+TRACK 14 AUDIO
+PERFORMER "SIRS"
+TITLE "Check It out Heritage"
+INDEX 01 78:16:00
+TRACK 15 AUDIO
+PERFORMER "Francis Inferno Orchestra"
+TITLE "Me & You"
+INDEX 01 83:40:00
+TRACK 16 AUDIO
+PERFORMER "Lazylife"
+TITLE "Unwind"
+INDEX 01 89:53:00
+TRACK 17 AUDIO
+PERFORMER "Sade"
+TITLE "Sweetest Taboo"
+INDEX 01 94:00:00
+TRACK 18 AUDIO
+PERFORMER "Juan Laya & Jorge Montiel"
+TITLE "Innermotion"
+INDEX 01 98:29:00
+TRACK 19 AUDIO
+PERFORMER "Steely"
+TITLE "Aja"
+INDEX 01 102:52:00
+TRACK 20 AUDIO
+PERFORMER "Soulpersona starring Princess Freesia"
+TITLE "Stronger Harder Deeper"
+INDEX 01 110:50:00
+TRACK 21 AUDIO
+PERFORMER "Qalomota"
+TITLE "Don't Leave Me"
+INDEX 01 115:38:00

@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 38"
+FILE "stef_-_adventures_in_decent_music_vol._38.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Bonar Bradberry"
+TITLE "3two5"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Purple Disco Machine"
+TITLE "Where We Belong"
+INDEX 01 06:14:00
+TRACK 02 AUDIO
+PERFORMER "Adri Block & Arno Krijnen"
+TITLE "Keep On Risin"
+INDEX 01 11:23:00
+TRACK 03 AUDIO
+PERFORMER "Paul Richmond"
+TITLE "Commitment"
+INDEX 01 15:27:00
+TRACK 04 AUDIO
+PERFORMER "Lux Experience"
+TITLE "Dance Dance Dance"
+INDEX 01 20:44:00
+TRACK 05 AUDIO
+PERFORMER "Session Victim"
+TITLE "Good Intentions"
+INDEX 01 26:40:00
+TRACK 06 AUDIO
+PERFORMER "Discotron"
+TITLE "Doin Their Own Thang"
+INDEX 01 32:14:00
+TRACK 07 AUDIO
+PERFORMER "David Jach & Beatamines"
+TITLE "Swaggin"
+INDEX 01 36:42:00
+TRACK 08 AUDIO
+PERFORMER "Dee lite"
+TITLE "Groove Is In The Heart"
+INDEX 01 39:17:00
+TRACK 09 AUDIO
+PERFORMER "Quell"
+TITLE "Army Of Lover"
+INDEX 01 43:21:00
+TRACK 10 AUDIO
+PERFORMER "Diamond D"
+TITLE "Try It"
+INDEX 01 47:58:00
+TRACK 11 AUDIO
+PERFORMER "Robosonic & Purple Disco Machine"
+TITLE "Viel Fein"
+INDEX 01 54:53:00
+TRACK 12 AUDIO
+PERFORMER "The Crusaders"
+TITLE "My Lady"
+INDEX 01 60:18:00
+TRACK 13 AUDIO
+PERFORMER "Punks Jump Up feat. Dave 1"
+TITLE "Mr. Overtime"
+INDEX 01 66:00:00
+TRACK 14 AUDIO
+PERFORMER "Larse"
+TITLE "Tonite"
+INDEX 01 71:01:00
+TRACK 15 AUDIO
+PERFORMER "Asadinho feat. Ingrid Hakanson"
+TITLE "Love capacity"
+INDEX 01 76:51:00
+TRACK 16 AUDIO
+PERFORMER "Unfinished Business"
+TITLE "Out Of My Hands"
+INDEX 01 83:09:00
+TRACK 17 AUDIO
+PERFORMER "The Revenge"
+TITLE "Unfinished Edits Are Out Of My Hands"
+INDEX 01 87:25:00
+TRACK 18 AUDIO
+PERFORMER "Lumoon & Rob!n"
+TITLE "Classique"
+INDEX 01 89:30:00
+TRACK 19 AUDIO
+PERFORMER "Evan Evans"
+TITLE "Final"
+INDEX 01 92:15:00
+TRACK 20 AUDIO
+PERFORMER "Chmmr"
+TITLE "Lyd & Bilde"
+INDEX 01 99:35:00
+TRACK 21 AUDIO
+PERFORMER "Sound Stream"
+TITLE "Bass Affairs"
+INDEX 01 102:49:00
+TRACK 22 AUDIO
+PERFORMER "Lone"
+TITLE "Lying In The Reeds"
+INDEX 01 108:52:00
+TRACK 23 AUDIO
+PERFORMER "Sander Kleinenberg"
+TITLE "The Healer"
+INDEX 01 113:00:00
+TRACK 24 AUDIO
+PERFORMER "Chanan Hanspal feat. Imaani"
+TITLE "It's Only Just a Garden"
+INDEX 01 116:36:00

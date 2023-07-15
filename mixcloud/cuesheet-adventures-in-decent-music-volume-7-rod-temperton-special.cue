@@ -1,0 +1,123 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 7 - Rod Temperton Special"
+FILE "Adventures_in_Decent_Music_Vol._07_Rod_Temperton_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Quincy Jones"
+TITLE "Turn The Action On"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Heatwave"
+TITLE "Boogie Nights"
+INDEX 01 02:40:00
+TRACK 02 AUDIO
+PERFORMER "Heatwave"
+TITLE "Put The Word Out"
+INDEX 01 05:34:00
+TRACK 03 AUDIO
+PERFORMER "Brothers Johnson"
+TITLE "Stomp"
+INDEX 01 10:48:00
+TRACK 04 AUDIO
+PERFORMER "Heatwave"
+TITLE "Jitterbuggin'"
+INDEX 01 14:10:00
+TRACK 05 AUDIO
+PERFORMER "Herbie Hancock"
+TITLE "The Bomb"
+INDEX 01 17:05:00
+TRACK 06 AUDIO
+PERFORMER "Manhattan Transfer"
+TITLE "Spice Of Life"
+INDEX 01 20:10:00
+TRACK 07 AUDIO
+PERFORMER "Michael Jackson"
+TITLE "Off The Wall"
+INDEX 01 23:36:00
+TRACK 08 AUDIO
+PERFORMER "Quincy Jones"
+TITLE "Razzamatazz"
+INDEX 01 26:37:00
+TRACK 09 AUDIO
+PERFORMER "George Benson"
+TITLE "Love X Love"
+INDEX 01 28:08:00
+TRACK 10 AUDIO
+PERFORMER "George Benson"
+TITLE "Give Me The Night"
+INDEX 01 31:20:00
+TRACK 11 AUDIO
+PERFORMER "Heatwave"
+TITLE "Eyballin'"
+INDEX 01 34:15:00
+TRACK 12 AUDIO
+PERFORMER "Heatwave"
+TITLE "The Groove Line"
+INDEX 01 37:09:00
+TRACK 13 AUDIO
+PERFORMER "James Ingram with Michael McDonald"
+TITLE "Yah-Mo B There"
+INDEX 01 40:48:00
+TRACK 14 AUDIO
+PERFORMER "Rufus & Chaka Khan"
+TITLE "Masterjam"
+INDEX 01 43:18:00
+TRACK 15 AUDIO
+PERFORMER "Brother Johnson"
+TITLE "Light Up The Night"
+INDEX 01 45:13:00
+TRACK 16 AUDIO
+PERFORMER "Patti Austin"
+TITLE "Do You Love Me"
+INDEX 01 47:22:00
+TRACK 17 AUDIO
+PERFORMER "Bob Jones"
+TITLE "Sign Of The Times"
+INDEX 01 50:37:00
+TRACK 18 AUDIO
+PERFORMER "Quincy Jones"
+TITLE "The Dude"
+INDEX 01 53:36:00
+TRACK 19 AUDIO
+PERFORMER "Heatwave"
+TITLE "Ain't No Half Steppin'"
+INDEX 01 56:51:00
+TRACK 20 AUDIO
+PERFORMER "Heatwave"
+TITLE "Send Out For Sunshine"
+INDEX 01 59:53:00
+TRACK 21 AUDIO
+PERFORMER "Rufus & Chaka Khan"
+TITLE "Live In Me"
+INDEX 01 63:53:00
+TRACK 22 AUDIO
+PERFORMER "Zhane"
+TITLE "Vibe"
+INDEX 01 67:41:00
+TRACK 23 AUDIO
+PERFORMER "Michael McDonald"
+TITLE "Sweet Freedom"
+INDEX 01 69:29:00
+TRACK 24 AUDIO
+PERFORMER "Heatwave"
+TITLE "Lettin' It Loose"
+INDEX 01 73:09:00
+TRACK 25 AUDIO
+PERFORMER "Patti Austin"
+TITLE "The Genie"
+INDEX 01 76:20:00
+TRACK 26 AUDIO
+PERFORMER "Michael Jackson"
+TITLE "Thriller"
+INDEX 01 79:05:00
+TRACK 27 AUDIO
+PERFORMER "Donna Summer"
+TITLE "Love Is In Control"
+INDEX 01 82:35:00
+TRACK 28 AUDIO
+PERFORMER "Herbie Hancock"
+TITLE "Lite Me Up"
+INDEX 01 84:22:00
+TRACK 29 AUDIO
+PERFORMER "Michael Jackson"
+TITLE "Rock With You"
+INDEX 01 86:18:00

@@ -1,0 +1,91 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 98"
+FILE "stef_-_my_pair_of_shoes_vol._98.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Cafe 432 feat. Marcelle Duprey"
+TITLE "Waste My Time"
+INDEX 01 04:32:00
+TRACK 01 AUDIO
+PERFORMER "AM2PM"
+TITLE "My Feelin'"
+INDEX 01 08:35:00
+TRACK 02 AUDIO
+PERFORMER "Re-Tide"
+TITLE "Music In The Streets"
+INDEX 01 00:00:00
+TRACK 03 AUDIO
+PERFORMER "MoBlack ft. Baba"
+TITLE "Calabash"
+INDEX 01 14:15:00
+TRACK 04 AUDIO
+PERFORMER "Nova Fronteira"
+TITLE "Fanatica"
+INDEX 01 18:37:00
+TRACK 05 AUDIO
+PERFORMER "The Checkup ft. John James"
+TITLE "I'll Be Here"
+INDEX 01 24:20:00
+TRACK 06 AUDIO
+PERFORMER "Re-Tide"
+TITLE "The Power"
+INDEX 01 28:51:00
+TRACK 07 AUDIO
+PERFORMER "Don Sizzle"
+TITLE "Naked Attempt"
+INDEX 01 35:25:00
+TRACK 08 AUDIO
+PERFORMER "Detroit Swindle"
+TITLE "Howsmusic"
+INDEX 01 39:32:00
+TRACK 09 AUDIO
+PERFORMER "Funk The Beat feat. Bruno V"
+TITLE "Six Years"
+INDEX 01 45:13:00
+TRACK 10 AUDIO
+PERFORMER "SEL"
+TITLE "Elevation"
+INDEX 01 50:05:00
+TRACK 11 AUDIO
+PERFORMER "Lisa Shaw"
+TITLE "I Can See It"
+INDEX 01 56:08:00
+TRACK 12 AUDIO
+PERFORMER "Marc Cotterell feat. Doreen Younglove"
+TITLE "Into The Light"
+INDEX 01 62:12:00
+TRACK 13 AUDIO
+PERFORMER "Larry A feat. Jamie Aditya"
+TITLE "Get Down With It"
+INDEX 01 67:53:00
+TRACK 14 AUDIO
+PERFORMER "Pino D'Angio"
+TITLE "Ma Quale Idea"
+INDEX 01 73:55:00
+TRACK 15 AUDIO
+PERFORMER "Unique2Rhythm feat. Tommie Cotton"
+TITLE "Tell Me"
+INDEX 01 79:54:00
+TRACK 16 AUDIO
+PERFORMER "Michele Chiavarini"
+TITLE "The Edge Of Deepness"
+INDEX 01 85:10:00
+TRACK 17 AUDIO
+PERFORMER "The DangerFeel Newbies"
+TITLE "What Am I Here For"
+INDEX 01 91:30:00
+TRACK 18 AUDIO
+PERFORMER "Tony Momrelle"
+TITLE "All The Things You Are"
+INDEX 01 97:40:00
+TRACK 19 AUDIO
+PERFORMER "Samma Lone"
+TITLE "Fools Believe"
+INDEX 01 105:07:00
+TRACK 20 AUDIO
+PERFORMER "Michele Chiavarini feat. Cinnamon Brown"
+TITLE "Doing Things My Way"
+INDEX 01 110:27:00
+TRACK 21 AUDIO
+PERFORMER "Munk"
+TITLE "Hot Medusa"
+INDEX 01 117:40:00

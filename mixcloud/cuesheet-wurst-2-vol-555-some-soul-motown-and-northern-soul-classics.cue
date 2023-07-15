@@ -1,0 +1,119 @@
+PERFORMER "Stef.FM"
+TITLE "W.u.R.St 2 Vol. 555 - Some Soul, Motown and Northern Soul Classics"
+FILE "W.u.R.St 2 Vol. 555.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "James Brown"
+TITLE "You Love was Good for Me"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Minnie Riperton"
+TITLE "Baby, This Love I Have"
+INDEX 01 03:08:00
+TRACK 02 AUDIO
+PERFORMER "Curtis Mayfield"
+TITLE "Freddie's Dead"
+INDEX 01 07:03:00
+TRACK 03 AUDIO
+PERFORMER "Sisters Love"
+TITLE "Give Me Your Love"
+INDEX 01 12:58:00
+TRACK 04 AUDIO
+PERFORMER "Lettuce"
+TITLE "Express Yourself"
+INDEX 01 21:07:00
+TRACK 05 AUDIO
+PERFORMER "Shirley Bassey"
+TITLE "Light My Fire"
+INDEX 01 24:25:00
+TRACK 06 AUDIO
+PERFORMER "Cake"
+TITLE "I Will Survive"
+INDEX 01 27:48:00
+TRACK 07 AUDIO
+PERFORMER "The Bamboos"
+TITLE "I Don't Wanna Stop"
+INDEX 01 32:30:00
+TRACK 08 AUDIO
+PERFORMER "The Jackson 5"
+TITLE "ABC"
+INDEX 01 36:22:00
+TRACK 09 AUDIO
+PERFORMER "Marvin Gaye & Tammi Terrell"
+TITLE "Ain't Nothing Like The Real Thing"
+INDEX 01 43:57:00
+TRACK 10 AUDIO
+PERFORMER "Corduroy"
+TITLE "London, England"
+INDEX 01 46:09:00
+TRACK 11 AUDIO
+PERFORMER "Billy Paul"
+TITLE "Am I Black Enough For Ya?"
+INDEX 01 49:39:00
+TRACK 12 AUDIO
+PERFORMER "Margaret Singana"
+TITLE "Why Did You Do It"
+INDEX 01 55:02:00
+TRACK 13 AUDIO
+PERFORMER "Aloe Blacc"
+TITLE "I Need A Dollar"
+INDEX 01 61:03:00
+TRACK 14 AUDIO
+PERFORMER "The Spinners"
+TITLE "It's a Shame"
+INDEX 01 65:12:00
+TRACK 15 AUDIO
+PERFORMER "Beastie Boys"
+TITLE "Root Down"
+INDEX 01 68:15:00
+TRACK 16 AUDIO
+PERFORMER "The Baker Brothers"
+TITLE "Couldn't Get It Right"
+INDEX 01 74:54:00
+TRACK 17 AUDIO
+PERFORMER "The Rebirth"
+TITLE "Handle It"
+INDEX 01 78:32:00
+TRACK 18 AUDIO
+PERFORMER "The Specials"
+TITLE "A Message To You Rudy"
+INDEX 01 84:46:00
+TRACK 19 AUDIO
+PERFORMER "Jackson Sisters"
+TITLE "I Believe In Miracles"
+INDEX 01 87:46:00
+TRACK 20 AUDIO
+PERFORMER "Marva Whitney"
+TITLE "It's My Thing"
+INDEX 01 90:13:00
+TRACK 21 AUDIO
+PERFORMER "The Tempations"
+TITLE "Ain't Too Proud to Beg"
+INDEX 01 93:03:00
+TRACK 22 AUDIO
+PERFORMER "The Trammps"
+TITLE "Can We Come Together"
+INDEX 01 94:37:00
+TRACK 23 AUDIO
+PERFORMER "Martha Reeves & The Vandellas"
+TITLE "Dancing in the Street"
+INDEX 01 103:30:00
+TRACK 24 AUDIO
+PERFORMER "The Four Tops"
+TITLE "I Can't Help Myself"
+INDEX 01 105:19:00
+TRACK 25 AUDIO
+PERFORMER "The Supremes"
+TITLE "You Keep Me Hangin' On"
+INDEX 01 107:15:00
+TRACK 26 AUDIO
+PERFORMER "Paul Weller"
+TITLE "If I Could Only Be Sure"
+INDEX 01 109:27:00
+TRACK 27 AUDIO
+PERFORMER "Rob Tex"
+TITLE "Rock the Kasbah"
+INDEX 01 113:03:00
+TRACK 28 AUDIO
+PERFORMER "The Isley Brothers"
+TITLE "This Old Heart of Mine"
+INDEX 01 118:34:00

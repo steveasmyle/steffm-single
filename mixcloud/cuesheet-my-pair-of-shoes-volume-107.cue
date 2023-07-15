@@ -1,0 +1,99 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 107"
+FILE "stef_-_my_pair_of_shoes_vol._107.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Purple Disco Machine & Boris Dlugosch feat. Karen Harding"
+TITLE "Love For Days"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Paradise Garage"
+TITLE "Track Two"
+INDEX 01 06:33:00
+TRACK 02 AUDIO
+PERFORMER "Belezamusica"
+TITLE "Running Away"
+INDEX 01 13:22:00
+TRACK 03 AUDIO
+PERFORMER "Werkshy"
+TITLE "Save Our Love"
+INDEX 01 19:54:00
+TRACK 04 AUDIO
+PERFORMER "Al Jarreau"
+TITLE "Step By Step"
+INDEX 01 24:48:00
+TRACK 05 AUDIO
+PERFORMER "Oh Yeah"
+TITLE "All Night"
+INDEX 01 30:49:00
+TRACK 06 AUDIO
+PERFORMER "Block & Crown"
+TITLE "Made For The Night"
+INDEX 01 36:19:00
+TRACK 07 AUDIO
+PERFORMER "Sebb Junior"
+TITLE "Keep The Bass"
+INDEX 01 40:47:00
+TRACK 08 AUDIO
+PERFORMER "Lorenz Rhode"
+TITLE "And I Said"
+INDEX 01 45:31:00
+TRACK 09 AUDIO
+PERFORMER "Sybil"
+TITLE "When I'm Good And Ready"
+INDEX 01 50:30:00
+TRACK 10 AUDIO
+PERFORMER "Saison"
+TITLE "Breath Life"
+INDEX 01 55:10:00
+TRACK 11 AUDIO
+PERFORMER "DJ Cam feat. Anggun"
+TITLE "Summer In Paris"
+INDEX 01 60:32:00
+TRACK 12 AUDIO
+PERFORMER "King Unique"
+TITLE "Love Is What You Need (Look Ahead)"
+INDEX 01 64:58:00
+TRACK 13 AUDIO
+PERFORMER "Marco Valery ft. Sharlene Hector"
+TITLE "Free Love"
+INDEX 01 71:31:00
+TRACK 14 AUDIO
+PERFORMER "The Sunchasers"
+TITLE "Join Hands"
+INDEX 01 78:06:00
+TRACK 15 AUDIO
+PERFORMER "Those Guys"
+TITLE "I Walk Alone"
+INDEX 01 83:52:00
+TRACK 16 AUDIO
+PERFORMER "Endor x Youngr"
+TITLE "Give It Up"
+INDEX 01 86:46:00
+TRACK 17 AUDIO
+PERFORMER "Sebb Junior"
+TITLE "Feel The Same"
+INDEX 01 91:16:00
+TRACK 18 AUDIO
+PERFORMER "Todd Edwards & Golf Clap"
+TITLE "Come Together"
+INDEX 01 96:29:00
+TRACK 19 AUDIO
+PERFORMER "Crackazat"
+TITLE "Called My Name (Meet The Band)"
+INDEX 01 100:26:00
+TRACK 20 AUDIO
+PERFORMER "Folamour"
+TITLE "The Power and The Blessing of Unity"
+INDEX 01 105:26:00
+TRACK 21 AUDIO
+PERFORMER "Samuele Sartini feat. Smashing Beat"
+TITLE "Do What You Like"
+INDEX 01 110:38:00
+TRACK 22 AUDIO
+PERFORMER "Ross Couch"
+TITLE "Addicted To You"
+INDEX 01 114:24:00
+TRACK 23 AUDIO
+PERFORMER "Mr Brian Power feat. Lloyd Wade"
+TITLE "I Really Don't Need No Light"
+INDEX 01 118:38:00

@@ -1,0 +1,399 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - 100 Mix Retrospective"
+FILE "stef_-_my_pair_of_shoes_vol._100.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Centric House"
+TITLE "Alright Alright"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Frankie Knuckles"
+TITLE "Journey"
+INDEX 01 00:47:00
+TRACK 02 AUDIO
+PERFORMER "Wildchild"
+TITLE "Jump To My Beat"
+INDEX 01 01:40:00
+TRACK 03 AUDIO
+PERFORMER "Jay J & Mark Grant ft Latrice Barnett"
+TITLE "Love Is"
+INDEX 01 03:14:00
+TRACK 04 AUDIO
+PERFORMER "Mustafa"
+TITLE "Bom Demais"
+INDEX 01 04:01:00
+TRACK 05 AUDIO
+PERFORMER "Lovebirds"
+TITLE "The Rat"
+INDEX 01 05:03:00
+TRACK 06 AUDIO
+PERFORMER "Groove Armada"
+TITLE "Love Sweet Sound"
+INDEX 01 05:54:00
+TRACK 07 AUDIO
+PERFORMER "Keith Thompson"
+TITLE "Borders Don't Matter"
+INDEX 01 07:13:00
+TRACK 08 AUDIO
+PERFORMER "Louis Benedetti & Andricka Hall"
+TITLE "Life Is Good"
+INDEX 01 08:08:00
+TRACK 09 AUDIO
+PERFORMER "Johnny Fiasco"
+TITLE "Yolo"
+INDEX 01 08:39:00
+TRACK 10 AUDIO
+PERFORMER "Thatmanmonkz"
+TITLE "Sad N Blue"
+INDEX 01 09:25:00
+TRACK 11 AUDIO
+PERFORMER "Milton Jackson"
+TITLE "1998"
+INDEX 01 10:52:00
+TRACK 12 AUDIO
+PERFORMER "M.V.I.P."
+TITLE "M.V.I.P Theme"
+INDEX 01 11:23:00
+TRACK 13 AUDIO
+PERFORMER "Chasing Kurt"
+TITLE "From The Inside"
+INDEX 01 12:57:00
+TRACK 14 AUDIO
+PERFORMER "Totally Enormous Extinct Dinosaurs"
+TITLE "Your Love"
+INDEX 01 13:44:00
+TRACK 15 AUDIO
+PERFORMER "Jessie Ware"
+TITLE "Running"
+INDEX 01 14:11:00
+TRACK 16 AUDIO
+PERFORMER "Laurentius"
+TITLE "Karate Samba"
+INDEX 01 14:46:00
+TRACK 17 AUDIO
+PERFORMER "U-Ness & JedSet feat. Lorena"
+TITLE "Missing"
+INDEX 01 15:42:00
+TRACK 18 AUDIO
+PERFORMER "Moony"
+TITLE "Dove"
+INDEX 01 16:58:00
+TRACK 19 AUDIO
+PERFORMER "D-T3ch"
+TITLE "Meerkat Music"
+INDEX 01 17:49:00
+TRACK 20 AUDIO
+PERFORMER "Stan Courtois feat. Marcya"
+TITLE "Feel The Rhythm & Dance"
+INDEX 01 18:20:00
+TRACK 21 AUDIO
+PERFORMER "Soul Central"
+TITLE "Song For Sharma"
+INDEX 01 18:36:00
+TRACK 22 AUDIO
+PERFORMER "Ryan Blyth feat. Denzee"
+TITLE "Like To Party"
+INDEX 01 19:54:00
+TRACK 23 AUDIO
+PERFORMER "Joey Youngman"
+TITLE "Master Blaster"
+INDEX 01 20:38:00
+TRACK 24 AUDIO
+PERFORMER "Mike Newman & Antoine Cortez"
+TITLE "Come With You"
+INDEX 01 21:58:00
+TRACK 25 AUDIO
+PERFORMER "Jay-J & Toren Rae"
+TITLE "Sunshine People"
+INDEX 01 23:04:00
+TRACK 26 AUDIO
+PERFORMER "Luca Signorini"
+TITLE "A Night In Paris"
+INDEX 01 23:33:00
+TRACK 27 AUDIO
+PERFORMER "Georg Levin"
+TITLE "The Better Life"
+INDEX 01 24:23:00
+TRACK 28 AUDIO
+PERFORMER "Mr.V"
+TITLE "I Can Sing"
+INDEX 01 25:33:00
+TRACK 29 AUDIO
+PERFORMER "Raw Artistic Soul feat. Ursula Rucker"
+TITLE "The Light"
+INDEX 01 26:30:00
+TRACK 30 AUDIO
+PERFORMER "Squarehead"
+TITLE "Elegante"
+INDEX 01 27:30:00
+TRACK 31 AUDIO
+PERFORMER "Kuningas"
+TITLE "Waiting"
+INDEX 01 28:28:00
+TRACK 32 AUDIO
+PERFORMER "Kerri Chandler"
+TITLE "Bar A Thym"
+INDEX 01 29:10:00
+TRACK 33 AUDIO
+PERFORMER "Art Of Tones"
+TITLE "Breaking Bad"
+INDEX 01 29:41:00
+TRACK 34 AUDIO
+PERFORMER "Detroit Swindle"
+TITLE "Woman"
+INDEX 01 31:22:00
+TRACK 35 AUDIO
+PERFORMER "P'taah"
+TITLE "Everything Is Naturally Free"
+INDEX 01 32:01:00
+TRACK 36 AUDIO
+PERFORMER "Romanthony"
+TITLE "Too Long"
+INDEX 01 33:34:00
+TRACK 37 AUDIO
+PERFORMER "Lombard Street"
+TITLE "Hot 97"
+INDEX 01 34:37:00
+TRACK 38 AUDIO
+PERFORMER "Outwork feat. Mr. Gee - Elektro"
+TITLE "Joey Negro Klub Mix"
+INDEX 01 35:23:00
+TRACK 39 AUDIO
+PERFORMER "Heaven N Hell"
+TITLE "Watcha Gonna Do"
+INDEX 01 36:10:00
+TRACK 40 AUDIO
+PERFORMER "Blake Reary"
+TITLE "Step It Up"
+INDEX 01 37:24:00
+TRACK 41 AUDIO
+PERFORMER "Allister Whithead feat. Beverley Skeete"
+TITLE "Heaven"
+INDEX 01 38:30:00
+TRACK 42 AUDIO
+PERFORMER "Mike Monday"
+TITLE "Ca$h"
+INDEX 01 39:10:00
+TRACK 43 AUDIO
+PERFORMER "Ross Couch"
+TITLE "Somebody Like You"
+INDEX 01 40:27:00
+TRACK 44 AUDIO
+PERFORMER "Art Of Tones"
+TITLE "The Rainbow Song"
+INDEX 01 41:15:00
+TRACK 45 AUDIO
+PERFORMER "Re-Tide"
+TITLE "The Power"
+INDEX 01 41:45:00
+TRACK 46 AUDIO
+PERFORMER "Shik Stylko"
+TITLE "The Vibe Track"
+INDEX 01 42:40:00
+TRACK 47 AUDIO
+PERFORMER "Doug Willis ft Tyrone Taylor"
+TITLE "Power To The People"
+INDEX 01 44:05:00
+TRACK 48 AUDIO
+PERFORMER "Soulful Session feat. Leanne"
+TITLE "My Baby"
+INDEX 01 45:16:00
+TRACK 49 AUDIO
+PERFORMER "Jon Cutler feat. E-Man"
+TITLE "It's Yours"
+INDEX 01 45:45:00
+TRACK 50 AUDIO
+PERFORMER "Hott 22"
+TITLE "Before I Let You In"
+INDEX 01 46:18:00
+TRACK 51 AUDIO
+PERFORMER "James Johnston"
+TITLE "Sold Out Of Your Heart"
+INDEX 01 47:10:00
+TRACK 52 AUDIO
+PERFORMER "Kyodai"
+TITLE "Breaking"
+INDEX 01 47:58:00
+TRACK 53 AUDIO
+PERFORMER "Deeplomatik"
+TITLE "The Music"
+INDEX 01 49:00:00
+TRACK 54 AUDIO
+PERFORMER "Joy Orbison"
+TITLE "Hyph Mngo"
+INDEX 01 50:04:00
+TRACK 55 AUDIO
+PERFORMER "Jill Scott"
+TITLE "Golden"
+INDEX 01 51:13:00
+TRACK 56 AUDIO
+PERFORMER "Atjazz"
+TITLE "Touch The Sun"
+INDEX 01 53:33:00
+TRACK 57 AUDIO
+PERFORMER "Wagon Cookin"
+TITLE "Incredible"
+INDEX 01 54:37:00
+TRACK 58 AUDIO
+PERFORMER "Passion Dance Orchestra"
+TITLE "Worlds (Theme)"
+INDEX 01 55:40:00
+TRACK 59 AUDIO
+PERFORMER "JP Phillippe"
+TITLE "Providence Of The Cosmos"
+INDEX 01 57:06:00
+TRACK 60 AUDIO
+PERFORMER "Tortured Soul"
+TITLE "Your Dream Is My Dream"
+INDEX 01 58:27:00
+TRACK 61 AUDIO
+PERFORMER "Frankie Knuckles & The Shapeshifters"
+TITLE "The Ones You Love"
+INDEX 01 60:00:00
+TRACK 62 AUDIO
+PERFORMER "Lisa Shaw"
+TITLE "All Night High"
+INDEX 01 61:27:00
+TRACK 63 AUDIO
+PERFORMER "Hercules & Love Affair"
+TITLE "Blind"
+INDEX 01 62:53:00
+TRACK 64 AUDIO
+PERFORMER "Luis Radio & Darryl D'Bonneau"
+TITLE "What Is"
+INDEX 01 64:20:00
+TRACK 65 AUDIO
+PERFORMER "Simply Red"
+TITLE "Stay"
+INDEX 01 65:39:00
+TRACK 66 AUDIO
+PERFORMER "Alexander O'Neal feat. Bianca Lindgren"
+TITLE "Saturday Love"
+INDEX 01 67:45:00
+TRACK 67 AUDIO
+PERFORMER "Key To Life feat. Kathleen Murphy"
+TITLE "Find A Way"
+INDEX 01 70:00:00
+TRACK 68 AUDIO
+PERFORMER "H2O feat. Billie"
+TITLE "Nobody's Business"
+INDEX 01 70:31:00
+TRACK 69 AUDIO
+PERFORMER "Rhemi feat. Carmichael MusicLover"
+TITLE "Everything Is Good (That's Why I Love You)"
+INDEX 01 72:21:00
+TRACK 70 AUDIO
+PERFORMER "N'Dinga Gaba and DJ Spen feat. Marc Evans"
+TITLE "Until You"
+INDEX 01 74:12:00
+TRACK 71 AUDIO
+PERFORMER "Jon Cutler & Jocelyn Brown"
+TITLE "One"
+INDEX 01 74:54:00
+TRACK 72 AUDIO
+PERFORMER "Gabriel Rene feat. J. Soul"
+TITLE "Spirit"
+INDEX 01 76:34:00
+TRACK 73 AUDIO
+PERFORMER "Fanatix & Sterling Ensemble feat. Don-E"
+TITLE "Good Thing"
+INDEX 01 77:19:00
+TRACK 74 AUDIO
+PERFORMER "Andy Caldwell feat. Xavior & Omega"
+TITLE "Rumors"
+INDEX 01 79:09:00
+TRACK 75 AUDIO
+PERFORMER "Walka"
+TITLE "High Contrast"
+INDEX 01 81:00:00
+TRACK 76 AUDIO
+PERFORMER "Steve Mac & Paul Harris"
+TITLE "Dizzy Heights"
+INDEX 01 82:34:00
+TRACK 77 AUDIO
+PERFORMER "Ski Oakenfull"
+TITLE "Illuminations"
+INDEX 01 84:09:00
+TRACK 78 AUDIO
+PERFORMER "Joey Negro pres. Doug Willis"
+TITLE "Music Speaks Louder Than Words"
+INDEX 01 85:28:00
+TRACK 79 AUDIO
+PERFORMER "Julio Bashmore feat. Sam Dew"
+TITLE "Holding On"
+INDEX 01 86:17:00
+TRACK 80 AUDIO
+PERFORMER "Donna Summer"
+TITLE "I Feel Love"
+INDEX 01 87:36:00
+TRACK 81 AUDIO
+PERFORMER "Crispin J. Glover feat. Johnnie Fiori"
+TITLE "Never Give You Up"
+INDEX 01 89:15:00
+TRACK 82 AUDIO
+PERFORMER "Copyright presents The Movement feat. Bryam Chambers"
+TITLE "We Get Up"
+INDEX 01 89:46:00
+TRACK 83 AUDIO
+PERFORMER "Def E & Seamus Haji"
+TITLE "Changes"
+INDEX 01 90:48:00
+TRACK 84 AUDIO
+PERFORMER "Michelle Weeks"
+TITLE "Follow Your Dreams"
+INDEX 01 92:26:00
+TRACK 85 AUDIO
+PERFORMER "Monique Bingham"
+TITLE "You. Me. World"
+INDEX 01 93:44:00
+TRACK 86 AUDIO
+PERFORMER "Namy"
+TITLE "Gipsy Woman"
+INDEX 01 94:43:00
+TRACK 87 AUDIO
+PERFORMER "Raw Artistic Soul feat. John Gibbons"
+TITLE "Keep On Shining"
+INDEX 01 95:48:00
+TRACK 88 AUDIO
+PERFORMER "Rob Melo feat. Rasmus Faber"
+TITLE "Get Over Here"
+INDEX 01 97:53:00
+TRACK 89 AUDIO
+PERFORMER "Chris Malinchak"
+TITLE "At Night"
+INDEX 01 99:41:00
+TRACK 90 AUDIO
+PERFORMER "Roisin Murphy"
+TITLE "Overpowered"
+INDEX 01 101:22:00
+TRACK 91 AUDIO
+PERFORMER "Louie Vega & Jay Sealee featuring Julie McKnight"
+TITLE "Diamond Life"
+INDEX 01 103:39:00
+TRACK 92 AUDIO
+PERFORMER "Q-Burns Abstract Message"
+TITLE "Innocent"
+INDEX 01 105:35:00
+TRACK 93 AUDIO
+PERFORMER "Mateo & Matos"
+TITLE "Body'N'Soul"
+INDEX 01 107:08:00
+TRACK 94 AUDIO
+PERFORMER "Roland Nights"
+TITLE "Ready to Go"
+INDEX 01 108:12:00
+TRACK 95 AUDIO
+PERFORMER "Silt"
+TITLE "Rising"
+INDEX 01 110:01:00
+TRACK 96 AUDIO
+PERFORMER "Moullinex"
+TITLE "Don't You Feel"
+INDEX 01 111:03:00
+TRACK 97 AUDIO
+PERFORMER "The Sunburst Band"
+TITLE "Journey To The Sun"
+INDEX 01 112:36:00
+TRACK 98 AUDIO
+PERFORMER "Players Association"
+TITLE "The Get Down Mellow Sound"
+INDEX 01 113:18:00

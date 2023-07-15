@@ -1,0 +1,71 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 37"
+FILE "stef_-_adventures_in_decent_music_vol._37.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Pomo"
+TITLE "Only You"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "JV"
+TITLE "EditChannel XXX"
+INDEX 01 03:31:00
+TRACK 02 AUDIO
+PERFORMER "Les Loups feat. Cybil"
+TITLE "Colourblind"
+INDEX 01 08:08:00
+TRACK 03 AUDIO
+PERFORMER "Chris Malinchak feat. Mikky Ekko"
+TITLE "Stranger"
+INDEX 01 11:51:00
+TRACK 04 AUDIO
+PERFORMER "September"
+TITLE "Are You Free Tonight"
+INDEX 01 15:15:00
+TRACK 05 AUDIO
+PERFORMER "Treasure"
+TITLE "Joyous"
+INDEX 01 20:59:00
+TRACK 06 AUDIO
+PERFORMER "Jesse Futerman"
+TITLE "Life Is a Gamble"
+INDEX 01 24:32:00
+TRACK 07 AUDIO
+PERFORMER "Wayward"
+TITLE "Hurricane"
+INDEX 01 26:52:00
+TRACK 08 AUDIO
+PERFORMER "J. Holiday"
+TITLE "Thinkink About You"
+INDEX 01 30:30:00
+TRACK 09 AUDIO
+PERFORMER "The Valentine Brothers"
+TITLE "Taste Of Your Love"
+INDEX 01 36:26:00
+TRACK 10 AUDIO
+PERFORMER "Heidi Leonore"
+TITLE "Everybody Loves The Sunshine"
+INDEX 01 41:35:00
+TRACK 11 AUDIO
+PERFORMER "Lady L"
+TITLE "Loves Master Plan"
+INDEX 01 47:20:00
+TRACK 12 AUDIO
+PERFORMER "Soulutions"
+TITLE "Listen"
+INDEX 01 51:13:00
+TRACK 13 AUDIO
+PERFORMER "Julio Bashmore feat. J'Danna"
+TITLE "Simple Love"
+INDEX 01 56:08:00
+TRACK 14 AUDIO
+PERFORMER "One Way"
+TITLE "I Need It"
+INDEX 01 61:10:00
+TRACK 15 AUDIO
+PERFORMER "Robin McKelle & The Flytones"
+TITLE "Control Yourself"
+INDEX 01 66:24:00
+TRACK 16 AUDIO
+PERFORMER "Nick Drake"
+TITLE "Riverman"
+INDEX 01 70:57:00

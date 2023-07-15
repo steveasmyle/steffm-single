@@ -1,0 +1,95 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 51"
+FILE "stef_-_adventures_in_decent_music_vol._51.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "The APX"
+TITLE "Sweet Surrender"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Dubplate Disco"
+TITLE "Pick Up"
+INDEX 01 05:53:00
+TRACK 02 AUDIO
+PERFORMER "First Floor"
+TITLE "Delight"
+INDEX 01 13:37:00
+TRACK 03 AUDIO
+PERFORMER "Hifi Sean featuring Paris Grey"
+TITLE "Lost Without You"
+INDEX 01 19:14:00
+TRACK 04 AUDIO
+PERFORMER "Tee Mango"
+TITLE "This Is Where I'll Stay (With U)"
+INDEX 01 24:43:00
+TRACK 05 AUDIO
+PERFORMER "The Posse"
+TITLE "No Burrito"
+INDEX 01 30:02:00
+TRACK 06 AUDIO
+PERFORMER "Koji Ono"
+TITLE "So High"
+INDEX 01 33:36:00
+TRACK 07 AUDIO
+PERFORMER "De Fantastiske To"
+TITLE "Lettbeint"
+INDEX 01 38:24:00
+TRACK 08 AUDIO
+PERFORMER "JKriv feat. Adeline"
+TITLE "Vertigo"
+INDEX 01 44:35:00
+TRACK 09 AUDIO
+PERFORMER "Joe Bisso"
+TITLE "The Mystery With Me"
+INDEX 01 50:00:00
+TRACK 10 AUDIO
+PERFORMER "Reset Preset"
+TITLE "Space Bass"
+INDEX 01 52:58:00
+TRACK 11 AUDIO
+PERFORMER "Random Soul"
+TITLE "If We Let Go Tonight"
+INDEX 01 55:57:00
+TRACK 12 AUDIO
+PERFORMER "Stephane Deschezeaux"
+TITLE "Jump!"
+INDEX 01 60:04:00
+TRACK 13 AUDIO
+PERFORMER "Steal Vybe feat. Sara Devine"
+TITLE "Fill The Skyy"
+INDEX 01 64:42:00
+TRACK 14 AUDIO
+PERFORMER "Folamour"
+TITLE "I Know It Has Been Done Before"
+INDEX 01 72:04:00
+TRACK 15 AUDIO
+PERFORMER "Rout Funk"
+TITLE "Sundisco"
+INDEX 01 79:14:00
+TRACK 16 AUDIO
+PERFORMER "Susanne Alt"
+TITLE "Throwback"
+INDEX 01 83:09:00
+TRACK 17 AUDIO
+PERFORMER "Nu Guinea"
+TITLE "Je Vulesse"
+INDEX 01 91:04:00
+TRACK 18 AUDIO
+PERFORMER "Bondax feat Aquilo"
+TITLE "Deeper"
+INDEX 01 95:18:00
+TRACK 19 AUDIO
+PERFORMER "Round Shaped Triangles"
+TITLE "Better Apart"
+INDEX 01 98:30:00
+TRACK 20 AUDIO
+PERFORMER "Orange Tree Edits"
+TITLE "Dorian"
+INDEX 01 104:27:00
+TRACK 21 AUDIO
+PERFORMER "Mousse T. Feat. Cleah"
+TITLE "Melodie"
+INDEX 01 110:33:00
+TRACK 22 AUDIO
+PERFORMER "Newman (UK) feat. Melba Moore"
+TITLE "Not Giving Up"
+INDEX 01 116:27:00

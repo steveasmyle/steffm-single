@@ -1,0 +1,83 @@
+PERFORMER "Stef.FM"
+TITLE "Cocksoup DJ Collective - Ultra Yacht Rock - Volume 3"
+FILE "Cocksoup DJ Collective - UltraYachtRock - Volume 3.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Ned Doheny"
+TITLE "Give It Up For Love"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Nolen & Crossley"
+TITLE "Nice to Have You Back"
+INDEX 01 04:27:00
+TRACK 02 AUDIO
+PERFORMER "Kenny Loggins"
+TITLE "Lady Luck"
+INDEX 01 08:53:00
+TRACK 03 AUDIO
+PERFORMER "William Sikström"
+TITLE "Costa Rica"
+INDEX 01 13:41:00
+TRACK 04 AUDIO
+PERFORMER "Mingo Fishtrap"
+TITLE "On Time"
+INDEX 01 17:04:00
+TRACK 05 AUDIO
+PERFORMER "Jimmy Messina"
+TITLE "Waitin' On You"
+INDEX 01 19:58:00
+TRACK 06 AUDIO
+PERFORMER "Bill Champlin"
+TITLE "Fly With Steve Khan"
+INDEX 01 23:11:00
+TRACK 07 AUDIO
+PERFORMER "Masaki Matsubara"
+TITLE "Silly Crush"
+INDEX 01 26:57:00
+TRACK 08 AUDIO
+PERFORMER "Steve Khan"
+TITLE "Darlin' Darlin' Baby (Sweet Tender, Love)"
+INDEX 01 30:50:00
+TRACK 09 AUDIO
+PERFORMER "Yukata"
+TITLE "Dragonfly"
+INDEX 01 37:23:00
+TRACK 10 AUDIO
+PERFORMER "Mayayoshi Takanaka"
+TITLE "Sexy Dance"
+INDEX 01 42:24:00
+TRACK 11 AUDIO
+PERFORMER "Mamas Gun"
+TITLE "Strangers on a Street"
+INDEX 01 48:07:00
+TRACK 12 AUDIO
+PERFORMER "Foxygen"
+TITLE "Follow The Leader"
+INDEX 01 52:08:00
+TRACK 13 AUDIO
+PERFORMER "Donald Fagen"
+TITLE "I.G.Y."
+INDEX 01 56:05:00
+TRACK 14 AUDIO
+PERFORMER "Silver"
+TITLE "Wham Bam Shang-A-Lang"
+INDEX 01 62:07:00
+TRACK 15 AUDIO
+PERFORMER "James Fox Higgins"
+TITLE "Annie (You'll Be Okay)"
+INDEX 01 65:31:00
+TRACK 16 AUDIO
+PERFORMER "Mia Yamane"
+TITLE "Tasogare"
+INDEX 01 69:29:00
+TRACK 17 AUDIO
+PERFORMER "Fenomenon"
+TITLE "Point of No Return"
+INDEX 01 75:17:00
+TRACK 18 AUDIO
+PERFORMER "The Norwegian Fords"
+TITLE "Fit In"
+INDEX 01 79:19:00
+TRACK 19 AUDIO
+PERFORMER "Jonathan Jeremiah"
+TITLE "Lost"
+INDEX 01 82:27:00

@@ -1,0 +1,87 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 122"
+FILE "stef_-_my_pair_of_shoes_vol._122.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Art Of Tones"
+TITLE "To The Limit"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Groove Assassin"
+TITLE "Wanna Luv U"
+INDEX 01 04:06:00
+TRACK 02 AUDIO
+PERFORMER "Jarred Gallo"
+TITLE "That's What We're Doing"
+INDEX 01 08:17:00
+TRACK 03 AUDIO
+PERFORMER "Soulbridge feat. Kathy Brown"
+TITLE "Last Time"
+INDEX 01 12:29:00
+TRACK 04 AUDIO
+PERFORMER "Sammy Deuce & Sebb Junior"
+TITLE "Streetwise"
+INDEX 01 19:34:00
+TRACK 05 AUDIO
+PERFORMER "Demuir"
+TITLE "Cess-Feels So High (So Good)"
+INDEX 01 24:49:00
+TRACK 06 AUDIO
+PERFORMER "Michele Chiavarini feat. Andre Espeut"
+TITLE "Caught Up"
+INDEX 01 30:19:00
+TRACK 07 AUDIO
+PERFORMER "Modento"
+TITLE "Give Me the Sunshine"
+INDEX 01 37:56:00
+TRACK 08 AUDIO
+PERFORMER "Crackazat"
+TITLE "I'll Be There"
+INDEX 01 43:45:00
+TRACK 09 AUDIO
+PERFORMER "Richard Earnshaw"
+TITLE "Feel Love"
+INDEX 01 49:16:00
+TRACK 10 AUDIO
+PERFORMER "Risk Assessment"
+TITLE "I Don't Understand"
+INDEX 01 56:34:00
+TRACK 11 AUDIO
+PERFORMER "Moon Rocket & Re-Tide feat. LauMii"
+TITLE "Chocolate"
+INDEX 01 61:12:00
+TRACK 12 AUDIO
+PERFORMER "Moodena"
+TITLE "Jupiter Rising"
+INDEX 01 67:47:00
+TRACK 13 AUDIO
+PERFORMER "Scott Diaz"
+TITLE "205 Days"
+INDEX 01 74:00:00
+TRACK 14 AUDIO
+PERFORMER "Ross Couch"
+TITLE "Perfect Love"
+INDEX 01 79:25:00
+TRACK 15 AUDIO
+PERFORMER "Soul Shadow"
+TITLE "Times Have Changed"
+INDEX 01 84:04:00
+TRACK 16 AUDIO
+PERFORMER "Zo! feat. Tamisha Waden"
+TITLE "Steal My Joy"
+INDEX 01 89:38:00
+TRACK 17 AUDIO
+PERFORMER "Brian Power feat. Hil St. Soul"
+TITLE "Music"
+INDEX 01 95:11:00
+TRACK 18 AUDIO
+PERFORMER "Nathan Adams"
+TITLE "Love Yourself"
+INDEX 01 103:51:00
+TRACK 19 AUDIO
+PERFORMER "The Power Of Three feat. Vanessa Freeman"
+TITLE "The Time Is Coming"
+INDEX 01 108:17:00
+TRACK 20 AUDIO
+PERFORMER "Shokazulu"
+TITLE "Part 4"
+INDEX 01 113:29:00

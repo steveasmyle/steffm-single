@@ -1,0 +1,67 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Quarantine Mix"
+FILE "Adventures in Decent Music (Quarantine Mix).mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Crazy P"
+TITLE "Warm On The Inside"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "The Lost Generation"
+TITLE "This Is The Lost Generation"
+INDEX 01 04:16:00
+TRACK 02 AUDIO
+PERFORMER "4hero"
+TITLE "Our Own Place"
+INDEX 01 07:42:00
+TRACK 03 AUDIO
+PERFORMER "Snarky Puppy"
+TITLE "Thing of Gold"
+INDEX 01 11:38:00
+TRACK 04 AUDIO
+PERFORMER "Diggs Duke feat. Vaughan Octavia"
+TITLE "Is It Love?"
+INDEX 01 17:40:00
+TRACK 05 AUDIO
+PERFORMER "Keifer"
+TITLE "Happysad Sunday"
+INDEX 01 20:41:00
+TRACK 06 AUDIO
+PERFORMER "Moonchild"
+TITLE "Cure"
+INDEX 01 23:29:00
+TRACK 07 AUDIO
+PERFORMER "Shy Girls"
+TITLE "Stay Home"
+INDEX 01 27:18:00
+TRACK 08 AUDIO
+PERFORMER "Jason Rebello"
+TITLE "Purple Sunflower"
+INDEX 01 31:02:00
+TRACK 09 AUDIO
+PERFORMER "Mamas Gun"
+TITLE "The Spooks"
+INDEX 01 32:48:00
+TRACK 10 AUDIO
+PERFORMER "Natalie Cole"
+TITLE "La Costa"
+INDEX 01 37:35:00
+TRACK 11 AUDIO
+PERFORMER "Weldon Irvine"
+TITLE "I Love You"
+INDEX 01 41:08:00
+TRACK 12 AUDIO
+PERFORMER "Washed Out"
+TITLE "Hard To Say Goodbye"
+INDEX 01 44:18:00
+TRACK 13 AUDIO
+PERFORMER "Sven Libaek"
+TITLE "Solar Flares"
+INDEX 01 48:26:00
+TRACK 14 AUDIO
+PERFORMER "Bill Evans"
+TITLE "Peace Piece"
+INDEX 01 52:05:00
+TRACK 15 AUDIO
+PERFORMER "Earth, Wind & Fire"
+TITLE "Fantasy"
+INDEX 01 58:38:00

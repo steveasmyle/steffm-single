@@ -1,0 +1,51 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 90"
+FILE "stef_-_my_pair_of_shoes_vol._90.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Eli Escobar"
+TITLE "Seein You"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Francis Inferno Orchestra"
+TITLE "Silk & Smoove"
+INDEX 01 05:04:00
+TRACK 02 AUDIO
+PERFORMER "DJ Steaw"
+TITLE "Sky Hunt"
+INDEX 01 09:49:00
+TRACK 03 AUDIO
+PERFORMER "Thatmanmonkz"
+TITLE "Sad N Blue"
+INDEX 01 16:30:00
+TRACK 04 AUDIO
+PERFORMER "Brame & Hamo"
+TITLE "Hotshot"
+INDEX 01 21:40:00
+TRACK 05 AUDIO
+PERFORMER "Max Graef"
+TITLE "Life On Mars"
+INDEX 01 25:33:00
+TRACK 06 AUDIO
+PERFORMER "Francis Inferno Orchestra"
+TITLE "Sun up"
+INDEX 01 30:15:00
+TRACK 07 AUDIO
+PERFORMER "Art Of Tones"
+TITLE "I Don't Think That's Music"
+INDEX 01 35:24:00
+TRACK 08 AUDIO
+PERFORMER "Francis Inferno Orchestra"
+TITLE "Go Easy On Me Girl"
+INDEX 01 43:54:00
+TRACK 09 AUDIO
+PERFORMER "Jack Fell Down"
+TITLE "Brothers and Sisters"
+INDEX 01 49:12:00
+TRACK 10 AUDIO
+PERFORMER "Konstantin Sibold"
+TITLE "Leif"
+INDEX 01 55:45:00
+TRACK 11 AUDIO
+PERFORMER "Andy Hart"
+TITLE "Merkin"
+INDEX 01 58:40:00

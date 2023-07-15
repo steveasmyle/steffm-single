@@ -1,0 +1,167 @@
+PERFORMER "Stef.FM"
+TITLE "Cocksoup DJ Collective - Ultra Yacht Rock - Volume 1"
+FILE "Cocksoup DJ Collective - UltraYachtRock - Volume 1.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Thundercat"
+TITLE "Show You The Way"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Ashleigh Smith"
+TITLE "Sara Smile"
+INDEX 01 03:15:00
+TRACK 02 AUDIO
+PERFORMER "Ambrosia"
+TITLE "Biggest Part of Me"
+INDEX 01 06:55:00
+TRACK 03 AUDIO
+PERFORMER "Bill LaBounty"
+TITLE "Dream On"
+INDEX 01 12:03:00
+TRACK 04 AUDIO
+PERFORMER "Stacy Lattisaw"
+TITLE "[I don't know!]"
+INDEX 01 16:02:00
+TRACK 05 AUDIO
+PERFORMER "Young Gun Silver Fox"
+TITLE "Love Guarantee"
+INDEX 01 20:41:00
+TRACK 06 AUDIO
+PERFORMER "Airplay"
+TITLE "Nothin' You Can Do About It"
+INDEX 01 25:01:00
+TRACK 07 AUDIO
+PERFORMER "Atlanta Rhythm Section"
+TITLE "So Into You"
+INDEX 01 29:33:00
+TRACK 08 AUDIO
+PERFORMER "The Imperials"
+TITLE "Living Without Your Love"
+INDEX 01 33:43:00
+TRACK 09 AUDIO
+PERFORMER "Jack Johnson"
+TITLE "Good People"
+INDEX 01 37:05:00
+TRACK 10 AUDIO
+PERFORMER "Seals & Crofts"
+TITLE "Summer Breeze"
+INDEX 01 40:30:00
+TRACK 11 AUDIO
+PERFORMER "Bobby Caldwell"
+TITLE "Down for the Third Time"
+INDEX 01 43:43:00
+TRACK 12 AUDIO
+PERFORMER "Talc"
+TITLE "Robot's Return"
+INDEX 01 48:36:00
+TRACK 13 AUDIO
+PERFORMER "Arthur"
+TITLE "So Close to You "
+INDEX 01 54:12:00
+TRACK 14 AUDIO
+PERFORMER "Finis Henderson "
+TITLE "Blame It On The Night"
+INDEX 01 58:27:00
+TRACK 15 AUDIO
+PERFORMER "Pages"
+TITLE "The Sailor's Song"
+INDEX 01 61:53:00
+TRACK 16 AUDIO
+PERFORMER "The Doobie Brothers"
+TITLE "Minute by Minute"
+INDEX 01 66:04:00
+TRACK 17 AUDIO
+PERFORMER "Kenny Loggins"
+TITLE "This Is It"
+INDEX 01 69:14:00
+TRACK 18 AUDIO
+PERFORMER "Dr. Hook"
+TITLE "Sexy Eyes"
+INDEX 01 72:56:00
+TRACK 19 AUDIO
+PERFORMER "Renée Geyer"
+TITLE "Be There in the Morning"
+INDEX 01 75:40:00
+TRACK 20 AUDIO
+PERFORMER "The Dukes"
+TITLE "Mystery Girl"
+INDEX 01 79:32:00
+TRACK 21 AUDIO
+PERFORMER "Steely Dan"
+TITLE "Fm"
+INDEX 01 84:03:00
+TRACK 22 AUDIO
+PERFORMER "Terry Callier"
+TITLE "I Been Doin' Alright"
+INDEX 01 88:51:00
+TRACK 23 AUDIO
+PERFORMER "Incarnations"
+TITLE "Make You Mine"
+INDEX 01 91:30:00
+TRACK 24 AUDIO
+PERFORMER "Michael McDonald"
+TITLE "Sweet Freedom"
+INDEX 01 96:10:00
+TRACK 25 AUDIO
+PERFORMER "Steely Dan"
+TITLE "Peg"
+INDEX 01 102:03:00
+TRACK 26 AUDIO
+PERFORMER "James Taylor"
+TITLE "Mexico"
+INDEX 01 106:02:00
+TRACK 27 AUDIO
+PERFORMER "Earth, Wind & Fire"
+TITLE "Sparkle"
+INDEX 01 109:08:00
+TRACK 28 AUDIO
+PERFORMER "Average White Band"
+TITLE "Help Is On The Way"
+INDEX 01 112:45:00
+TRACK 29 AUDIO
+PERFORMER "Terence Boylan"
+TITLE "Don't Hang Up Those Dancing Shoes"
+INDEX 01 117:12:00
+TRACK 30 AUDIO
+PERFORMER "The Doobie Brothers"
+TITLE "What A Fool Believes"
+INDEX 01 120:32:00
+TRACK 31 AUDIO
+PERFORMER "Daryl Hall & John Oates"
+TITLE "Kiss On My List"
+INDEX 01 126:16:00
+TRACK 32 AUDIO
+PERFORMER "Ole Børud"
+TITLE "Uptown Citizen"
+INDEX 01 130:28:00
+TRACK 33 AUDIO
+PERFORMER "Chicago"
+TITLE "Old Days"
+INDEX 01 134:39:00
+TRACK 34 AUDIO
+PERFORMER "Looking Glass"
+TITLE "Brandy"
+INDEX 01 138:04:00
+TRACK 35 AUDIO
+PERFORMER "Mayer Hawthorne"
+TITLE "Back Seat Lover"
+INDEX 01 141:01:00
+TRACK 36 AUDIO
+PERFORMER "Pablo Cruise"
+TITLE "Love Will Find a Way"
+INDEX 01 144:50:00
+TRACK 37 AUDIO
+PERFORMER "Ed Motta"
+TITLE "Playthings Of Luv"
+INDEX 01 148:43:00
+TRACK 38 AUDIO
+PERFORMER "Orleans"
+TITLE "Still The One"
+INDEX 01 154:30:00
+TRACK 39 AUDIO
+PERFORMER "The Isley Brothers"
+TITLE "Harvest for the World"
+INDEX 01 158:28:00
+TRACK 40 AUDIO
+PERFORMER "Citrus Sun"
+TITLE "Ride Like the Wind"
+INDEX 01 162:15:00

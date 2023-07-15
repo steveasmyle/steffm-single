@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 42"
+FILE "stef_-_adventures_in_decent_music_vol._42.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Psychic Mirrors"
+TITLE "The Witching Hour"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Rick Astley"
+TITLE "Never Gonna Give You Up"
+INDEX 01 04:18:00
+TRACK 02 AUDIO
+PERFORMER "Rodney Hunter feat. Jay Sebag"
+TITLE "Sunshine"
+INDEX 01 09:11:00
+TRACK 03 AUDIO
+PERFORMER "Sure Thing"
+TITLE "Holding You Tight"
+INDEX 01 14:53:00
+TRACK 04 AUDIO
+PERFORMER "Tensnake"
+TITLE "Need Your Lovin"
+INDEX 01 17:59:00
+TRACK 05 AUDIO
+PERFORMER "Kraak & Smaak ft. Sam Duckworth"
+TITLE "Good For The City"
+INDEX 01 20:16:00
+TRACK 06 AUDIO
+PERFORMER "Dr. Packer"
+TITLE "Sunshine"
+INDEX 01 23:26:00
+TRACK 07 AUDIO
+PERFORMER "Greymatter feat. KRL"
+TITLE "Cream"
+INDEX 01 28:33:00
+TRACK 08 AUDIO
+PERFORMER "Crazy P"
+TITLE "Clouds"
+INDEX 01 31:59:00
+TRACK 09 AUDIO
+PERFORMER "Kraak & Smaak feat. John Turrell"
+TITLE "Back Again"
+INDEX 01 35:46:00
+TRACK 10 AUDIO
+PERFORMER "Faze Action"
+TITLE "Magic Touch"
+INDEX 01 41:57:00
+TRACK 11 AUDIO
+PERFORMER "Dr. John"
+TITLE "Jet Set"
+INDEX 01 46:31:00
+TRACK 12 AUDIO
+PERFORMER "Nine Lives"
+TITLE "Adagio"
+INDEX 01 51:36:00
+TRACK 13 AUDIO
+PERFORMER "DJ Cassidy ft, R Kelly"
+TITLE "Make The World Go Round"
+INDEX 01 55:27:00
+TRACK 14 AUDIO
+PERFORMER "Magnus Jonsson feat. Earth - A Better Day"
+TITLE "Roberto Rodriguez Manolo Remix"
+INDEX 01 60:09:00
+TRACK 15 AUDIO
+PERFORMER "Session Victim"
+TITLE "Never Forget"
+INDEX 01 66:01:00
+TRACK 16 AUDIO
+PERFORMER "Ron Basejam"
+TITLE "When I Hear That Music"
+INDEX 01 71:00:00
+TRACK 17 AUDIO
+PERFORMER "Disco Tech"
+TITLE "You & I"
+INDEX 01 73:50:00
+TRACK 18 AUDIO
+PERFORMER "Gedeon Luke & The People"
+TITLE "Echoes"
+INDEX 01 81:01:00
+TRACK 19 AUDIO
+PERFORMER "Drop Out Orchestra feat. Yvette"
+TITLE "I Got It"
+INDEX 01 86:31:00
+TRACK 20 AUDIO
+PERFORMER "Francis Inferno Orchestra"
+TITLE "Come On Over"
+INDEX 01 92:46:00
+TRACK 21 AUDIO
+PERFORMER "Debonair"
+TITLE "Flights Over Egypt"
+INDEX 01 97:29:00
+TRACK 22 AUDIO
+PERFORMER "George Benson"
+TITLE "Love Will Come Again"
+INDEX 01 102:20:00
+TRACK 23 AUDIO
+PERFORMER "Rufus and Chaka Khan"
+TITLE "Ain't Nobody"
+INDEX 01 109:14:00
+TRACK 24 AUDIO
+PERFORMER "LNTG"
+TITLE "Out On The Floor"
+INDEX 01 116:31:00

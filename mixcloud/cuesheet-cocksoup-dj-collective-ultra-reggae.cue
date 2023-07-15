@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Cocksoup DJ Collective - Ultra Reggae"
+FILE "Cocksoup DJ Collective - Ultra Reggae.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Toots & The Maytals"
+TITLE "54-46 Was My Number"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "The Heptones"
+TITLE "Pretty Looks"
+INDEX 01 02:50:00
+TRACK 02 AUDIO
+PERFORMER "Unknown"
+TITLE ""
+INDEX 01 05:40:00
+TRACK 03 AUDIO
+PERFORMER "Bitty McLean"
+TITLE "Walk Away From Love"
+INDEX 01 09:18:00
+TRACK 04 AUDIO
+PERFORMER "Macka B"
+TITLE "Gone Home"
+INDEX 01 13:04:00
+TRACK 05 AUDIO
+PERFORMER "Junior Murvin"
+TITLE "Cool Out Son"
+INDEX 01 21:27:00
+TRACK 06 AUDIO
+PERFORMER "Seeed Feat. Cee-Lo Green"
+TITLE "Aufstehn!"
+INDEX 01 24:00:00
+TRACK 07 AUDIO
+PERFORMER "Bob Marley & The Wailers"
+TITLE "Waiting In Vain"
+INDEX 01 27:34:00
+TRACK 08 AUDIO
+PERFORMER "Third World"
+TITLE "Irie Ites"
+INDEX 01 31:51:00
+TRACK 09 AUDIO
+PERFORMER "Earl Zinger"
+TITLE "Song 2wo"
+INDEX 01 35:39:00
+TRACK 10 AUDIO
+PERFORMER "Culture"
+TITLE "Stop the Fussing & Fighting"
+INDEX 01 39:20:00
+TRACK 11 AUDIO
+PERFORMER "Eric Donaldson"
+TITLE "Cheery Oh Baby"
+INDEX 01 43:33:00
+TRACK 12 AUDIO
+PERFORMER "Can Sahin"
+TITLE "Thank You"
+INDEX 01 46:27:00
+TRACK 13 AUDIO
+PERFORMER "Pluto Shervington"
+TITLE "Ram Goat Liver"
+INDEX 01 49:06:00
+TRACK 14 AUDIO
+PERFORMER "Pam Hall"
+TITLE "I Believe in Miracles"
+INDEX 01 52:10:00
+TRACK 15 AUDIO
+PERFORMER "Sons of Zion"
+TITLE "Fill Me Up"
+INDEX 01 57:28:00
+TRACK 16 AUDIO
+PERFORMER "Unknown"
+TITLE ""
+INDEX 01 60:51:00
+TRACK 17 AUDIO
+PERFORMER "Gentleman Feat. Barrington Levy & Daddy Rings"
+TITLE "Caan Hold Us Down"
+INDEX 01 64:16:00
+TRACK 18 AUDIO
+PERFORMER "Byron Lee & The Dragonaires"
+TITLE "Express Yourself"
+INDEX 01 67:49:00
+TRACK 19 AUDIO
+PERFORMER "Lone Ranger"
+TITLE "Love Bump"
+INDEX 01 70:16:00
+TRACK 20 AUDIO
+PERFORMER "Steel Pulse"
+TITLE "Steppin' Out"
+INDEX 01 73:35:00
+TRACK 21 AUDIO
+PERFORMER "Sons of Zion Feat. Israel Starr"
+TITLE "Stuck on Stupid"
+INDEX 01 77:30:00
+TRACK 22 AUDIO
+PERFORMER "Bob Marley & The Wailers"
+TITLE "Real Situation"
+INDEX 01 80:54:00
+TRACK 23 AUDIO
+PERFORMER "Chronixx"
+TITLE "Skankin' Street"
+INDEX 01 83:40:00
+TRACK 24 AUDIO
+PERFORMER "Crashers"
+TITLE "Flight to Jamaica"
+INDEX 01 87:34:00

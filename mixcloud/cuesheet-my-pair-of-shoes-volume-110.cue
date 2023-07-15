@@ -1,0 +1,99 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 110"
+FILE "stef_-_my_pair_of_shoes_vol._110.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Mark Farina & Homero Espinosa"
+TITLE "What Ya Saying"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Al McKay Allstars"
+TITLE "Heed The Message"
+INDEX 01 04:34:00
+TRACK 02 AUDIO
+PERFORMER "Rhemi feat. Hanlei"
+TITLE "The Real Thing (Our Sh**!)"
+INDEX 01 10:25:00
+TRACK 03 AUDIO
+PERFORMER "Hallex M & DJ Fudge feat. Omar"
+TITLE "Ding Ding"
+INDEX 01 16:36:00
+TRACK 04 AUDIO
+PERFORMER "Angelo Ferreri"
+TITLE "Want To Say"
+INDEX 01 23:09:00
+TRACK 05 AUDIO
+PERFORMER "Newman feat. Neresa Maye"
+TITLE "Now or Never"
+INDEX 01 28:05:00
+TRACK 06 AUDIO
+PERFORMER "Ross Couch"
+TITLE "I Will Survive"
+INDEX 01 34:20:00
+TRACK 07 AUDIO
+PERFORMER "Reelsoul"
+TITLE "2morrow"
+INDEX 01 38:50:00
+TRACK 08 AUDIO
+PERFORMER "Mijangos feat. Luis Elorza"
+TITLE "Into the Philly Sound"
+INDEX 01 43:15:00
+TRACK 09 AUDIO
+PERFORMER "Birdee"
+TITLE "Hold Out Reach Out"
+INDEX 01 48:11:00
+TRACK 10 AUDIO
+PERFORMER "Rick Marshall"
+TITLE "This Night (Give It To Me)"
+INDEX 01 53:00:00
+TRACK 11 AUDIO
+PERFORMER "Kiko Navarro feat. Boris Dlugosch"
+TITLE "Black Is Back"
+INDEX 01 57:41:00
+TRACK 12 AUDIO
+PERFORMER "Mike City feat. Faith Evans"
+TITLE "When I Luv"
+INDEX 01 61:04:00
+TRACK 13 AUDIO
+PERFORMER "Jarred Gallo"
+TITLE "No Requests"
+INDEX 01 66:32:00
+TRACK 14 AUDIO
+PERFORMER "Rapson feat. Natan Thomas"
+TITLE "Heat"
+INDEX 01 71:52:00
+TRACK 15 AUDIO
+PERFORMER "Soulphiction"
+TITLE "B3B4URD1"
+INDEX 01 76:58:00
+TRACK 16 AUDIO
+PERFORMER "Body Music"
+TITLE "Just One"
+INDEX 01 81:03:00
+TRACK 17 AUDIO
+PERFORMER "Kathy Brown"
+TITLE "You Give Good Love"
+INDEX 01 86:47:00
+TRACK 18 AUDIO
+PERFORMER "The Layabouts feat. KOF"
+TITLE "Open Up"
+INDEX 01 93:02:00
+TRACK 19 AUDIO
+PERFORMER "Industry Standard"
+TITLE "Justify"
+INDEX 01 99:40:00
+TRACK 20 AUDIO
+PERFORMER "Demuir"
+TITLE "Derrick Does Disco (First Stanza)"
+INDEX 01 104:38:00
+TRACK 21 AUDIO
+PERFORMER "Groove Assassin"
+TITLE "Luv U More"
+INDEX 01 111:55:00
+TRACK 22 AUDIO
+PERFORMER "Brame & Hamo"
+TITLE "Roy Keane"
+INDEX 01 117:31:00
+TRACK 23 AUDIO
+PERFORMER "Discotron"
+TITLE "Early Mornin' Funk"
+INDEX 01 122:23:00
