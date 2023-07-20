@@ -57,17 +57,9 @@ html, body {
 	overflow-y: hidden;
 	user-select: none;
 }
-body:before {
-	content: "";
-	position: absolute;
-	top: -200vw;
-	left: -200vw;
-	right: -200vw;
-	bottom: 0;
-	transform: rotateX(15deg) translateZ(-30em) scale(1.5);
-	background: #8CF url(images/wood1.png) center center repeat;
-}
 body {
+	--bgColor: rgba(190, 155, 118, 0.7);
+	--bgColor: rgba(180, 117, 3, 0.5);
 	--caseBgColor: #E8D8B0;
 	--powerLampColorLight: #F32;
 	--powerLampColorDark: #F43;
@@ -108,6 +100,18 @@ body {
 	position: relative;
 	z-index: 999;
 	font-family: arial, helvetica, sans-serif;
+}
+body:before {
+	content: "";
+	position: absolute;
+	top: -200vw;
+	left: -200vw;
+	right: -200vw;
+	bottom: 0;
+	transform: rotateX(15deg) translateZ(-30em) scale(1.5);
+	background: 
+        linear-gradient(var(--bgColor), var(--bgColor)), 
+        url(images/wood4.png) center center repeat;
 }
 #fauxBody {
 	position: fixed;
