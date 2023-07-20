@@ -69,7 +69,8 @@ body:before {
 }
 body {
 	--caseBgColor: #E8D8B0;
-	--powerLampColor: #F32;
+	--powerLampColorLight: #F32;
+	--powerLampColorDark: #F43;
 	--headerBgColor: #E8F4FF;
 	--headerTextColor: #210;
 	--outputBgColor: #024;
@@ -225,17 +226,26 @@ h1 {
 	border-radius: 1.7em;
 	box-shadow: 0 0 0 0.2625em var(--caseBgColor);
 }
+@keyframes colorFade {
+    0%, 100% {
+        background-color: var(--powerLampColorLight);
+        box-shadow: inset 0.0625em 0.125em 0.125em var(--powerLampColorLight), inset 0.25em 0.25em 0.25em #FC48, 0 0 0.5em 0.125em var(--powerLampColorLight);
+    }
+    50% {
+        background-color: var(--powerLampColorDark);
+        box-shadow: inset 0.0625em 0.125em 0.125em var(--powerLampColorDark), inset 0.25em 0.25em 0.25em #FC48, 0 0 0.5em 0.125em var(--powerLampColorDark);
+    }
+}
 .player .power:after, .playlist .power:after {
-	content: "";
-	position: absolute;
-	left: 0.75em;
-	top: 0.5em;
-	width: 1.75em;
-	height: 2em;
-	border-radius: 1em;
-	background-color: var(--powerLampColor);
-	background-image: radial-gradient(at 25% 20%, #FFFC 0.25em, transparent 0.3em), linear-gradient(-30deg, #0006, transparent);
-	box-shadow: inset 0.0625em 0.125em 0.125em var(--powerLampColor), inset 0.25em 0.25em 0.25em #FC48, 0 0 0.5em 0.125em var(--powerLampColor);
+    content: "";
+    position: absolute;
+    left: 0.75em;
+    top: 0.5em;
+    width: 1.75em;
+    height: 2em;
+    border-radius: 1em;
+    background-image: radial-gradient(at 25% 20%, #FFFC 0.25em, transparent 0.3em), linear-gradient(-30deg, #0006, transparent);
+    animation: colorFade 2s infinite;
 }
 .player output {
 	clear: both;
