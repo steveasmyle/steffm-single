@@ -13,10 +13,10 @@ const config = {
         "repeatInterval": 500
     },
     "perspective": {
-        "bodyMin": 25,
-        "bodyMax": 30,
-        "fauxBodyMin": 15,
-        "fauxBodyMax": 45
+        "bodyMin": 27,
+        "bodyMax": 28,
+        "fauxBodyMin": 20,
+        "fauxBodyMax": 30
     }
 };
 
