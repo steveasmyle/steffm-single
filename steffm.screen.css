@@ -595,7 +595,7 @@ h1 {
 	background: var(--buttonBgColor);
 	box-shadow: 0.0625em 0.0625em 0 #000C, -0.0625em -0.0625em 0 #FFF8;
 }
-@media (min-width:64rem) {
+@media (min-width:66.3125rem) {
 	body, #fauxBody:not(.single) {
 		perspective: 30rem;
    }
@@ -626,7 +626,7 @@ h1 {
 		width: 6em;
    }
 }
-@media (max-width:64rem) {
+@media (max-width:66.25rem) {
 	body, #fauxBody {
 		perspective: unset;
    }
