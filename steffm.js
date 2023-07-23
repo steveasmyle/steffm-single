@@ -106,7 +106,6 @@ updatePerspective(
 // MIXCLOUD
 let widget;
 let mixState = {
-    _currentIndex: 0,
     _currentlyPlayingPage: false,
     _currentVolume: 0.8,
     _intervalId: null,
@@ -122,12 +121,12 @@ let mixState = {
     _selectedMixItem: null,
     _status: "paused",
     _timeoutId: null,
-
-    get currentIndex() {
-        return this._currentIndex;
-    },
-    set currentIndex(value) {
-        this._currentIndex = value;
+    _articles: [],
+    _indices: {
+        category: 0,
+        mix: 0,
+        track: 0,
+        article: 0
     },
 
     get currentlyPlayingPage() {
@@ -278,9 +277,74 @@ let mixState = {
     },
     set timeoutId(value) {
         this._timeoutId = value;
-    }
+    },
 
+    get articles() {
+        return this._articles;
+    },
+    set articles(newArticles) {
+        if (Array.isArray(newArticles)) { // check if the input is an array
+            this._articles = newArticles;
+        } else {
+            console.error('Expected an array of articles');
+        }
+    },
+
+    get categoryIndex() {
+        return this._category;
+    },
+    set categoryIndex(val) {
+        this._category = val;
+    },
+
+    get mixIndex() {
+        return this._mix;
+    },
+    set mixIndex(val) {
+        this._mix = val;
+        this._indices.track = 0; // Reset track index when changing mix
+    },
+
+    get trackIndex() {
+        return this._track;
+    },
+    set trackIndex(val) {
+        this._track = val;
+    },
+
+    get articleIndex() {
+        return this._article;
+    },
+    set articleIndex(val) {
+        this._article = val;
+    }
 };
+
+const articles = [
+    {
+        id: "Lorem Ipsum 1",
+        title: "Lorem Ipsum 1",
+        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales id velit non suscipit. Vivamus eget semper augue, nec consectetur velit.",
+        author: "John Doe",
+        date: "2023-06-01"
+    },
+    {
+        id: "Lorem Ipsum 2",
+        title: "Lorem Ipsum 2",
+        body: "Proin ut lacus sed nibh egestas imperdiet id nec nunc. Nullam in nisl convallis, semper est nec, fermentum lectus.",
+        author: "Jane Doe",
+        date: "2023-06-02"
+    },
+    {
+        id: "Lorem Ipsum 3",
+        title: "Lorem Ipsum 3",
+        body: "Fusce nec venenatis turpis. Sed iaculis luctus condimentum. Sed malesuada consequat lorem, in condimentum ligula interdum nec.",
+        author: "Anon",
+        date: "2023-06-03"
+    }
+];
+
+mixState.articles = articles;
 
 function stopKeyHold() {
     clearTimeout(mixState.timeoutId);
@@ -524,21 +588,108 @@ function endedListener() {
     selectRandomTrack();
 }
 
+// Switch view function
+function switchView(type) {
+    // Define type map
+    const typeMap = {
+        'mixList': ['categoryList', 'currentlyPlaying', 'articleList', 'article'],
+        'currentlyPlaying': ['categoryList', 'mixList', 'articleList', 'article'],
+        'categoryList': ['mixList', 'currentlyPlaying', 'articleList', 'article'],
+        'articleList': ['categoryList', 'mixList', 'currentlyPlaying', 'article'],
+        'article': ['categoryList', 'mixList', 'currentlyPlaying', 'articleList']
+    };
+
+    const hidden = typeMap[type];
+
+    // Hide elements
+    hidden.forEach(id => {
+        let element = document.getElementById(id);
+        if (element) element.style.display = 'none';
+        while (element.firstChild) element.removeChild(element.firstChild);
+    });
+
+    // Show element
+    let displayElement = document.getElementById(type);
+    if (displayElement) displayElement.style.display = 'block';
+}
+
+// Populate article list
+function populateArticleList() {
+    switchView('articleList');
+
+    let articleList = document.getElementById('articleList');
+
+    // Add 'Back' option
+    let backOption = document.createElement("li");
+    backOption.textContent = "[ Back ]";
+    backOption.onclick = populateCategoryList;
+    articleList.appendChild(backOption);
+
+    // Add 'Currently Playing' option at the top
+    let currentlyPlayingOption = document.createElement("li");
+    currentlyPlayingOption.textContent = "[ Currently Playing ]";
+    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
+    articleList.prepend(currentlyPlayingOption);
+
+    // Add articles
+    mixState.articles.forEach((article, index) => {
+        let li = document.createElement("li");
+        li.textContent = article.title;
+        li.onclick = () => populateArticle(article.title);
+        articleList.appendChild(li);
+    });
+
+    // Set initial active item
+    setCurrentActiveItem(articleList, 0);
+}
+
+// Populate specific article
+function populateArticle(articleTitle) {
+    switchView('article');
+
+    let articleView = document.getElementById("article");
+    let article = mixState.articles.find(a => a.title === articleTitle);
+
+    if (!article) {
+        console.error('No article found with title: ', articleTitle);
+        return;
+    }
+
+    // Add 'Back' option
+    let backOption = document.createElement("li");
+    backOption.textContent = "[ Back ]";
+    backOption.onclick = populateArticleList;
+    articleView.appendChild(backOption);
+
+    // Add 'Currently Playing' option at the top
+    let currentlyPlayingOption = document.createElement("li");
+    currentlyPlayingOption.textContent = "[ Currently Playing ]";
+    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
+    articleView.prepend(currentlyPlayingOption);
+
+    // Add article content
+    let titleElement = document.createElement("h2");
+    titleElement.textContent = article.title;
+    articleView.appendChild(titleElement);
+
+    let authorElement = document.createElement("h4");
+    authorElement.textContent = 'By: ' + article.author;
+    articleView.appendChild(authorElement);
+
+    let bodyElement = document.createElement("p");
+    bodyElement.textContent = article.content;
+    articleView.appendChild(bodyElement);
+
+    // Set initial active item
+    setCurrentActiveItem(articleView, 0);
+}
+
+
 // Populate category list
 function populateCategoryList() {
+    switchView('categoryList');
+
     let categoryList = document.getElementById('categoryList');
-    let mixList = document.getElementById('mixList');
-    let currentlyPlayingList = document.getElementById('currentlyPlaying');
-
-    // Clear the existing list
-    while (categoryList.firstChild) categoryList.removeChild(categoryList.firstChild);
-
-    // Hide the other views
-    mixList.style.display = 'none';
-    currentlyPlayingList.style.display = 'none';
-
-    // Show the category list
-    categoryList.style.display = 'block';
 
     // Add 'All' option
     let allOption = document.createElement("li");
@@ -551,6 +702,12 @@ function populateCategoryList() {
     currentlyPlayingOption.textContent = "[ Currently Playing ]";
     currentlyPlayingOption.onclick = populateCurrentlyPlaying;
     categoryList.prepend(currentlyPlayingOption);
+
+    // Add 'Articles' option after 'Currently Playing'
+    let articlesOption = document.createElement("li");
+    articlesOption.textContent = "[ Articles ]";
+    articlesOption.onclick = populateArticleList;
+    categoryList.insertBefore(articlesOption, currentlyPlayingOption.nextSibling);
 
     // Add categories
     let categories = mixState.mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
@@ -567,19 +724,7 @@ function populateCategoryList() {
 
 // Populate mix list
 function populateMixList(category) {
-    let mixList = document.getElementById('mixList');
-    let categoryList = document.getElementById('categoryList');
-    let currentlyPlayingList = document.getElementById('currentlyPlaying');
-
-    // Clear the existing list
-    while (mixList.firstChild) mixList.removeChild(mixList.firstChild);
-
-    // Hide the other views
-    categoryList.style.display = 'none';
-    currentlyPlayingList.style.display = 'none';
-
-    // Show the mix list
-    mixList.style.display = 'block';
+    switchView('mixList');
 
     // Add 'Back' option
     let backOption = document.createElement("li");
@@ -625,10 +770,9 @@ function populateMixList(category) {
 
 // Populate 'Currently Playing' page
 async function populateCurrentlyPlaying() {
-    let currentlyPlayingList = document.getElementById("currentlyPlaying");
+    switchView('currentlyPlaying');
 
-    // Clear list
-    while (currentlyPlayingList.firstChild) currentlyPlayingList.removeChild(currentlyPlayingList.firstChild);
+    let currentlyPlayingList = document.getElementById("currentlyPlaying");
 
     // Show 'Currently Playing' page, hide category and mix list
     document.getElementById("categoryList").style.display = "none";
