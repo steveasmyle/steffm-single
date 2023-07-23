@@ -20,14 +20,12 @@ const config = {
     }
 };
 
-const articles = [
-    {
-        title: "About Stef.FM",
-        body: "Stef.FM is a music streaming service dedicated to preserving the works of the late music genius, Stefan Bauer. Explore and enjoy his vast collection of house, soul, and jazz mixes.",
-        author: "Stef.FM Mod",
-        date: "23 July 2023"
-    }
-];
+const articles = [{
+    title: "About Stef.FM",
+    body: "Stef.FM is a music streaming service dedicated to preserving the works of the late music genius, Stefan Bauer. Explore and enjoy his vast collection of house, soul, and jazz mixes.",
+    author: "Stef.FM Mod",
+    date: "23 July 2023"
+}];
 
 let globalError = false;
 
@@ -300,32 +298,31 @@ let mixState = {
     },
 
     get categoryIndex() {
-        return this._category;
+        return this._indices.category;
     },
     set categoryIndex(val) {
-        this._category = val;
+        this._indices.category = val;
     },
 
     get mixIndex() {
-        return this._mix;
+        return this._indices.mix;
     },
     set mixIndex(val) {
-        this._mix = val;
-        this._indices.track = 0; // Reset track index when changing mix
+        this._indices.mix = 0;
     },
 
     get trackIndex() {
-        return this._track;
+        return this._indices.track;
     },
     set trackIndex(val) {
-        this._track = val;
+        this._indices.track = val;
     },
 
     get articleIndex() {
-        return this._article;
+        return this._indices.article;
     },
     set articleIndex(val) {
-        this._article = val;
+        this._indices.article = val;
     }
 };
 
@@ -600,38 +597,52 @@ function switchView(type) {
 
 // Function to show an article by title
 function showArticle(event, articleTitle) {
-    event.preventDefault();  // prevent default action
-    populateArticle(articleTitle);  // show the article
+    event.preventDefault(); // prevent default action
+    populateArticle(articleTitle); // show the article
 }
 
-// Populate article list
+function createNavigationElement(textContent, onclickFunction) {
+    let element = document.createElement("li");
+    element.textContent = textContent;
+    element.onclick = onclickFunction;
+    return element;
+}
+
+
+// Creates a new option (li element) with given text and click action, and appends it to the given parent
+function createOption(parent, text, action, isSpecial = false) {
+    let li = createNavigationElement(text, action);
+    if (isSpecial) {
+        parent.prepend(li);
+    } else {
+        parent.appendChild(li);
+    }
+    return li;
+}
+
+function populateList(parentId, backFunction, items, itemFunction) {
+    let parent = document.getElementById(parentId);
+    parent.innerHTML = ""; // Clear out the old items
+    parent.appendChild(createNavigationElement("[ Currently Playing ]", populateCurrentlyPlaying));
+    parent.appendChild(createNavigationElement("[ Back ]", backFunction));
+    items.forEach((item, index) => {
+        let li = document.createElement("li");
+        li.textContent = item.name || item.title; // Assumes 'item' is an object with a 'name' or 'title' property
+        li.onclick = () => itemFunction(item);
+        parent.appendChild(li);
+    });
+    setCurrentActiveItem(parent, mixState[`${parentId}Index`]);
+}
+
 function populateArticleList() {
     switchView('articleList');
-
-    let articleList = document.getElementById('articleList');
-
-    // Add 'Back' option
-    let backOption = document.createElement("li");
-    backOption.textContent = "[ Back ]";
-    backOption.onclick = populateCategoryList;
-    articleList.appendChild(backOption);
-
-    // Add 'Currently Playing' option at the top
-    let currentlyPlayingOption = document.createElement("li");
-    currentlyPlayingOption.textContent = "[ Currently Playing ]";
-    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
-    articleList.prepend(currentlyPlayingOption);
-
-    // Add articles
-    mixState.articles.forEach((article, index) => {
-        let li = document.createElement("li");
-        li.textContent = article.title;
-        li.onclick = () => populateArticle(article.title);
-        articleList.appendChild(li);
-    });
-
-    // Set initial active item
-    setCurrentActiveItem(articleList, 0);
+    populateList(
+        'articleList',
+        populateCategoryList,
+        mixState.articles,
+        (article) => populateArticle(article.title)
+    );
+    mixState.articleIndex = 0; // Reset the index when entering a list
 }
 
 // Populate specific article
@@ -646,17 +657,14 @@ function populateArticle(articleTitle) {
         return;
     }
 
+    // Clear previous items
+    articleView.innerHTML = '';
+
     // Add 'Back' option
-    let backOption = document.createElement("li");
-    backOption.textContent = "[ Back ]";
-    backOption.onclick = populateArticleList;
-    articleView.appendChild(backOption);
+    createOption(articleView, "[ Back ]", populateArticleList, true);
 
     // Add 'Currently Playing' option at the top
-    let currentlyPlayingOption = document.createElement("li");
-    currentlyPlayingOption.textContent = "[ Currently Playing ]";
-    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
-    articleView.prepend(currentlyPlayingOption);
+    createOption(articleView, "[ Currently Playing ]", populateCurrentlyPlaying, true);
 
     // Add article content
     let titleElement = document.createElement("h3");
@@ -672,91 +680,58 @@ function populateArticle(articleTitle) {
     articleView.appendChild(bodyElement);
 
     // Set initial active item
-    setCurrentActiveItem(articleView, 0);
+    setCurrentActiveItem(articleView, mixState.articleIndex);
 }
 
-
-// Populate category list
 function populateCategoryList() {
     switchView('categoryList');
-
-    let categoryList = document.getElementById('categoryList');
-
-    // Add 'All' option
-    let allOption = document.createElement("li");
-    allOption.textContent = "[ All ]";
-    allOption.onclick = () => populateMixList(null);
-    categoryList.appendChild(allOption);
-
-    // Add 'Currently Playing' option at the top
-    let currentlyPlayingOption = document.createElement("li");
-    currentlyPlayingOption.textContent = "[ Currently Playing ]";
-    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
-    categoryList.prepend(currentlyPlayingOption);
-
-    // Add 'Articles' option after 'Currently Playing'
-    let articlesOption = document.createElement("li");
-    articlesOption.textContent = "[ Articles ]";
-    articlesOption.onclick = populateArticleList;
-    categoryList.insertBefore(articlesOption, currentlyPlayingOption.nextSibling);
-
-    // Add categories
     let categories = mixState.mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
-    categories.forEach((item, index) => {
-        let li = document.createElement("li");
-        li.textContent = item.name;
-        li.onclick = () => populateMixList(item.code);
-        categoryList.appendChild(li);
-    });
-
-    // Set initial active item
-    setCurrentActiveItem(categoryList, 0);
+    populateList(
+        'categoryList',
+        populateMixList.bind(null, null),
+        categories,
+        (category) => populateMixList(category.code)
+    );
+    mixState.categoryIndex = 0; // Reset the index when entering a list
 }
 
 // Populate mix list
 function populateMixList(category) {
     switchView('mixList');
 
+    let mixList = document.getElementById('mixList');
+
+    // Clear previous items
+    mixList.innerHTML = '';
+
     // Add 'Back' option
-    let backOption = document.createElement("li");
-    backOption.textContent = "[ Back ]";
-    backOption.onclick = populateCategoryList;
-    mixList.appendChild(backOption);
+    createOption(mixList, "[ Back ]", populateCategoryList, true);
 
     // Add 'Currently Playing' option at the top
-    let currentlyPlayingOption = document.createElement("li");
-    currentlyPlayingOption.textContent = "[ Currently Playing ]";
-    currentlyPlayingOption.onclick = populateCurrentlyPlaying;
-    mixList.prepend(currentlyPlayingOption);
+    createOption(mixList, "[ Currently Playing ]", populateCurrentlyPlaying, true);
 
     // Add mixes
     let mixes = mixState.mixcloudHeaderInfo.data;
     if (category) mixes = mixes.filter(item => item.category === category);
-    mixes.sort((a, b) => a.shortName.localeCompare(b.shortName)).forEach(item => {
-        let li = document.createElement("li");
-        li.textContent = item.shortName;
-        li.onclick = () => {
+    mixes.sort((a, b) => a.shortName.localeCompare(b.shortName)).forEach((item, index) => {
+        let li = createOption(mixList, item.shortName, () => {
             mixState.mixcloudKey = item.mixcloudKey;
             loadNewMix(mixState.mixcloudKey);
             if (mixState.selectedMixItem) mixState.selectedMixItem.classList.remove('selected');
             li.classList.add('selected');
             mixState.selectedMixItem = li;
             populateCurrentlyPlaying();
-        };
+        });
+
         if (mixState.mixcloudKey === item.mixcloudKey) {
             li.classList.add('selected');
             mixState.selectedMixItem = li;
+            mixState.mixIndex = index + 2;
         }
-        mixList.appendChild(li);
     });
 
     // Set initial active item
-    if (mixState.mixcloudKey) {
-        let index = mixes.findIndex(item => item.mixcloudKey === mixState.mixcloudKey);
-        setCurrentActiveItem(mixList, index !== -1 ? index + 2 : 0); // Add 2 to index to account for 'Back' and 'Currently Playing' options
-    } else {
-        setCurrentActiveItem(mixList, 0);
-    }
+    setCurrentActiveItem(mixList, mixState.mixIndex);
 }
 
 // Populate 'Currently Playing' page
@@ -781,8 +756,8 @@ async function populateCurrentlyPlaying() {
         //     document.getElementById("mixList").style.display = "block";
         //     populateMixList(null);
         // } else {
-            document.getElementById("categoryList").style.display = "block";
-            populateCategoryList();
+        document.getElementById("categoryList").style.display = "block";
+        populateCategoryList();
         // }
     };
     currentlyPlayingList.appendChild(backOption);
@@ -948,6 +923,13 @@ function getOffsetTop(elem, parent) {
 // Set current active item
 function setCurrentActiveItem(parent, index) {
     let items = parent.getElementsByTagName("li");
+    let parentName = parent.getAttribute('id');
+
+    // Check if index is defined
+    if (index === undefined) {
+        console.error(`Index is undefined for ${parentName}`);
+        return;
+    }
 
     // Ensure index is within valid range
     if (index < 0 || index >= items.length) {
@@ -959,7 +941,20 @@ function setCurrentActiveItem(parent, index) {
 
     if (items.length > 0) {
         items[index].classList.add("active");
-        //mixState.currentIndex = index;
+
+        // Use appropriate setter function depending on the parentName
+        switch(parentName) {
+            case 'categoryList':
+                mixState.categoryIndex = index;
+                break;
+            case 'mixList':
+                mixState.mixIndex = index;
+                break;
+            case 'currentlyPlaying':
+                mixState.trackIndex = index;
+                break;
+            // Add cases for other lists as necessary
+        }
 
         let playlistDisplay = document.querySelector('#playlistDisplay');
         let activeElement = items[index];
@@ -976,60 +971,78 @@ function setCurrentActiveItem(parent, index) {
 
 // Navigate up/down options
 function navigateOption(direction) {
-    let parent;
-    if (document.getElementById("categoryList").style.display !== "none") {
-        parent = "categoryList";
-    } else if (document.getElementById("mixList").style.display !== "none") {
-        parent = "mixList";
-    } else {
-        parent = "currentlyPlaying";
+    let parentName = document.getElementById("categoryList").style.display === "block" ? "categoryList" : (document.getElementById("mixList").style.display === "block" ? "mixList" : "currentlyPlaying");
+    let parent = document.getElementById(parentName);
+
+    let currentIndex;
+    switch(parentName) {
+        case 'categoryList':
+            currentIndex = mixState.categoryIndex;
+            break;
+        case 'mixList':
+            currentIndex = mixState.mixIndex;
+            break;
+        case 'currentlyPlaying':
+            currentIndex = mixState.trackIndex;
+            break;
+        // Add cases for other lists as necessary
     }
 
-    let items = document.getElementById(parent).getElementsByTagName("li");
-    mixState.currentIndex += direction;
-    if (mixState.currentIndex < 0) mixState.currentIndex = items.length - 1;
-    if (mixState.currentIndex >= items.length) mixState.currentIndex = 0;
-    setCurrentActiveItem(document.getElementById(parent), mixState.currentIndex);
+    let newIndex = currentIndex + direction;
+    setCurrentActiveItem(parent, newIndex);
 }
 
-// Navigate left (go back)
+// Navigate left (navigate back)
 function navigateLeft() {
-    if (mixState.currentlyPlayingPage) {
-        document.getElementById("currentlyPlaying").style.display = "none";
-
-        // Show the last active page
-        if (mixState.lastPage === "categoryList") {
-            document.getElementById("categoryList").style.display = "block";
-            mixState.currentlyPlayingPage = false;
-            mixState.currentIndex = 0;
+    let parentName = getCurrentView();
+    
+    // Implement left navigation according to the view
+    switch (parentName) {
+        case 'mixList':
             populateCategoryList();
-        } else if (mixState.lastPage === "mixList") {
-            document.getElementById("mixList").style.display = "block";
-            mixState.currentlyPlayingPage = false;
-            mixState.currentIndex = 0;
-            populateMixList(null);
-        }
-    } else if (document.getElementById("mixList").style.display !== "none") {
-        document.getElementById("mixList").style.display = "none";
-        document.getElementById("categoryList").style.display = "block";
-        mixState.lastPage = "categoryList";
-        mixState.currentIndex = 0;
-        populateCategoryList();
+            break;
+        case 'article':
+            populateMixList();
+            break;
+        case 'currentlyPlaying':
+            populateCategoryList();
+            break;    
+        default:
+            console.warn(`Unhandled left navigation for view: ${parentName}`);
+            break;
     }
 }
+
+// Mapping from parent names to index properties
+const parentNameToIndexProperty = {
+    'categoryList': 'categoryIndex',
+    'mixList': 'mixIndex',
+    'currentlyPlaying': 'trackIndex',
+    // Add more mappings as necessary
+};
 
 // Navigate right (select option)
 function navigateRight() {
-    let parent = document.getElementById("categoryList").style.display === "block" ? "categoryList" : (document.getElementById("mixList").style.display === "block" ? "mixList" : "currentlyPlaying");
-    let items = document.getElementById(parent).getElementsByTagName("li");
+    let parentName = getCurrentView();
+    let parent = document.getElementById(parentName);
+    let items = parent.getElementsByTagName("li");
+    let indexPropertyName = parentNameToIndexProperty[parentName]; // Get the corresponding index property name
 
-    if (items[mixState.currentIndex].textContent === "[ Currently Playing ]") {
-        mixState.lastPage = parent;
-        populateCurrentlyPlaying();
-    } else if (items[mixState.currentIndex].textContent === "[ Back ]" && parent === "currentlyPlaying") {
-        navigateLeft();
+    // Ensure valid index range
+    if (mixState[indexPropertyName] >= 0 && mixState[indexPropertyName] < items.length) {
+        items[mixState[indexPropertyName]].click();
     } else {
-        items[mixState.currentIndex].click();
+        console.error(`No item found at index: ${mixState[indexPropertyName]} for ${parentName}`);
+    }
+}
+
+
+
+function getCurrentView() {
+    for (let view of ['categoryList', 'mixList', 'article', 'currentlyPlaying']) {
+        if (document.getElementById(view).style.display === 'block') {
+            return view;
+        }
     }
 }
 
@@ -1126,15 +1139,17 @@ async function handleWidgetEvents() {
 let mutationObserverTargetNode = document.getElementById('mixcloudWidgetWrapper');
 
 // Options for the observer (which mutations to observe)
-let mutationObserverConfig = { childList: true };
+let mutationObserverConfig = {
+    childList: true
+};
 
 // Callback function to execute when mutations are observed
 let mutationObserverCallback = function(mutationsList, observer) {
-    for(let mutation of mutationsList) {
+    for (let mutation of mutationsList) {
         if (mutation.type === 'childList') {
-            for(let node of mutation.addedNodes) {
+            for (let node of mutation.addedNodes) {
                 // Check if the added node is an iframe with the id "mixcloudWidget"
-                if(node.nodeName.toLowerCase() === 'iframe' && node.id === 'mixcloudWidget') {
+                if (node.nodeName.toLowerCase() === 'iframe' && node.id === 'mixcloudWidget') {
                     handleWidgetEvents();
                 }
             }
@@ -1152,25 +1167,25 @@ widgetObserver.observe(mutationObserverTargetNode, mutationObserverConfig);
 window.onload = function() {
     // init
     fetch('mixcloud/mixesheader.json')
-    .then(response => {
-        if (!response.ok) {
-            throw new Error("HTTP error " + response.status);
-        }
-        return response.json();
-    })
-    .then(json => {
-        mixState.mixcloudHeaderInfo = json;
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("HTTP error " + response.status);
+            }
+            return response.json();
+        })
+        .then(json => {
+            mixState.mixcloudHeaderInfo = json;
 
-        if (config.loadMixcloud) {
-            selectRandomTrack();
-        }
+            if (config.loadMixcloud) {
+                selectRandomTrack();
+            }
 
-        populateCategoryList();
-    })
-    .catch(function(err) {
-        console.log("Failed to load mixcloud/mixesheader.json file", err);
-        globalError = true;
-    });
+            populateCategoryList();
+        })
+        .catch(function(err) {
+            console.log("Failed to load mixcloud/mixesheader.json file", err);
+            globalError = true;
+        });
 
     document.body.addEventListener('click', function(event) {
         if (event.target.tagName.toLowerCase() === 'li' && event.target.classList.contains('mix-item')) {
