@@ -786,13 +786,13 @@ async function populateCurrentlyPlaying() {
     backOption.onclick = () => {
         mixState.currentlyPlayingPage = false;
         currentlyPlayingList.style.display = "none";
-        if (mixState.mixcloudKey) {
-            document.getElementById("mixList").style.display = "block";
-            populateMixList(null);
-        } else {
+        // if (mixState.mixcloudKey) {
+        //     document.getElementById("mixList").style.display = "block";
+        //     populateMixList(null);
+        // } else {
             document.getElementById("categoryList").style.display = "block";
             populateCategoryList();
-        }
+        // }
     };
     currentlyPlayingList.appendChild(backOption);
 
