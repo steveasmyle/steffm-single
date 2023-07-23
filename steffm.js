@@ -20,6 +20,15 @@ const config = {
     }
 };
 
+const articles = [
+    {
+        title: "About Stef.FM",
+        body: "Stef.FM is a music streaming service dedicated to preserving the works of the late music genius, Stefan Bauer. Explore and enjoy his vast collection of house, soul, and jazz mixes.",
+        author: "Stef.FM Mod",
+        date: "23 July 2023"
+    }
+];
+
 let globalError = false;
 
 // TICKER
@@ -320,30 +329,6 @@ let mixState = {
     }
 };
 
-const articles = [
-    {
-        id: "Lorem Ipsum 1",
-        title: "Lorem Ipsum 1",
-        body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sodales id velit non suscipit. Vivamus eget semper augue, nec consectetur velit.",
-        author: "John Doe",
-        date: "2023-06-01"
-    },
-    {
-        id: "Lorem Ipsum 2",
-        title: "Lorem Ipsum 2",
-        body: "Proin ut lacus sed nibh egestas imperdiet id nec nunc. Nullam in nisl convallis, semper est nec, fermentum lectus.",
-        author: "Jane Doe",
-        date: "2023-06-02"
-    },
-    {
-        id: "Lorem Ipsum 3",
-        title: "Lorem Ipsum 3",
-        body: "Fusce nec venenatis turpis. Sed iaculis luctus condimentum. Sed malesuada consequat lorem, in condimentum ligula interdum nec.",
-        author: "Anon",
-        date: "2023-06-03"
-    }
-];
-
 mixState.articles = articles;
 
 function stopKeyHold() {
@@ -613,6 +598,12 @@ function switchView(type) {
     if (displayElement) displayElement.style.display = 'block';
 }
 
+// Function to show an article by title
+function showArticle(event, articleTitle) {
+    event.preventDefault();  // prevent default action
+    populateArticle(articleTitle);  // show the article
+}
+
 // Populate article list
 function populateArticleList() {
     switchView('articleList');
@@ -668,16 +659,16 @@ function populateArticle(articleTitle) {
     articleView.prepend(currentlyPlayingOption);
 
     // Add article content
-    let titleElement = document.createElement("h2");
+    let titleElement = document.createElement("h3");
     titleElement.textContent = article.title;
     articleView.appendChild(titleElement);
 
     let authorElement = document.createElement("h4");
-    authorElement.textContent = 'By: ' + article.author;
+    authorElement.textContent = 'By: ' + article.author + ', ' + article.date;
     articleView.appendChild(authorElement);
 
     let bodyElement = document.createElement("p");
-    bodyElement.textContent = article.content;
+    bodyElement.textContent = article.body;
     articleView.appendChild(bodyElement);
 
     // Set initial active item
@@ -1203,4 +1194,8 @@ window.onload = function() {
     document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
     document.getElementById('skipNext').addEventListener('click', skipNext);
     document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
+    document.getElementById('about').addEventListener('click', function(event) {
+        const articleTitle = "About Stef.FM";
+        showArticle(event, articleTitle);
+    });
 };
