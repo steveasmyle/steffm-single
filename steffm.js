@@ -1,4 +1,5 @@
-// --- GLOBAL CONSTANTS AND VARIABLES ---
+// GLOBAL CONSTANTS AND VARIABLES 
+//#region 
 const config = {
     "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
     "volumeIncrement": 0.05,
@@ -109,8 +110,10 @@ updatePerspective(
     config.perspective.fauxBodyMin,
     config.perspective.fauxBodyMax
 );
+//#endregion
 
 // MIXCLOUD
+//#region
 let widget;
 let mixState = {
     _currentlyPlayingPage: false,
@@ -325,7 +328,10 @@ let mixState = {
         this._indices.article = val;
     }
 };
+//#endregion
 
+// MIX CONTROLS
+//#region
 mixState.articles = articles;
 
 function stopKeyHold() {
@@ -374,7 +380,10 @@ function volumeDown() {
         }
     });
 }
+//#endregion
 
+// LOAD NEW MIX
+//#region
 async function loadNewMix(mixcloudKey) {
     // Update mixcloudKey state
     mixState.mixcloudKey = mixcloudKey;
@@ -426,7 +435,10 @@ async function loadNewMix(mixcloudKey) {
     setCurrentActiveItem(document.getElementById("mixList"), mixState.currentIndex); // This will adjust the scroll
     populateCurrentlyPlaying();
 }
+//#endregion
 
+// LISTENERS
+//#region
 function pauseListener() {
     flagPlay.innerHTML = "";
     flagPause.innerHTML = "PAUSE";
@@ -490,6 +502,14 @@ function progressListener(progress, duration) {
     });
 }
 
+function endedListener() {
+    selectRandomTrack();
+}
+
+//#endregion
+
+// CONTROLS
+//#region
 function getTrackFromTime(progress) {
     let tracklist = mixState.mixcloudTracklist;
 
@@ -565,11 +585,10 @@ function selectRandomTrack() {
     const randomItem = mixState.mixcloudHeaderInfo.data[randomIndex];
     loadNewMix(randomItem.mixcloudKey);
 }
+//#endregion
 
-function endedListener() {
-    selectRandomTrack();
-}
-
+// MENU SETUP
+//#region
 // Switch view function
 function switchView(type) {
     // Define type map
@@ -608,8 +627,6 @@ function createNavigationElement(textContent, onclickFunction) {
     return element;
 }
 
-
-// Creates a new option (li element) with given text and click action, and appends it to the given parent
 function createOption(parent, text, action, isSpecial = false) {
     let li = createNavigationElement(text, action);
     if (isSpecial) {
@@ -619,7 +636,10 @@ function createOption(parent, text, action, isSpecial = false) {
     }
     return li;
 }
+//#endregion
 
+// POPULATORS
+//#region
 function populateList(parentId, backFunction, items, itemFunction) {
     let parent = document.getElementById(parentId);
     parent.innerHTML = ""; // Clear out the old items
@@ -798,7 +818,10 @@ async function populateCurrentlyPlaying() {
 
     mixState.currentlyPlayingPage = true;
 }
+//#endregion
 
+// VIEWER PRESENTATION
+//#region
 function titleCardMixInfo(coverArt, name, duration, releaseDate, notes) {
     let titleCard = document.createElement("li");
     titleCard.classList.add('titleCard');
@@ -919,7 +942,10 @@ function getOffsetTop(elem, parent) {
     } while (elem = elem.offsetParent);
     return offsetTop;
 }
+//#endregion
 
+// NAVIGATORS
+//#region
 // Set current active item
 function setCurrentActiveItem(parent, index) {
     let items = parent.getElementsByTagName("li");
@@ -1036,8 +1062,6 @@ function navigateRight() {
     }
 }
 
-
-
 function getCurrentView() {
     for (let view of ['categoryList', 'mixList', 'article', 'currentlyPlaying']) {
         if (document.getElementById(view).style.display === 'block') {
@@ -1045,8 +1069,10 @@ function getCurrentView() {
         }
     }
 }
+//#endregion
 
-// Listen for keypresses
+// KEYPRESS BEHAVIOUR
+//#region
 document.addEventListener("keydown", e => {
     switch (e.code) {
         case "ArrowUp":
@@ -1091,7 +1117,10 @@ playlistDisplay.addEventListener('keydown', function(e) {
         e.preventDefault();
     }
 });
+//#endregion
 
+// INIT
+//#region
 async function initWidget() {
     widget = Mixcloud.PlayerWidget(document.getElementById("mixcloudWidget"));
 
@@ -1214,3 +1243,4 @@ window.onload = function() {
         showArticle(event, articleTitle);
     });
 };
+//#endregion
