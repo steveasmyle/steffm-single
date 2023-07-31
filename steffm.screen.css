@@ -58,8 +58,8 @@ html, body {
 	user-select: none;
 }
 body {
-	--bgColor: rgba(190, 155, 118, 0.7);
-	--bgColor: rgba(180, 117, 3, 0.5);
+	--bgColorLight: rgba(180, 155, 118, 0.7);
+	--bgColorDark: rgba(74, 48, 3, 0.8);
 	--caseBgColor: #E8D8B0;
 	--powerLampColorLight: #F32;
 	--powerLampColorDark: #F43;
@@ -111,7 +111,7 @@ body:before {
 	bottom: 0;
 	transform: rotateX(15deg) translateZ(-30em) scale(1.5);
 	background: 
-        linear-gradient(var(--bgColor), var(--bgColor)), 
+        linear-gradient(var(--bgColorDark), var(--bgColorDark)), 
         url(images/wood4.png) center center repeat;
 }
 #fauxBody {
