@@ -93,6 +93,7 @@ body {
 	--lightGreyTextColor: #000;
 	--widgetBackgroundColor: #25292c;
 	--highlightBackgroundColor: #3AF;
+	--highlightBackgroundColorHalf: #FA3;
 	--highlightTextColor: #024;
 	--duotoneImageLightColor: #3AF;
 	--duotoneImageDarkColor: #024;
@@ -286,8 +287,13 @@ h1 {
 	text-shadow: 0 0 0.05em var(--outputTextColor);
 	width: 24em;
 }
-#playlistDisplay .active, #playlistDisplay .selected, #playlistDisplay li:hover {
-	background-color: var(--highlightBackgroundColor);
+#playlistDisplay .active, #playlistDisplay li:hover {
+	background-color: var(--highlightBackgroundColor) !important;
+	color: var(--highlightTextColor);
+	text-shadow: 0 0 0.1em var(--outputTextColor);
+}
+#playlistDisplay .selected {
+	background-color: var(--highlightBackgroundColorHalf);
 	color: var(--highlightTextColor);
 	text-shadow: 0 0 0.1em var(--outputTextColor);
 }
