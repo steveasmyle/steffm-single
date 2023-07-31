@@ -21,12 +21,20 @@ const config = {
     }
 };
 
-const articles = [{
-    title: "About Stef.FM",
-    body: "Stef.FM is a music streaming service dedicated to preserving the works of the late music genius, Stefan Bauer. Explore and enjoy his vast collection of house, soul, and jazz mixes.",
-    author: "Stef.FM Mod",
-    date: "23 July 2023"
-}];
+const articles = [
+    {
+        title: "Stef.FM Relaunch",
+        body: "Stef.FM has a new retro vibe. Enjoy the new interface and let the tunes do the talking.",
+        author: "Stef.FM",
+        date: "31 July 2023"
+    },
+    {
+        title: "About Stef.FM",
+        body: "Stef.FM is a music streaming service dedicated to preserving the works of the late music genius, Stefan Bauer. Explore and enjoy his vast collection of house, soul, and jazz mixes.",
+        author: "Stef.FM",
+        date: "23 July 2023"
+    }
+];
 
 let globalError = false;
 
@@ -69,7 +77,7 @@ function stopScrollers() {
 // Start scrollers
 startScroller(
     "displayMain",
-    "My Pair of Shoes - Volume 89",
+    "",
     config.output.characterCount,
     config.output.tickInterval,
     config.output.repeatInterval
@@ -600,6 +608,14 @@ function switchView(type) {
         'article': ['categoryList', 'mixList', 'currentlyPlaying', 'articleList']
     };
 
+    const titleMap = {
+        'mixList': 'Mixes',
+        'currentlyPlaying': 'Currently Playing',
+        'categoryList': 'Home',
+        'articleList': 'Articles',
+        'article': 'Article'
+    };
+
     const hidden = typeMap[type];
 
     // Hide elements
@@ -610,14 +626,15 @@ function switchView(type) {
     });
 
     // Show element
+    populateTitle(titleMap[type]);
     let displayElement = document.getElementById(type);
     if (displayElement) displayElement.style.display = 'block';
 }
 
 // Function to show an article by title
 function showArticle(event, articleTitle) {
-    event.preventDefault(); // prevent default action
-    populateArticle(articleTitle); // show the article
+    event.preventDefault();
+    populateArticle(articleTitle);
 }
 
 function createNavigationElement(textContent, onclickFunction) {
@@ -640,11 +657,21 @@ function createOption(parent, text, action, isSpecial = false) {
 
 // POPULATORS
 //#region
+function populateTitle(title) {
+    const titleElement = document.querySelector('#playlistDisplay > h3');
+    if (title) { 
+        titleElement.textContent = title;
+    }
+}
+
 function populateList(parentId, backFunction, items, itemFunction) {
     let parent = document.getElementById(parentId);
     parent.innerHTML = ""; // Clear out the old items
-    parent.appendChild(createNavigationElement("[ Currently Playing ]", populateCurrentlyPlaying));
-    parent.appendChild(createNavigationElement("[ Back ]", backFunction));
+    if (backFunction) {
+        parent.appendChild(createNavigationElement("[ Back ]", backFunction));
+    }
+    parent.appendChild(createNavigationElement("[ View Currently Playing Mix ]", populateCurrentlyPlaying));
+    parent.appendChild(createNavigationElement("[ Articles ]", populateArticleList));
     items.forEach((item, index) => {
         let li = document.createElement("li");
         li.textContent = item.name || item.title; // Assumes 'item' is an object with a 'name' or 'title' property
@@ -677,16 +704,11 @@ function populateArticle(articleTitle) {
         return;
     }
 
-    // Clear previous items
     articleView.innerHTML = '';
 
-    // Add 'Back' option
+    createOption(articleView, "[ View Currently Playing Mix ]", populateCurrentlyPlaying, true);
     createOption(articleView, "[ Back ]", populateArticleList, true);
 
-    // Add 'Currently Playing' option at the top
-    createOption(articleView, "[ Currently Playing ]", populateCurrentlyPlaying, true);
-
-    // Add article content
     let titleElement = document.createElement("h3");
     titleElement.textContent = article.title;
     articleView.appendChild(titleElement);
@@ -708,7 +730,7 @@ function populateCategoryList() {
     let categories = mixState.mixcloudHeaderInfo.categories.sort((a, b) => a.name.localeCompare(b.name));
     populateList(
         'categoryList',
-        populateMixList.bind(null, null),
+        null,
         categories,
         (category) => populateMixList(category.code)
     );
@@ -724,11 +746,9 @@ function populateMixList(category) {
     // Clear previous items
     mixList.innerHTML = '';
 
-    // Add 'Back' option
+    createOption(mixList, "[ View Currently Playing Mix ]", populateCurrentlyPlaying, true);
     createOption(mixList, "[ Back ]", populateCategoryList, true);
 
-    // Add 'Currently Playing' option at the top
-    createOption(mixList, "[ Currently Playing ]", populateCurrentlyPlaying, true);
 
     // Add mixes
     let mixes = mixState.mixcloudHeaderInfo.data;
@@ -1011,7 +1031,12 @@ function navigateOption(direction) {
         case 'currentlyPlaying':
             currentIndex = mixState.trackIndex;
             break;
-        // Add cases for other lists as necessary
+        case 'articleList':
+            currentIndex = mixState.articleIndex;
+            break;
+        case 'article':
+            currentIndex = mixState.articleIndex;
+            break;
     }
 
     let newIndex = currentIndex + direction;
@@ -1033,6 +1058,12 @@ function navigateLeft() {
         case 'currentlyPlaying':
             populateCategoryList();
             break;    
+        case 'articleList':
+            populateArticleList();
+            break;    
+        case 'article':
+            populateArticle();
+            break;    
         default:
             console.warn(`Unhandled left navigation for view: ${parentName}`);
             break;
@@ -1044,7 +1075,8 @@ const parentNameToIndexProperty = {
     'categoryList': 'categoryIndex',
     'mixList': 'mixIndex',
     'currentlyPlaying': 'trackIndex',
-    // Add more mappings as necessary
+    'articleList': 'articleIndex',
+    'article': 'articleIndex',
 };
 
 // Navigate right (select option)
@@ -1052,7 +1084,7 @@ function navigateRight() {
     let parentName = getCurrentView();
     let parent = document.getElementById(parentName);
     let items = parent.getElementsByTagName("li");
-    let indexPropertyName = parentNameToIndexProperty[parentName]; // Get the corresponding index property name
+    let indexPropertyName = parentNameToIndexProperty[parentName]; 
 
     // Ensure valid index range
     if (mixState[indexPropertyName] >= 0 && mixState[indexPropertyName] < items.length) {
@@ -1063,7 +1095,7 @@ function navigateRight() {
 }
 
 function getCurrentView() {
-    for (let view of ['categoryList', 'mixList', 'article', 'currentlyPlaying']) {
+    for (let view of ['categoryList', 'mixList', 'currentlyPlaying', 'articleList', 'article']) {
         if (document.getElementById(view).style.display === 'block') {
             return view;
         }

@@ -272,6 +272,7 @@ h1 {
 	background-image: linear-gradient(170deg, #0007, transparent 50%), linear-gradient(to bottom, transparent, #FFF1 95%, #FFF4 100%);
 	color: var(--outputTextColor);
 	clear: both;
+	display: relative;
 	font-size: 1em;
 	font-family: 'Open Sans', monospace;
 	height: 24em;
@@ -340,12 +341,20 @@ h1 {
 	line-height: 1;
 	width: 100%;
 }
+#playlistDisplay > h3 {
+	background: transparent;
+	text-align: center;
+}
 #categoryList, #mixList, #currentlyPlaying {
 	display: none;
 	overflow: hidden;
 }
 #currentlyPlaying li.has-image {
 	margin: 1em 0;
+}
+.displayOutput {
+  padding-top: 1em;
+  box-sizing: border-box;
 }
 .player output var {
 	position: absolute;
