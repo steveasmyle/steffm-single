@@ -815,6 +815,20 @@ function populateArticleList() {
     setCurrentActiveItem(document.getElementById('articleList'), mixState.articleListIndex);
 }
 
+function getTrackIndexFromTime(progress) {
+    let tracklist = mixState.mixcloudTracklist;
+    let currentTrackIndex = tracklist.findIndex((track, index) => {
+        if (index < tracklist.length - 1) {
+            return progress >= track.startInSeconds && progress < tracklist[index + 1].startInSeconds;
+        } else {
+            // For the last track in the list
+            return progress >= track.startInSeconds;
+        }
+    });
+
+    return currentTrackIndex;
+}
+
 // Populate 'Currently Playing' page
 async function populateCurrentlyPlaying() {
     switchView('currentlyPlaying');
