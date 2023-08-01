@@ -764,7 +764,7 @@ function populateMixList(category) {
     // Prepare items
     let mixes = mixState.mixcloudHeaderInfo.data;
     if (category) mixes = mixes.filter(item => item.category === category);
-    mixes.sort((a, b) => a.shortName.localeCompare(b.shortName));
+    mixes.sort((a, b) => a.listOrder - b.listOrder);
 
     // Create a new items array with the specific functionality for each item
     let items = mixes.map((item, index) => {
