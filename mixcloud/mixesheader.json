@@ -1050,23 +1050,37 @@
       "listOrder": 86,
       "mixcloudKey": "my-pair-of-shoes-volume-86",
       "name": "My Pair of Shoes - Volume 86",
-      "notes": "Can't believe it's another three months past since I uploaded a new set",
-      "releaseDate": "06 August 2014",
+      "notes": "\"Lopuksi uusi sekoitus ja se on hienoa\" (finally a new mix and it's great) as the Finns would say...",
+      "releaseDate": "28 October 2014",
       "shortName": "MPOS - Volume 86"
     },
     {
       "category": "mpos",
-      "coverArtDate": "",
-      "coverArtLarge": "",
-      "coverArtSmall": "",
+      "coverArtDate": "2023-08-02T21:19:11.488Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/4/c/d/2/9d3d-a156-4580-9f96-ae9cbcd245c8",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/4/c/d/2/9d3d-a156-4580-9f96-ae9cbcd245c8",
       "duration": "01:01:20",
       "fileName": "stef_-_my_pair_of_shoes_vol._85.mp3",
       "listOrder": 85,
       "mixcloudKey": "my-pair-of-shoes-volume-85",
       "name": "My Pair of Shoes - Volume 85",
+      "notes": "Can't believe it's another three months past since I uploaded a new set...",
+      "releaseDate": "06 August 2014",
+      "shortName": "MPOS - Volume 85"
+    },
+    {
+      "category": "mpos",
+      "coverArtDate": "2023-08-02T21:19:12.671Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/b/0/4/5/20d4-5c3f-4aa3-8d4a-6f41a9b34711",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/b/0/4/5/20d4-5c3f-4aa3-8d4a-6f41a9b34711",
+      "duration": "01:06:31",
+      "fileName": "stef_-_my_pair_of_shoes_vol._84.mp3",
+      "listOrder": 85,
+      "mixcloudKey": "my-pair-of-shoes-volume-84",
+      "name": "My Pair of Shoes - Volume 84",
       "notes": "Bloody 'ell, 3 months past without a proper new pair of shoes... waiting time is over, here's a brand new bag of mixed goodies all around +/- 120 bpm...",
       "releaseDate": "01 May 2014",
-      "shortName": "MPOS - Volume 85"
+      "shortName": "MPOS - Volume 84"
     }
   ]
 }
