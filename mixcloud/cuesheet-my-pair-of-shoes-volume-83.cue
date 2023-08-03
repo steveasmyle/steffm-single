@@ -1,0 +1,51 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 83"
+FILE "stef_-_my_pair_of_shoes_vol._83.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Lem Springsteen"
+TITLE "Find You"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Joey Negro & The Sunburst Band"
+TITLE "Definition Of Luv"
+INDEX 01 04:56:00
+TRACK 02 AUDIO
+PERFORMER "Namy & Kathy Brown"
+TITLE "Not This Time"
+INDEX 01 10:46:00
+TRACK 03 AUDIO
+PERFORMER "Duke"
+TITLE "So In Love With You"
+INDEX 01 19:12:00
+TRACK 04 AUDIO
+PERFORMER "Samir Maslo feat. Keith Thompson"
+TITLE "Tonight"
+INDEX 01 23:45:00
+TRACK 05 AUDIO
+PERFORMER "Soulful Session starring Leanne"
+TITLE "My Baby"
+INDEX 01 28:06:00
+TRACK 06 AUDIO
+PERFORMER "Imaani"
+TITLE "Live Without Love"
+INDEX 01 34:46:00
+TRACK 07 AUDIO
+PERFORMER "Michelle  Weeks"
+TITLE "Follow Your Dreams"
+INDEX 01 41:17:00
+TRACK 08 AUDIO
+PERFORMER "Robosonic, Adana Twins"
+TITLE "La Fique"
+INDEX 01 46:39:00
+TRACK 09 AUDIO
+PERFORMER "Michele Chiavarini"
+TITLE "1 World"
+INDEX 01 53:07:00
+TRACK 10 AUDIO
+PERFORMER "Gigamesh"
+TITLE "Burnin'"
+INDEX 01 61:34:00
+TRACK 11 AUDIO
+PERFORMER "Medina"
+TITLE "Forever"
+INDEX 01 65:24:00

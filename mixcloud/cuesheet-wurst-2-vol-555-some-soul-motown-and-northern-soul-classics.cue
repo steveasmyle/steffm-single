@@ -8,7 +8,7 @@ INDEX 01 00:00:00
 TRACK 01 AUDIO
 PERFORMER "Minnie Riperton"
 TITLE "Baby, This Love I Have"
-INDEX 01 03:08:00
+INDEX 01 03:10:00
 TRACK 02 AUDIO
 PERFORMER "Curtis Mayfield"
 TITLE "Freddie's Dead"
@@ -16,7 +16,7 @@ INDEX 01 07:03:00
 TRACK 03 AUDIO
 PERFORMER "Sisters Love"
 TITLE "Give Me Your Love"
-INDEX 01 12:58:00
+INDEX 01 13:04:00
 TRACK 04 AUDIO
 PERFORMER "Lettuce"
 TITLE "Express Yourself"
@@ -36,7 +36,7 @@ INDEX 01 32:30:00
 TRACK 08 AUDIO
 PERFORMER "The Jackson 5"
 TITLE "ABC"
-INDEX 01 36:22:00
+INDEX 01 37:27:00
 TRACK 09 AUDIO
 PERFORMER "Marvin Gaye & Tammi Terrell"
 TITLE "Ain't Nothing Like The Real Thing"
