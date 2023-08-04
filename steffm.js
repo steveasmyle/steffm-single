@@ -681,9 +681,7 @@ function populateTitle(title) {
     }
 }
 
-function populateList(parentId, backFunction, currentlyPlaying, articles, items, itemFunction) {
-    console.log("populateList", parentId);
-
+function populateList(parentId, backFunction, currentlyPlaying, articles, items, itemFunction, itemRenderFunction, initialElement) {
     let parent = document.getElementById(parentId);
     parent.innerHTML = "";
     
@@ -699,16 +697,35 @@ function populateList(parentId, backFunction, currentlyPlaying, articles, items,
         parent.appendChild(createNavigationElement("[ Articles ]", populateArticleList));
     }
 
+    if (initialElement) {
+        parent.appendChild(initialElement);
+    }
+
     items.forEach((item, index) => {
-        let li = document.createElement("li");
-        li.textContent = item.name || item.title; // Assumes 'item' is an object with a 'name' or 'title' property
-        li.onclick = () => itemFunction(item);
-        parent.appendChild(li);
+        let element = itemRenderFunction ? itemRenderFunction(item, itemFunction) : createListItem(item, itemFunction);
+        parent.appendChild(element);
     });
 
-    console.log("parent", parent);
-    console.log(`${parentId}Index`, mixState[`${parentId}Index`]);
     setCurrentActiveItem(parent, mixState[`${parentId}Index`]);
+}
+
+function createListItem(item, itemFunction) {
+    let li = document.createElement("li");
+    li.textContent = item.name || item.title;
+    li.onclick = () => itemFunction(item);
+    return li;
+}
+
+function trackRenderer(track, trackFunction) {
+    return titleCardTrackInfo(
+        track.sectionNumber,
+        track.startTime,
+        track.coverArtSmall,
+        track.trackName,
+        track.artistName,
+        track.publisher,
+        track.remixArtistName
+    );
 }
 
 function populateArticleList() {
@@ -855,10 +872,16 @@ async function populateCurrentlyPlaying() {
 
     // The item function for each track
     let itemFunction = (track) => {
-        // For now, we just log the track name when it's clicked
-        // You may want to add functionality here, e.g. skip to this track in the mix
         console.log(`Track clicked: ${track.trackName}`);
     };
+
+    let initialElement = titleCardMixInfo(
+        mixState.mixcloudItemInfo.coverArtSmall,
+        mix.name,
+        mixState.mixcloudItemInfo.duration,
+        mixState.mixcloudItemInfo.releaseDate,
+        mixState.mixcloudItemInfo.notes
+    );
 
     // Use populateList function to populate the 'Currently Playing' view
     populateList(
@@ -867,7 +890,9 @@ async function populateCurrentlyPlaying() {
         false,
         false,
         tracklist, 
-        itemFunction
+        itemFunction,
+        trackRenderer,
+        initialElement
     );
 
     mixState.currentlyPlayingPage = true;
