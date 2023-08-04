@@ -143,7 +143,7 @@ let mixState = {
     _indices: {
         categoryList: 0,
         mixList: 0,
-        trackList: 0,
+        currentlyPlaying: 0,
         articleList: 0,
         article
     },
@@ -323,11 +323,11 @@ let mixState = {
         this._indices.mixList = val;
     },
 
-    get trackIndex() {
-        return this._indices.track;
+    get currentlyPlayingIndex() {
+        return this._indices.currentlyPlaying;
     },
-    set trackIndex(val) {
-        this._indices.track = val;
+    set currentlyPlayingIndex(val) {
+        this._indices.currentlyPlaying = val;
     },
 
     get articleListIndex() {
@@ -457,6 +457,8 @@ async function loadNewMix(mixcloudKey) {
     });
 
     mixState.mixcloudTracklist = tracklist;
+
+    await populateCurrentlyPlaying();
 }
 //#endregion
 
@@ -680,6 +682,8 @@ function populateTitle(title) {
 }
 
 function populateList(parentId, backFunction, currentlyPlaying, articles, items, itemFunction) {
+    console.log("populateList", parentId);
+
     let parent = document.getElementById(parentId);
     parent.innerHTML = "";
     
@@ -701,6 +705,9 @@ function populateList(parentId, backFunction, currentlyPlaying, articles, items,
         li.onclick = () => itemFunction(item);
         parent.appendChild(li);
     });
+
+    console.log("parent", parent);
+    console.log(`${parentId}Index`, mixState[`${parentId}Index`]);
     setCurrentActiveItem(parent, mixState[`${parentId}Index`]);
 }
 
@@ -831,64 +838,40 @@ function getTrackIndexFromTime(progress) {
 
 // Populate 'Currently Playing' page
 async function populateCurrentlyPlaying() {
+    console.log("populateCurrentlyPlaying");
     switchView('currentlyPlaying');
 
-    let currentlyPlayingList = document.getElementById("currentlyPlaying");
-
-    // Show 'Currently Playing' page, hide category and mix list
-    document.getElementById("categoryList").style.display = "none";
-    document.getElementById("mixList").style.display = "none";
-    currentlyPlayingList.style.display = "block";
-
-    // Add 'Back' option
-    let backOption = document.createElement("li");
-    backOption.classList.add("nav-item"); // Add "nav-item" class for navigation support
-    backOption.textContent = "[ Back ]";
-    backOption.onclick = () => {
-        mixState.currentlyPlayingPage = false;
-        currentlyPlayingList.style.display = "none";
-        // if (mixState.mixcloudKey) {
-        //     document.getElementById("mixList").style.display = "block";
-        //     populateMixList(null);
-        // } else {
-        document.getElementById("categoryList").style.display = "block";
-        populateCategoryList();
-        // }
-    };
-    currentlyPlayingList.appendChild(backOption);
-
-    // Add currently playing mix info
-    currentlyPlayingList.appendChild(
-        titleCardMixInfo(
-            mixState.mixcloudItemInfo.coverArtSmall,
-            mixState.mixcloudHeaderInfo.data.find(item => item.mixcloudKey === mixState.mixcloudKey).name,
-            mixState.mixcloudItemInfo.duration,
-            mixState.mixcloudItemInfo.releaseDate,
-            mixState.mixcloudItemInfo.notes
-        )
-    );
-
+    // Fetch the currently playing mix and its tracklist
+    let mix = mixState.mixcloudHeaderInfo.data.find(item => item.mixcloudKey === mixState.mixcloudKey);
     let tracklist = mixState.mixcloudTracklist;
 
-    tracklist.forEach((track, index) => {
-        // Add currently playing mix info
-        currentlyPlayingList.appendChild(
-            titleCardTrackInfo(
-                track.sectionNumber,
-                track.startTime,
-                track.coverArtSmall,
-                track.trackName,
-                track.artistName,
-                track.publisher,
-                track.remixArtistName
-            )
-        );
-    });
+    // Set the back function to populate the category list
+    let backFunction = () => {
+        mixState.currentlyPlayingPage = false;
+        document.getElementById("currentlyPlaying").style.display = "none";
+        document.getElementById("categoryList").style.display = "block";
+        populateCategoryList();
+    };
 
-    // Set initial active item
-    setCurrentActiveItem(currentlyPlayingList, 0);
+    // The item function for each track
+    let itemFunction = (track) => {
+        // For now, we just log the track name when it's clicked
+        // You may want to add functionality here, e.g. skip to this track in the mix
+        console.log(`Track clicked: ${track.trackName}`);
+    };
+
+    // Use populateList function to populate the 'Currently Playing' view
+    populateList(
+        'currentlyPlaying', 
+        backFunction, 
+        false,
+        false,
+        tracklist, 
+        itemFunction
+    );
 
     mixState.currentlyPlayingPage = true;
+    mixState.mixIndex = 0; // Set initial index
 }
 //#endregion
 
@@ -1049,7 +1032,7 @@ function setCurrentActiveItem(parent, index) {
                 mixState.mixIndex = index;
                 break;
             case 'currentlyPlaying':
-                mixState.trackIndex = index;
+                mixState.currentlyPlayingIndex = index;
                 break;
             case 'articleList':
                 mixState.articleListIndex = index;
@@ -1102,7 +1085,7 @@ function navigateOption(direction) {
             currentIndex = mixState.mixIndex;
             break;
         case 'currentlyPlaying':
-            currentIndex = mixState.trackIndex;
+            currentIndex = mixState.currentlyPlayingIndex;
             break;
         case 'articleList':
             currentIndex = mixState.articleListIndex;
@@ -1154,7 +1137,7 @@ function navigateLeft() {
 const parentNameToIndexProperty = {
     'categoryList': 'categoryIndex',
     'mixList': 'mixIndex',
-    'currentlyPlaying': 'trackIndex',
+    'currentlyPlaying': 'currentlyPlayingIndex',
     'articleList': 'articleListIndex',
     'article': 'articleIndex',
 };
