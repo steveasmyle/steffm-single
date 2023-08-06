@@ -1095,6 +1095,34 @@
       "notes": "Forget about the bad weather. feel comfy and cosy by listening to MPOS Vol. 83...enjoy!",
       "releaseDate": "09 February 2014",
       "shortName": "MPOS - Volume 83"
+    },
+    {
+      "category": "mpos",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "duration": "01:02:25",
+      "fileName": "stef_-_my_pair_of_shoes_vol._82.mp3",
+      "listOrder": 82,
+      "mixcloudKey": "my-pair-of-shoes-volume-82",
+      "name": "My Pair of Shoes - Volume 82",
+      "notes": "Quick quick, here's a new 60 min mix just before christmas. enjoy a journey through soulful and deeplish delights",
+      "releaseDate": "09 December 2013",
+      "shortName": "MPOS - Volume 82"
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-08-06T20:19:21.844Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/e/a/d/c937-e7a4-409b-b8d8-639bf02d2178",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/e/a/d/c937-e7a4-409b-b8d8-639bf02d2178",
+      "duration": "",
+      "fileName": "stef_-_my_pair_of_shoes_vol._82.mp3",
+      "listOrder": 38,
+      "mixcloudKey": "adventures-in-decent-music-volume-38",
+      "name": "Adventures in Decent Music - Volume 38",
+      "notes": "Merry Christmas to you...here's a new adventure in disco...erm...decent music...enjoy!!! ",
+      "releaseDate": "25 December 2013",
+      "shortName": "AIDM - Volume 38"
     }
   ]
 }
