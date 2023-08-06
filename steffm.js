@@ -690,7 +690,9 @@ function populateList(parentId, backFunction, currentlyPlaying, articles, items,
     }
     
     if (currentlyPlaying) {
-        parent.appendChild(createNavigationElement("[ View Currently Playing Mix ]", populateCurrentlyPlaying));
+        parent.appendChild(createNavigationElement("[ View Currently Playing Mix ]", () => {
+            populateCurrentlyPlaying();
+        }));
     }
 
     if (articles) {
@@ -712,7 +714,7 @@ function populateList(parentId, backFunction, currentlyPlaying, articles, items,
 function createListItem(item, itemFunction) {
     let li = document.createElement("li");
     li.textContent = item.name || item.title;
-    li.onclick = () => itemFunction(item);
+    li.onclick = () => itemFunction(item, li);
     return li;
 }
 
@@ -791,27 +793,27 @@ function populateMixList(category) {
     mixes.sort((a, b) => a.listOrder - b.listOrder);
 
     // Create a new items array with the specific functionality for each item
-    let items = mixes.map((item, index) => {
+    let items = mixes.map((mixItem, index) => { // Note the change here, using mixItem to differentiate
         return {
-            name: item.shortName, // Or title, or whatever you want to display
-            onclick: function() {
-                mixState.mixcloudKey = item.mixcloudKey;
+            name: mixItem.shortName, // Or title, or whatever you want to display
+            onclick: function(_, liElement) { // _ is a convention for an unused parameter
+                mixState.mixcloudKey = mixItem.mixcloudKey;
                 loadNewMix(mixState.mixcloudKey);
                 if (mixState.selectedMixItem) mixState.selectedMixItem.classList.remove('selected');
-                this.classList.add('selected');
-                mixState.selectedMixItem = this;
+                liElement.classList.add('selected');
+                mixState.selectedMixItem = liElement;
                 populateCurrentlyPlaying();
-                
+    
                 // Check if current mix is selected
-                if (mixState.mixcloudKey === item.mixcloudKey) {
-                    this.classList.add('selected');
-                    mixState.selectedMixItem = this;
+                if (mixState.mixcloudKey === mixItem.mixcloudKey) {
+                    liElement.classList.add('selected');
+                    mixState.selectedMixItem = liElement;
                     mixState.mixIndex = index + 2;
                 }
             }
         };
-    });
-
+    });    
+        
     // Use populateList function
     mixState.mixIndex = 0; // Set initial index
     populateList(
@@ -820,7 +822,7 @@ function populateMixList(category) {
         false,
         false,
         items, 
-        (item) => item.onclick()
+        (item, liElement) => item.onclick(item, liElement) // Pass the DOM element
     );
     setCurrentActiveItem(document.getElementById('mixList'), mixState.mixListIndex);
 }
@@ -855,7 +857,6 @@ function getTrackIndexFromTime(progress) {
 
 // Populate 'Currently Playing' page
 async function populateCurrentlyPlaying() {
-    console.log("populateCurrentlyPlaying");
     switchView('currentlyPlaying');
 
     // Fetch the currently playing mix and its tracklist
