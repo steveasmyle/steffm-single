@@ -1,0 +1,126 @@
+{
+  "mixcloudKey": "a-new-york-city-mix",
+  "tracks": [
+    {
+      "publisher": "RCA",
+      "startTime": "00:00",
+      "trackName": "Native New Yorker",
+      "artistName": "Odyssey",
+      "coverArtDate": "2023-08-07T19:59:42.861Z",
+      "coverArtLarge": "https://i.discogs.com/s8KdgBaara9vcB8xyXAJ5JdmPHFKjK1g8C9vo--fwQk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NjUtMTI3ODA3Njkx/My5qcGVn.jpeg",
+      "coverArtSmall": "https://i.discogs.com/l9ti9s8DeuckAcnKyTckJBasZH9B8N3z_5JsLxFYRRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NjUtMTI3ODA3Njkx/My5qcGVn.jpeg",
+      "sectionNumber": 1,
+      "remixArtistName": "Extended Edition"
+    },
+    {
+      "publisher": "Herb Alpert Presents",
+      "startTime": "04:04",
+      "trackName": "Manhattan Melody",
+      "artistName": "Herb Alpert",
+      "coverArtDate": "2023-08-07T19:59:44.369Z",
+      "coverArtLarge": "https://i.discogs.com/LJ_ao1ENdqzJH2jVGrd_MZAaSpC_IfcQSVNT9kzR3xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NzAtMTE5Njc0ODA4/OC5qcGVn.jpeg",
+      "coverArtSmall": "https://i.discogs.com/RlKM4hGEu5n7dU2U-VK3ascXSOjjQNkP4i7c0XByER8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NzAtMTE5Njc0ODA4/OC5qcGVn.jpeg",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "BlueNote Records",
+      "startTime": "09:36",
+      "trackName": "New York Times",
+      "artistName": "Bobbi Humphrey",
+      "coverArtDate": "2023-08-07T19:59:45.915Z",
+      "coverArtLarge": "https://i.discogs.com/uPq0nUiCIfBhYmg_A02HFKrWAR8LWkHKcqk15H8gPK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/OTctMTU1MTgyMDQy/MC0yMzgxLmpwZWc.jpeg",
+      "coverArtSmall": "https://i.discogs.com/qfCpwaiYbrxbCKtq41sQcfUGs8cDTBuruJyIqHziIVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/OTctMTU1MTgyMDQy/MC0yMzgxLmpwZWc.jpeg",
+      "sectionNumber": 3,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "The Orchard Music",
+      "startTime": "16:28",
+      "trackName": "New York City",
+      "artistName": "Gil Scott-Heron & Brian Jackson",
+      "coverArtDate": "2023-08-07T19:59:47.550Z",
+      "coverArtLarge": "https://i.discogs.com/i6UDpRQcJoAHlivD5iqM0ZwT7OXEtpxiO1yBdhoNoRs/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgy/MS0xMzA2NTg1NDkz/LmpwZWc.jpeg",
+      "coverArtSmall": "https://i.discogs.com/bO_hhbBrzGfnGE5lxT9avLtwLDZL5IjUXscMYAtRwnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgy/MS0xMzA2NTg1NDkz/LmpwZWc.jpeg",
+      "sectionNumber": 4,
+      "remixArtistName": "DJ Stretch Armstrong"
+    },
+    {
+      "publisher": "Concord Jazz",
+      "startTime": "22:08",
+      "trackName": "...It's A New York Thing",
+      "artistName": "Ray Vega",
+      "coverArtDate": "2023-08-07T19:59:49.189Z",
+      "coverArtLarge": "https://i.discogs.com/rMe_DiAlSwbnDQNbPb2voJXrkm26owBJTSR2ryGpi3g/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/OTY1LTE1MDUxMDM3/ODQtNTEwMi5qcGVn.jpeg",
+      "coverArtSmall": "https://i.discogs.com/8WpjYrjLO0JqjyYQ_fxzV_m6cKQweYs3j2ZUTizHovs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/OTY1LTE1MDUxMDM3/ODQtNTEwMi5qcGVn.jpeg",
+      "sectionNumber": 5,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Warner Records",
+      "startTime": "27:52",
+      "trackName": "New York Samba",
+      "artistName": "Bob James & Earl Klugh",
+      "coverArtDate": "2023-08-07T19:59:50.725Z",
+      "coverArtLarge": "https://i.discogs.com/zmac_t09CGfDQIarFYV6G2qLvHoQu2AeITA_dowkz4g/rs:fit/g:sm/q:90/h:453/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/MzMtMTIxODA0MzEw/My5qcGVn.jpeg",
+      "coverArtSmall": "https://i.discogs.com/TefUTYiQ4vjNN5uj4RQSKcuEqzoF5LIfdjqbiv5ktHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/MzMtMTIxODA0MzEw/My5qcGVn.jpeg",
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Legacy Recordings",
+      "startTime": "33:30",
+      "trackName": "Manhattan Skyline",
+      "artistName": "MFSB",
+      "coverArtDate": "2023-08-07T19:59:52.261Z",
+      "coverArtLarge": "https://i.discogs.com/xrMxW9wblmFABfWxd3phGZBe9YnZn6CRnEXZC44Av68/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mjc2/My0xMTgxNzI3Njc1/LmpwZWc.jpeg",
+      "coverArtSmall": "https://i.discogs.com/mtDsVyRcQIQ1NN7nA_e8ozu0M8sQTEov1LUab7YZcGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mjc2/My0xMTgxNzI3Njc1/LmpwZWc.jpeg",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Mercury",
+      "startTime": "38:15",
+      "trackName": "New York",
+      "artistName": "Nuggets",
+      "coverArtDate": "2023-08-07T19:59:53.798Z",
+      "coverArtLarge": "https://i.discogs.com/hfYidjrbOOSuzIBUvRpg1SaF2xtQGn1k7R5VTbXJbN0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTQy/NTMtMTM3ODYxMTgx/Mi02MTk1LmpwZWc.jpeg",
+      "coverArtSmall": "https://i.discogs.com/uE4CXZYy6FRulp0UgFcJaxpyNTi8za9NQNwW86QzO6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTQy/NTMtMTM3ODYxMTgx/Mi02MTk1LmpwZWc.jpeg",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Unidisc Music Inc.",
+      "startTime": "42:00",
+      "trackName": "Take the Country to New York City",
+      "artistName": "Bohannan",
+      "coverArtDate": "2023-08-07T19:59:55.231Z",
+      "coverArtLarge": "images/tracklist-placeholder.png",
+      "coverArtSmall": "images/tracklist-placeholder.png",
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Bee Gees Catalog",
+      "startTime": "45:15",
+      "trackName": "Manhattan Skyline",
+      "artistName": "David Shire",
+      "coverArtDate": "2023-08-07T19:59:56.773Z",
+      "coverArtLarge": "https://i.discogs.com/Vou9W6CdHLBGYvVrEfLpXZSknsgshPlUFbxoCk6oj-E/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY1/OTItMTQ1ODg2MzQ2/MC03MDI2LmpwZWc.jpeg",
+      "coverArtSmall": "https://i.discogs.com/W9CPXLN-9tZNvBzeYJ67BUTfd5T4ItEmjpmiGjXuSrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY1/OTItMTQ1ODg2MzQ2/MC03MDI2LmpwZWc.jpeg",
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Salsoul Records",
+      "startTime": "49:42",
+      "trackName": "New York Is My Kind of Town (feat. The Sweethearts)",
+      "artistName": "Metropolis",
+      "coverArtDate": "2023-08-07T19:59:58.305Z",
+      "coverArtLarge": "images/tracklist-placeholder.png",
+      "coverArtSmall": "images/tracklist-placeholder.png",
+      "sectionNumber": 11,
+      "remixArtistName": ""
+    }
+  ]
+}

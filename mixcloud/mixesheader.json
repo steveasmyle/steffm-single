@@ -230,9 +230,9 @@
     },
     {
       "category": "aidm",
-      "coverArtDate": "2023-07-15T20:24:01.893Z",
-      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/2/1/1/7/1e69-44f5-468d-8764-06968cc0ef77",
-      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/2/1/1/7/1e69-44f5-468d-8764-06968cc0ef77",
+      "coverArtDate": "2023-08-09T09:58:23.859Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/3/a/3/2d7b-5e24-4b50-83f7-f2c9f1df8a7d",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/f/3/a/3/2d7b-5e24-4b50-83f7-f2c9f1df8a7d",
       "duration": "02:03:32",
       "fileName": "stef_-_adventures_in_decent_music_vol._52.mp3",
       "listOrder": 52,
@@ -790,17 +790,17 @@
     },
     {
       "category": "mpos",
-      "coverArtDate": "2023-07-15T20:25:10.052Z",
-      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/5/3/a/1/3624-513c-4b66-97c4-8bf467cb5f1b",
-      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/5/3/a/1/3624-513c-4b66-97c4-8bf467cb5f1b",
+      "coverArtDate": "2023-08-07T19:59:09.886Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/d/b/c/9/133c-448d-40b1-b8db-85ab9317ab19",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/d/b/c/9/133c-448d-40b1-b8db-85ab9317ab19",
       "duration": "04:00:59",
-      "fileName": "mpos80full.mp3",
-      "listOrder": 80,
-      "mixcloudKey": "my-pair-of-shoes-volume-80-four-hour-special",
-      "name": "My Pair of Shoes - Volume 80 - Four Hour Special",
+      "fileName": "mpos81full.mp3",
+      "listOrder": 81,
+      "mixcloudKey": "my-pair-of-shoes-volume-81-4-hour-special",
+      "name": "My Pair of Shoes - Volume 81 - 4 Hour Special",
       "notes": "4 hours of bloody deep house...get in! Compiled, mixed and tweaked by no one else than my better self",
       "releaseDate": "12 September 2013",
-      "shortName": "MPOS - Volume 80 - Four Hour Special"
+      "shortName": "MPOS - Volume 81 - Four Hour Special"
     },
     {
       "category": "mpos",
@@ -940,7 +940,7 @@
       "name": "My Pair of Shoes - Volume 97",
       "notes": "38 tracks, 3 hrs of continuously good vibes for the last days of summer",
       "releaseDate": "27 August 2016",
-      "shortName": "MPOS - Volume 197"
+      "shortName": "MPOS - Volume 97"
     },
     {
       "category": "mpos",
@@ -1098,9 +1098,9 @@
     },
     {
       "category": "mpos",
-      "coverArtDate": "",
-      "coverArtLarge": "",
-      "coverArtSmall": "",
+      "coverArtDate": "2023-08-07T10:09:13.522Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/9/5/8/6810-27a3-4ec0-9d49-e3c82726aa50",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/9/5/8/6810-27a3-4ec0-9d49-e3c82726aa50",
       "duration": "01:02:25",
       "fileName": "stef_-_my_pair_of_shoes_vol._82.mp3",
       "listOrder": 82,
@@ -1112,17 +1112,45 @@
     },
     {
       "category": "aidm",
-      "coverArtDate": "2023-08-06T20:19:21.844Z",
-      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/c/e/a/d/c937-e7a4-409b-b8d8-639bf02d2178",
-      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/c/e/a/d/c937-e7a4-409b-b8d8-639bf02d2178",
-      "duration": "",
-      "fileName": "stef_-_my_pair_of_shoes_vol._82.mp3",
-      "listOrder": 38,
-      "mixcloudKey": "adventures-in-decent-music-volume-38",
-      "name": "Adventures in Decent Music - Volume 38",
-      "notes": "Merry Christmas to you...here's a new adventure in disco...erm...decent music...enjoy!!! ",
+      "coverArtDate": "2023-08-07T10:09:14.704Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/e/6/d/1/a322-c133-4081-b8d6-b7f044d36d4c",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/e/6/d/1/a322-c133-4081-b8d6-b7f044d36d4c",
+      "duration": "1:06:34",
+      "fileName": "stef_-_adventures_in_decent_music_vol._36.mp3",
+      "listOrder": 36,
+      "mixcloudKey": "adventures-in-decent-music-volume-36",
+      "name": "Adventures in Decent Music - Volume 36",
+      "notes": "Merry Christmas to you...here's a new adventure in disco...erm...decent music...enjoy!!!",
       "releaseDate": "25 December 2013",
-      "shortName": "AIDM - Volume 38"
+      "shortName": "AIDM - Volume 36"
+    },
+    {
+      "category": "special",
+      "coverArtDate": "2023-08-07T19:59:11.311Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/1/6/0/6/c8fa-087c-470f-99af-6554242fc279",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/1/6/0/6/c8fa-087c-470f-99af-6554242fc279",
+      "duration": "56:45",
+      "fileName": "nyc_2_v4.mp3",
+      "listOrder": 36,
+      "mixcloudKey": "a-new-york-city-mix-you-devious-bastard",
+      "name": "A special mix for a special city New York City Mix",
+      "notes": "",
+      "releaseDate": "25 December 2013",
+      "shortName": "A New York City Mix (You Devious Bastard)"
+    },
+    {
+      "category": "mpos",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "duration": "1:34:31",
+      "fileName": "My_Pair_of_Shoes_Vol._80_hifi.mp3",
+      "listOrder": 80,
+      "mixcloudKey": "my-pair-of-shoes-volume-80",
+      "name": "My Pair of Shoes - Volume 80",
+      "notes": "Compiled & LIVE mixed by Stef",
+      "releaseDate": "August 2013",
+      "shortName": "MPOS - Volume 80"
     }
   ]
 }

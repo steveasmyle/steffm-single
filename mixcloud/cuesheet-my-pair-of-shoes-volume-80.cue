@@ -1,0 +1,71 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 80"
+FILE "My_Pair_of_Shoes_Vol._80_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Mistura feat. Kendra Cash"
+TITLE "Smile"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Squarehead"
+TITLE "Elegante"
+INDEX 01 04:50:00
+TRACK 02 AUDIO
+PERFORMER "Mekkah feat. Stephen Granville"
+TITLE "Dimensions (I'm Happy)"
+INDEX 01 10:40:00
+TRACK 03 AUDIO
+PERFORMER "Jamiroquai"
+TITLE "Stillness In Time"
+INDEX 01 17:31:00
+TRACK 04 AUDIO
+PERFORMER "J Paul Getto"
+TITLE "No Doubt About It"
+INDEX 01 23:27:00
+TRACK 05 AUDIO
+PERFORMER "Samir Maslo"
+TITLE "Can You Feel The Force"
+INDEX 01 27:35:00
+TRACK 06 AUDIO
+PERFORMER "Marc Evans"
+TITLE "Supernatural"
+INDEX 01 33:00:00
+TRACK 07 AUDIO
+PERFORMER "BabySitters"
+TITLE "U Took My Love"
+INDEX 01 38:25:00
+TRACK 08 AUDIO
+PERFORMER "Viceroy & WhiteNoize"
+TITLE "Only Takes"
+INDEX 01 44:36:00
+TRACK 09 AUDIO
+PERFORMER "Spiritchaser"
+TITLE "Not Far"
+INDEX 01 50:16:00
+TRACK 10 AUDIO
+PERFORMER "Akabu feat. Alex Mills"
+TITLE "Everybody Wants Something"
+INDEX 01 53:25:00
+TRACK 11 AUDIO
+PERFORMER "J Paul Getto"
+TITLE "Love Today"
+INDEX 01 58:50:00
+TRACK 12 AUDIO
+PERFORMER "Booker T & Katherine Ellis"
+TITLE "Give Me Joy"
+INDEX 01 63:25:00
+TRACK 13 AUDIO
+PERFORMER "Rhemi feat. Lynn Lockamy"
+TITLE "Warning"
+INDEX 01 69:21:00
+TRACK 14 AUDIO
+PERFORMER "Ralf Gum feat Kenny Bobien"
+TITLE "The Only Way"
+INDEX 01 75:00:00
+TRACK 15 AUDIO
+PERFORMER "Yass feat. Inaya Day"
+TITLE "Bring It Up"
+INDEX 01 82:44:00
+TRACK 16 AUDIO
+PERFORMER "Monocles & Slezz"
+TITLE "Jukebox"
+INDEX 01 89:28:00
