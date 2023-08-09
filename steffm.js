@@ -462,6 +462,30 @@ async function loadNewMix(mixcloudKey) {
 }
 //#endregion
 
+// SHARING
+//#region
+function getMixcloudKeyFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('m');
+}
+
+function createShareURL(mixcloudKey) {
+    return `${window.location.origin}${window.location.pathname}?m=${mixcloudKey}`;
+}
+
+function copyShareURL(mixcloudKey) {
+    const shareURL = createShareURL(mixcloudKey);
+
+    navigator.clipboard.writeText(shareURL)
+        .then(() => {
+            console.log('Share URL copied to clipboard:', shareURL);
+        })
+        .catch(err => {
+            console.error('Failed to copy the URL to the clipboard:', err);
+        });
+}
+//#endregion
+
 // LISTENERS
 //#region
 function pauseListener() {
@@ -1327,7 +1351,12 @@ window.onload = function() {
             mixState.mixcloudHeaderInfo = json;
 
             if (config.loadMixcloud) {
-                selectRandomTrack();
+                const keyFromURL = getMixcloudKeyFromURL();
+                if (keyFromURL) {
+                    loadNewMix(keyFromURL);
+                } else {
+                    selectRandomTrack();
+                }
             }
 
             populateCategoryList();
@@ -1359,6 +1388,9 @@ window.onload = function() {
     document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
     document.getElementById('skipNext').addEventListener('click', skipNext);
     document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
+    document.getElementById('share').addEventListener('click', function(event) {
+        copyShareURL(mixState.mixcloudKey);
+    });
     document.getElementById('about').addEventListener('click', function(event) {
         const articleTitle = "About Stef.FM";
         showArticle(event, articleTitle);

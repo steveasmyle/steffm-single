@@ -441,7 +441,7 @@ h1 {
 }
 .player fieldset, .player .mixcloud, .playlist .nav {
 	overflow: hidden;
-	width: 19.3125em;
+	width: 23.875em;
 	padding-right: 0.0625em;
 	background: var(--pcbColor);
 	-webkit-background-clip: padding-box;
@@ -466,7 +466,7 @@ h1 {
 .player fieldset:first-of-type {
 	float: left;
 	width: 5.0625em;
-	margin-right: 4.5em;
+	margin-right: 0;
 	border-radius: 1.0625em;
 	border-width: 0.5em;
 }
