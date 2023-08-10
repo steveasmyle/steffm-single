@@ -2,246 +2,246 @@
   "mixcloudKey": "my-pair-of-shoes-volume-92",
   "tracks": [
     {
-      "publisher": "Pin Up Recordings",
-      "startTime": "00:00",
-      "trackName": "Are You",
       "artistName": "Munchies",
       "coverArtDate": "2023-07-15T19:18:14.788Z",
       "coverArtLarge": "https://i.discogs.com/VrEt18fUM0loppilnqD2vcXi-D2deanHBUTHTTpSNcY/rs:fit/g:sm/q:90/h:154/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjAz/NS0xNjA4OTkzNzI1/LTU3NTcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/kEiwXGK5SAL0fRvIjLdvejHJ9ErFHQ-GK-VkJF-eZss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjAz/NS0xNjA4OTkzNzI1/LTU3NTcuanBlZw.jpeg",
+      "publisher": "Pin Up Recordings",
+      "remixArtistName": "Tom Drummond Remix",
       "sectionNumber": 1,
-      "remixArtistName": "Tom Drummond Remix"
+      "startTime": "00:00",
+      "trackName": "Are You"
     },
     {
-      "publisher": "Discotexas",
-      "startTime": "05:40",
-      "trackName": "Don't You Feel",
       "artistName": "Moullinex",
       "coverArtDate": "2023-07-15T19:18:16.151Z",
       "coverArtLarge": "https://i.discogs.com/9ElTHFljUgf26BuzOMECRPegNwb5XTcMtdSUDOMqoVk/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjAw/MTEtMTQzNDE1NjU2/NS04NjQ1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/XCpd9-pDBArvL1dkFzchFkO7-b-HimQqINPpnEcFdNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjAw/MTEtMTQzNDE1NjU2/NS04NjQ1LmpwZWc.jpeg",
+      "publisher": "Discotexas",
+      "remixArtistName": "Crackazat Remix",
       "sectionNumber": 2,
-      "remixArtistName": "Crackazat Remix"
+      "startTime": "05:40",
+      "trackName": "Don't You Feel"
     },
     {
-      "publisher": "Splash Music Productions",
-      "startTime": "10:50",
-      "trackName": "Believe In Love",
       "artistName": "JD73 feat. Fraser",
       "coverArtDate": "2023-07-15T19:18:17.635Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Splash Music Productions",
+      "remixArtistName": "JD73's Re-Twist",
       "sectionNumber": 3,
-      "remixArtistName": "JD73's Re-Twist"
+      "startTime": "10:50",
+      "trackName": "Believe In Love"
     },
     {
-      "publisher": "Nervous",
-      "startTime": "16:03",
-      "trackName": "Timmy's Choir",
       "artistName": "Timmy Vegas",
       "coverArtDate": "2023-07-15T19:18:19.000Z",
       "coverArtLarge": "https://i.discogs.com/Ge-gtE6E7utc_TBpMwTFDBaa97rlSV6SSmq7TUBGwj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTk2/NDctMTQ0Mjc1MzI4/Ny0zMTQwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/QTOMeWyswcc5mmnRvdq2EgDP-W0W3m_H7uJhO53-2gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTk2/NDctMTQ0Mjc1MzI4/Ny0zMTQwLmpwZWc.jpeg",
+      "publisher": "Nervous",
+      "remixArtistName": "Soulful Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Soulful Mix"
+      "startTime": "16:03",
+      "trackName": "Timmy's Choir"
     },
     {
-      "publisher": "Guesthouse Music",
-      "startTime": "21:27",
-      "trackName": "Strong",
       "artistName": "J Paul Getto",
       "coverArtDate": "2023-07-15T19:18:20.377Z",
       "coverArtLarge": "https://i.discogs.com/2Bm0-UCoUsqbuS2S0PkW94UghjczpcwVHcQEI9BHU5Q/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/ODAtMTM1NzIyMjky/OC05MjY3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/vffWkbeUTC0mzLtkf4zpT_QUWINNNMYXJY1olWn0DFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk2/ODAtMTM1NzIyMjky/OC05MjY3LmpwZWc.jpeg",
+      "publisher": "Guesthouse Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "21:27",
+      "trackName": "Strong"
     },
     {
-      "publisher": "Hot Stuff",
-      "startTime": "24:17",
-      "trackName": "Say To Ya",
       "artistName": "Jay Vegas",
       "coverArtDate": "2023-07-15T19:18:21.979Z",
       "coverArtLarge": "https://i.discogs.com/aoBEwjtr0ToRyOf2G3vGI13oy4RZ3jHlxKvakofwNYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTgw/ODU0LTE2MTIwMjYz/MDUtNDk1OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/1dzU0Eq4YoZs5_QIY4OmR_GJysRd_8DmwzPc1OdhRG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTgw/ODU0LTE2MTIwMjYz/MDUtNDk1OS5qcGVn.jpeg",
+      "publisher": "Hot Stuff",
+      "remixArtistName": "J Paul Getto Remix",
       "sectionNumber": 6,
-      "remixArtistName": "J Paul Getto Remix"
+      "startTime": "24:17",
+      "trackName": "Say To Ya"
     },
     {
-      "publisher": "Quantize Recordings",
-      "startTime": "29:05",
-      "trackName": "Tenderness",
       "artistName": "Antonello Ferrari, Aldo Bergamasco &  Michele Chiavarini feat. Samantha Johnson",
       "coverArtDate": "2023-07-15T19:18:23.434Z",
       "coverArtLarge": "https://i.discogs.com/WeR2MPlOuwi57UXtXGekr_VFFVbhesjUrygnMb6ie-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzk3/MTQtMTQ0ODYyMTky/Ni01NDYxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZI1r3CfPGwFyn6KvFM5S0vLBuu1I8h1N-LfYxIHw1u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzk3/MTQtMTQ0ODYyMTky/Ni01NDYxLmpwZWc.jpeg",
+      "publisher": "Quantize Recordings",
+      "remixArtistName": "Michele Chiavarini Remix",
       "sectionNumber": 7,
-      "remixArtistName": "Michele Chiavarini Remix"
+      "startTime": "29:05",
+      "trackName": "Tenderness"
     },
     {
-      "publisher": "Tasty Recordings",
-      "startTime": "36:17",
-      "trackName": "Dreamin'",
       "artistName": "Boogie Freaks",
       "coverArtDate": "2023-07-15T19:18:24.835Z",
       "coverArtLarge": "https://i.discogs.com/samQNkRz_3GZYOE9ng7HjY02-regoaHsy6kyC4Zsvf8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/MTcyLTE1Mjk0ODUz/NzctMTc0MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/uqQ75PDM_Aapu97ZwOWgdzTNQKGfuaUZW7CIbhtRWgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/MTcyLTE1Mjk0ODUz/NzctMTc0MC5qcGVn.jpeg",
+      "publisher": "Tasty Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Mix"
+      "startTime": "36:17",
+      "trackName": "Dreamin'"
     },
     {
-      "publisher": "Tasty Recordings",
-      "startTime": "40:34",
-      "trackName": "The Comeback",
       "artistName": "Serial Thrilla",
       "coverArtDate": "2023-07-15T19:18:26.164Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Tasty Recordings",
+      "remixArtistName": "Dub Mix",
       "sectionNumber": 9,
-      "remixArtistName": "Dub Mix"
+      "startTime": "40:34",
+      "trackName": "The Comeback"
     },
     {
-      "publisher": "Salted Music",
-      "startTime": "45:48",
-      "trackName": "My Love My Sins",
       "artistName": "Sebb Junior",
       "coverArtDate": "2023-07-15T19:18:27.513Z",
       "coverArtLarge": "https://i.discogs.com/x8lQ02otkzcc86dYwQe3YRE9hLn4TInihd7rJaDwlCc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODgz/MzYtMTQ0Njc2MDY5/NS03MTAzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/wZqwbja-gAYj3usyiAcQHIeb3ES60JKYc8YIxM8COLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODgz/MzYtMTQ0Njc2MDY5/NS03MTAzLmpwZWc.jpeg",
+      "publisher": "Salted Music",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "45:48",
+      "trackName": "My Love My Sins"
     },
     {
-      "publisher": "Unique 2 Rhythm",
-      "startTime": "51:36",
-      "trackName": "Together",
       "artistName": "JC Unique",
       "coverArtDate": "2023-07-15T19:18:28.898Z",
       "coverArtLarge": "https://i.discogs.com/5pGNB69IIQx8qJRVqLMz_NRqSJHDIE9XDgW0DR7oln0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTE0/My0xNDEwMjk4NzQ1/LTQ4NjguanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/gk0jquvqDmx-l0540b3b8YNRY2rAptB1ePX6OMtnsAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTE0/My0xNDEwMjk4NzQ1/LTQ4NjguanBlZw.jpeg",
+      "publisher": "Unique 2 Rhythm",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 11,
-      "remixArtistName": "Original Mix"
+      "startTime": "51:36",
+      "trackName": "Together"
     },
     {
-      "publisher": "Honeycomb Music",
-      "startTime": "55:59",
-      "trackName": "Something For Nothing ",
       "artistName": "Sheree Hicks",
       "coverArtDate": "2023-07-15T19:18:30.313Z",
       "coverArtLarge": "https://i.discogs.com/7ASUMF4fG93-py5Vq8MmUb2tsb7lnXtYn_dmdYyLykA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcz/Mjg5LTE1ODc2NTAw/MjItNzcxNi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/C4jo2TS_oO1-D5pOriAccn3_ih5wUEPJUJVAwv7wlRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcz/Mjg5LTE1ODc2NTAw/MjItNzcxNi5qcGVn.jpeg",
+      "publisher": "Honeycomb Music",
+      "remixArtistName": "Honeycomb Old School Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Honeycomb Old School Mix"
+      "startTime": "55:59",
+      "trackName": "Something For Nothing "
     },
     {
-      "publisher": "PPMusic",
-      "startTime": "1:04:14",
-      "trackName": "Michael",
       "artistName": "DJ PP",
       "coverArtDate": "2023-07-15T19:18:32.126Z",
       "coverArtLarge": "https://i.discogs.com/wuO5lkkHfwH5C4vSkxIpEcWh7oeBO9-K2-zculjnK4o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzcw/MTAtMTQxNTQ2NTA5/MS00NzM0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ohueSTUzhmvERgKWTnB4uQINhfRXa626tkNzEAacyZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzcw/MTAtMTQxNTQ2NTA5/MS00NzM0LmpwZWc.jpeg",
+      "publisher": "PPMusic",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 13,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:04:14",
+      "trackName": "Michael"
     },
     {
-      "publisher": "D#Sharp Records",
-      "startTime": "1:09:08",
-      "trackName": "It's Because",
       "artistName": "Roxanna Lynn",
       "coverArtDate": "2023-07-15T19:18:33.502Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "D#Sharp Records",
+      "remixArtistName": "DJ Gary B Remix",
       "sectionNumber": 14,
-      "remixArtistName": "DJ Gary B Remix"
+      "startTime": "1:09:08",
+      "trackName": "It's Because"
     },
     {
-      "publisher": "Grin Traxx",
-      "startTime": "1:15:22",
-      "trackName": "Catch The Train",
       "artistName": "DeezBootz",
       "coverArtDate": "2023-07-15T19:18:34.953Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Grin Traxx",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 15,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:15:22",
+      "trackName": "Catch The Train"
     },
     {
-      "publisher": "Doin Work Records",
-      "startTime": "1:21:00",
-      "trackName": "The Last Time",
       "artistName": "J. Lettow",
       "coverArtDate": "2023-07-15T19:18:36.409Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Doin Work Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 16,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:21:00",
+      "trackName": "The Last Time"
     },
     {
-      "publisher": "Tasty Recordings",
-      "startTime": "1:26:55",
-      "trackName": "Forever",
       "artistName": "Boogie Freaks",
       "coverArtDate": "2023-07-15T19:18:37.926Z",
       "coverArtLarge": "https://i.discogs.com/MVRJXbNG2Y5epLid5e5BaWEGO1bpb62HHYAptcvotrA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg3/ODYtMTUxOTQ2Njgy/MC03MTkzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DCOqqqPxc2YXb_el4dGaaFuWWBuKC3gtq-DYPgTzuVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg3/ODYtMTUxOTQ2Njgy/MC03MTkzLmpwZWc.jpeg",
+      "publisher": "Tasty Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 17,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:26:55",
+      "trackName": "Forever"
     },
     {
-      "publisher": "Good For You Records",
-      "startTime": "1:32:04",
-      "trackName": "Piano On Fleek",
       "artistName": "Kenny Summit",
       "coverArtDate": "2023-07-15T19:18:39.286Z",
       "coverArtLarge": "https://i.discogs.com/rCMhCqAoqujM_4729Q5uR_ZHIygON5iUc-TPJA59MIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDI0/NTMtMTQ0Nzg1MzE5/OC0yNzE4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/BpIWU-Q6znrQY9QXmNhN94xoL9XsJQh4rqRRtxx19dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDI0/NTMtMTQ0Nzg1MzE5/OC0yNzE4LmpwZWc.jpeg",
+      "publisher": "Good For You Records",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:32:04",
+      "trackName": "Piano On Fleek"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "1:37:45",
-      "trackName": "Holding On",
       "artistName": "Sean McCabe",
       "coverArtDate": "2023-07-15T19:18:41.034Z",
       "coverArtLarge": "https://i.discogs.com/INlhHejaXrgEbQPDl8jhINi0rUSNzlh9Mu_TCMibQe0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU5/ODEtMTQxNDE3NjQ3/OC05MjY4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/J3o-P2qGfFjFyBZNqAZz_7XoneX8HHuCuOehmfqButw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU5/ODEtMTQxNDE3NjQ3/OC05MjY4LmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Crackazat Remix",
       "sectionNumber": 19,
-      "remixArtistName": "Crackazat Remix"
+      "startTime": "1:37:45",
+      "trackName": "Holding On"
     },
     {
-      "publisher": "Local Talk",
-      "startTime": "1:43:25",
-      "trackName": "Still in Love",
       "artistName": "Shuya Okino",
       "coverArtDate": "2023-07-15T19:18:42.537Z",
       "coverArtLarge": "https://i.discogs.com/nnlDJQAUtHnwF1HPCtzl0aA8xmFYXyuO0ufqW_JYtFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIx/NDMtMTU3MDI1NzUw/Mi04MTQxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/CyGrxzuXC5b6ZdpTEqU-Evfhu2bZOFfadI_4HWjxFBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIx/NDMtMTU3MDI1NzUw/Mi04MTQxLmpwZWc.jpeg",
+      "publisher": "Local Talk",
+      "remixArtistName": "Kyodai Remix",
       "sectionNumber": 20,
-      "remixArtistName": "Kyodai Remix"
+      "startTime": "1:43:25",
+      "trackName": "Still in Love"
     },
     {
-      "publisher": "Drum Records",
-      "startTime": "1:47:15",
-      "trackName": "On It",
       "artistName": "Lee Tristram feat. Sandy Spady",
       "coverArtDate": "2023-07-15T19:18:43.958Z",
       "coverArtLarge": "https://i.discogs.com/z790ZVRTbthb5jtQ2C5AEMu2Rq9GxC1Gm4nvLZMZ20g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDkz/MTItMTQ2NTA1OTA4/NS02OTExLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/IOQkGhV8OQA1n6kOb1WSFUXN_ciRiLnilLAQAbC6hdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDkz/MTItMTQ2NTA1OTA4/NS02OTExLmpwZWc.jpeg",
+      "publisher": "Drum Records",
+      "remixArtistName": "Black Sonix Afro Conspiracy Mix",
       "sectionNumber": 21,
-      "remixArtistName": "Black Sonix Afro Conspiracy Mix"
+      "startTime": "1:47:15",
+      "trackName": "On It"
     },
     {
-      "publisher": "Deeper Shades Recordings",
-      "startTime": "1:56:36",
-      "trackName": "Stars (Everlasting Love)",
       "artistName": "Ultra Tone feat. Vaalsow & DJ Sue",
       "coverArtDate": "2023-07-15T19:18:45.346Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Deeper Shades Recordings",
+      "remixArtistName": "DeejayKul Meets Soultechnic Remix",
       "sectionNumber": 22,
-      "remixArtistName": "DeejayKul Meets Soultechnic Remix"
+      "startTime": "1:56:36",
+      "trackName": "Stars (Everlasting Love)"
     }
   ]
 }

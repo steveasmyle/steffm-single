@@ -2,136 +2,136 @@
   "mixcloudKey": "my-pair-of-shoes-volume-83",
   "tracks": [
     {
-      "publisher": "Urban Lounge Music",
-      "startTime": "00:00",
-      "trackName": "Find You",
       "artistName": "Lem Springsteen",
       "coverArtDate": "2023-08-03T20:39:13.981Z",
       "coverArtLarge": "https://i.discogs.com/3VOkFZQVuyS01fn2Jxs-zTA2Z5szd9kF3nqg2K__Xzk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjAz/MC0xNTg1NjU4MzU5/LTk3NDIuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/Mu1zX0-zUsrXuZ2zJoFFlm3h-UbdP1yxmh67h0y2iUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjAz/MC0xNTg1NjU4MzU5/LTk3NDIuanBlZw.jpeg",
+      "publisher": "Urban Lounge Music",
+      "remixArtistName": "Vocal Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Vocal Mix"
+      "startTime": "00:00",
+      "trackName": "Find You"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "04:56",
-      "trackName": "Definition Of Luv",
       "artistName": "Joey Negro & The Sunburst Band",
       "coverArtDate": "2023-08-03T20:39:18.231Z",
       "coverArtLarge": "https://i.discogs.com/Gu5oIPF14HVXQfIvXrC6XF3QvPeKs4baJSYx_XA5e_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjcw/MjEtMTM0MTk0MDg2/MC02MzgwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/HjfWIBeRt-NaXCggKllGlH29hnI68YkeS78UthWCQLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjcw/MjEtMTM0MTk0MDg2/MC02MzgwLmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Sean McCabe Remix",
       "sectionNumber": 2,
-      "remixArtistName": "Sean McCabe Remix"
+      "startTime": "04:56",
+      "trackName": "Definition Of Luv"
     },
     {
-      "publisher": "Sing Street",
-      "startTime": "10:46",
-      "trackName": "Not This Time",
       "artistName": "Namy & Kathy Brown",
       "coverArtDate": "2023-08-03T20:39:19.831Z",
       "coverArtLarge": "https://i.discogs.com/25HcrfA7eFkzYmYizod_cgwWGcGLzI3GWAVZW8JgdM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzI4/MDYtMTQzOTEyMjg2/NC01NDQyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/JEWyk9CWD2vOtv8xdmhyRn7o7lZhItdyUmpj-7dvKnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzI4/MDYtMTQzOTEyMjg2/NC01NDQyLmpwZWc.jpeg",
+      "publisher": "Sing Street",
+      "remixArtistName": "Director's Cut Classic Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Director's Cut Classic Mix"
+      "startTime": "10:46",
+      "trackName": "Not This Time"
     },
     {
-      "publisher": "23 Precinct",
-      "startTime": "19:12",
-      "trackName": "So In Love With You",
       "artistName": "Duke",
       "coverArtDate": "2023-08-03T20:39:21.568Z",
       "coverArtLarge": "https://i.discogs.com/MRxs0IXvqZjSXZcrGW0gJl-nNva85UQyzd_bjEgTEIY/rs:fit/g:sm/q:90/h:425/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI4/MS0xMTMyNzg0Mzg0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/gJ5awlHfTqBH-QdjqhnNP8T1WPbT0ZlbefsDV0sCcE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjI4/MS0xMTMyNzg0Mzg0/LmpwZWc.jpeg",
+      "publisher": "23 Precinct",
+      "remixArtistName": "Triple Dee vs K-Klass Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Triple Dee vs K-Klass Mix"
+      "startTime": "19:12",
+      "trackName": "So In Love With You"
     },
     {
-      "publisher": "In My House",
-      "startTime": "23:45",
-      "trackName": "Tonight",
       "artistName": "Samir Maslo feat. Keith Thompson",
       "coverArtDate": "2023-08-03T20:39:23.429Z",
       "coverArtLarge": "https://i.discogs.com/KwaOYlf3AWky3zrsOhIjyeRvauagqOHv_k8GrO9EhXU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk1/MTQtMTQyNzcxNzM1/Ni0yMzQ2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/86EW4PQjAPlfMGrVc7PkCn3v5zcA5B8Sng27RA1ZNMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk1/MTQtMTQyNzcxNzM1/Ni0yMzQ2LmpwZWc.jpeg",
+      "publisher": "In My House",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "23:45",
+      "trackName": "Tonight"
     },
     {
-      "publisher": "Tony Records",
-      "startTime": "28:06",
-      "trackName": "My Baby",
       "artistName": "Soulful Session starring Leanne",
       "coverArtDate": "2023-08-03T20:39:25.055Z",
       "coverArtLarge": "https://i.discogs.com/-vanVO58ig30fjhqQLtyOQ6q6r3Hsi0cbGz7KYHaNsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDQy/MTQtMTQ4MzUyMjI3/Mi0xODg5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/HdvVKB323EOt7UnEWcyUb530COTNeobQL2iQJATKcP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDQy/MTQtMTQ4MzUyMjI3/Mi0xODg5LmpwZWc.jpeg",
+      "publisher": "Tony Records",
+      "remixArtistName": "Original",
       "sectionNumber": 6,
-      "remixArtistName": "Original"
+      "startTime": "28:06",
+      "trackName": "My Baby"
     },
     {
-      "publisher": "Papa Records",
-      "startTime": "34:46",
-      "trackName": "Live Without Love",
       "artistName": "Imaani",
       "coverArtDate": "2023-08-03T20:39:27.506Z",
       "coverArtLarge": "https://i.discogs.com/4P5WeLQ6XNA75v6DPtnfYBO8owjzpHHIDRvluClIceA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDI5/MzgtMTM4ODUzNjc3/OC05NTQzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/4HAchB6VPMUyfUA5Wlz8eVTIJB2NvRDrRkn3Lucycf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDI5/MzgtMTM4ODUzNjc3/OC05NTQzLmpwZWc.jpeg",
+      "publisher": "Papa Records",
+      "remixArtistName": "Audiowhores Remix",
       "sectionNumber": 7,
-      "remixArtistName": "Audiowhores Remix"
+      "startTime": "34:46",
+      "trackName": "Live Without Love"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "41:17",
-      "trackName": "Follow Your Dreams",
       "artistName": "Michelle  Weeks",
       "coverArtDate": "2023-08-03T20:39:29.656Z",
       "coverArtLarge": "https://i.discogs.com/OIcUPx-FyhbqrjN7Ny7b3CFPRh2kEeaUIUBslJNYzm8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzUw/LTE0MzIxMTcwMzQt/NjM0MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/axfZQYX1t31VCby7CyfpOS3QXh52UXej4CY8nV2tnDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NzUw/LTE0MzIxMTcwMzQt/NjM0MS5qcGVn.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Sounds Of Life Main Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Sounds Of Life Main Mix"
+      "startTime": "41:17",
+      "trackName": "Follow Your Dreams"
     },
     {
-      "publisher": "2DIY4",
-      "startTime": "46:39",
-      "trackName": "La Fique",
       "artistName": "Robosonic, Adana Twins",
       "coverArtDate": "2023-08-03T20:39:31.450Z",
       "coverArtLarge": "https://i.discogs.com/bijKmpUaTVaEvDXxTVGH0MXJA74LEPvsYEP5Z70yNdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE2/NTktMTM4OTA5OTkw/NC05MDA2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Y74wGZ6JsArezF58rwtyDmxjj8f2LEEtH8BqJvtLLMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE2/NTktMTM4OTA5OTkw/NC05MDA2LmpwZWc.jpeg",
+      "publisher": "2DIY4",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 9,
-      "remixArtistName": "Original Mix"
+      "startTime": "46:39",
+      "trackName": "La Fique"
     },
     {
-      "publisher": "Quantize Recordings",
-      "startTime": "53:07",
-      "trackName": "1 World",
       "artistName": "Michele Chiavarini",
       "coverArtDate": "2023-08-03T20:39:33.826Z",
       "coverArtLarge": "https://i.discogs.com/2Hr4NdpAH7lTQyspPqfn7jHvDMTumUVam4D0AVrzgCU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ3/NTMtMTQzODAwNDQz/OC01NTQ5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/b0znpShnMZ7k0eJTRi0pt1Hwmf6ggED0RO5PpLFST2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ3/NTMtMTQzODAwNDQz/OC01NTQ5LmpwZWc.jpeg",
+      "publisher": "Quantize Recordings",
+      "remixArtistName": "Original Church Of Soul Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Church Of Soul Mix"
+      "startTime": "53:07",
+      "trackName": "1 World"
     },
     {
-      "publisher": "CDr",
-      "startTime": "1:01:34",
-      "trackName": "Burnin'",
       "artistName": "Gigamesh",
       "coverArtDate": "2023-08-03T20:39:37.267Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "CDr",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "1:01:34",
+      "trackName": "Burnin'"
     },
     {
-      "publisher": "We Play",
-      "startTime": "1:05:24",
-      "trackName": "Forever",
       "artistName": "Medina",
       "coverArtDate": "2023-08-03T20:39:41.541Z",
       "coverArtLarge": "https://i.discogs.com/7QIaFYXtLwvYbnK_CS6qDAX8dzZK9m1ZVEvSjY6yYj8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA0/OTUtMTM0MTU2NDE5/NS0zNzMxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/UrWDOCF9jgXxvCfKYh4z_XZ2DijbC6eSdShSC1CVQAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA0/OTUtMTM0MTU2NDE5/NS0zNzMxLmpwZWc.jpeg",
+      "publisher": "We Play",
+      "remixArtistName": "DJ Tonka True House Mix",
       "sectionNumber": 12,
-      "remixArtistName": "DJ Tonka True House Mix"
+      "startTime": "1:05:24",
+      "trackName": "Forever"
     }
   ]
 }

@@ -2,136 +2,136 @@
   "mixcloudKey": "adventures-in-decent-music-volume-36",
   "tracks": [
     {
-      "publisher": "Muzik Magazine",
-      "startTime": "00:00",
-      "trackName": "The Scene (Revisited)",
       "artistName": "Love Rec vs. Karmen Ellis",
       "coverArtDate": "2023-08-06T20:20:03.486Z",
       "coverArtLarge": "https://i.discogs.com/KE0QB_exo7WvuUp09SCp3msPfAkGosQYC42o8axZuBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/LTE0NDgzMDkzNDQt/NDM4OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/x4fm1Alcm1-axzhyOQ_FJcOLX2DLV6PV0w5gVnKS8nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ5/LTE0NDgzMDkzNDQt/NDM4OC5qcGVn.jpeg",
+      "publisher": "Muzik Magazine",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "The Scene (Revisited)"
     },
     {
-      "publisher": "Oyster Music",
-      "startTime": "05:02",
-      "trackName": "Let It Go",
       "artistName": "Shaun Escoffery",
       "coverArtDate": "2023-08-06T20:20:05.750Z",
       "coverArtLarge": "https://i.discogs.com/1HN40eq6HtgIWK2DCTAqfwOV02Fs-5hQdMSn-3cvM0w/rs:fit/g:sm/q:90/h:375/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg5/OC0xMTU2NjczNzYx/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/mMYuoQU0wUDfbA7xMgcntpMKhJxOBe39GssTZOtKfro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njg5/OC0xMTU2NjczNzYx/LmpwZWc.jpeg",
+      "publisher": "Oyster Music",
+      "remixArtistName": "Jazzanova Mix",
       "sectionNumber": 2,
-      "remixArtistName": "Jazzanova Mix"
+      "startTime": "05:02",
+      "trackName": "Let It Go"
     },
     {
-      "publisher": "Music Plan",
-      "startTime": "11:16",
-      "trackName": "Tropicana",
       "artistName": "KPD",
       "coverArtDate": "2023-08-06T20:20:07.122Z",
       "coverArtLarge": "https://i.discogs.com/CGzQXTwHHX74ZEgIAPsa1N7cQn3EAjR1U6GgLGsg_uo/rs:fit/g:sm/q:90/h:167/w:167/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzgx/MzYtMTM2Nzc0NTMx/OS0xNDMwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_f80MpoCRwDuFxaeefIDBnnz5UW3NhXFSFTZ8j9UvM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzgx/MzYtMTM2Nzc0NTMx/OS0xNDMwLmpwZWc.jpeg",
+      "publisher": "Music Plan",
+      "remixArtistName": "KPD Original Mix",
       "sectionNumber": 3,
-      "remixArtistName": "KPD Original Mix"
+      "startTime": "11:16",
+      "trackName": "Tropicana"
     },
     {
-      "publisher": "House Africa",
-      "startTime": "14:38",
-      "trackName": "Falling For You",
       "artistName": "Rocco ft Ziyon",
       "coverArtDate": "2023-08-06T20:20:08.470Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "House Africa",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "14:38",
+      "trackName": "Falling For You"
     },
     {
-      "publisher": "RCA",
-      "startTime": "21:06",
-      "trackName": "Free And Easy",
       "artistName": "Plush",
       "coverArtDate": "2023-08-06T20:20:10.094Z",
       "coverArtLarge": "https://i.discogs.com/2xrvrNGJRlwtgy3TB1GqeffmaGYvrxNMdCvo4TYBp3w/rs:fit/g:sm/q:90/h:592/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDUy/OC0xMTc0MzExMTMx/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Vq7-CJr255AhvjWeZGbUJzvlL6-Cf4Sz-h1Y1umTRyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDUy/OC0xMTc0MzExMTMx/LmpwZWc.jpeg",
+      "publisher": "RCA",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "21:06",
+      "trackName": "Free And Easy"
     },
     {
-      "publisher": "Elektra",
-      "startTime": "25:41",
-      "trackName": "Don't You Want my Lovin'",
       "artistName": "Wanda Walden",
       "coverArtDate": "2023-08-06T20:20:11.677Z",
       "coverArtLarge": "https://i.discogs.com/SyaEfspFcdhj_zl_5goVdSfQfKRQZxcvmAy-QA3h4Xg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTY3/NS0xMTcwNzIzMDM3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/KcAlhepSYO4sjk2psu039HuM1jy66K-KQjJxC4T4hP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTY3/NS0xMTcwNzIzMDM3/LmpwZWc.jpeg",
+      "publisher": "Elektra",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "25:41",
+      "trackName": "Don't You Want my Lovin'"
     },
     {
-      "publisher": "Funky Town Grooves",
-      "startTime": "29:35",
-      "trackName": "Candidate For Love",
       "artistName": "T.S. Monk",
       "coverArtDate": "2023-08-06T20:20:13.215Z",
       "coverArtLarge": "https://i.discogs.com/KOdFvKKFZIAnP7OasHGeoG4xNySLAU5UVmK7x2_rv1k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzAz/ODktMTI5ODYwMzIz/NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/RJkDtoWBE5sZXTSAMBAOpZvlIR5SyJjTZNHyR6gxD8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzAz/ODktMTI5ODYwMzIz/NS5qcGVn.jpeg",
+      "publisher": "Funky Town Grooves",
+      "remixArtistName": "John Morales 2009 Reconstruction",
       "sectionNumber": 7,
-      "remixArtistName": "John Morales 2009 Reconstruction"
+      "startTime": "29:35",
+      "trackName": "Candidate For Love"
     },
     {
-      "publisher": "Hed Kandi Records",
-      "startTime": "32:51",
-      "trackName": "Do Or Don't",
       "artistName": "Yogi feat. Natalie Conway",
       "coverArtDate": "2023-08-06T20:20:14.646Z",
       "coverArtLarge": "https://i.discogs.com/KZdyVVe8WR8GGstVXsAzkkuJccNgi6FJE6QyjNsUCwM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg5/MDMtMTQzOTQ5MzQ4/OS02MzU5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/f9Y9FdmF0F3rHuIbyXShzMN8Za9ug7gcaBSO4_eyG0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg5/MDMtMTQzOTQ5MzQ4/OS02MzU5LmpwZWc.jpeg",
+      "publisher": "Hed Kandi Records",
+      "remixArtistName": "Original Vocal Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Vocal Mix"
+      "startTime": "32:51",
+      "trackName": "Do Or Don't"
     },
     {
-      "publisher": "Especial Records",
-      "startTime": "38:21",
-      "trackName": "Look Ahead",
       "artistName": "Shuya Okino",
       "coverArtDate": "2023-08-06T20:20:16.072Z",
       "coverArtLarge": "https://i.discogs.com/nnlDJQAUtHnwF1HPCtzl0aA8xmFYXyuO0ufqW_JYtFw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIx/NDMtMTU3MDI1NzUw/Mi04MTQxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/CyGrxzuXC5b6ZdpTEqU-Evfhu2bZOFfadI_4HWjxFBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDIx/NDMtMTU3MDI1NzUw/Mi04MTQxLmpwZWc.jpeg",
+      "publisher": "Especial Records",
+      "remixArtistName": "Shuya Okino Re-Edit",
       "sectionNumber": 9,
-      "remixArtistName": "Shuya Okino Re-Edit"
+      "startTime": "38:21",
+      "trackName": "Look Ahead"
     },
     {
-      "publisher": "Rota Enterprises",
-      "startTime": "44:27",
-      "trackName": "Sweet Jazz Music",
       "artistName": "Panaché (Just Brothers)",
       "coverArtDate": "2023-08-06T20:20:17.450Z",
       "coverArtLarge": "https://i.discogs.com/FShRGR5ZlZBU7YCj30_ZOBs7LYx59iS6CDgTM-WaQJo/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkx/OC0xNjI3NzA5MTA4/LTEyMDYuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/-j6bGfI6oeHeW7kAZKWYxbMt99AsD4e5WJG9mwy6ImM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTkx/OC0xNjI3NzA5MTA4/LTEyMDYuanBlZw.jpeg",
+      "publisher": "Rota Enterprises",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "44:27",
+      "trackName": "Sweet Jazz Music"
     },
     {
-      "publisher": "White Lamp",
-      "startTime": "52:00",
-      "trackName": "Make It Good",
       "artistName": "The White Lamp",
       "coverArtDate": "2023-08-06T20:20:19.360Z",
       "coverArtLarge": "https://i.discogs.com/U1o3TYhAqadZGy-Nq9Cgim3A5XwuuJuJHc6kDViIeEE/rs:fit/g:sm/q:90/h:190/w:190/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTI1/MjQtMTM1ODM2MTA4/MC0zNjEwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/vVhw7WRMkd6uk71UYclB8nJMOHwK8QfC4pGjdGRlRY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTI1/MjQtMTM1ODM2MTA4/MC0zNjEwLmpwZWc.jpeg",
+      "publisher": "White Lamp",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "52:00",
+      "trackName": "Make It Good"
     },
     {
-      "publisher": "BBE",
-      "startTime": "58:00",
-      "trackName": "Breakin' Down (Sugar Samba)",
       "artistName": "Julia & Company",
       "coverArtDate": "2023-08-06T20:20:20.997Z",
       "coverArtLarge": "https://i.discogs.com/WEwS1EWRSS5pVTVFso8uQdsoA6Ivj3CWGFuR7BVEB8A/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDY4/Ny0xMTU5Mjg0NjE1/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/a8kMqkszhIyCEWzwXfJaSe3ADoSIVFKzOUnyQIpsa-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDY4/Ny0xMTU5Mjg0NjE1/LmpwZWc.jpeg",
+      "publisher": "BBE",
+      "remixArtistName": "JM After-Session M&M Mix",
       "sectionNumber": 12,
-      "remixArtistName": "JM After-Session M&M Mix"
+      "startTime": "58:00",
+      "trackName": "Breakin' Down (Sugar Samba)"
     }
   ]
 }

@@ -2,136 +2,136 @@
   "mixcloudKey": "my-pair-of-shoes-volume-82",
   "tracks": [
     {
-      "publisher": "",
-      "startTime": "00:00",
-      "trackName": "Inaugural Speech 1994",
       "artistName": "Nelson Mandela (RIP)",
       "coverArtDate": "2023-08-06T20:19:44.557Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Inaugural Speech 1994"
     },
     {
-      "publisher": "Quantize Recordings",
-      "startTime": "01:04",
-      "trackName": "Drive Me Crazy",
       "artistName": "Tracy Hamlin",
       "coverArtDate": "2023-08-06T20:19:45.960Z",
       "coverArtLarge": "https://i.discogs.com/RqzVAeOWlkEGqu-AUN---HccXk0dQIT-SAn-u5gbPf0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTM0/MTQtMTQwOTg1OTg1/OS05OTM3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Y4uyrZAJ782-zPJmy66IANeyEEGehz27rB6z_yjUbd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTM0/MTQtMTQwOTg1OTg1/OS05OTM3LmpwZWc.jpeg",
+      "publisher": "Quantize Recordings",
+      "remixArtistName": "DJ Spen & Irvin Madden Phuture Of Da Dub",
       "sectionNumber": 2,
-      "remixArtistName": "DJ Spen & Irvin Madden Phuture Of Da Dub"
+      "startTime": "01:04",
+      "trackName": "Drive Me Crazy"
     },
     {
-      "publisher": "Reel People Music",
-      "startTime": "04:00",
-      "trackName": "What You Waitin' For",
       "artistName": "Tony Momrelle",
       "coverArtDate": "2023-08-06T20:19:47.408Z",
       "coverArtLarge": "https://i.discogs.com/MUgKbP9u8nAR0YHC8ryvNnEBMzpJHBytwVexTfFtZck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc3/OTUtMTQ0MDE4NDE5/NS0xNzI1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/0PuyZJic8vhUhQLSibWvYtpeYuwtesDa8gaXIzYXTSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc3/OTUtMTQ0MDE4NDE5/NS0xNzI1LmpwZWc.jpeg",
+      "publisher": "Reel People Music",
+      "remixArtistName": "Reel People Vocal Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Reel People Vocal Mix"
+      "startTime": "04:00",
+      "trackName": "What You Waitin' For"
     },
     {
-      "publisher": "Hed Kandi Records",
-      "startTime": "09:04",
-      "trackName": "Facts",
       "artistName": "Audiowhores feat. Stee Downes",
       "coverArtDate": "2023-08-06T20:19:48.839Z",
       "coverArtLarge": "https://i.discogs.com/LePaTAq_7mJbrO2UJrvFZbxOJHmsOFx2SqtBdipcS7Y/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/ODM1LTE1NDQxMTEy/MDItMzAzNC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/8n_xfMWZ1xU8yHsvXvwDQrcmyE1Jx1EMlBEJJlgnF1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/ODM1LTE1NDQxMTEy/MDItMzAzNC5qcGVn.jpeg",
+      "publisher": "Hed Kandi Records",
+      "remixArtistName": "Original Vibe",
       "sectionNumber": 4,
-      "remixArtistName": "Original Vibe"
+      "startTime": "09:04",
+      "trackName": "Facts"
     },
     {
-      "publisher": "Caballero Recordings",
-      "startTime": "14:03",
-      "trackName": "All About The 90s",
       "artistName": "Gilbert Le Funk",
       "coverArtDate": "2023-08-06T20:19:50.273Z",
       "coverArtLarge": "https://i.discogs.com/487I2heEFloc0k371tBzP_Gnvc3oYa3FVuMhmfKBnpM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjIy/MDktMTQxNjQyODgz/MS00OTA2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/4q2S4hZc3OZTHZTTYSHzcz1hDm7T15lj3DOwsqG7vUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjIy/MDktMTQxNjQyODgz/MS00OTA2LmpwZWc.jpeg",
+      "publisher": "Caballero Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "14:03",
+      "trackName": "All About The 90s"
     },
     {
-      "publisher": "FFRR",
-      "startTime": "19:40",
-      "trackName": "Shake That",
       "artistName": "Dansson & Marlon Hoffstadt",
       "coverArtDate": "2023-08-06T20:19:52.017Z",
       "coverArtLarge": "https://i.discogs.com/1bb8qGlZkupI1XvFrc6ZyuDj4PNiKMfuxA4jjNG2iek/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTI2/NDQtMTM2OTkyODAz/MS02ODIzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/xjiHoDalSArjexLMiA4E-mZZCjd7W5skM2h9PRiYbgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTI2/NDQtMTM2OTkyODAz/MS02ODIzLmpwZWc.jpeg",
+      "publisher": "FFRR",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Original Mix"
+      "startTime": "19:40",
+      "trackName": "Shake That"
     },
     {
-      "publisher": "White Label",
-      "startTime": "24:11",
-      "trackName": "Don't Stop 'Til You Get Enough",
       "artistName": "Michael Jackson",
       "coverArtDate": "2023-08-06T20:19:53.654Z",
       "coverArtLarge": "https://i.discogs.com/C6rFMiBESoAq7czH8d4KmfaetFGHVRX_uPW6_2vie3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODk2/My0xMzg3NTc4NDUw/LTkzNzMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/r5Cs5Lyyej7K4nRrc0EhRebq5WVx-6a2ZhZnJR9tJEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODk2/My0xMzg3NTc4NDUw/LTkzNzMuanBlZw.jpeg",
+      "publisher": "White Label",
+      "remixArtistName": "Gigamesh Remix",
       "sectionNumber": 7,
-      "remixArtistName": "Gigamesh Remix"
+      "startTime": "24:11",
+      "trackName": "Don't Stop 'Til You Get Enough"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "32:03",
-      "trackName": "Make Room For Me",
       "artistName": "Antonello Ferrari feat. Jennifer Wallace",
       "coverArtDate": "2023-08-06T20:19:55.087Z",
       "coverArtLarge": "https://i.discogs.com/pJbuk67WV3vyAcdIcCGDtoPT7gS9l_OVtLMe_T8pWZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTI1/NTEtMTQzMzU0MTI0/NC02Nzg5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/LPI81Z6qHuRWWnxehCYv_SlCkirk06VinWdkszFDL14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTI1/NTEtMTQzMzU0MTI0/NC02Nzg5LmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Joey Negro Extended Disco Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Joey Negro Extended Disco Mix"
+      "startTime": "32:03",
+      "trackName": "Make Room For Me"
     },
     {
-      "publisher": "Rhemi Music",
-      "startTime": "40:02",
-      "trackName": "Call On Me",
       "artistName": "Fanatix feat Sara Devine/Sterling Ensemble",
       "coverArtDate": "2023-08-06T20:19:57.547Z",
       "coverArtLarge": "https://i.discogs.com/nQ9djKOwVPwC4Q4sTzom0JrS8889KbGDIXZs6PWycQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDQ4/NDMtMTQ0NDk4ODE5/Mi01NTYyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/s4zhAxKkdVtCtaU_USOHV0m0DsPH3n40WneCxrsNx1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDQ4/NDMtMTQ0NDk4ODE5/Mi01NTYyLmpwZWc.jpeg",
+      "publisher": "Rhemi Music",
+      "remixArtistName": "DJ Spen, Gary Hudgins &  Thommy Davis Vocal Remix",
       "sectionNumber": 9,
-      "remixArtistName": "DJ Spen, Gary Hudgins &  Thommy Davis Vocal Remix"
+      "startTime": "40:02",
+      "trackName": "Call On Me"
     },
     {
-      "publisher": "Freerange Records",
-      "startTime": "47:28",
-      "trackName": "Woman",
       "artistName": "Detroit Swindle",
       "coverArtDate": "2023-08-06T20:19:58.980Z",
       "coverArtLarge": "https://i.discogs.com/I9tPsWtKw-IRZQ3IkqTLSh-NYL9VyQlA3_tU7k6wh2I/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQy/MzEtMTYzOTM4ODA0/OS0xMTA1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/UfFf3Tikv7Ia8Nsy3D5w-E-dOJMJ4KKm_9sxQ7mebzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQy/MzEtMTYzOTM4ODA0/OS0xMTA1LmpwZWc.jpeg",
+      "publisher": "Freerange Records",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "47:28",
+      "trackName": "Woman"
     },
     {
-      "publisher": "Free Kolour Rec.",
-      "startTime": "51:26",
-      "trackName": "In My Heart",
       "artistName": "Alex Agore ",
       "coverArtDate": "2023-08-06T20:20:00.413Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Free Kolour Rec.",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "51:26",
+      "trackName": "In My Heart"
     },
     {
-      "publisher": "Peppermint",
-      "startTime": "56:28",
-      "trackName": "Brother On The Run",
       "artistName": "Mousse T. feat. Boris Jennings",
       "coverArtDate": "2023-08-06T20:20:01.948Z",
       "coverArtLarge": "https://i.discogs.com/5ZEy3mfGjjsM7Jq0rFZNN2wRXtTsEcYRfuMIiTUYaY8/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg1/Mi0xMTcxNzQ5NDY3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/bvJ4_glpyWDNqiiQXPgy8240xxrjCbPhHhp7hfZdsRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg1/Mi0xMTcxNzQ5NDY3/LmpwZWc.jpeg",
+      "publisher": "Peppermint",
+      "remixArtistName": "The Reflex Dub",
       "sectionNumber": 12,
-      "remixArtistName": "The Reflex Dub"
+      "startTime": "56:28",
+      "trackName": "Brother On The Run"
     }
   ]
 }

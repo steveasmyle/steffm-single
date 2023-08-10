@@ -2,268 +2,268 @@
   "mixcloudKey": "my-pair-of-shoes-volume-88",
   "tracks": [
     {
-      "publisher": "Heist Recordings",
-      "startTime": "00:00",
-      "trackName": "The Breakup",
       "artistName": "Detroit Swindle",
       "coverArtDate": "2023-07-15T19:16:08.637Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Heist Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Original Mix"
+      "startTime": "00:00",
+      "trackName": "The Breakup"
     },
     {
-      "publisher": "Salted Music",
-      "startTime": "06:40",
-      "trackName": "Next Drop",
       "artistName": "Deeplomatik",
       "coverArtDate": "2023-07-15T19:16:10.217Z",
       "coverArtLarge": "https://i.discogs.com/FqAeX0pHp9JmRXrifTkjiDRyiK0Rc80cORppRprnDb8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTUx/NDAwLTE2NDM1Mzg4/NzAtNzE1Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/IZ5Y9EjB7oIqGxV1WurRU75f4N9zC7GATAUYgXs8GP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTUx/NDAwLTE2NDM1Mzg4/NzAtNzE1Mi5qcGVn.jpeg",
+      "publisher": "Salted Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 2,
-      "remixArtistName": "Original Mix"
+      "startTime": "06:40",
+      "trackName": "Next Drop"
     },
     {
-      "publisher": "Snazzy Traxx",
-      "startTime": "11:13",
-      "trackName": "Hot 97",
       "artistName": "Lombard Street",
       "coverArtDate": "2023-07-15T19:16:11.593Z",
       "coverArtLarge": "https://i.discogs.com/VdA6shgKAUsfGpZ2flJ8gO1rpccEMXYfCP6SSSWt2IA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/z8PwES3t8Zw0WNhZ428dD0GEsdvsESelunHmHavB2p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
+      "publisher": "Snazzy Traxx",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Original Mix"
+      "startTime": "11:13",
+      "trackName": "Hot 97"
     },
     {
-      "publisher": "Nite Grooves",
-      "startTime": "16:15",
-      "trackName": "Early In The Morning",
       "artistName": "Yogi & Tikki Tembo",
       "coverArtDate": "2023-07-15T19:16:13.038Z",
       "coverArtLarge": "https://i.discogs.com/9kuno24yeoFnk8CWJ5CIxklH7Aal_qwmjyIEZPit0xU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODgx/NTgtMTQ0Njc1Nzkx/Mi05ODM5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/uDQkH5OOdTqeDBoSbVHi-b1kr7xNdRZfJD_DWnjGsc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODgx/NTgtMTQ0Njc1Nzkx/Mi05ODM5LmpwZWc.jpeg",
+      "publisher": "Nite Grooves",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "16:15",
+      "trackName": "Early In The Morning"
     },
     {
-      "publisher": "Get Physical Music",
-      "startTime": "21:50",
-      "trackName": "When I",
       "artistName": "Smash TV",
       "coverArtDate": "2023-07-15T19:16:14.652Z",
       "coverArtLarge": "https://i.discogs.com/8gRZqtakCLHyvahFeRszXE0UG5PF-9RKoNy9sP8ZRMQ/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/NTM4LTE2ODY1MTE2/ODctMzQyNC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/c6js4HWMMAUwdoSXS7GuNSFq1mdY6qFpiUOoDLn29Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/NTM4LTE2ODY1MTE2/ODctMzQyNC5qcGVn.jpeg",
+      "publisher": "Get Physical Music",
+      "remixArtistName": "Original Version",
       "sectionNumber": 5,
-      "remixArtistName": "Original Version"
+      "startTime": "21:50",
+      "trackName": "When I"
     },
     {
-      "publisher": "Philpot Records",
-      "startTime": "26:32",
-      "trackName": "All Lights Go Off",
       "artistName": "SoulPhiction",
       "coverArtDate": "2023-07-15T19:16:16.129Z",
       "coverArtLarge": "https://i.discogs.com/9Y9A_gIEQ8pejkv02YEL4uGB_aRIdztSx-UoXmS3XYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk3/ODMtMTM4Njk2NzQ3/MS0zMzI2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/A9-lTIAHkLaaWg6kaHDj77EYv0RCgBlgKJCrIle0J6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODk3/ODMtMTM4Njk2NzQ3/MS0zMzI2LmpwZWc.jpeg",
+      "publisher": "Philpot Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Original Mix"
+      "startTime": "26:32",
+      "trackName": "All Lights Go Off"
     },
     {
-      "publisher": "Luvbug Recordings",
-      "startTime": "31:20",
-      "trackName": "Drifting",
       "artistName": "LTS",
       "coverArtDate": "2023-07-15T19:16:17.576Z",
       "coverArtLarge": "https://i.discogs.com/gZN6rhaeCx-HNSY3mEC5r1WwZ8vH7Sl3jhuJrWXIjSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTU1/OTUtMTU2ODQzMjAw/Ny00NTcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/G8dLC2c64tCz-rwnYHZi2X4FSEiISrqdeYzhN0-c9qQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTU1/OTUtMTU2ODQzMjAw/Ny00NTcwLmpwZWc.jpeg",
+      "publisher": "Luvbug Recordings",
+      "remixArtistName": "Nathan G ReFeel",
       "sectionNumber": 7,
-      "remixArtistName": "Nathan G ReFeel"
+      "startTime": "31:20",
+      "trackName": "Drifting"
     },
     {
-      "publisher": "Large Music",
-      "startTime": "36:09",
-      "trackName": "States",
       "artistName": "Jacob Bech",
       "coverArtDate": "2023-07-15T19:16:18.932Z",
       "coverArtLarge": "https://i.discogs.com/hQUQJc73ghTouD8NT4MHFyc_56GBNYOdBJgjNZOuRy0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzYz/MzQtMTQ2MTU3MjA2/My01NzQ4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_dOGQOmDgES-ehTwN3NbsQEgkFT7wz_I7OZiCUzpkMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzYz/MzQtMTQ2MTU3MjA2/My01NzQ4LmpwZWc.jpeg",
+      "publisher": "Large Music",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "36:09",
+      "trackName": "States"
     },
     {
-      "publisher": "Club Mod",
-      "startTime": "41:29",
-      "trackName": "One Day",
       "artistName": "Softwar",
       "coverArtDate": "2023-07-15T19:16:20.477Z",
       "coverArtLarge": "https://i.discogs.com/en2th6wu_rNQYFuapCEHIKnL-DNiFTQ0XsrlWZ7Qmwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTMx/MjUtMTM3MjgzMzc0/Ny00Mjc2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/wyImYgPzF8A8H_uDbTL689XQrk8BxnIM0ZSZnXwUr5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTMx/MjUtMTM3MjgzMzc0/Ny00Mjc2LmpwZWc.jpeg",
+      "publisher": "Club Mod",
+      "remixArtistName": "Detroit Swindle Remix",
       "sectionNumber": 9,
-      "remixArtistName": "Detroit Swindle Remix"
+      "startTime": "41:29",
+      "trackName": "One Day"
     },
     {
-      "publisher": "Large Musicx",
-      "startTime": "46:33",
-      "trackName": "The Game",
       "artistName": "Lars Vegas",
       "coverArtDate": "2023-07-15T19:16:22.018Z",
       "coverArtLarge": "https://i.discogs.com/0WsdanEkF4TV0aYnVsW6trEO0R-CgOIZTpvSVaUi2EM/rs:fit/g:sm/q:90/h:340/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDc2/MzQtMTM2Njg0ODMw/OS02NTgwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/th9Yau2GLYu9OsOYfZJ9njbHQf4qyREPMlCtVw9x2tY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDc2/MzQtMTM2Njg0ODMw/OS02NTgwLmpwZWc.jpeg",
+      "publisher": "Large Musicx",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Mix"
+      "startTime": "46:33",
+      "trackName": "The Game"
     },
     {
-      "publisher": "Join The Doits",
-      "startTime": "50:32",
-      "trackName": "I Said Yes Sir",
       "artistName": "The Francis Inferno Orchestra",
       "coverArtDate": "2023-07-15T19:16:23.382Z",
       "coverArtLarge": "https://i.discogs.com/2XHfGgxl47G1S7Pa27JnUuRtVunhCkFUFIC3Lr7CdRM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDY5/NzMtMTMxNjA4Njgz/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/JYZL3eI9zm2Yao5zmTZFVNedEsXBFI-I4yumfaR4Mp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDY5/NzMtMTMxNjA4Njgz/MC5qcGVn.jpeg",
+      "publisher": "Join The Doits",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "50:32",
+      "trackName": "I Said Yes Sir"
     },
     {
-      "publisher": "Underground Source Records",
-      "startTime": "55:04",
-      "trackName": "Can't Nobody",
       "artistName": "Alex Agore",
       "coverArtDate": "2023-07-15T19:16:24.778Z",
       "coverArtLarge": "https://i.discogs.com/5uEsKwth0ATPzcqdIJc3_xCCay9TlxX0yQYLpdH-GMI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcw/MDItMTQxNjMxMzA2/OS0zMjk4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/iKSbAIlZwJv_uV4yan3acYwpRx2R6rN0QekiphviVb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcw/MDItMTQxNjMxMzA2/OS0zMjk4LmpwZWc.jpeg",
+      "publisher": "Underground Source Records",
+      "remixArtistName": "Dub Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Dub Mix"
+      "startTime": "55:04",
+      "trackName": "Can't Nobody"
     },
     {
-      "publisher": "Moda Black",
-      "startTime": "1:00:56",
-      "trackName": "Going Down",
       "artistName": "Sidney Charles",
       "coverArtDate": "2023-07-15T19:16:26.555Z",
       "coverArtLarge": "https://i.discogs.com/69q8_x0jd2ruNTEzuZ801LLWCSmzUBWGHP39ySRTvaw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk4/NjItMTQwNjg3MjA5/OC00MDk1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_86YZ8DWBS1_2NQAADzBPF0MNtT_-lC1Qt9cPujBZmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk4/NjItMTQwNjg3MjA5/OC00MDk1LmpwZWc.jpeg",
+      "publisher": "Moda Black",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 13,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:00:56",
+      "trackName": "Going Down"
     },
     {
-      "publisher": "MadTech",
-      "startTime": "1:08:44",
-      "trackName": "Incoming",
       "artistName": "Celsius",
       "coverArtDate": "2023-07-15T19:16:28.014Z",
       "coverArtLarge": "https://i.discogs.com/fBzot_1u4LmSB1YaBoAQmU9KJQBQej0Hu7mqceqnRxo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzAy/MjgtMTM5ODQzNzg5/My04MTY5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EPDdj3ZRNUxtNjwCfe1P59uPTT0ooZk2iDuRsXHeWAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MzAy/MjgtMTM5ODQzNzg5/My04MTY5LmpwZWc.jpeg",
+      "publisher": "MadTech",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 14,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:08:44",
+      "trackName": "Incoming"
     },
     {
-      "publisher": "Snazzy Traxx",
-      "startTime": "1:12:04",
-      "trackName": "In The Pool",
       "artistName": "Lombard Street",
       "coverArtDate": "2023-07-15T19:16:29.331Z",
       "coverArtLarge": "https://i.discogs.com/VdA6shgKAUsfGpZ2flJ8gO1rpccEMXYfCP6SSSWt2IA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/z8PwES3t8Zw0WNhZ428dD0GEsdvsESelunHmHavB2p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
+      "publisher": "Snazzy Traxx",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 15,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:12:04",
+      "trackName": "In The Pool"
     },
     {
-      "publisher": "Box Aus Holz",
-      "startTime": "1:17:24",
-      "trackName": "In the Disse",
       "artistName": "Max Graef",
       "coverArtDate": "2023-07-15T19:16:30.760Z",
       "coverArtLarge": "https://i.discogs.com/twRUhnjJ2u21MQppPZ8qDH-pOCKe2R9IfPuVVq94x0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc3/MjAtMTM5NjM0MjEw/MC02MDg3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/pi_sHvryRBihK5-_gn0J2CUJEMAEWzfV7mQsphjpY3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc3/MjAtMTM5NjM0MjEw/MC02MDg3LmpwZWc.jpeg",
+      "publisher": "Box Aus Holz",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:17:24",
+      "trackName": "In the Disse"
     },
     {
-      "publisher": "Dirt Crew Recordings",
-      "startTime": "1:21:07",
-      "trackName": "Guess What",
       "artistName": "Detroit Swindle",
       "coverArtDate": "2023-07-15T19:16:32.220Z",
       "coverArtLarge": "https://i.discogs.com/8QjVYMmSdtpFZ7kqWwgrvDY1Icro7y-MwLfzYz-xFUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk3/NDUtMTM1NDg5MDk4/MC0yMzQ5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/jgGL5u_vHjzw8rrO_zJTvPWVkkrO6t3rjl-IJIm2SZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk3/NDUtMTM1NDg5MDk4/MC0yMzQ5LmpwZWc.jpeg",
+      "publisher": "Dirt Crew Recordings",
+      "remixArtistName": "",
       "sectionNumber": 17,
-      "remixArtistName": ""
+      "startTime": "1:21:07",
+      "trackName": "Guess What"
     },
     {
-      "publisher": "Futureboogie Recordings",
-      "startTime": "1:27:20",
-      "trackName": "Virtuality",
       "artistName": "Crazy P",
       "coverArtDate": "2023-07-15T19:16:33.652Z",
       "coverArtLarge": "https://i.discogs.com/-PaUFJ0cpsd_hLTMTmXVxtV11LAQq4jQ9rxJJA6Fkzc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjcx/OTQtMTY0MjQ0NDk4/My05MTc1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ooc2P4u8-4vuc-lm0-rqXitG1qP3H7ELiTexouNVRLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjcx/OTQtMTY0MjQ0NDk4/My05MTc1LmpwZWc.jpeg",
+      "publisher": "Futureboogie Recordings",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:27:20",
+      "trackName": "Virtuality"
     },
     {
-      "publisher": "Delusion Of Grandeur",
-      "startTime": "1:32:57",
-      "trackName": "Whispering Twirl",
       "artistName": "Tornado Wallace",
       "coverArtDate": "2023-07-15T19:16:35.152Z",
       "coverArtLarge": "https://i.discogs.com/SKv5hncsCEGyEFbDqYXzSYxGi8mrDI60-MXYLOLfQlQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTEy/NDgtMTI4ODAxMjM4/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/wahTJHxdbKe_JFAmk5lQ-wfeKAv33ajC6SXhgkordVc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTEy/NDgtMTI4ODAxMjM4/Mi5qcGVn.jpeg",
+      "publisher": "Delusion Of Grandeur",
+      "remixArtistName": "",
       "sectionNumber": 19,
-      "remixArtistName": ""
+      "startTime": "1:32:57",
+      "trackName": "Whispering Twirl"
     },
     {
-      "publisher": "Body Rhythm Records",
-      "startTime": "1:37:15",
-      "trackName": "Connected",
       "artistName": "Ross Couch",
       "coverArtDate": "2023-07-15T19:16:36.521Z",
       "coverArtLarge": "https://i.discogs.com/OqwK0ox3u6LanVvu9mlMGiNwHjRUMkoqeY-Sdw2ms00/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk2/MDEtMTI3ODA3MjAw/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/W_IvnHg6e_-eikQcDpZ3v2HCHJibieL5bukjlJguB1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzk2/MDEtMTI3ODA3MjAw/My5qcGVn.jpeg",
+      "publisher": "Body Rhythm Records",
+      "remixArtistName": "",
       "sectionNumber": 20,
-      "remixArtistName": ""
+      "startTime": "1:37:15",
+      "trackName": "Connected"
     },
     {
-      "publisher": "i! Records",
-      "startTime": "1:43:37",
-      "trackName": "Do You Want My Love",
       "artistName": "Studioheist",
       "coverArtDate": "2023-07-15T19:16:38.081Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "i! Records",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:43:37",
+      "trackName": "Do You Want My Love"
     },
     {
-      "publisher": "Beatdown",
-      "startTime": "1:48:26",
-      "trackName": "If You Feel",
       "artistName": "Juliet Fox",
       "coverArtDate": "2023-07-15T19:16:39.894Z",
       "coverArtLarge": "https://i.discogs.com/8YMKD8NuO_BZZoIwYByo9jCc45TV8Od9u-8C31PiJk0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg3/Ny0xNTU0MjA0NDE1/LTM3ODkuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/Io-MJIctr5shHUic69a2K1BK-S4ZQoBeI0sK3GBEl0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg3/Ny0xNTU0MjA0NDE1/LTM3ODkuanBlZw.jpeg",
+      "publisher": "Beatdown",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 22,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:48:26",
+      "trackName": "If You Feel"
     },
     {
-      "publisher": "The Gym",
-      "startTime": "1:55:22",
-      "trackName": "No. 5",
       "artistName": "Max Graef",
       "coverArtDate": "2023-07-15T19:16:41.701Z",
       "coverArtLarge": "https://i.discogs.com/j3XG0zAyXoyCdE-rTPZzWZL2MInYuH-zl7Qm0SdPVkg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzky/MjEtMTM5MjEwNDA5/MC02ODQzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/NgxIbcsZvpnvbgJKaLO2gxJOiSzESdvrfGl8utpjg18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzky/MjEtMTM5MjEwNDA5/MC02ODQzLmpwZWc.jpeg",
+      "publisher": "The Gym",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 23,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:55:22",
+      "trackName": "No. 5"
     },
     {
-      "publisher": "Tartelet Records",
-      "startTime": "1:58:20",
-      "trackName": "Love Jones",
       "artistName": "Glenn Astro",
       "coverArtDate": "2023-07-15T19:16:43.161Z",
       "coverArtLarge": "https://i.discogs.com/kb3Z-dkNRrvmaHTRr6d54LsAd4BRWjrsui3VVqDKBr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njgw/MzYtMTM5NzIxMzM1/OS0xMzU5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/QJGkZ8YrkgGqR27CyQWxRWKker9nG3vJCZz0j2xGbC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njgw/MzYtMTM5NzIxMzM1/OS0xMzU5LmpwZWc.jpeg",
+      "publisher": "Tartelet Records",
+      "remixArtistName": "CTEPEO '57 Remix",
       "sectionNumber": 24,
-      "remixArtistName": "CTEPEO '57 Remix"
+      "startTime": "1:58:20",
+      "trackName": "Love Jones"
     }
   ]
 }

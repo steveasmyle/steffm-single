@@ -2,246 +2,246 @@
   "mixcloudKey": "adventures-in-decent-music-volume-45",
   "tracks": [
     {
-      "publisher": "G.A.M.M.",
-      "startTime": "00:00",
-      "trackName": "All This Love I Have",
       "artistName": "Minnie Riperton",
       "coverArtDate": "2023-07-15T18:44:46.298Z",
       "coverArtLarge": "https://i.discogs.com/LEVjJJEcOECV4gti7HThsge3tdKHyhVcB56PfsNFJ1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDY5/MC0xNDY0MzQ1MDk3/LTY3NjMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/vUl6ajONv6BABALn68cduDyndloLFBCS8CbyGKko0hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDY5/MC0xNDY0MzQ1MDk3/LTY3NjMuanBlZw.jpeg",
+      "publisher": "G.A.M.M.",
+      "remixArtistName": "Young Pulse Rework",
       "sectionNumber": 1,
-      "remixArtistName": "Young Pulse Rework"
+      "startTime": "00:00",
+      "trackName": "All This Love I Have"
     },
     {
-      "publisher": "First Word Records",
-      "startTime": "07:50",
-      "trackName": "Chui Nui",
       "artistName": "Kaidi Tatham",
       "coverArtDate": "2023-07-15T18:44:47.654Z",
       "coverArtLarge": "https://i.discogs.com/KFF1HxUQhlrskSG0XigLgBvpZNgbdbJBg3phfQMorfQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTMy/MzAtMTQ4NjQwNzEx/NS02NzkyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/cktlkX8X5j1hVGKHGWie-7KjsbLyPuA6V_0gRKkIYk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTMy/MzAtMTQ4NjQwNzEx/NS02NzkyLmpwZWc.jpeg",
+      "publisher": "First Word Records",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "07:50",
+      "trackName": "Chui Nui"
     },
     {
-      "publisher": "Expansion",
-      "startTime": "13:32",
-      "trackName": "Better Than This",
       "artistName": "Paul Johnson",
       "coverArtDate": "2023-07-15T18:44:49.289Z",
       "coverArtLarge": "https://i.discogs.com/iagAxHcuDeJxCYxYEWf3QX2j37uVoWFPbxXFEA0D4Sw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/NjAtMTQ0NzAyMjYz/Mi05OTM2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/nvaQ3-WOfFTy_uhnTe97T5Fhp3eGPV26evgdyLuhsi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDE4/NjAtMTQ0NzAyMjYz/Mi05OTM2LmpwZWc.jpeg",
+      "publisher": "Expansion",
+      "remixArtistName": "Dego & Kaidi's 2000 Black Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Dego & Kaidi's 2000 Black Mix"
+      "startTime": "13:32",
+      "trackName": "Better Than This"
     },
     {
-      "publisher": "Wanker Bros.",
-      "startTime": "17:31",
-      "trackName": "Dang!",
       "artistName": "Mac Miller feat. Anderson .Paak",
       "coverArtDate": "2023-07-15T18:44:50.654Z",
       "coverArtLarge": "https://i.discogs.com/FFfYI4wFXskKVDT-BZ-lBtmPeJsxToMMfgYxwIhBfGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MDczLTE2NDgyMjgz/NzEtMzc0OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/GSwd9mY1NQdSw07JJ0YWtJ6wrbIfDZZ3ycoOyA-uICI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzYx/MDczLTE2NDgyMjgz/NzEtMzc0OS5qcGVn.jpeg",
+      "publisher": "Wanker Bros.",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "17:31",
+      "trackName": "Dang!"
     },
     {
-      "publisher": "G.A.M.M.",
-      "startTime": "22:19",
-      "trackName": "I Wanna B Where U Are",
       "artistName": "MJ",
       "coverArtDate": "2023-07-15T18:44:51.987Z",
       "coverArtLarge": "https://i.discogs.com/NFkOpi4_Bpqa8oHftuzgtKCLcaBsP3CMHDtHVGUJdZ0/rs:fit/g:sm/q:90/h:442/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/ODEtMTIwMDM5MDM2/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/BLQuXHKb2f7277rqOKbYpbVDPdo8-3ehoiauTRekF2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDIw/ODEtMTIwMDM5MDM2/Mi5qcGVn.jpeg",
+      "publisher": "G.A.M.M.",
+      "remixArtistName": "Young Pulse Rework",
       "sectionNumber": 5,
-      "remixArtistName": "Young Pulse Rework"
+      "startTime": "22:19",
+      "trackName": "I Wanna B Where U Are"
     },
     {
-      "publisher": "G.A.M.M.",
-      "startTime": "27:36",
-      "trackName": "Work 2 Do",
       "artistName": "Average White Band",
       "coverArtDate": "2023-07-15T18:44:53.361Z",
       "coverArtLarge": "https://i.discogs.com/mo4HsPh5S5OcpV3mIOmcHmlCVP1-N1pYUJ2GJue96WI/rs:fit/g:sm/q:90/h:949/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjIz/OTYtMTU0NTEyODAw/Ny01NTY2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/5tyi88aVUnCk5SGVlDzJJmyMJhIp7Q4hzMZbPG8Fa90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjIz/OTYtMTU0NTEyODAw/Ny01NTY2LmpwZWc.jpeg",
+      "publisher": "G.A.M.M.",
+      "remixArtistName": "A Young Pulse Rework",
       "sectionNumber": 6,
-      "remixArtistName": "A Young Pulse Rework"
+      "startTime": "27:36",
+      "trackName": "Work 2 Do"
     },
     {
-      "publisher": "Athens Of The North",
-      "startTime": "34:22",
-      "trackName": "Today Is The Day",
       "artistName": "Frazelle",
       "coverArtDate": "2023-07-15T18:44:54.692Z",
       "coverArtLarge": "https://i.discogs.com/wDt18Hellqp8Jv8dMEAkyfhmrK4jiPkSNvxh7TBT0AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDc3/ODAtMTQ4NTg1NTk2/Ni01MjUzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/zEw990K1a-2SQoC2O5SHmyM0dk1hdJH5nuFU--5_NYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDc3/ODAtMTQ4NTg1NTk2/Ni01MjUzLmpwZWc.jpeg",
+      "publisher": "Athens Of The North",
+      "remixArtistName": "Hot Mix",
       "sectionNumber": 7,
-      "remixArtistName": "Hot Mix"
+      "startTime": "34:22",
+      "trackName": "Today Is The Day"
     },
     {
-      "publisher": "Freestyle Records",
-      "startTime": "37:33",
-      "trackName": "Sao Paulo",
       "artistName": "Nova Catalina Octet",
       "coverArtDate": "2023-07-15T18:44:56.087Z",
       "coverArtLarge": "https://i.discogs.com/-OFwXhI72KDTyOY4u_8IPKhXR6gxlAIDVrOMxVVod7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE0/MjYtMTQ4MTQwMTMx/OC01NDg3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/W3tFA0E3A-ioigAMZHzcDd-dsVGXme3OCcBLKCMjXpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDE0/MjYtMTQ4MTQwMTMx/OC01NDg3LmpwZWc.jpeg",
+      "publisher": "Freestyle Records",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "37:33",
+      "trackName": "Sao Paulo"
     },
     {
-      "publisher": "KAT",
-      "startTime": "42:38",
-      "trackName": "Sometimes I Get It",
       "artistName": "Abu Maxim & The Praetorian Steppas",
       "coverArtDate": "2023-07-15T18:44:57.431Z",
       "coverArtLarge": "https://i.discogs.com/CD9j8tKKVZf-XRX3zdg1QypieZZ2yrDLRiarmWt5yLY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjk0/NTQtMTQwNzgzNzg2/Ny0xODQxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/C2SooISTK9rkYkXSJYwFUcXtcWsRCBe98JDlcRkEvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjk0/NTQtMTQwNzgzNzg2/Ny0xODQxLmpwZWc.jpeg",
+      "publisher": "KAT",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "42:38",
+      "trackName": "Sometimes I Get It"
     },
     {
-      "publisher": "The Wondaland Arts Society",
-      "startTime": "49:24",
-      "trackName": "I-69",
       "artistName": "Roman GianArthur",
       "coverArtDate": "2023-07-15T18:44:58.796Z",
       "coverArtLarge": "https://i.discogs.com/i4xHcgQEvyjxWEWkqgMUj3hUlgbGiNFU5jL-zOgju_A/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/ODcwLTE0OTM3NDE3/OTUtMjE2NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/epsB0gAxJevB8unvPtGt25ablDvUWo8OEIjW3mmLHtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/ODcwLTE0OTM3NDE3/OTUtMjE2NS5qcGVn.jpeg",
+      "publisher": "The Wondaland Arts Society",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "49:24",
+      "trackName": "I-69"
     },
     {
-      "publisher": "Agogo Records",
-      "startTime": "53:26",
-      "trackName": "Asking Eyes",
       "artistName": "Da Lata",
       "coverArtDate": "2023-07-15T18:45:00.219Z",
       "coverArtLarge": "https://i.discogs.com/4-XHLWBsCWHU1O5xxeOl1RHt-YRCOycNsISv2mO5L6E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ5/NDgzLTE2MjA1MjE0/ODYtNTgxNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/g5epeYDjXOyBRAY07wTa78p3KpYad4SIjlKiRuTNAgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ5/NDgzLTE2MjA1MjE0/ODYtNTgxNy5qcGVn.jpeg",
+      "publisher": "Agogo Records",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "53:26",
+      "trackName": "Asking Eyes"
     },
     {
-      "publisher": "Rhythm Section International",
-      "startTime": "58:10",
-      "trackName": "Observe",
       "artistName": "Chaos In The CBD",
       "coverArtDate": "2023-07-15T18:45:01.572Z",
       "coverArtLarge": "https://i.discogs.com/oUnREbZlfLpPdexnGxvVu6CUTAtyS2BuMsm_5LoJiBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ3/NzktMTQ0MDM0OTQ1/Ny0yMzQ2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/qIgEciLoNesqLSOGHvagGd5A5SeOeG5rM3e1KiL8OMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODQ3/NzktMTQ0MDM0OTQ1/Ny0yMzQ2LmpwZWc.jpeg",
+      "publisher": "Rhythm Section International",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "58:10",
+      "trackName": "Observe"
     },
     {
-      "publisher": "Clarity Recordings",
-      "startTime": "1:02:51",
-      "trackName": "Bravado",
       "artistName": "Harvey Sutherland",
       "coverArtDate": "2023-07-15T18:45:02.938Z",
       "coverArtLarge": "https://i.discogs.com/GGuib-PwjxLe1GN241XpVueZC7S2627AnYRe1SqICps/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/NTAtMTQ3ODI3Nzc1/NS04OTI1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/mARbmF3wSGoQGAJeLmwS49wlefW67Zncqh_xgT6hxY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/NTAtMTQ3ODI3Nzc1/NS04OTI1LmpwZWc.jpeg",
+      "publisher": "Clarity Recordings",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "1:02:51",
+      "trackName": "Bravado"
     },
     {
-      "publisher": "CDr",
-      "startTime": "1:08:54",
-      "trackName": "I Like It",
       "artistName": "DeBarge",
       "coverArtDate": "2023-07-15T18:45:04.397Z",
       "coverArtLarge": "https://i.discogs.com/JsTJ-VApcmx2XYYVoCMzojj_jobaD_RjTViSqzPVxNc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1Nzk5/MC0xNjI1MTk0NTUx/LTY2MzMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/pcoBrghqKUW4sas6v1T6V3RzMiqd2wnNG6GCajigBsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1Nzk5/MC0xNjI1MTk0NTUx/LTY2MzMuanBlZw.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "A Young Pulse Disco Rework",
       "sectionNumber": 14,
-      "remixArtistName": "A Young Pulse Disco Rework"
+      "startTime": "1:08:54",
+      "trackName": "I Like It"
     },
     {
-      "publisher": "IFE Records",
-      "startTime": "1:13:25",
-      "trackName": "Brotherson",
       "artistName": "Ojeda Penn",
       "coverArtDate": "2023-07-15T18:45:05.754Z",
       "coverArtLarge": "https://i.discogs.com/jU0flIIXEiaROiCuPGE4SmG-69pYUAOZ_dHkjVGn8B8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA0/MjUtMTI3NjgwMzQ0/NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/RcHnA_GLWPvClSmxtUPHVkMc3XKAo2nJkypW66rt6Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA0/MjUtMTI3NjgwMzQ0/NC5qcGVn.jpeg",
+      "publisher": "IFE Records",
+      "remixArtistName": "",
       "sectionNumber": 15,
-      "remixArtistName": ""
+      "startTime": "1:13:25",
+      "trackName": "Brotherson"
     },
     {
-      "publisher": "Dome Records",
-      "startTime": "1:22:45",
-      "trackName": "Feel the Real",
       "artistName": "Incognito",
       "coverArtDate": "2023-07-15T18:45:07.122Z",
       "coverArtLarge": "https://i.discogs.com/_fqbhScB8Hikfzp3ya1FpZUpULVmkE_nWdRWdioEMjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY2/NjE4LTE2MjMxNzU1/MjEtNjE2Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/9Jt2qMCyrg38Ia4vYjzg6SNKJ0eIBKmZCPRjZ_DUJeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY2/NjE4LTE2MjMxNzU1/MjEtNjE2Mi5qcGVn.jpeg",
+      "publisher": "Dome Records",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:22:45",
+      "trackName": "Feel the Real"
     },
     {
-      "publisher": "Freestyle Records",
-      "startTime": "1:29:56",
-      "trackName": "Latch",
       "artistName": "valique",
       "coverArtDate": "2023-07-15T18:45:08.512Z",
       "coverArtLarge": "https://i.discogs.com/_CnXEY_cJGdhDFzokCSUuJhlJDQ6z-UQRZ2NKYC0cRQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI0/MDItMTMzOTM2OTI2/MS02NzEwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/fv9W3oaDPFGwxfBUb3mOZ8P4UULmzw-hcvT9VHlqTGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI0/MDItMTMzOTM2OTI2/MS02NzEwLmpwZWc.jpeg",
+      "publisher": "Freestyle Records",
+      "remixArtistName": "Alt. Version",
       "sectionNumber": 17,
-      "remixArtistName": "Alt. Version"
+      "startTime": "1:29:56",
+      "trackName": "Latch"
     },
     {
-      "publisher": "Polydur",
-      "startTime": "1:34:33",
-      "trackName": "The Two Ronnies",
       "artistName": "Ronnie Hazlehurst and his Orchestra",
       "coverArtDate": "2023-07-15T18:45:09.850Z",
       "coverArtLarge": "https://i.discogs.com/SlE5Z7OZLppy_nMU19pCPO3yAho8n04pzrDK24jKUQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMx/OTMtMTUzNjEzNTM2/Ni04NDczLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/HLN1S74DzJPOAeOvFr5HkvHdrSJQwlmaXN2O-Nnmcwk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDMx/OTMtMTUzNjEzNTM2/Ni04NDczLmpwZWc.jpeg",
+      "publisher": "Polydur",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:34:33",
+      "trackName": "The Two Ronnies"
     },
     {
-      "publisher": "Olsen Records",
-      "startTime": "1:35:57",
-      "trackName": "The Mechanical Fair",
       "artistName": "Ola Kvernberg",
       "coverArtDate": "2023-07-15T18:45:11.203Z",
       "coverArtLarge": "https://i.discogs.com/IqL0VZrL2KSittpT0lxhJg-AvkwL8-encIA-L9_1tMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQ3/NDYtMTQ3OTMwMzY5/Mi01NDY0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EY3wQQvPj0C4EnLlzDJVw_MUf4LdgXECC24vnwW8Ht8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQ3/NDYtMTQ3OTMwMzY5/Mi01NDY0LmpwZWc.jpeg",
+      "publisher": "Olsen Records",
+      "remixArtistName": "Todd Terje Remix",
       "sectionNumber": 19,
-      "remixArtistName": "Todd Terje Remix"
+      "startTime": "1:35:57",
+      "trackName": "The Mechanical Fair"
     },
     {
-      "publisher": "KAT",
-      "startTime": "1:41:13",
-      "trackName": "Sweet Love",
       "artistName": "Abu Maxim & The Praetorian Steppas",
       "coverArtDate": "2023-07-15T18:45:12.962Z",
       "coverArtLarge": "https://i.discogs.com/CD9j8tKKVZf-XRX3zdg1QypieZZ2yrDLRiarmWt5yLY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjk0/NTQtMTQwNzgzNzg2/Ny0xODQxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/C2SooISTK9rkYkXSJYwFUcXtcWsRCBe98JDlcRkEvK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mjk0/NTQtMTQwNzgzNzg2/Ny0xODQxLmpwZWc.jpeg",
+      "publisher": "KAT",
+      "remixArtistName": "",
       "sectionNumber": 20,
-      "remixArtistName": ""
+      "startTime": "1:41:13",
+      "trackName": "Sweet Love"
     },
     {
-      "publisher": "Razor-N-Tape",
-      "startTime": "1:50:06",
-      "trackName": "Summerjam",
       "artistName": "Tom Of Brooklyn",
       "coverArtDate": "2023-07-15T18:45:14.374Z",
       "coverArtLarge": "https://i.discogs.com/1gRPe3yhTCLhQ2smUdGNVCuLqVb9kc7q6saoR0VRAns/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/MTgtMTQ2ODI2ODgz/Ny04Nzk3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/KQieSg9ek4dImdLI4r3wZKVaLqqFyHR20ADLj0LKpJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjQ1/MTgtMTQ2ODI2ODgz/Ny04Nzk3LmpwZWc.jpeg",
+      "publisher": "Razor-N-Tape",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:50:06",
+      "trackName": "Summerjam"
     },
     {
-      "publisher": "Spicy",
-      "startTime": "1:53:46",
-      "trackName": "Like A Rocket",
       "artistName": "Beatconductor",
       "coverArtDate": "2023-07-15T18:45:15.745Z",
       "coverArtLarge": "https://i.discogs.com/hMLvL81XMpdrAHD9_Q3zscBXui-muctoPICRbcSyLSU/rs:fit/g:sm/q:90/h:560/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM2/MTgtMTI1NTAyMzA2/Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/GwAYtyR14tyrOjYOZV86m6j1qXXyCTHLTp4IkJ-qcbk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM2/MTgtMTI1NTAyMzA2/Ny5qcGVn.jpeg",
+      "publisher": "Spicy",
+      "remixArtistName": "",
       "sectionNumber": 22,
-      "remixArtistName": ""
+      "startTime": "1:53:46",
+      "trackName": "Like A Rocket"
     }
   ]
 }

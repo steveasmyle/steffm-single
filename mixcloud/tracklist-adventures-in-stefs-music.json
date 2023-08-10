@@ -2,158 +2,158 @@
   "mixcloudKey": "adventures-in-stefs-music",
   "tracks": [
     {
-      "publisher": "Motown",
-      "startTime": "00:00",
-      "trackName": "Do I Do",
       "artistName": "Stevie Wonder",
       "coverArtDate": "2023-07-15T18:49:51.001Z",
       "coverArtLarge": "https://i.discogs.com/IjxLj90M9rb05l9Pr07cPiOQfM1-NRzSS27rlLgGuW0/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA2/Ni0xNTYxMTEwOTUx/LTQ2NDcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/E689e7Bz-03W7kJSuvVTGE4_bW_BGmJC08m5KERTVLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA2/Ni0xNTYxMTEwOTUx/LTQ2NDcuanBlZw.jpeg",
+      "publisher": "Motown",
+      "remixArtistName": "MyPairOfShoes Stretch Edit",
       "sectionNumber": 1,
-      "remixArtistName": "MyPairOfShoes Stretch Edit"
+      "startTime": "00:00",
+      "trackName": "Do I Do"
     },
     {
-      "publisher": "EMI",
-      "startTime": "09:19",
-      "trackName": "Bullet",
       "artistName": "Curiosity Killed the Cat",
       "coverArtDate": "2023-07-15T18:49:52.443Z",
       "coverArtLarge": "https://i.discogs.com/-3LsjplGFN7dzBWcOBkihXzo4VTOQzUiA8vZ5SONzlI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzEx/Mi0xNjU0NzcyOTY3/LTk3NDcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/JBCZlD5xrcU1yNl9aAAMiR0IvnBpSbewpStU4CIxD-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzEx/Mi0xNjU0NzcyOTY3/LTk3NDcuanBlZw.jpeg",
+      "publisher": "EMI",
+      "remixArtistName": "MyPairOfShoes Edit",
       "sectionNumber": 2,
-      "remixArtistName": "MyPairOfShoes Edit"
+      "startTime": "09:19",
+      "trackName": "Bullet"
     },
     {
-      "publisher": "EMI",
-      "startTime": "13:41",
-      "trackName": "I'm in Love",
       "artistName": "Nancy Wilson",
       "coverArtDate": "2023-07-15T18:49:53.798Z",
       "coverArtLarge": "https://i.discogs.com/S7ULyWJqxcMBuXFTwPZmFmpivR-2c6UktPx8BMv6hco/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQz/MzItMTMxNzg2NjM1/Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/g7lxs_w1CBji76jEyZ076bzcbi5r_WXhQ6Oe1OkO4Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTQz/MzItMTMxNzg2NjM1/Ny5qcGVn.jpeg",
+      "publisher": "EMI",
+      "remixArtistName": "MyPairOfShoes Happy Feeling Edit",
       "sectionNumber": 3,
-      "remixArtistName": "MyPairOfShoes Happy Feeling Edit"
+      "startTime": "13:41",
+      "trackName": "I'm in Love"
     },
     {
-      "publisher": "EMI",
-      "startTime": "19:07",
-      "trackName": "Don't Tell Me, Tell Her",
       "artistName": "Odyssey",
       "coverArtDate": "2023-07-15T18:49:55.118Z",
       "coverArtLarge": "https://i.discogs.com/ppmXOZ1l8PCfQb2vmTxn-tQIjBV-MZDWI22yUbsH10k/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTI4/Ny0xMTU4MDk2ODI5/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ptzEF_curnGXDF6qV3EU81ZQRpIzqwB_j2YHhJTxMrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTI4/Ny0xMTU4MDk2ODI5/LmpwZWc.jpeg",
+      "publisher": "EMI",
+      "remixArtistName": "MyPairOfShoes Edit",
       "sectionNumber": 4,
-      "remixArtistName": "MyPairOfShoes Edit"
+      "startTime": "19:07",
+      "trackName": "Don't Tell Me, Tell Her"
     },
     {
-      "publisher": "Rhino Warner",
-      "startTime": "24:55",
-      "trackName": "One More Try",
       "artistName": "Ashford & Simpson",
       "coverArtDate": "2023-07-15T18:49:56.490Z",
       "coverArtLarge": "https://i.discogs.com/S2SYR8qOg-7bcPu1u2qUPTRdICWOp3ElJGnmjKGfjyU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQz/Mzc0LTE1NDMwMjk2/NjQtOTE4Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/_ddXfl_QhNSxV9ReT8LXUMFcfc0dTCrNm0ce7wHWavA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQz/Mzc0LTE1NDMwMjk2/NjQtOTE4Mi5qcGVn.jpeg",
+      "publisher": "Rhino Warner",
+      "remixArtistName": "MyPairOfShoes Edit",
       "sectionNumber": 5,
-      "remixArtistName": "MyPairOfShoes Edit"
+      "startTime": "24:55",
+      "trackName": "One More Try"
     },
     {
-      "publisher": "Motown",
-      "startTime": "30:44",
-      "trackName": "No One Gets the Prize",
       "artistName": "Diana Ross",
       "coverArtDate": "2023-07-15T18:49:57.848Z",
       "coverArtLarge": "https://i.discogs.com/mLaiqPBRBndMH9a7dA-knc7j5m8193kMRmMl2xfFlNY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjI3/NzItMTM2MDg1OTcy/Ny0yOTQyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/FulwcsZGy8im3KAKMV9-saLDlL0vS8AD1xL3ajdf5zY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjI3/NzItMTM2MDg1OTcy/Ny0yOTQyLmpwZWc.jpeg",
+      "publisher": "Motown",
+      "remixArtistName": "MyPairOfShoes Edit",
       "sectionNumber": 6,
-      "remixArtistName": "MyPairOfShoes Edit"
+      "startTime": "30:44",
+      "trackName": "No One Gets the Prize"
     },
     {
-      "publisher": "SME",
-      "startTime": "37:02",
-      "trackName": "Darlin' (I Think About You)",
       "artistName": "Delegation",
       "coverArtDate": "2023-07-15T18:49:59.228Z",
       "coverArtLarge": "https://i.discogs.com/F3p2LcIvtyrlm2PS9qwR76hm0LvidLEiklXBDOQMVmA/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTU3/ODQtMTMzMTgwMTM2/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/__b8HvVRU7sJlUxqoxKsstW5nrfRdfm_TOgSsvL0zt4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTU3/ODQtMTMzMTgwMTM2/MS5qcGVn.jpeg",
+      "publisher": "SME",
+      "remixArtistName": "MyPairOfShoes Extended Edit",
       "sectionNumber": 7,
-      "remixArtistName": "MyPairOfShoes Extended Edit"
+      "startTime": "37:02",
+      "trackName": "Darlin' (I Think About You)"
     },
     {
-      "publisher": "UMPG",
-      "startTime": "44:33",
-      "trackName": "Spread Love",
       "artistName": "Lenny Fontana",
       "coverArtDate": "2023-07-15T18:50:00.551Z",
       "coverArtLarge": "https://i.discogs.com/D_g8NInsd-esOCY2d0xAt2YLFADk3lU1gU0FLVwEBrM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc0/LTEzMzQwNzM5MTcu/anBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/udnG94Gm61RPLJspZWGGNGk8dP7HHkVtyfE1-iIT9eY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc0/LTEzMzQwNzM5MTcu/anBlZw.jpeg",
+      "publisher": "UMPG",
+      "remixArtistName": "Stef's Back to Disco Edit",
       "sectionNumber": 8,
-      "remixArtistName": "Stef's Back to Disco Edit"
+      "startTime": "44:33",
+      "trackName": "Spread Love"
     },
     {
-      "publisher": "type a records",
-      "startTime": "52:27",
-      "trackName": "Feel the Real",
       "artistName": "David Bendeth",
       "coverArtDate": "2023-07-15T18:50:01.873Z",
       "coverArtLarge": "https://i.discogs.com/btuyNwFJ-mdCUme08NCgqH-n3Ff7NoaUChh_NZ-mrzY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzQ0/NC0xMTUwODQ4Mjc5/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Vq-kVrmdJ72y1US1acmPXMvv2cjLhGJKyfeSY8asZq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzQ0/NC0xMTUwODQ4Mjc5/LmpwZWc.jpeg",
+      "publisher": "type a records",
+      "remixArtistName": "MyPairOfShoes Feel the Steel Edit",
       "sectionNumber": 9,
-      "remixArtistName": "MyPairOfShoes Feel the Steel Edit"
+      "startTime": "52:27",
+      "trackName": "Feel the Real"
     },
     {
-      "publisher": "Unidisc Music",
-      "startTime": "1:00:00",
-      "trackName": "Satisfied",
       "artistName": "Dynasty",
       "coverArtDate": "2023-07-15T18:50:03.349Z",
       "coverArtLarge": "https://i.discogs.com/Pn_7vq3X429Mtt870Pk9owa23lqo38nwSqXcm2Hk2TQ/rs:fit/g:sm/q:90/h:628/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTc4/NC0xMjIxMjk4OTQx/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/To6NyRtIdi5KJRMsm7dD-H3HI8btcNMR0FJCm2kam6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTc4/NC0xMjIxMjk4OTQx/LmpwZWc.jpeg",
+      "publisher": "Unidisc Music",
+      "remixArtistName": "MyPairOfShoes Satisfied Edit",
       "sectionNumber": 10,
-      "remixArtistName": "MyPairOfShoes Satisfied Edit"
+      "startTime": "1:00:00",
+      "trackName": "Satisfied"
     },
     {
-      "publisher": "",
-      "startTime": "1:07:21",
-      "trackName": "Top Of The World",
       "artistName": "Jackpot Edit",
       "coverArtDate": "2023-07-15T18:50:05.166Z",
       "coverArtLarge": "https://i.discogs.com/FF0FSMiqidUbFu4_TejnBdaOS2kO_AVT60rJe4KT65Q/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQ2/ODQtMTQ4OTM1NDAw/OS00NTUwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/duC0IO8whbxn4TM7UUvW8aORjPHKDGQWhcSRrA2ANik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQ2/ODQtMTQ4OTM1NDAw/OS00NTUwLmpwZWc.jpeg",
+      "publisher": "",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "1:07:21",
+      "trackName": "Top Of The World"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "1:12:49",
-      "trackName": "Smile",
       "artistName": "Kendra Cash",
       "coverArtDate": "2023-07-15T18:50:06.585Z",
       "coverArtLarge": "https://i.discogs.com/PUepO95lQMV16dPY7roUoKYJi1TZeKN4MMj04YSorZg/rs:fit/g:sm/q:90/h:456/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk3/NjEtMTQ5NDk2MjIx/MS00NTkzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/qB2kYQM9vzfQh-_1RNcwXvgQKA7mVf3DHucGdH_4ni4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk3/NjEtMTQ5NDk2MjIx/MS00NTkzLmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "MyPairOfShoes Full On Edit",
       "sectionNumber": 12,
-      "remixArtistName": "MyPairOfShoes Full On Edit"
+      "startTime": "1:12:49",
+      "trackName": "Smile"
     },
     {
-      "publisher": "Epic",
-      "startTime": "1:17:43",
-      "trackName": "P.Y.T. (Pretty Young Thing)",
       "artistName": "Michael Jackson",
       "coverArtDate": "2023-07-15T18:50:07.957Z",
       "coverArtLarge": "https://i.discogs.com/nCnB8yanG2LUDeYLWDwfODs1KeFt-Xv_B0Wq-edVB3s/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDE4/NTAtMTU1MjQ0NjI1/My03MTU5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/WphISutzIPQNI2er-PTB14NVD2wwIHqrXIXZrHs6vao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDE4/NTAtMTU1MjQ0NjI1/My03MTU5LmpwZWc.jpeg",
+      "publisher": "Epic",
+      "remixArtistName": "MyPairOfShoes Edit",
       "sectionNumber": 13,
-      "remixArtistName": "MyPairOfShoes Edit"
+      "startTime": "1:17:43",
+      "trackName": "P.Y.T. (Pretty Young Thing)"
     },
     {
-      "publisher": "Tactical Records",
-      "startTime": "1:23:16",
-      "trackName": "The Crown",
       "artistName": "Gary Byrd & The G.B. Experience",
       "coverArtDate": "2023-07-15T18:50:09.398Z",
       "coverArtLarge": "https://i.discogs.com/dBftHz5klMVzynPAL5Z6CZICWHXQvgujgjB9mBD3lMI/rs:fit/g:sm/q:90/h:195/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkzMjUx/LTE2NTA4ODQ4ODYt/NjY4Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/z2L_NGr4UL6UXmJSWtS01RulS7x0saHVxKVWi5HPgAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkzMjUx/LTE2NTA4ODQ4ODYt/NjY4Mi5qcGVn.jpeg",
+      "publisher": "Tactical Records",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "1:23:16",
+      "trackName": "The Crown"
     }
   ]
 }

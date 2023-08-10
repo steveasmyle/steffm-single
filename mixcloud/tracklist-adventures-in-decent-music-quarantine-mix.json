@@ -2,180 +2,180 @@
   "mixcloudKey": "adventures-in-decent-music-quarantine-mix",
   "tracks": [
     {
-      "publisher": "Shiva Records",
-      "startTime": "00:00",
-      "trackName": "Warm On The Inside",
       "artistName": "Crazy P",
       "coverArtDate": "2023-07-15T18:32:44.923Z",
       "coverArtLarge": "https://i.discogs.com/JtELecfYEXMQoAct63qkgkTRyN5owQp0Dy1R2PNBVeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjc3/My0xMjQ0NjM1MTI3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/FvHa2rUC4BwNxTvoFhgFKjWZjc5z-dPl7AJqn8Ue5Qs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Mjc3/My0xMjQ0NjM1MTI3/LmpwZWc.jpeg",
+      "publisher": "Shiva Records",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Warm On The Inside"
     },
     {
-      "publisher": "Brunswick Record Corp",
-      "startTime": "04:16",
-      "trackName": "This Is The Lost Generation",
       "artistName": "The Lost Generation",
       "coverArtDate": "2023-07-15T18:32:45.398Z",
       "coverArtLarge": "https://i.discogs.com/Fci-1lW6vnx5SL7qKOJJtGzrPLr9J4fkxU6wmvbLxEU/rs:fit/g:sm/q:90/h:827/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/MzkxLTE1ODUzMjY4/ODgtMTg5Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/te0Fo0VqA_tN4kkCfC_J3CNfyEMtrcVEWl-XKhVpGgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/MzkxLTE1ODUzMjY4/ODgtMTg5Ny5qcGVn.jpeg",
+      "publisher": "Brunswick Record Corp",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "04:16",
+      "trackName": "This Is The Lost Generation"
     },
     {
-      "publisher": "Raw Canvas Records",
-      "startTime": "07:42",
-      "trackName": "Our Own Place",
       "artistName": "4hero",
       "coverArtDate": "2023-07-15T18:32:45.932Z",
       "coverArtLarge": "https://i.discogs.com/JSz9ereepzpmlQ3JCyD_bY1T6p2ywhG_0RBuZvPJScc/rs:fit/g:sm/q:90/h:587/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDg1/MS0xMTg3MjYzOTE0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DzKAgsPiodTRlzkQePPEYTM8X5krI84y8k6BbTFiRmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDg1/MS0xMTg3MjYzOTE0/LmpwZWc.jpeg",
+      "publisher": "Raw Canvas Records",
+      "remixArtistName": "",
       "sectionNumber": 3,
-      "remixArtistName": ""
+      "startTime": "07:42",
+      "trackName": "Our Own Place"
     },
     {
-      "publisher": "Art Of Groove",
-      "startTime": "11:38",
-      "trackName": "Thing of Gold",
       "artistName": "Snarky Puppy",
       "coverArtDate": "2023-07-15T18:32:46.457Z",
       "coverArtLarge": "https://i.discogs.com/RRrOIlmcKV5JqREbt-tnRpu4yT9iyRt13VtB42URGwE/rs:fit/g:sm/q:90/h:463/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/7QisKZC5ID5JzwmzPq7pGWASMYIwwRpD6k6NTXiKYYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDI5/MTgtMTM2NjcxNzQ0/Mi00NTEzLmpwZWc.jpeg",
+      "publisher": "Art Of Groove",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "11:38",
+      "trackName": "Thing of Gold"
     },
     {
-      "publisher": "Brownswood Recordings",
-      "startTime": "17:40",
-      "trackName": "Is It Love?",
       "artistName": "Diggs Duke feat. Vaughan Octavia",
       "coverArtDate": "2023-07-15T18:32:46.964Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Brownswood Recordings",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "17:40",
+      "trackName": "Is It Love?"
     },
     {
-      "publisher": "Leaving Records",
-      "startTime": "20:41",
-      "trackName": "Happysad Sunday",
       "artistName": "Keifer",
       "coverArtDate": "2023-07-15T18:32:47.428Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Leaving Records",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "20:41",
+      "trackName": "Happysad Sunday"
     },
     {
-      "publisher": "Tru Thoughts",
-      "startTime": "23:29",
-      "trackName": "Cure",
       "artistName": "Moonchild",
       "coverArtDate": "2023-07-15T18:32:47.900Z",
       "coverArtLarge": "https://i.discogs.com/4oaJPPblAXDY4BZOuK0hfs3KCy4bN81y1whY8RR0_gs/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM3/NjQ1LTE0OTU1Njc2/NjQtMzc1MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/AW9gsNyZImvgBc_PBP3fB9Zs0eccrkGZkD1s0bJ0eAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM3/NjQ1LTE0OTU1Njc2/NjQtMzc1MC5qcGVn.jpeg",
+      "publisher": "Tru Thoughts",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "23:29",
+      "trackName": "Cure"
     },
     {
-      "publisher": "Keep Cool",
-      "startTime": "27:18",
-      "trackName": "Stay Home",
       "artistName": "Shy Girls",
       "coverArtDate": "2023-07-15T18:32:48.412Z",
       "coverArtLarge": "https://i.discogs.com/7SNAiynshotRaSgKwlxJYqmAybm1j36W-0uOl2SQXHE/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA4/ODU5LTE1NzE5MzYy/NjgtNTIzNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/F_hlxY2bLv0MjCI5Sw5rBurz1uXDtvBoOj1-EVDMfOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA4/ODU5LTE1NzE5MzYy/NjgtNTIzNy5qcGVn.jpeg",
+      "publisher": "Keep Cool",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "27:18",
+      "trackName": "Stay Home"
     },
     {
-      "publisher": "Edition Records",
-      "startTime": "31:02",
-      "trackName": "Purple Sunflower",
       "artistName": "Jason Rebello",
       "coverArtDate": "2023-07-15T18:32:48.893Z",
       "coverArtLarge": "https://i.discogs.com/pjZidrZhkOB7t6hK3SThFr8oEsN20Yej7Nr8vbikihU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc2/MTQyLTE1MTcwMDYz/NTMtNjQ5NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/_DyIq-lW8IixoLPab-RHn32A2UY9wwwPcJUGExaJ00Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc2/MTQyLTE1MTcwMDYz/NTMtNjQ5NS5qcGVn.jpeg",
+      "publisher": "Edition Records",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "31:02",
+      "trackName": "Purple Sunflower"
     },
     {
-      "publisher": "Ubiquity",
-      "startTime": "32:48",
-      "trackName": "The Spooks",
       "artistName": "Mamas Gun",
       "coverArtDate": "2023-07-15T18:32:49.393Z",
       "coverArtLarge": "https://i.discogs.com/r6Wg14yAn5WAmCBwcW-FrCBW70ub66Ycgc2uPvw23bk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE4/OTk4LTE1ODIyMzcz/MzktMzUyNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/tzerdhHCqRi_DR6TVaMwRY8Nz6Blo3PhTNw66hjnOTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE4/OTk4LTE1ODIyMzcz/MzktMzUyNy5qcGVn.jpeg",
+      "publisher": "Ubiquity",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "32:48",
+      "trackName": "The Spooks"
     },
     {
-      "publisher": "Capitol Records",
-      "startTime": "37:35",
-      "trackName": "La Costa",
       "artistName": "Natalie Cole",
       "coverArtDate": "2023-07-15T18:32:50.037Z",
       "coverArtLarge": "https://i.discogs.com/sJe2FJBZROIJ7Ll_5L0zqrSDO1LecW0Cgg4pV6xSZ6U/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTk5/Mi0xNDU2OTUyMjkx/LTQ5MTkuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/_lCCnTmT6mp5ef4EG1kEbEyfPmxZwZAHIlElgoCKR-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTk5/Mi0xNDU2OTUyMjkx/LTQ5MTkuanBlZw.jpeg",
+      "publisher": "Capitol Records",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "37:35",
+      "trackName": "La Costa"
     },
     {
-      "publisher": "RCA",
-      "startTime": "41:08",
-      "trackName": "I Love You",
       "artistName": "Weldon Irvine",
       "coverArtDate": "2023-07-15T18:32:50.501Z",
       "coverArtLarge": "https://i.discogs.com/lUHv1InA0_e420_07ZHuXRfbjSLyNYd9Z8Q4R5liGgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ4/NzEtMTYyMjExOTQ4/OC0xNTg2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/iCh91HmbGLSVuCA5HmdXJhbF2d15dToiOfRUEpntB8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NDQ4/NzEtMTYyMjExOTQ4/OC0xNTg2LmpwZWc.jpeg",
+      "publisher": "RCA",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "41:08",
+      "trackName": "I Love You"
     },
     {
-      "publisher": "Stones Throw Records",
-      "startTime": "44:18",
-      "trackName": "Hard To Say Goodbye",
       "artistName": "Washed Out",
       "coverArtDate": "2023-07-15T18:32:51.014Z",
       "coverArtLarge": "https://i.discogs.com/mAMx7RkAA0n7ti2PC7JeAuVzy3wDypPzMXzcMVqBThw/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk0/NTAzLTE0OTg1OTcz/MzYtNTI2MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/XePlq9r4rHnS8AqL8wQ-0KT0csr7K2doUlMRGnjlNUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk0/NTAzLTE0OTg1OTcz/MzYtNTI2MC5qcGVn.jpeg",
+      "publisher": "Stones Throw Records",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "44:18",
+      "trackName": "Hard To Say Goodbye"
     },
     {
-      "publisher": "Peer International Library Limited",
-      "startTime": "48:26",
-      "trackName": "Solar Flares",
       "artistName": "Sven Libaek",
       "coverArtDate": "2023-07-15T18:32:51.586Z",
       "coverArtLarge": "https://i.discogs.com/xLWlsKVYGoSlvcdErzVJaEbJKSR_4IpxWHQkAOIRM0s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM5/MzktMTUzOTE3OTY3/NC05NDA4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ttCDu8gSNbMTLu9bZ9XF1Uc5k2xbJo6FQb8r16bpluk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM5/MzktMTUzOTE3OTY3/NC05NDA4LmpwZWc.jpeg",
+      "publisher": "Peer International Library Limited",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "48:26",
+      "trackName": "Solar Flares"
     },
     {
-      "publisher": "Jazz Wax Records",
-      "startTime": "52:05",
-      "trackName": "Peace Piece",
       "artistName": "Bill Evans",
       "coverArtDate": "2023-07-15T18:32:52.079Z",
       "coverArtLarge": "https://i.discogs.com/jTcRbqJkAV0MJZ28rLjAk_cYpHmk1A_FlyFJW5pz5bI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTYz/OTctMTQ2NjI5MjIy/OS04NTUxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DucCAVVdUd3QZtMcAJssgppMvC4dI5ytQXzYlwF2tv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTYz/OTctMTQ2NjI5MjIy/OS04NTUxLmpwZWc.jpeg",
+      "publisher": "Jazz Wax Records",
+      "remixArtistName": "",
       "sectionNumber": 15,
-      "remixArtistName": ""
+      "startTime": "52:05",
+      "trackName": "Peace Piece"
     },
     {
-      "publisher": "SME",
-      "startTime": "58:38",
-      "trackName": "Fantasy",
       "artistName": "Earth, Wind & Fire",
       "coverArtDate": "2023-07-15T18:32:52.627Z",
       "coverArtLarge": "https://i.discogs.com/7-gZt7GxB5vcqd0ONJENKHCJdiz61WD5zsk6i8iMUlw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/ayC3lH5SmzLB9nCu1sEVJFA7o6zZuHeDoKghJOI0Tig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
+      "publisher": "SME",
+      "remixArtistName": "Up-Close version by Ben Liebrand",
       "sectionNumber": 16,
-      "remixArtistName": "Up-Close version by Ben Liebrand"
+      "startTime": "58:38",
+      "trackName": "Fantasy"
     }
   ]
 }

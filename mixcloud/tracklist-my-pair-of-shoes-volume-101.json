@@ -2,290 +2,290 @@
   "mixcloudKey": "my-pair-of-shoes-volume-101",
   "tracks": [
     {
-      "publisher": "PornStar Records",
-      "startTime": "00:00",
-      "trackName": "Back 2 The House Music",
       "artistName": "Nicola Fasano meets Jamie Lewis",
       "coverArtDate": "2023-07-15T18:58:14.135Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "PornStar Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Original Mix"
+      "startTime": "00:00",
+      "trackName": "Back 2 The House Music"
     },
     {
-      "publisher": "Glitterbox Recordings",
-      "startTime": "04:09",
-      "trackName": "Feeling U",
       "artistName": "Sonny Fodera feat. Yasmin",
       "coverArtDate": "2023-07-15T18:58:15.584Z",
       "coverArtLarge": "https://i.discogs.com/SVpeCMhpT_3_kk9NjK_JRQlmSGzrTp1MRBoArOCbY00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk3/MDQtMTQ2NjA5MDY1/OC0xODE5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/0RJw7bdI_XsVSiy5pvhAJko3-f_ZN9v_D9GJrYu7rJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NTk3/MDQtMTQ2NjA5MDY1/OC0xODE5LmpwZWc.jpeg",
+      "publisher": "Glitterbox Recordings",
+      "remixArtistName": "David Morales Remix",
       "sectionNumber": 2,
-      "remixArtistName": "David Morales Remix"
+      "startTime": "04:09",
+      "trackName": "Feeling U"
     },
     {
-      "publisher": "Rhemi Music",
-      "startTime": "10:08",
-      "trackName": "Beat Within",
       "artistName": "Rhemi ft. Cassius",
       "coverArtDate": "2023-07-15T18:58:16.968Z",
       "coverArtLarge": "https://i.discogs.com/eMjabeUCF_MUTKS_0ncp_jNKQuDG-ZdZS2R4lYKUYf0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/NDkyLTE1MTUyNjM0/NzYtMzAwMy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/jqUNjBhsp_xW2AbSMIVnGcnZ8nCWodYNZdZSGsz1PzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc5/NDkyLTE1MTUyNjM0/NzYtMzAwMy5qcGVn.jpeg",
+      "publisher": "Rhemi Music",
+      "remixArtistName": "Opolopo Remix",
       "sectionNumber": 3,
-      "remixArtistName": "Opolopo Remix"
+      "startTime": "10:08",
+      "trackName": "Beat Within"
     },
     {
-      "publisher": "Tasty Recordings Digital",
-      "startTime": "15:08",
-      "trackName": "Inner City Livin'",
       "artistName": "Audio Jacker",
       "coverArtDate": "2023-07-15T18:58:18.369Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Tasty Recordings Digital",
+      "remixArtistName": "Discotron Remix",
       "sectionNumber": 4,
-      "remixArtistName": "Discotron Remix"
+      "startTime": "15:08",
+      "trackName": "Inner City Livin'"
     },
     {
-      "publisher": "Glasgow Underground",
-      "startTime": "18:38",
-      "trackName": "Everything Changes",
       "artistName": "J Paul Getto & Alex Herrera",
       "coverArtDate": "2023-07-15T18:58:19.794Z",
       "coverArtLarge": "https://i.discogs.com/rvjP1nlq6KZ1ZlgIeipG7MzSiOqS3TQ-npBoisqnhaQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzg0/ODktMTQ3ODg2NTA0/MC0zNjEyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/5i4cKdAX_6OULAWD1fPirAK0qVe2Gwkt1bm1g6tTGR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzg0/ODktMTQ3ODg2NTA0/MC0zNjEyLmpwZWc.jpeg",
+      "publisher": "Glasgow Underground",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "18:38",
+      "trackName": "Everything Changes"
     },
     {
-      "publisher": "Purple Music",
-      "startTime": "22:32",
-      "trackName": "Rhythm Is A Dancer",
       "artistName": "Diva Avari & The French House Mafia",
       "coverArtDate": "2023-07-15T18:58:21.166Z",
       "coverArtLarge": "https://i.discogs.com/fax6INTppZvwgtrnCIBVFt8ynefjq4zOI1YCpmgGqQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc5/NDUtMTQ4NzMxNjcw/Ni0zOTE5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Qy85rc2FJXEVUib9qZ85phOkickSPeWW-v0Zt4bi3LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc5/NDUtMTQ4NzMxNjcw/Ni0zOTE5LmpwZWc.jpeg",
+      "publisher": "Purple Music",
+      "remixArtistName": "Jamie Lewis Purple Room Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Jamie Lewis Purple Room Mix"
+      "startTime": "22:32",
+      "trackName": "Rhythm Is A Dancer"
     },
     {
-      "publisher": "Peppermint Jam",
-      "startTime": "27:44",
-      "trackName": "Disco op Zaterdag",
       "artistName": "Schroder & van der Meer",
       "coverArtDate": "2023-07-15T18:58:22.566Z",
       "coverArtLarge": "https://i.discogs.com/inYoxc7lYHCXCz0lzmJhUibnVfyVLusl4MWov7KYfpk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzg0/NzctMTQ3ODg2NDc2/MS04MDc5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/M9CTsXlMW7tsT0cfAU4TRFelLq8S2pWzCD7btJ2Ti24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzg0/NzctMTQ3ODg2NDc2/MS04MDc5LmpwZWc.jpeg",
+      "publisher": "Peppermint Jam",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "27:44",
+      "trackName": "Disco op Zaterdag"
     },
     {
-      "publisher": "Honeycomb Music",
-      "startTime": "31:22",
-      "trackName": "Buckle Up",
       "artistName": "DJ Kemit feat. Tasha Larae",
       "coverArtDate": "2023-07-15T18:58:23.952Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Honeycomb Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Mix"
+      "startTime": "31:22",
+      "trackName": "Buckle Up"
     },
     {
-      "publisher": "Clair de Lune Records",
-      "startTime": "36:50",
-      "trackName": "La Disquette",
       "artistName": "Lumoon & Rob!n",
       "coverArtDate": "2023-07-15T18:58:25.282Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Clair de Lune Records",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "36:50",
+      "trackName": "La Disquette"
     },
     {
-      "publisher": "Rhemi Music",
-      "startTime": "40:24",
-      "trackName": "Rise Up",
       "artistName": "Rhemi ft. Vanessa Freeman",
       "coverArtDate": "2023-07-15T18:58:26.689Z",
       "coverArtLarge": "https://i.discogs.com/aHbVBGkixfzvpaOg6-xUJVH9bG41o7N-eJZN6MyB4v0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjYx/MzItMTQ3NzY0NTQy/My05NTI2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Dv-nJqDVltv0D4u83Abc1T64ratoT2B3OUTJ3d9DjHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjYx/MzItMTQ3NzY0NTQy/My05NTI2LmpwZWc.jpeg",
+      "publisher": "Rhemi Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Mix"
+      "startTime": "40:24",
+      "trackName": "Rise Up"
     },
     {
-      "publisher": "T's Box",
-      "startTime": "45:52",
-      "trackName": "Circle Of Life",
       "artistName": "Mya",
       "coverArtDate": "2023-07-15T18:58:28.145Z",
       "coverArtLarge": "https://i.discogs.com/TAOc5L32pHEAqUN_NoxzxgpPvck5MILTzVDy8zryn4E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTg0/MDYtMTQ4ODUzOTQ1/OC0zMDA1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/LOcQ9nkdGujHjUfdDzZm4ScsPndKRBbx-9_cUUdjDqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTg0/MDYtMTQ4ODUzOTQ1/OC0zMDA1LmpwZWc.jpeg",
+      "publisher": "T's Box",
+      "remixArtistName": "Terry Hunter Circle Club Mix",
       "sectionNumber": 11,
-      "remixArtistName": "Terry Hunter Circle Club Mix"
+      "startTime": "45:52",
+      "trackName": "Circle Of Life"
     },
     {
-      "publisher": "Safe Music",
-      "startTime": "52:37",
-      "trackName": "Sensations",
       "artistName": "The Deepshakerz",
       "coverArtDate": "2023-07-15T18:58:29.616Z",
       "coverArtLarge": "https://i.discogs.com/nRRU5gBa8m8ImAVW5Ue3WVu_eNuTnnys5azoh9juvaA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjgw/MzItMTU4NjY3NzY1/Mi02MTMyLnBuZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/62sADd1MN8hY2OIfYh_ZBtikbnukM-Z9V4V9FGLuSlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1Mjgw/MzItMTU4NjY3NzY1/Mi02MTMyLnBuZw.jpeg",
+      "publisher": "Safe Music",
+      "remixArtistName": "Julyan Dubson Remix",
       "sectionNumber": 12,
-      "remixArtistName": "Julyan Dubson Remix"
+      "startTime": "52:37",
+      "trackName": "Sensations"
     },
     {
-      "publisher": "Ladies and Gentlemen",
-      "startTime": "56:46",
-      "trackName": "Something To Remember",
       "artistName": "Phonique feat. Stee Downes",
       "coverArtDate": "2023-07-15T18:58:31.065Z",
       "coverArtLarge": "https://i.discogs.com/EXaJHxggkjfKgAKdHBLmrOV3ebtonEHiIwODIj_5CnA/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc4/ODk2LTE0OTg0MDk0/MTgtNTY0Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Uai-7z1a4qdmDJ7waqt7SwzkBazlywDmIs4uklJMBO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc4/ODk2LTE0OTg0MDk0/MTgtNTY0Mi5qcGVn.jpeg",
+      "publisher": "Ladies and Gentlemen",
+      "remixArtistName": "Nwb Remix",
       "sectionNumber": 13,
-      "remixArtistName": "Nwb Remix"
+      "startTime": "56:46",
+      "trackName": "Something To Remember"
     },
     {
-      "publisher": "Ego",
-      "startTime": "1:01:03",
-      "trackName": "Dream For U",
       "artistName": "Rasmus Faber",
       "coverArtDate": "2023-07-15T18:58:32.512Z",
       "coverArtLarge": "https://i.discogs.com/11TpxVtLFMf-OkJchCyMzWsq6O6l0eler3e-T-GmXfI/rs:fit/g:sm/q:90/h:399/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTcz/Ni0xMjY1NzIzNjg2/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/janUxnMwaOunkeOAuqMJkovDIpx7AcGdrvDHSAwUudA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTcz/Ni0xMjY1NzIzNjg2/LmpwZWc.jpeg",
+      "publisher": "Ego",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "1:01:03",
+      "trackName": "Dream For U"
     },
     {
-      "publisher": "Deflecteed",
-      "startTime": "1:05:02",
-      "trackName": "Caught Up",
       "artistName": "Sonny Fodera feat. Yasmeen",
       "coverArtDate": "2023-07-15T18:58:34.017Z",
       "coverArtLarge": "https://i.discogs.com/FeJAZvO4WraaeAc47UlbRlS7Rfv71BmrbYiDUiO_Uq8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODg1/MTktMTQ4NjMyODgy/Mi02OTkxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/naF6NAepZN3mashRyfjRAEJIrANinsV95d0oLQQY3GI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODg1/MTktMTQ4NjMyODgy/Mi02OTkxLmpwZWc.jpeg",
+      "publisher": "Deflecteed",
+      "remixArtistName": "Kings Of Tomorrow Remix",
       "sectionNumber": 15,
-      "remixArtistName": "Kings Of Tomorrow Remix"
+      "startTime": "1:05:02",
+      "trackName": "Caught Up"
     },
     {
-      "publisher": "Rhythm Section International",
-      "startTime": "1:08:43",
-      "trackName": "Change",
       "artistName": "Dan Kye",
       "coverArtDate": "2023-07-15T18:58:35.586Z",
       "coverArtLarge": "https://i.discogs.com/U_23Fp1KL4UtjiB9597pGVefCuWDyetfw8k611E1ico/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTkw/MjktMTQ4MDk0NDQy/OC05Mzk4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/TQAPqn-TdxFGiiIjllNE3ncuZd3QFFv7qWpw8EEN19E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTkw/MjktMTQ4MDk0NDQy/OC05Mzk4LmpwZWc.jpeg",
+      "publisher": "Rhythm Section International",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:08:43",
+      "trackName": "Change"
     },
     {
-      "publisher": "GOGO Music",
-      "startTime": "1:12:53",
-      "trackName": "Sandcastle",
       "artistName": "Sir LSG feat. Ayanda Jiya",
       "coverArtDate": "2023-07-15T18:58:37.018Z",
       "coverArtLarge": "https://i.discogs.com/4BSV3iTTjg5m5aGcRr8aUX9CUq4lFtHlQ2bWzgVGA1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODEz/NjktMTQ4NjIzOTYw/MS01ODU0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/RN-PehwZvKNArJn_BG1Q8MGKNt2paN-__kTjQq-Kyv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODEz/NjktMTQ4NjIzOTYw/MS01ODU0LmpwZWc.jpeg",
+      "publisher": "GOGO Music",
+      "remixArtistName": "Sir LSG Main Mix",
       "sectionNumber": 17,
-      "remixArtistName": "Sir LSG Main Mix"
+      "startTime": "1:12:53",
+      "trackName": "Sandcastle"
     },
     {
-      "publisher": "Double Cheese Records",
-      "startTime": "1:17:34",
-      "trackName": "Transformation",
       "artistName": "Opolopo, Roy Ananda feat. Sacha Williamson",
       "coverArtDate": "2023-07-15T18:58:38.437Z",
       "coverArtLarge": "https://i.discogs.com/BY1BYN5HDGh9DYa-9sWeD_TM76HnIRIu2mZLSdoUd_E/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDg5/OTU5LTE2NjMyMzU0/NDUtMTM5Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/ioh2R_d2vTMArAdH4mQHhISsSQz0zGHTzi0z8zSCND8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDg5/OTU5LTE2NjMyMzU0/NDUtMTM5Ni5qcGVn.jpeg",
+      "publisher": "Double Cheese Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 18,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:17:34",
+      "trackName": "Transformation"
     },
     {
-      "publisher": "Quantize Recordings",
-      "startTime": "1:22:15",
-      "trackName": "Happiness",
       "artistName": "The Journey Men feat. Fyza",
       "coverArtDate": "2023-07-15T18:58:39.870Z",
       "coverArtLarge": "https://i.discogs.com/0-HI8X78LsjzukIn5Gjbl7V_aWARtmJjTbAeHe2Fsvo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzUx/ODYtMTQ4NjE1NDc4/NS0zMjczLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/09Ao5JDbT1rnCuuf4i9-FAWC4n5O4Saqr6zQVUzYi4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzUx/ODYtMTQ4NjE1NDc4/NS0zMjczLmpwZWc.jpeg",
+      "publisher": "Quantize Recordings",
+      "remixArtistName": "Soulphonix, DJ Spen & Thommy Davis Remix",
       "sectionNumber": 19,
-      "remixArtistName": "Soulphonix, DJ Spen & Thommy Davis Remix"
+      "startTime": "1:22:15",
+      "trackName": "Happiness"
     },
     {
-      "publisher": "Sunlightsquare Records",
-      "startTime": "1:28:47",
-      "trackName": "Papa Was A Rolling Stone",
       "artistName": "Sunlightsquare",
       "coverArtDate": "2023-07-15T18:58:41.274Z",
       "coverArtLarge": "https://i.discogs.com/mDOnN_AkWpfHvhBb7E0nzGtQr3JtKWeOuJxjnY369Lk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTE4/NjAtMTQ0MDUwNDg0/My04MTM0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/vMoKLemsRLFdXlqwQrHm_yxrQmyJ7vYISJehTM1UDSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTE4/NjAtMTQ0MDUwNDg0/My04MTM0LmpwZWc.jpeg",
+      "publisher": "Sunlightsquare Records",
+      "remixArtistName": "Extended Mix",
       "sectionNumber": 20,
-      "remixArtistName": "Extended Mix"
+      "startTime": "1:28:47",
+      "trackName": "Papa Was A Rolling Stone"
     },
     {
-      "publisher": "Tejal",
-      "startTime": "1:33:25",
-      "trackName": "Everybody's Dancing",
       "artistName": "DJ Fudge",
       "coverArtDate": "2023-07-15T18:58:42.686Z",
       "coverArtLarge": "https://i.discogs.com/ZUIaodAOi9i_5RSzF2dMdYszWN6YWV-HAIM6P8zYz-M/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTEy/NjYtMTQzMjk4MDcx/MC01NzAzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/4PFMMPuZd2EI8EJlZauh9kvw-NJBMVDu_7i4Ods90tA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTEy/NjYtMTQzMjk4MDcx/MC01NzAzLmpwZWc.jpeg",
+      "publisher": "Tejal",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 21,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:33:25",
+      "trackName": "Everybody's Dancing"
     },
     {
-      "publisher": "Jalapeno Records",
-      "startTime": "1:37:48",
-      "trackName": "Hope You Can Wait",
       "artistName": "Izo FitzRoy",
       "coverArtDate": "2023-07-15T18:58:44.178Z",
       "coverArtLarge": "https://i.discogs.com/qR6lAZ12GPWY2-rPQc54aUM70DUeCbQQzGNDQ_CFV38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI4/MjMzLTE0OTIxMTE2/MzEtNDM5OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Cf497wq2SU1qR8vMTRtntzcfivIRQRwUdcdoVwqYLAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI4/MjMzLTE0OTIxMTE2/MzEtNDM5OS5qcGVn.jpeg",
+      "publisher": "Jalapeno Records",
+      "remixArtistName": "Hot Toddy Remix",
       "sectionNumber": 22,
-      "remixArtistName": "Hot Toddy Remix"
+      "startTime": "1:37:48",
+      "trackName": "Hope You Can Wait"
     },
     {
-      "publisher": "Tasty Recordings",
-      "startTime": "1:42:31",
-      "trackName": "Disco With Attitude",
       "artistName": "Serial Thrilla",
       "coverArtDate": "2023-07-15T18:58:45.650Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Tasty Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 23,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:42:31",
+      "trackName": "Disco With Attitude"
     },
     {
-      "publisher": "Soundstate Records",
-      "startTime": "1:46:10",
-      "trackName": "Whats Up",
       "artistName": "Cafe 432 feat. Lonyo",
       "coverArtDate": "2023-07-15T18:58:47.109Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Soundstate Records",
+      "remixArtistName": "Club Mix",
       "sectionNumber": 24,
-      "remixArtistName": "Club Mix"
+      "startTime": "1:46:10",
+      "trackName": "Whats Up"
     },
     {
-      "publisher": "Peppermint Jam",
-      "startTime": "1:50:57",
-      "trackName": "Close to You",
       "artistName": "Mousse T. & Lovebirds",
       "coverArtDate": "2023-07-15T18:58:48.458Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Peppermint Jam",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 25,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:50:57",
+      "trackName": "Close to You"
     },
     {
-      "publisher": "Soulshine",
-      "startTime": "1:56:18",
-      "trackName": "I Want You For Myself B_W Revelation",
       "artistName": "Louis Benedetti & Sy Smith",
       "coverArtDate": "2023-07-15T18:58:49.871Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Soulshine",
+      "remixArtistName": "Louis Benedetti Classic Vocal Mix",
       "sectionNumber": 26,
-      "remixArtistName": "Louis Benedetti Classic Vocal Mix"
+      "startTime": "1:56:18",
+      "trackName": "I Want You For Myself B_W Revelation"
     }
   ]
 }

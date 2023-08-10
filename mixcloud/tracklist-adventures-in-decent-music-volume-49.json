@@ -2,246 +2,246 @@
   "mixcloudKey": "adventures-in-decent-music-volume-49",
   "tracks": [
     {
-      "publisher": "Altra Moda",
-      "startTime": "00:00",
-      "trackName": "The Weekend",
       "artistName": "Michael Gray",
       "coverArtDate": "2023-07-15T18:46:53.049Z",
       "coverArtLarge": "https://i.discogs.com/UMpl4lwjx0Fs8jB62tHRu54n7_zv8Ut-6Y9ZTqhkFHQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUz/OC0xMTU0OTY1MTU4/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/iP8opw-ejTXwpOk2zCJOj9TG9bE8lD8G-46KBB7nKyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjUz/OC0xMTU0OTY1MTU4/LmpwZWc.jpeg",
+      "publisher": "Altra Moda",
+      "remixArtistName": "Michael Gray Glitterbox Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Michael Gray Glitterbox Mix"
+      "startTime": "00:00",
+      "trackName": "The Weekend"
     },
     {
-      "publisher": "Toy Tonics",
-      "startTime": "05:13",
-      "trackName": "Flesh World",
       "artistName": "Coeo",
       "coverArtDate": "2023-07-15T18:46:54.403Z",
       "coverArtLarge": "https://i.discogs.com/XO5s7TZ00UbsuVY07nFoiSWo2WA9mC17g3FFwd8-fik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAw/NTg0LTE1MDQ1MzI0/OTQtNzExNy5wbmc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZZ5uU1m6rEaiG5QkAztALh5seL-6MXl38Slfa9XEFEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAw/NTg0LTE1MDQ1MzI0/OTQtNzExNy5wbmc.jpeg",
+      "publisher": "Toy Tonics",
+      "remixArtistName": "Kapote's Drum Jam Version",
       "sectionNumber": 2,
-      "remixArtistName": "Kapote's Drum Jam Version"
+      "startTime": "05:13",
+      "trackName": "Flesh World"
     },
     {
-      "publisher": "Glitterbox",
-      "startTime": "14:16",
-      "trackName": "Give Me A Minute",
       "artistName": "Qwestlife feat. Jacqui George",
       "coverArtDate": "2023-07-15T18:46:56.115Z",
       "coverArtLarge": "https://i.discogs.com/0o5WwSOW7WmJeN956fuqwBZCBiyKXFrpjMrZrj-N2DI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/MjA5LTE1MTY2MjU2/MTctNTIzNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/paU6yMRJF7MZwF0bRes6kbuwzDzpYBhu17Wau26a2VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQw/MjA5LTE1MTY2MjU2/MTctNTIzNy5qcGVn.jpeg",
+      "publisher": "Glitterbox",
+      "remixArtistName": "Extended Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Extended Mix"
+      "startTime": "14:16",
+      "trackName": "Give Me A Minute"
     },
     {
-      "publisher": "Spirit Soul Music",
-      "startTime": "22:05",
-      "trackName": "Tribal",
       "artistName": "Golden Bridge",
       "coverArtDate": "2023-07-15T18:46:57.422Z",
       "coverArtLarge": "https://i.discogs.com/6zTXzCbrqawi24043KjaV2z13o9iW82kcno7bP7qn6c/rs:fit/g:sm/q:90/h:267/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc1/ODU0LTE2MzQ4MjIz/ODEtNDQ2My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/TU4ZCw94lDuPVdiOcb1FAN8bfaJXSKcUZsrG7SrkQwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc1/ODU0LTE2MzQ4MjIz/ODEtNDQ2My5qcGVn.jpeg",
+      "publisher": "Spirit Soul Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Original Mix"
+      "startTime": "22:05",
+      "trackName": "Tribal"
     },
     {
-      "publisher": "Homesick",
-      "startTime": "27:41",
-      "trackName": "No Scrubs",
       "artistName": "TLC",
       "coverArtDate": "2023-07-15T18:46:58.849Z",
       "coverArtLarge": "https://i.discogs.com/ltSbNWMQU65O4zea3uT0qwVQeyS9TdRIMeDvuz9qC1c/rs:fit/g:sm/q:90/h:469/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjky/OC0xMjA0MDYxNzg3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/WkFm7D_W2N83LCK0M06SYYwJyVqOV5_P5IUSGc8jNa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mjky/OC0xMjA0MDYxNzg3/LmpwZWc.jpeg",
+      "publisher": "Homesick",
+      "remixArtistName": "Drop Out Orchestra Extended Rework",
       "sectionNumber": 5,
-      "remixArtistName": "Drop Out Orchestra Extended Rework"
+      "startTime": "27:41",
+      "trackName": "No Scrubs"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "32:28",
-      "trackName": "Circles",
       "artistName": "Atlantic Starr",
       "coverArtDate": "2023-07-15T18:47:00.713Z",
       "coverArtLarge": "https://i.discogs.com/h7npccQUr_JiZ4rBF1I836FGRLTHIFfbEC_3al3_I4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODcx/OS0xMTUwMTEwOTY3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/5RPMM85b8SqJTmRears6uUy1qHwCJKuMb5qgTJvJsl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODcx/OS0xMTUwMTEwOTY3/LmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Joey Negro Extended Disco Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Joey Negro Extended Disco Mix"
+      "startTime": "32:28",
+      "trackName": "Circles"
     },
     {
-      "publisher": "EDR Records",
-      "startTime": "37:48",
-      "trackName": "You Don't Have to Say You Love Me",
       "artistName": "Crown Heights Affair",
       "coverArtDate": "2023-07-15T18:47:02.184Z",
       "coverArtLarge": "https://i.discogs.com/GLXHlfNlMHtXgfaAyub_jh_VtKCdEvdXepUye7aRMyk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjY5/NTAtMTQzODk3MzUw/NS05MDUzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/FOFEjmkl6wDBz9jnhaiDFOyUW5bcuqXi_v2ivyXLGyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMjY5/NTAtMTQzODk3MzUw/NS05MDUzLmpwZWc.jpeg",
+      "publisher": "EDR Records",
+      "remixArtistName": "DJ Vas Rework",
       "sectionNumber": 7,
-      "remixArtistName": "DJ Vas Rework"
+      "startTime": "37:48",
+      "trackName": "You Don't Have to Say You Love Me"
     },
     {
-      "publisher": "CDr",
-      "startTime": "42:20",
-      "trackName": "It Ain't Easy",
       "artistName": "Bit Funk",
       "coverArtDate": "2023-07-15T18:47:03.618Z",
       "coverArtLarge": "https://i.discogs.com/O5NOLFhIumqTN_zpy_96neHASKToix39Qcia1y0bWVM/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA0/NzAtMTQwMTQ1NjYw/MC0xNTM5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/c4rZOYP6k-epVQoBPVI5FDsqwlZbO7kmZaNINml6Quo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDA0/NzAtMTQwMTQ1NjYw/MC0xNTM5LmpwZWc.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "42:20",
+      "trackName": "It Ain't Easy"
     },
     {
-      "publisher": "Whiskey Pickle",
-      "startTime": "47:16",
-      "trackName": "Robot Soul",
       "artistName": "The Funk District",
       "coverArtDate": "2023-07-15T18:47:05.314Z",
       "coverArtLarge": "https://i.discogs.com/cUtaSP7XyyptbZ_Lok67d62X4iCGyNghZtXiWvFaiDo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMx/MjE4LTE1MDEyOTgy/ODItNzQzOC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/__WXpuRfPRghbWLDgds2CK1eg2hXhLgaCwRigJmq9VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMx/MjE4LTE1MDEyOTgy/ODItNzQzOC5qcGVn.jpeg",
+      "publisher": "Whiskey Pickle",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 9,
-      "remixArtistName": "Original Mix"
+      "startTime": "47:16",
+      "trackName": "Robot Soul"
     },
     {
-      "publisher": "Discopolis Recordings",
-      "startTime": "52:28",
-      "trackName": "Other Side",
       "artistName": "Dax On Sax & Lisa Shaw",
       "coverArtDate": "2023-07-15T18:47:06.775Z",
       "coverArtLarge": "https://i.discogs.com/Rxe5o00ez4tCRcoSUAaZNO_fWoViWxvNj0wn7TYW_sc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMx/NDA5LTE2NDc0NDAw/NTctNzgzMS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/BJrpKFH0BOqL8ApQMySSGrPELb3Q2gqq3ut8H-GnbYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTMx/NDA5LTE2NDc0NDAw/NTctNzgzMS5qcGVn.jpeg",
+      "publisher": "Discopolis Recordings",
+      "remixArtistName": "Sebb Junior Remix",
       "sectionNumber": 10,
-      "remixArtistName": "Sebb Junior Remix"
+      "startTime": "52:28",
+      "trackName": "Other Side"
     },
     {
-      "publisher": "CDr",
-      "startTime": "57:40",
-      "trackName": "Summer Night",
       "artistName": "Alien Disco Sugar",
       "coverArtDate": "2023-07-15T18:47:08.126Z",
       "coverArtLarge": "https://i.discogs.com/9Uwdnez296IxGfswbicxWKz70DcrbZ0dHNT_swo55iI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/OTgtMTQ3MTQyODYy/OS05MzE2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZOd8M33vIStyQK9YXYII4DikKtpNqtCb0mx2RrXcQJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTcw/OTgtMTQ3MTQyODYy/OS05MzE2LmpwZWc.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "57:40",
+      "trackName": "Summer Night"
     },
     {
-      "publisher": "Toy Tonics",
-      "startTime": "1:04:08",
-      "trackName": "In Motion",
       "artistName": "Coeo",
       "coverArtDate": "2023-07-15T18:47:09.443Z",
       "coverArtLarge": "https://i.discogs.com/XO5s7TZ00UbsuVY07nFoiSWo2WA9mC17g3FFwd8-fik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAw/NTg0LTE1MDQ1MzI0/OTQtNzExNy5wbmc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZZ5uU1m6rEaiG5QkAztALh5seL-6MXl38Slfa9XEFEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODAw/NTg0LTE1MDQ1MzI0/OTQtNzExNy5wbmc.jpeg",
+      "publisher": "Toy Tonics",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:04:08",
+      "trackName": "In Motion"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "1:10:10",
-      "trackName": "Distorting Space Time",
       "artistName": "Joey Negro",
       "coverArtDate": "2023-07-15T18:47:10.808Z",
       "coverArtLarge": "https://i.discogs.com/CzH83gF6zUvVtHWGhZE4599sndBZP1UemlnLxFGeqAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM0/OTQwLTE1MDQ5NzM2/NjEtOTk2NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/A79JGIFxV23OQ9C8IRrTh6fBm1cDhXEY8p-COTDdfnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM0/OTQwLTE1MDQ5NzM2/NjEtOTk2NC5qcGVn.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "1:10:10",
+      "trackName": "Distorting Space Time"
     },
     {
-      "publisher": "Myriad Black Records",
-      "startTime": "1:16:22",
-      "trackName": "Whistle Down The Wild",
       "artistName": "Mastercris feat. Kathy Diamond",
       "coverArtDate": "2023-07-15T18:47:12.104Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Myriad Black Records",
+      "remixArtistName": "Art Of Tones Remix",
       "sectionNumber": 14,
-      "remixArtistName": "Art Of Tones Remix"
+      "startTime": "1:16:22",
+      "trackName": "Whistle Down The Wild"
     },
     {
-      "publisher": "Ed Banger Records",
-      "startTime": "1:21:30",
-      "trackName": "You Should Know",
       "artistName": "Breatbot feat. Ruckazoid",
       "coverArtDate": "2023-07-15T18:47:13.538Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Ed Banger Records",
+      "remixArtistName": "",
       "sectionNumber": 15,
-      "remixArtistName": ""
+      "startTime": "1:21:30",
+      "trackName": "You Should Know"
     },
     {
-      "publisher": "CDr",
-      "startTime": "1:25:30",
-      "trackName": "Vulnerable",
       "artistName": "Tinashe",
       "coverArtDate": "2023-07-15T18:47:14.874Z",
       "coverArtLarge": "https://i.discogs.com/JtnvEPkH4NZMc-xlOSZDWVlOya_SttsQ2so21CeXXoI/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzkx/NDgtMTQyODA3MTEw/Ny04NzU2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/kNRhW3Xn-O0ZFKrw8yiPNZDbuRc0ybQsuJ4vA6xpFAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzkx/NDgtMTQyODA3MTEw/Ny04NzU2LmpwZWc.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "Pomo Remix",
       "sectionNumber": 16,
-      "remixArtistName": "Pomo Remix"
+      "startTime": "1:25:30",
+      "trackName": "Vulnerable"
     },
     {
-      "publisher": "Collumbiaa",
-      "startTime": "1:29:52",
-      "trackName": "I Can't Lose",
       "artistName": "Mark Ronson feat. Keyone Starr",
       "coverArtDate": "2023-07-15T18:47:16.314Z",
       "coverArtLarge": "https://i.discogs.com/YbAgeknqNQZ2wm_1wn7DoBqer2ddWLb6ea5SUJXBgQA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTY4/NjctMTQ0MjY4NTQw/Ny03MzcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/9rIlaNoqhBZya3LCGU3BcL40kBZUQLcq76-5a7AB26M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTY4/NjctMTQ0MjY4NTQw/Ny03MzcwLmpwZWc.jpeg",
+      "publisher": "Collumbiaa",
+      "remixArtistName": "Pomo Remix",
       "sectionNumber": 17,
-      "remixArtistName": "Pomo Remix"
+      "startTime": "1:29:52",
+      "trackName": "I Can't Lose"
     },
     {
-      "publisher": "Doomusic",
-      "startTime": "1:33:22",
-      "trackName": "Situationship",
       "artistName": "Moon Rocket feat. Bel-Ami",
       "coverArtDate": "2023-07-15T18:47:17.691Z",
       "coverArtLarge": "https://i.discogs.com/2FkoeoLP7YiddtuBQWImDCeMLUMFZvoS38yTklky1lA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/NTQ0LTE1MDg0MjI3/NjktNTIxMi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/R8T6TOdlrYZcxBplhS96d8gI1XSzpiSNFBbAFFER18g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/NTQ0LTE1MDg0MjI3/NjktNTIxMi5qcGVn.jpeg",
+      "publisher": "Doomusic",
+      "remixArtistName": "Funky Loft Remix",
       "sectionNumber": 18,
-      "remixArtistName": "Funky Loft Remix"
+      "startTime": "1:33:22",
+      "trackName": "Situationship"
     },
     {
-      "publisher": "Soundcolors",
-      "startTime": "1:38:04",
-      "trackName": "Give It To Me",
       "artistName": "Blank & Jones feat. Emma Brammer",
       "coverArtDate": "2023-07-15T18:47:19.005Z",
       "coverArtLarge": "https://i.discogs.com/oHVhkHGWOhkpQJgMiDMC7QaEY50gCASzwtsczbSEE9g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjI4/MDAyLTE2ODg5Mjg1/NzgtNDIyOC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/IiQPTASdfplrvC4FOyEWx_3QUlLvvktw8MdSryc0cfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjI4/MDAyLTE2ODg5Mjg1/NzgtNDIyOC5qcGVn.jpeg",
+      "publisher": "Soundcolors",
+      "remixArtistName": "Cassara Extended Remix",
       "sectionNumber": 19,
-      "remixArtistName": "Cassara Extended Remix"
+      "startTime": "1:38:04",
+      "trackName": "Give It To Me"
     },
     {
-      "publisher": "Classic Music Company",
-      "startTime": "1:44:14",
-      "trackName": "Look Ahead",
       "artistName": "Honey Dijon & Tim K feat. Sam Sparro",
       "coverArtDate": "2023-07-15T18:47:20.610Z",
       "coverArtLarge": "https://i.discogs.com/Y4cLLuNBjc1dBA3zBlcCabs2J8vTY-Y_MX63dJC64jM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/MTAzLTE1NTk0NzA5/MDgtNTgyMy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/DZVUlkEyWV9l_dABXcn2kRllARatb6PLV7NdNFW3cCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzA4/MTAzLTE1NTk0NzA5/MDgtNTgyMy5qcGVn.jpeg",
+      "publisher": "Classic Music Company",
+      "remixArtistName": "Extended Mix",
       "sectionNumber": 20,
-      "remixArtistName": "Extended Mix"
+      "startTime": "1:44:14",
+      "trackName": "Look Ahead"
     },
     {
-      "publisher": "What About Never",
-      "startTime": "1:52:40",
-      "trackName": "Gilbert",
       "artistName": "Secondo",
       "coverArtDate": "2023-07-15T18:47:21.977Z",
       "coverArtLarge": "https://i.discogs.com/IUPMBnYSjBbBVit_oUTYPOvFxnfpBlZosI0o-o81vBs/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTAy/NzgtMTMyNDM1Nzc3/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/T0pOCvTUneXZMRtiU2T_CPWQimDtIPo3Z68yFrTVabk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTAy/NzgtMTMyNDM1Nzc3/My5qcGVn.jpeg",
+      "publisher": "What About Never",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:52:40",
+      "trackName": "Gilbert"
     },
     {
-      "publisher": "Athens Of The North",
-      "startTime": "1:57:34",
-      "trackName": "Confrontation",
       "artistName": "Homegrown Syndrome",
       "coverArtDate": "2023-07-15T18:47:23.323Z",
       "coverArtLarge": "https://i.discogs.com/UkQ9Au49PHhOGypiFD4gTcyJNvw6GvTcnjj06-RNBYk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk3/NjI5LTE2NjM4NjYx/MDMtNDkzNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/OWRUPjuCBOaCm6MLAOS5XQYz1TRerPwCuruaRV2u1Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk3/NjI5LTE2NjM4NjYx/MDMtNDkzNy5qcGVn.jpeg",
+      "publisher": "Athens Of The North",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 22,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:57:34",
+      "trackName": "Confrontation"
     }
   ]
 }

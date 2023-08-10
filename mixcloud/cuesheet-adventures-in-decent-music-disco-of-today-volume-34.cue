@@ -1,0 +1,79 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Disco of Today - Volume 34"
+FILE "Adventures_in_Decent_Music_Vol._34_disco_of_today_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "HNNY"
+TITLE "For The Very First Time"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "HNNY"
+TITLE "For The Very First Time"
+INDEX 01 03:33:00
+TRACK 02 AUDIO
+PERFORMER "Andre Espeut"
+TITLE "Everybody"
+INDEX 01 08:16:00
+TRACK 03 AUDIO
+PERFORMER "Spirit Catcher"
+TITLE "Absolute Drop"
+INDEX 01 11:00:00
+TRACK 04 AUDIO
+PERFORMER "Tony Betties"
+TITLE "You And I"
+INDEX 01 16:42:00
+TRACK 05 AUDIO
+PERFORMER "Moon Boots"
+TITLE "Love Strong"
+INDEX 01 20:13:00
+TRACK 06 AUDIO
+PERFORMER "Lifelike feat. A-Trak"
+TITLE "Don't Stop"
+INDEX 01 24:50:00
+TRACK 07 AUDIO
+PERFORMER "Monte"
+TITLE "True"
+INDEX 01 29:35:00
+TRACK 08 AUDIO
+PERFORMER "Samir Maslo"
+TITLE "Startin' Up"
+INDEX 01 35:03:00
+TRACK 09 AUDIO
+PERFORMER "Georgio Schultz feat. Mary Griffin"
+TITLE "My Love Can Take You Higher"
+INDEX 01 38:50:00
+TRACK 10 AUDIO
+PERFORMER "Erkka"
+TITLE "Excommunication"
+INDEX 01 44:48:00
+TRACK 11 AUDIO
+PERFORMER "The Revenge"
+TITLE "Unfinished Edits Are Out Of My Hands"
+INDEX 01 50:19:00
+TRACK 12 AUDIO
+PERFORMER "Gigamesh"
+TITLE "When You're Dancing"
+INDEX 01 55:35:00
+TRACK 13 AUDIO
+PERFORMER "Disclosure"
+TITLE "Lividup"
+INDEX 01 61:08:00
+TRACK 14 AUDIO
+PERFORMER "Todd Terje"
+TITLE "Strandbar"
+INDEX 01 66:24:00
+TRACK 15 AUDIO
+PERFORMER "Gigamesh"
+TITLE "Enjoy"
+INDEX 01 74:59:00
+TRACK 16 AUDIO
+PERFORMER "Spiller feat. Nina Miranda"
+TITLE "Urastar"
+INDEX 01 78:13:00
+TRACK 17 AUDIO
+PERFORMER "Gigamesh"
+TITLE "Your Body"
+INDEX 01 81:57:00
+TRACK 18 AUDIO
+PERFORMER "Drop Out Orchestra"
+TITLE "Day Vague"
+INDEX 01 86:24:00

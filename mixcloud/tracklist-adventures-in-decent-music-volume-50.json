@@ -2,290 +2,290 @@
   "mixcloudKey": "adventures-in-decent-music-volume-50",
   "tracks": [
     {
-      "publisher": "Soulection",
-      "startTime": "00:00",
-      "trackName": "Way I Feel",
       "artistName": "Atu",
       "coverArtDate": "2023-07-15T18:47:25.121Z",
       "coverArtLarge": "https://i.discogs.com/Q4a2fy9LpkR6KdQk6RetVDWwhYGkB4OFqewKQy1FsQ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzMx/NjAtMTQwMTE4NDE5/MC0yODI5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/HVR9yPZC4D3gmpdTOyr3D21ZMQqmXVPRcEb6ikLfGDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzMx/NjAtMTQwMTE4NDE5/MC0yODI5LmpwZWc.jpeg",
+      "publisher": "Soulection",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Way I Feel"
     },
     {
-      "publisher": "Leaving Records",
-      "startTime": "02:22",
-      "trackName": "Happysad Sunday",
       "artistName": "Kiefer",
       "coverArtDate": "2023-07-15T18:47:26.503Z",
       "coverArtLarge": "https://i.discogs.com/SbV5byThqu4-w4FQhyyCVlm32TlWFghOgkfQ3jYgAQw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI4/NjE3LTE0OTcyMzY3/NDAtMTAxMC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/S-yE2KvMLyuT23yB4J9oFds9c24jfdPrKUoMLwV7lMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI4/NjE3LTE0OTcyMzY3/NDAtMTAxMC5qcGVn.jpeg",
+      "publisher": "Leaving Records",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "02:22",
+      "trackName": "Happysad Sunday"
     },
     {
-      "publisher": "Omniverse",
-      "startTime": "05:05",
-      "trackName": "Heartstrings",
       "artistName": "Nu Era",
       "coverArtDate": "2023-07-15T18:47:27.856Z",
       "coverArtLarge": "https://i.discogs.com/Bm8frPD7haR15ycEcBRm-vGe3SVlaQWunpONEBKQfGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/NTI0LTE1MDUwNzEw/MDMtOTk5My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Nwdmil_RyMXU_UzyZKwYc7ymamUIw9CP9ypA4ES1EMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQ4/NTI0LTE1MDUwNzEw/MDMtOTk5My5qcGVn.jpeg",
+      "publisher": "Omniverse",
+      "remixArtistName": "",
       "sectionNumber": 3,
-      "remixArtistName": ""
+      "startTime": "05:05",
+      "trackName": "Heartstrings"
     },
     {
-      "publisher": "Freeform Reform Pt I",
-      "startTime": "14:09",
-      "trackName": "Beau Mot Plage",
       "artistName": "Isolee",
       "coverArtDate": "2023-07-15T18:47:29.183Z",
       "coverArtLarge": "https://i.discogs.com/NJMsztSam_DaDzPmih0juoLrzWNdaZnKR3mkJLwZryE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE4/LTE2MzQ3NDY3Njkt/MjQwMC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/yO_QT8JoazSgcnTnMGcWrOylgf9rLgPRH0q3VnDNo3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE4/LTE2MzQ3NDY3Njkt/MjQwMC5qcGVn.jpeg",
+      "publisher": "Freeform Reform Pt I",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "14:09",
+      "trackName": "Beau Mot Plage"
     },
     {
-      "publisher": "Freeform Reform Pt I",
-      "startTime": "18.00",
-      "trackName": "Shockazulu",
       "artistName": "Part 4",
       "coverArtDate": "2023-07-15T18:47:30.530Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Freeform Reform Pt I",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "18.00",
+      "trackName": "Shockazulu"
     },
     {
-      "publisher": "Soul Source",
-      "startTime": "20:12",
-      "trackName": "Think Better",
       "artistName": "Slow Motion Replay",
       "coverArtDate": "2023-07-15T18:47:31.850Z",
       "coverArtLarge": "https://i.discogs.com/isYdm3kMtozUPlgOruGp8Mh-lwFxIysN0SnoWKHC4NU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODEz/MDktMTQ5Njc1MzM4/NC05Nzk5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EovAg78O6As6zpEnk8qHWNAE1BNUoufY6XlemqCyhLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODEz/MDktMTQ5Njc1MzM4/NC05Nzk5LmpwZWc.jpeg",
+      "publisher": "Soul Source",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "20:12",
+      "trackName": "Think Better"
     },
     {
-      "publisher": "Columbine",
-      "startTime": "25:12",
-      "trackName": "Right On Brotha",
       "artistName": "Miles Davis and Robert Glasper feat. Stevie Wonder",
       "coverArtDate": "2023-07-15T18:47:33.199Z",
       "coverArtLarge": "https://i.discogs.com/zlqRXQE-O0rcqQ6pULh59U6RvbCtKUMrHq-qBhqtvZg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njgz/MjktMTU3ODE4MjA1/OC01MTU0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Bt0HFg8f5iasKLu2UwLF4Mm9Arhb8ES1ZJjvuSDwngU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Njgz/MjktMTU3ODE4MjA1/OC01MTU0LmpwZWc.jpeg",
+      "publisher": "Columbine",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "25:12",
+      "trackName": "Right On Brotha"
     },
     {
-      "publisher": "Star Creature",
-      "startTime": "30:03",
-      "trackName": "Flotational Device",
       "artistName": "E. Livefeat. Chesta Blake",
       "coverArtDate": "2023-07-15T18:47:34.591Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Star Creature",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "30:03",
+      "trackName": "Flotational Device"
     },
     {
-      "publisher": "Acid Jazz",
-      "startTime": "34:30",
-      "trackName": "It Don't Bother Me",
       "artistName": "Torino",
       "coverArtDate": "2023-07-15T18:47:36.298Z",
       "coverArtLarge": "https://i.discogs.com/-PURof-xuIDUa9QxkJR6zxhgBI1Jf2hx2LZhKLa1yrU/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA5/MC0xNTc4OTYyOTc4/LTE0NjQuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/fC1ReP8YQoonCR9orejZSS7C-qp0O98k6JP2EF5AqzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA5/MC0xNTc4OTYyOTc4/LTE0NjQuanBlZw.jpeg",
+      "publisher": "Acid Jazz",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "34:30",
+      "trackName": "It Don't Bother Me"
     },
     {
-      "publisher": "TK",
-      "startTime": "39:48",
-      "trackName": "Madd Demeaux",
       "artistName": "Trian Kayhatu",
       "coverArtDate": "2023-07-15T18:47:37.675Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "TK",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "39:48",
+      "trackName": "Madd Demeaux"
     },
     {
-      "publisher": "Names you Can Trust",
-      "startTime": "42:18",
-      "trackName": "Lei Do Amor",
       "artistName": "João Donato E Donatinho",
       "coverArtDate": "2023-07-15T18:47:39.030Z",
       "coverArtLarge": "https://i.discogs.com/pOe0XkhJ-OFa1XrNuHVpg_KM8iE7Fz63JU2-fJGH_hk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/NjA0LTE1MDc2NjIz/NDktNjY2OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/2Cp6_7Re-VK4VXF_NBWxZaVzsjDaQ6a8fzGIAGzDsbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTgw/NjA0LTE1MDc2NjIz/NDktNjY2OS5qcGVn.jpeg",
+      "publisher": "Names you Can Trust",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "42:18",
+      "trackName": "Lei Do Amor"
     },
     {
-      "publisher": "SoulHouse Music",
-      "startTime": "46:12",
-      "trackName": "Falling Back Into Love",
       "artistName": "Brian Power feat. Marc Evans",
       "coverArtDate": "2023-07-15T18:47:40.518Z",
       "coverArtLarge": "https://i.discogs.com/CMstlBMvfGT5OM6gYMhz540smlOHZK5r_8xrNqFV1AU/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDAy/MDA3LTE1NTY3NDYz/NzMtOTY5NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/g846kAgIeoRuAUlDZjfaMxhauCMQsIdhbced0rY_hEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDAy/MDA3LTE1NTY3NDYz/NzMtOTY5NC5qcGVn.jpeg",
+      "publisher": "SoulHouse Music",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "46:12",
+      "trackName": "Falling Back Into Love"
     },
     {
-      "publisher": "12Tone Music",
-      "startTime": "52:17",
-      "trackName": "Tints",
       "artistName": "Anderson .Paak feat. Kendrick Lamar",
       "coverArtDate": "2023-07-15T18:47:42.184Z",
       "coverArtLarge": "https://i.discogs.com/r3quHs6aVQk4pC3ChJ10KLyUyeGfPQhSxwj9_5riwt8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU3/Nzg1LTE1NjIyNjcx/MzctNzY1Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/GA2Iopk2JTGLSk2Fa2PpxkNGk_d-h5IIHfB4KDqUhC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDU3/Nzg1LTE1NjIyNjcx/MzctNzY1Ni5qcGVn.jpeg",
+      "publisher": "12Tone Music",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "52:17",
+      "trackName": "Tints"
     },
     {
-      "publisher": "Sirsounds Records",
-      "startTime": "56:36",
-      "trackName": "Check It out Heritage",
       "artistName": "SIRS",
       "coverArtDate": "2023-07-15T18:47:43.587Z",
       "coverArtLarge": "https://i.discogs.com/xNIfr-CdufXk-7QmvFljvLGx-byb3cfFP09wERsReuE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MDQwLTE1ODcxMzY4/NDItOTE4Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/ADowDn2BCqe-7CSnIJ0aySfE47WeEZPUdzfnEMQEh3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM1/MDQwLTE1ODcxMzY4/NDItOTE4Ni5qcGVn.jpeg",
+      "publisher": "Sirsounds Records",
+      "remixArtistName": "Raiders of the Lost Arp Remix",
       "sectionNumber": 14,
-      "remixArtistName": "Raiders of the Lost Arp Remix"
+      "startTime": "56:36",
+      "trackName": "Check It out Heritage"
     },
     {
-      "publisher": "The Pusher Digital",
-      "startTime": "1:03:53",
-      "trackName": "Momoshima",
       "artistName": "Koji Ono",
       "coverArtDate": "2023-07-15T18:47:44.929Z",
       "coverArtLarge": "https://i.discogs.com/N8ayygFdSXacwUgaILs1IMf_48zUMdolyDxD9WL9Jkw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MzQ2LTE1MTgzODAx/MTItOTM5OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/pwcyet4mo8AlfAXZpWhJPnZlXpLhe144ogwaDZ4_THM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDI4/MzQ2LTE1MTgzODAx/MTItOTM5OC5qcGVn.jpeg",
+      "publisher": "The Pusher Digital",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 15,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:03:53",
+      "trackName": "Momoshima"
     },
     {
-      "publisher": "Bright White Light",
-      "startTime": "1:09:03",
-      "trackName": "In & Out",
       "artistName": "Michelle Amador feat. DJ Eurok",
       "coverArtDate": "2023-07-15T18:47:46.330Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Bright White Light",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:09:03",
+      "trackName": "In & Out"
     },
     {
-      "publisher": "BBQ",
-      "startTime": "1:13:17",
-      "trackName": "Creative Musicians",
       "artistName": "The Lyman Woodard Organization",
       "coverArtDate": "2023-07-15T18:47:47.670Z",
       "coverArtLarge": "https://i.discogs.com/U3h1dvDR-sXw70E3xXdqoBm10oCPGEYzt-9Cvnbyt3g/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc5/MTQtMTI1MzgwOTEz/NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/2_99IMWwfwDt3TGJOaYvA2YeEmVtpcLXHYd2jVEz18k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc5/MTQtMTI1MzgwOTEz/NC5qcGVn.jpeg",
+      "publisher": "BBQ",
+      "remixArtistName": "",
       "sectionNumber": 17,
-      "remixArtistName": ""
+      "startTime": "1:13:17",
+      "trackName": "Creative Musicians"
     },
     {
-      "publisher": "Expansion",
-      "startTime": "1:15:50",
-      "trackName": "Running Away",
       "artistName": "Simpson Uniquity feat. Diplomats Of Soul",
       "coverArtDate": "2023-07-15T18:47:49.027Z",
       "coverArtLarge": "https://i.discogs.com/iguWjQBT1kArJDoedKGZ-eZmfigfbPGA4dkOTqIGI_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzMz/NjktMTQ3NjA1MjI5/MC04ODc0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/N5gxnkZ2kGQXDgiKuxt6NH1neeNXCAAFnskvW7HqP_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzMz/NjktMTQ3NjA1MjI5/MC04ODc0LmpwZWc.jpeg",
+      "publisher": "Expansion",
+      "remixArtistName": "Diplomats Of Soul Dub",
       "sectionNumber": 18,
-      "remixArtistName": "Diplomats Of Soul Dub"
+      "startTime": "1:15:50",
+      "trackName": "Running Away"
     },
     {
-      "publisher": "BBE",
-      "startTime": "1:20:15",
-      "trackName": "Stop Scrolling And Connect",
       "artistName": "Ziggy Funk",
       "coverArtDate": "2023-07-15T18:47:50.508Z",
       "coverArtLarge": "https://i.discogs.com/EnVyry5SzpHAQcjHky4cndd8bFf8zZJr5MKbKqh7ecA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODkw/NjIzLTE2NDMxNTUy/NTEtNDYyNC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/AxElZjOCXhdCUm-pwKg18Q1WACsJPcEeN1FOGV1yW5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODkw/NjIzLTE2NDMxNTUy/NTEtNDYyNC5qcGVn.jpeg",
+      "publisher": "BBE",
+      "remixArtistName": "",
       "sectionNumber": 19,
-      "remixArtistName": ""
+      "startTime": "1:20:15",
+      "trackName": "Stop Scrolling And Connect"
     },
     {
-      "publisher": "In-Beat-Ween Music",
-      "startTime": "1:25:10",
-      "trackName": "So Many Years",
       "artistName": "Lay-Far with Sarah Winton",
       "coverArtDate": "2023-07-15T18:47:51.933Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "In-Beat-Ween Music",
+      "remixArtistName": "Aroop Roy Remix",
       "sectionNumber": 20,
-      "remixArtistName": "Aroop Roy Remix"
+      "startTime": "1:25:10",
+      "trackName": "So Many Years"
     },
     {
-      "publisher": "Born Bad Records",
-      "startTime": "1:30:03",
-      "trackName": "Sexopolis",
       "artistName": "Jean-Pierre Mirouze",
       "coverArtDate": "2023-07-15T18:47:53.291Z",
       "coverArtLarge": "https://i.discogs.com/QvjvnPnC3Ltr_ZTSi0zA6rPInNAufIpFKgYAWXlzOpI/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE3/OTQtMTQ0ODAyNDA2/NS0yMTc3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EjfewpWwPp3Wa1c3A3KNYJjSrEJHd39U_xlz5RSu47E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE3/OTQtMTQ0ODAyNDA2/NS0yMTc3LmpwZWc.jpeg",
+      "publisher": "Born Bad Records",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:30:03",
+      "trackName": "Sexopolis"
     },
     {
-      "publisher": "Jalapeno Records",
-      "startTime": "1:34:13",
-      "trackName": "Prescription",
       "artistName": "Kraak & Smaak feat. Eric Biddines",
       "coverArtDate": "2023-07-15T18:47:54.643Z",
       "coverArtLarge": "https://i.discogs.com/7s3564HEnbUsTTvqrrEhkP7_QhD4ZAfKeKt1GgZMDvs/rs:fit/g:sm/q:90/h:504/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI1/NjA5LTE1MjMwMzI1/OTAtMTUyNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/DHake0sIruBGU_jZGQG9g3ckrDPJdiDKwF3tMNSR_UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI1/NjA5LTE1MjMwMzI1/OTAtMTUyNy5qcGVn.jpeg",
+      "publisher": "Jalapeno Records",
+      "remixArtistName": "Moods Remix",
       "sectionNumber": 22,
-      "remixArtistName": "Moods Remix"
+      "startTime": "1:34:13",
+      "trackName": "Prescription"
     },
     {
-      "publisher": "Eglo Records",
-      "startTime": "1:38:21",
-      "trackName": "Just Negotiate",
       "artistName": "Henry Wu",
       "coverArtDate": "2023-07-15T18:47:55.961Z",
       "coverArtLarge": "https://i.discogs.com/H1DdL5bt8BOc6ZD5do1xRlNAtIxZOsIGEvEsYHjW9m0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTM4/MTItMTQ5MTUxNjcx/MC0yMTgxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/pWEfHWuGzKAZOlEo7L4iLAjYvAFHmJW3xRKv4X1MQX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTM4/MTItMTQ5MTUxNjcx/MC0yMTgxLmpwZWc.jpeg",
+      "publisher": "Eglo Records",
+      "remixArtistName": "Kaidi Tatham Remix",
       "sectionNumber": 23,
-      "remixArtistName": "Kaidi Tatham Remix"
+      "startTime": "1:38:21",
+      "trackName": "Just Negotiate"
     },
     {
-      "publisher": "Esta",
-      "startTime": "1:44:45",
-      "trackName": "Down On My Luck",
       "artistName": "Vic Mensa",
       "coverArtDate": "2023-07-15T18:47:57.526Z",
       "coverArtLarge": "https://i.discogs.com/FnMSamMytH9LPBOdr6xndLxr_pFtKIEYFNUuX_tinrA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDA4/MjktMTY4MjM0MjI3/OS0zNzAzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/RIUgKPWlUEEm7MvfRk-sPLQqEZKq161O3ynE7nYBago/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDA4/MjktMTY4MjM0MjI3/OS0zNzAzLmpwZWc.jpeg",
+      "publisher": "Esta",
+      "remixArtistName": "Esta Remix ft. Jarreau Vandal, Mr. Carmack and Sam Gellaitry",
       "sectionNumber": 24,
-      "remixArtistName": "Esta Remix ft. Jarreau Vandal, Mr. Carmack and Sam Gellaitry"
+      "startTime": "1:44:45",
+      "trackName": "Down On My Luck"
     },
     {
-      "publisher": "Bandcamp",
-      "startTime": "1:48:35",
-      "trackName": "Tranquillo (Melt My Heart)",
       "artistName": "Carly Simon",
       "coverArtDate": "2023-07-15T18:47:59.013Z",
       "coverArtLarge": "https://i.discogs.com/MV0WqSGoNX2j4RHt5Z4DJxLm2UE1jmYF93cgiOeqy64/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/MTgtMTM1MzA4NjE4/NC0xNjQ0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/vqrlB-2zdXb-f4uy80iTmYfgEkK37GIC0Ka-lqAy8pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQ1/MTgtMTM1MzA4NjE4/NC0xNjQ0LmpwZWc.jpeg",
+      "publisher": "Bandcamp",
+      "remixArtistName": "Young Pulse Rework",
       "sectionNumber": 25,
-      "remixArtistName": "Young Pulse Rework"
+      "startTime": "1:48:35",
+      "trackName": "Tranquillo (Melt My Heart)"
     },
     {
-      "publisher": "Dome Records Ltd",
-      "startTime": "1:54:26",
-      "trackName": "Spiritual Eyes",
       "artistName": "Jarrod Lawson",
       "coverArtDate": "2023-07-15T18:48:00.408Z",
       "coverArtLarge": "https://i.discogs.com/T-qD_HOOSZDuIgc1vxl6lLtWavNXmsNTk-WTRJg7o7s/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODg2/ODMtMTQwMjY5NDQ5/OS03NTUzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/qQLrOerfpvY2fYcYXVKYFFoSK5YVuTNkkpATqKzU6ac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODg2/ODMtMTQwMjY5NDQ5/OS03NTUzLmpwZWc.jpeg",
+      "publisher": "Dome Records Ltd",
+      "remixArtistName": "Young Pulse & ATN Remix",
       "sectionNumber": 26,
-      "remixArtistName": "Young Pulse & ATN Remix"
+      "startTime": "1:54:26",
+      "trackName": "Spiritual Eyes"
     }
   ]
 }

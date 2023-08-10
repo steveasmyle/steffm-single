@@ -2,279 +2,279 @@
   "mixcloudKey": "adventures-in-decent-music-volume-52",
   "tracks": [
     {
-      "publisher": "Chiaroscuro Records",
-      "startTime": "00:00",
-      "trackName": "Dreamflower",
       "artistName": "Tarika Blue",
       "coverArtDate": "2023-07-15T18:48:33.726Z",
       "coverArtLarge": "https://i.discogs.com/1sldOR0hqQ4iy2jA6CxP-iOGWH3zYc0YLQJKRT7WMLk/rs:fit/g:sm/q:90/h:576/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg4/NTAtMTI5MDA2ODE4/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Rvf7VoXOH2h_MKQR9y-EtDST0jC-vOnqJq95jzbH1W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzg4/NTAtMTI5MDA2ODE4/MS5qcGVn.jpeg",
+      "publisher": "Chiaroscuro Records",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Dreamflower"
     },
     {
-      "publisher": "HopeStreet Recordings",
-      "startTime": "04:06",
-      "trackName": "No Man No",
       "artistName": "The Putbacks feat. Miguel Atwood-Ferguson",
       "coverArtDate": "2023-07-15T18:48:35.113Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "HopeStreet Recordings",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "04:06",
+      "trackName": "No Man No"
     },
     {
-      "publisher": "BBE",
-      "startTime": "09:17",
-      "trackName": "Closer",
       "artistName": "The James L'Estraunge Orchestra",
       "coverArtDate": "2023-07-15T18:48:36.817Z",
       "coverArtLarge": "https://i.discogs.com/UPOX5Qq1-FEUkDDpYjLJZLl0UV8k1VKR2E710CnQPKc/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA5/MzQ2LTE1MDA4ODYw/NjYtMTc0OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/o41rk5hjB-Y2oIeqmn1z9dexcwqNvdwXQaXlUESPB3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA5/MzQ2LTE1MDA4ODYw/NjYtMTc0OS5qcGVn.jpeg",
+      "publisher": "BBE",
+      "remixArtistName": "",
       "sectionNumber": 3,
-      "remixArtistName": ""
+      "startTime": "09:17",
+      "trackName": "Closer"
     },
     {
-      "publisher": "Boogiefuturo",
-      "startTime": "15:57",
-      "trackName": "Last Home",
       "artistName": "Typesun",
       "coverArtDate": "2023-07-15T18:48:38.138Z",
       "coverArtLarge": "https://i.discogs.com/W-bJWgoX-jpSIm3HT-l_NYfogqqSVPCy_fXH7nqorP0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjE1/NjAtMTUwMDgzNjQx/MC01NjM4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/5_-mAuDbR8LXcNEyjto8lU4vnpzocnkAdNApefhPvIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NjE1/NjAtMTUwMDgzNjQx/MC01NjM4LmpwZWc.jpeg",
+      "publisher": "Boogiefuturo",
+      "remixArtistName": "DJ Nature Extended",
       "sectionNumber": 4,
-      "remixArtistName": "DJ Nature Extended"
+      "startTime": "15:57",
+      "trackName": "Last Home"
     },
     {
-      "publisher": "Keep Cool/RAC Records",
-      "startTime": "24:16",
-      "trackName": "Stay Home",
       "artistName": "Shy Girls",
       "coverArtDate": "2023-07-15T18:48:39.533Z",
       "coverArtLarge": "https://i.discogs.com/7SNAiynshotRaSgKwlxJYqmAybm1j36W-0uOl2SQXHE/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA4/ODU5LTE1NzE5MzYy/NjgtNTIzNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/F_hlxY2bLv0MjCI5Sw5rBurz1uXDtvBoOj1-EVDMfOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzA4/ODU5LTE1NzE5MzYy/NjgtNTIzNy5qcGVn.jpeg",
+      "publisher": "Keep Cool/RAC Records",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "24:16",
+      "trackName": "Stay Home"
     },
     {
-      "publisher": "Innerground Records",
-      "startTime": "27:48",
-      "trackName": "Fessing Up About Nothing",
       "artistName": "Random Movement",
       "coverArtDate": "2023-07-15T18:48:40.877Z",
       "coverArtLarge": "https://i.discogs.com/WdFEWFyn2Op7U_5cz3Wm9SspFztP0UvfqzJGEUhd0sA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ0/MjctMTMzMjI2Nzg1/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Tl4QOGDUiuM4wr12vEuBHJK2B0Qr1_lXElcfoHWokqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ0/MjctMTMzMjI2Nzg1/My5qcGVn.jpeg",
+      "publisher": "Innerground Records",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "27:48",
+      "trackName": "Fessing Up About Nothing"
     },
     {
-      "publisher": "Lovemonk",
-      "startTime": "33:42",
-      "trackName": "Red Planet",
       "artistName": "Chip Wickham",
       "coverArtDate": "2023-07-15T18:48:42.227Z",
       "coverArtLarge": "https://i.discogs.com/3vTKjqN_grPUgG2R-_DV7JOH-6R7XP_Qvq7a-USVvio/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjQw/NzQtMTQ4MzgxMjkz/MC04ODcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_wCxx4EdeZucILe3H0oHFNEIkTY7LV6K17LI6iXMZqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjQw/NzQtMTQ4MzgxMjkz/MC04ODcwLmpwZWc.jpeg",
+      "publisher": "Lovemonk",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "33:42",
+      "trackName": "Red Planet"
     },
     {
-      "publisher": "Vidlik",
-      "startTime": "39:19",
-      "trackName": "Ghost Town Frowns",
       "artistName": "The Maneken",
       "coverArtDate": "2023-07-15T18:48:43.527Z",
       "coverArtLarge": "https://i.discogs.com/fDJdnGsPJKHAdsE3X4Fk0YTOFNEl8eIyTVdF2VyMQe4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjYx/MzMtMTUxMTk4NzA1/Ni00NzUwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/svtHdsQ9eWUaYch8YDt97iNPhFgDnX-KCthWT040gjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjYx/MzMtMTUxMTk4NzA1/Ni00NzUwLmpwZWc.jpeg",
+      "publisher": "Vidlik",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "39:19",
+      "trackName": "Ghost Town Frowns"
     },
     {
-      "publisher": "Rykodisc",
-      "startTime": "43:12",
-      "trackName": "Reachin' 2 Much",
       "artistName": "Anderson .Paak feat. Lalah Hathaway",
       "coverArtDate": "2023-07-15T18:48:45.286Z",
       "coverArtLarge": "https://i.discogs.com/E0xiuq0TWEWo0fA0ct_T1So9SOiZ3nsXFljZ9Ttelqk/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgy/MjYyLTE1ODIwNTE3/NjgtODU3Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/cjfMuHKOVEW8Nbn89uvnSPLaiRoXMStkHqvIPDUjPOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDgy/MjYyLTE1ODIwNTE3/NjgtODU3Ni5qcGVn.jpeg",
+      "publisher": "Rykodisc",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "43:12",
+      "trackName": "Reachin' 2 Much"
     },
     {
-      "publisher": "Ultra",
-      "startTime": "49:03",
-      "trackName": "Intoxicated",
       "artistName": "Pomo ft. Harrison Brome",
       "coverArtDate": "2023-07-15T18:48:46.633Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Ultra",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "49:03",
+      "trackName": "Intoxicated"
     },
     {
-      "publisher": "Sunlightsquare Records",
-      "startTime": "53:25",
-      "trackName": "Oyelo",
       "artistName": "Sunlightsquare",
       "coverArtDate": "2023-07-15T18:48:48.124Z",
       "coverArtLarge": "https://i.discogs.com/Ge4Vps1SK6t2AhKU0eYpPjfAi6uOQ4ebqgW21eQhHms/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcy/MjcxLTE1MDAxMzcy/MDUtNTU0NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/ASvuyilyWO16fhPjV2MUWDoN-m29htBE-MZ-M2seyTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcy/MjcxLTE1MDAxMzcy/MDUtNTU0NS5qcGVn.jpeg",
+      "publisher": "Sunlightsquare Records",
+      "remixArtistName": "Kay Suzuki By The Sea Mix",
       "sectionNumber": 11,
-      "remixArtistName": "Kay Suzuki By The Sea Mix"
+      "startTime": "53:25",
+      "trackName": "Oyelo"
     },
     {
-      "publisher": "Beyond The Groove",
-      "startTime": "59:17",
-      "trackName": "Water Baby",
       "artistName": "Tom Misch feat. Loyle Carner",
       "coverArtDate": "2023-07-15T18:48:49.461Z",
       "coverArtLarge": "https://i.discogs.com/IiLqWmNL6XurvSQzLDMeS2sSBy5R3A03s9rYIpLJGHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU0/MjkzLTE1MjMxNzIy/NzQtOTMzNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/v7vbQrHryxQePqqewhKmTWhJ8Bt1bTf7KEcupDkVHco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU0/MjkzLTE1MjMxNzIy/NzQtOTMzNy5qcGVn.jpeg",
+      "publisher": "Beyond The Groove",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Original Mix"
+      "startTime": "59:17",
+      "trackName": "Water Baby"
     },
     {
-      "publisher": "Computer Ugly",
-      "startTime": "1:03:34",
-      "trackName": "Story And Her",
       "artistName": "Black Milk",
       "coverArtDate": "2023-07-15T18:48:50.833Z",
       "coverArtLarge": "https://i.discogs.com/6e4TEPousdbK5Ant3eU7mM3OduyQdLrsu_rhvQSOFbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/-eacDh-M7Fmlxg70c9uJaqYzTF3oEV3CraO2Osnfd34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTU2/MzItMTQ4NDY2ODgx/OC03ODM5LnBuZw.jpeg",
+      "publisher": "Computer Ugly",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "1:03:34",
+      "trackName": "Story And Her"
     },
     {
-      "publisher": "Smoov Records",
-      "startTime": "1:08:25",
-      "trackName": "Wanna Be Your Lover",
       "artistName": "Mtbrd",
       "coverArtDate": "2023-07-15T18:48:52.278Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Smoov Records",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "1:08:25",
+      "trackName": "Wanna Be Your Lover"
     },
     {
-      "publisher": "Local Talk",
-      "startTime": "1:16:09",
-      "trackName": "Blue Moon",
       "artistName": "Dean Zepherin",
       "coverArtDate": "2023-07-15T18:48:53.637Z",
       "coverArtLarge": "https://i.discogs.com/DK3tmHUoZRXx7XbCTYh5fTnhs0RqLs_b8VVgAbNHvNo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEx/MzczLTE1NjAzNjY2/MTItMzg3Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/KjBePKUU7NYIxJ01aUYNt8rGxft1mHsFyvKPb-zodvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEx/MzczLTE1NjAzNjY2/MTItMzg3Ny5qcGVn.jpeg",
+      "publisher": "Local Talk",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 15,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:16:09",
+      "trackName": "Blue Moon"
     },
     {
-      "publisher": "Dublum",
-      "startTime": "1:20:34",
-      "trackName": "Space And Time (Elevation)",
       "artistName": "Moses Mayes",
       "coverArtDate": "2023-07-15T18:48:55.020Z",
       "coverArtLarge": "https://i.discogs.com/WC9zeJ5skDK8AasEL7D3jecWeNOax-6ww919IfRKn8I/rs:fit/g:sm/q:90/h:400/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzUy/MzYtMTQ0OTc5Njg3/Mi03NTk1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8akSHYNITapjj1mmjTfFjK3tBmVLdOTsW2zVCMR4CQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzUy/MzYtMTQ0OTc5Njg3/Mi03NTk1LmpwZWc.jpeg",
+      "publisher": "Dublum",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:20:34",
+      "trackName": "Space And Time (Elevation)"
     },
     {
-      "publisher": "GMM",
-      "startTime": "1:23:14",
-      "trackName": "Underground Jazz (Maybe It's Love)",
       "artistName": "Living Room",
       "coverArtDate": "2023-07-15T18:48:56.383Z",
       "coverArtLarge": "https://i.discogs.com/EtFxXqWIn7EH-PHyP3YrY3lZK1m5o-oXwG7XVTWTXdw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA1/NjcwLTE1Njk4Mzcx/MTEtMTg2NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/iiaGBSTzT3qdHveb5RrqdWptMCqgpteGraoT_TC-gww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjA1/NjcwLTE1Njk4Mzcx/MTEtMTg2NC5qcGVn.jpeg",
+      "publisher": "GMM",
+      "remixArtistName": "",
       "sectionNumber": 17,
-      "remixArtistName": ""
+      "startTime": "1:23:14",
+      "trackName": "Underground Jazz (Maybe It's Love)"
     },
     {
-      "publisher": "Mahogani Music",
-      "startTime": "1:26:47",
-      "trackName": "About Time",
       "artistName": "Andrés feat. Nengue Hernandez",
       "coverArtDate": "2023-07-15T18:48:57.744Z",
       "coverArtLarge": "https://i.discogs.com/vl8EbHxhCNGN9Ij-F8h41AzLxNTkzhovcVCtZoRtr6Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI2/MzEtMTIxMDM0NDM3/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/eLXJ_T_Z_t5io95w0_65yoaTy9LOWIgCBn2bVAuuzYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTI2/MzEtMTIxMDM0NDM3/MS5qcGVn.jpeg",
+      "publisher": "Mahogani Music",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:26:47",
+      "trackName": "About Time"
     },
     {
-      "publisher": "Motown",
-      "startTime": "1:33:10",
-      "trackName": "What's Going On (45th Anniversary Duet)",
       "artistName": "BJ The Chicago Kid & Marvin Gaye",
       "coverArtDate": "2023-07-15T18:48:59.115Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Motown",
+      "remixArtistName": "",
       "sectionNumber": 19,
-      "remixArtistName": ""
+      "startTime": "1:33:10",
+      "trackName": "What's Going On (45th Anniversary Duet)"
     },
     {
-      "publisher": "Jet Life Recordings",
-      "startTime": "1:38:07",
-      "trackName": "Skybourne",
       "artistName": "Curren$y feat. Big K.R.I.T. & Smoke DZA",
       "coverArtDate": "2023-07-15T18:49:00.471Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Jet Life Recordings",
+      "remixArtistName": "",
       "sectionNumber": 20,
-      "remixArtistName": ""
+      "startTime": "1:38:07",
+      "trackName": "Skybourne"
     },
     {
-      "publisher": "Freestyle Records",
-      "startTime": "1:42:11",
-      "trackName": "Butterfly",
       "artistName": "Courtney Pine feat. Omar",
       "coverArtDate": "2023-07-15T18:49:01.765Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Freestyle Records",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:42:11",
+      "trackName": "Butterfly"
     },
     {
-      "publisher": "Blue Dream Studios",
-      "startTime": "1:46:08",
-      "trackName": "Mile High",
       "artistName": "Raquel Rodriguez",
       "coverArtDate": "2023-07-15T18:49:03.158Z",
       "coverArtLarge": "https://i.discogs.com/rcuWXMyr4al2MzwHraNOcNvupIOhofQPrm5gbFkH0Js/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5NTI5/NjMtMTU4Njg5ODM4/NC00MTU2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/7o6hdLJUpH7qPu08hS4RmIwpfN6-CaY2O_4nV7QNgUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI5NTI5/NjMtMTU4Njg5ODM4/NC00MTU2LmpwZWc.jpeg",
+      "publisher": "Blue Dream Studios",
+      "remixArtistName": "",
       "sectionNumber": 22,
-      "remixArtistName": ""
+      "startTime": "1:46:08",
+      "trackName": "Mile High"
     },
     {
-      "publisher": "Lemongrassmusic",
-      "startTime": "1:49:39",
-      "trackName": "Love Hangover",
       "artistName": "JetTricKs fea. Adefunke",
       "coverArtDate": "2023-07-15T18:49:04.473Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Lemongrassmusic",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 23,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:49:39",
+      "trackName": "Love Hangover"
     },
     {
-      "publisher": "Decca (UMO)",
-      "startTime": "1:55:15",
-      "trackName": "It Gonna Come",
       "artistName": "Melody Gardot",
       "coverArtDate": "2023-07-15T18:49:05.785Z",
       "coverArtLarge": "https://i.discogs.com/cf7fOoIv2jdr49FBgSLRylNk5o42RS5OJZLk-d9CoVA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIy/NTktMTQ1ODk5NDMz/MC05MTk2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/0vX8VseUB8Wpy9EvAWZXWlPuuW_y-c9vVlRsH_KIDRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDIy/NTktMTQ1ODk5NDMz/MC05MTk2LmpwZWc.jpeg",
+      "publisher": "Decca (UMO)",
+      "remixArtistName": "FKJ Remix",
       "sectionNumber": 24,
-      "remixArtistName": "FKJ Remix"
+      "startTime": "1:55:15",
+      "trackName": "It Gonna Come"
     },
     {
-      "publisher": "SME",
-      "startTime": "1:58:53",
-      "trackName": "Fantasy",
       "artistName": "Earth Wind & Fire",
       "coverArtDate": "2023-07-15T18:49:07.156Z",
       "coverArtLarge": "https://i.discogs.com/7-gZt7GxB5vcqd0ONJENKHCJdiz61WD5zsk6i8iMUlw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/ayC3lH5SmzLB9nCu1sEVJFA7o6zZuHeDoKghJOI0Tig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
+      "publisher": "SME",
+      "remixArtistName": "Up-Close version by Ben Liebrand",
       "sectionNumber": 25,
-      "remixArtistName": "Up-Close version by Ben Liebrand"
+      "startTime": "1:58:53",
+      "trackName": "Fantasy"
     }
   ]
 }

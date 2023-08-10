@@ -2,180 +2,180 @@
   "mixcloudKey": "stefs-soulful-summer-mix-for-the-mobil-soul-show",
   "tracks": [
     {
-      "publisher": "Peppermint Jam",
-      "startTime": "00:00",
-      "trackName": "Taking It All Away",
       "artistName": "Can 7",
       "coverArtDate": "2023-07-15T19:23:11.576Z",
       "coverArtLarge": "https://i.discogs.com/qpLJ89WqScDURZfLR-JMtG6YNZgmsq0Sm35WC1ZLqS8/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDU3/OC0xMjQ0NTQwNTI3/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/k02U1qQqVNVFTZfCMMoR6k2MeiK4hUUe_Nk7xc7x5Yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDU3/OC0xMjQ0NTQwNTI3/LmpwZWc.jpeg",
+      "publisher": "Peppermint Jam",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Taking It All Away"
     },
     {
-      "publisher": "Soul Love",
-      "startTime": "05:22",
-      "trackName": "Running Away",
       "artistName": "Belezamusica",
       "coverArtDate": "2023-07-15T19:23:13.053Z",
       "coverArtLarge": "https://i.discogs.com/sj-Xgs61kfAJTOhMdn0H9e09J9AqGlPak-ExKmfyzLc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg0/MC0xMTQwOTU0NTEy/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/uUepEGMg6yEtsdKTFHXjuYwYTJiygCOMwigjxmWwSa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMjg0/MC0xMTQwOTU0NTEy/LmpwZWc.jpeg",
+      "publisher": "Soul Love",
+      "remixArtistName": "Seamus Haji Dub",
       "sectionNumber": 2,
-      "remixArtistName": "Seamus Haji Dub"
+      "startTime": "05:22",
+      "trackName": "Running Away"
     },
     {
-      "publisher": "Village Again",
-      "startTime": "10:30",
-      "trackName": "Everybody Get Up",
       "artistName": "Bah Samba",
       "coverArtDate": "2023-07-15T19:23:14.850Z",
       "coverArtLarge": "https://i.discogs.com/szbY44yag1M966ogRjFAVR36z1YBks9a6Lha4B19QCU/rs:fit/g:sm/q:90/h:470/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDc3/NC0xMTI0NzUwMjc0/LmpwZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/RRd0UxXPRBeh_cabafQMqVjUO_bfk2ndPFpey1GNHeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDc3/NC0xMTI0NzUwMjc0/LmpwZw.jpeg",
+      "publisher": "Village Again",
+      "remixArtistName": "",
       "sectionNumber": 3,
-      "remixArtistName": ""
+      "startTime": "10:30",
+      "trackName": "Everybody Get Up"
     },
     {
-      "publisher": "Lovemonk",
-      "startTime": "15:20",
-      "trackName": "Cerca De Mi",
       "artistName": "Louie Vega",
       "coverArtDate": "2023-07-15T19:23:16.382Z",
       "coverArtLarge": "https://i.discogs.com/EV-MzuC3M6lMCIGnB_ZWYZqOYHgExMwxKJ9KL8eyfzI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQw/Ni0xMTg2MzE3ODk4/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_crs7KWmidZdoQemZN6lwd1Ue0vrjdLvQwgcPl_wJNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTQw/Ni0xMTg2MzE3ODk4/LmpwZWc.jpeg",
+      "publisher": "Lovemonk",
+      "remixArtistName": "Wagon Cookin' Contigo Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Wagon Cookin' Contigo Mix"
+      "startTime": "15:20",
+      "trackName": "Cerca De Mi"
     },
     {
-      "publisher": "Soulful Sessions",
-      "startTime": "20:28",
-      "trackName": "Bottoms Up",
       "artistName": "Louis Bendetti pres. Gene Perez",
       "coverArtDate": "2023-07-15T19:23:17.929Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Soulful Sessions",
+      "remixArtistName": "Alternate Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Alternate Mix"
+      "startTime": "20:28",
+      "trackName": "Bottoms Up"
     },
     {
-      "publisher": "Feet",
-      "startTime": "26:06",
-      "trackName": "I'll Think Of You",
       "artistName": "Feet",
       "coverArtDate": "2023-07-15T19:23:19.466Z",
       "coverArtLarge": "https://i.discogs.com/P-NYBBBOcYYJHUVNueMK_cth-eI4y1N5CcXPYeu0AeU/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE2/NjI2LTE2MjkzNzcz/MjMtNjA5Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/dHaPoiwZNsHOvER9g6Nk2zOtx8wXI2BJ_VE7H-tKcZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE2/NjI2LTE2MjkzNzcz/MjMtNjA5Ni5qcGVn.jpeg",
+      "publisher": "Feet",
+      "remixArtistName": "Remix",
       "sectionNumber": 6,
-      "remixArtistName": "Remix"
+      "startTime": "26:06",
+      "trackName": "I'll Think Of You"
     },
     {
-      "publisher": "Chillifunk Remix",
-      "startTime": "32:00",
-      "trackName": "Believe",
       "artistName": "Nathan Haines",
       "coverArtDate": "2023-07-15T19:23:21.128Z",
       "coverArtLarge": "https://i.discogs.com/EKQmaYkDtDkyrdfs5PVJyKHiy3AFV90-HwXMYKTAwn4/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMz/LTE0NDc5NDMwNTIt/ODI5MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/mSdIHb3AFFOeqffAHUYrWXrZLQTMyrPHadA796uTzHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTMz/LTE0NDc5NDMwNTIt/ODI5MS5qcGVn.jpeg",
+      "publisher": "Chillifunk Remix",
+      "remixArtistName": "Kenny Dope Remix",
       "sectionNumber": 7,
-      "remixArtistName": "Kenny Dope Remix"
+      "startTime": "32:00",
+      "trackName": "Believe"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "39:50",
-      "trackName": "Fly Away",
       "artistName": "The Sunburst Band",
       "coverArtDate": "2023-07-15T19:23:22.497Z",
       "coverArtLarge": "https://i.discogs.com/siZG_1byRtPBXyPQw3YSMKW6DoeR3wPDI2ibvJM7vmU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTc4/NS0xNjQxMjE0NzUz/LTQ4NDQuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/w0L7u2TVR1LpG-gSllLROsARYxf7IXn8uZ9xzuVtg_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTc4/NS0xNjQxMjE0NzUz/LTQ4NDQuanBlZw.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Audiowhores Club Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Audiowhores Club Mix"
+      "startTime": "39:50",
+      "trackName": "Fly Away"
     },
     {
-      "publisher": "Soul Purpose",
-      "startTime": "46:03",
-      "trackName": "Feels Good",
       "artistName": "Mayhem & Bones",
       "coverArtDate": "2023-07-15T19:23:23.933Z",
       "coverArtLarge": "https://i.discogs.com/-01F0r5W9gJ4GqOXHFeH7nUDHqUdDe1BJotCFTFPCpE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzU1/MS0xMTExNTg3NjQy/LmpwZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/Gcs6XMlBLLkyAhHE4RTL3OgWvv-E3UsB_RjjgtO0JU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzU1/MS0xMTExNTg3NjQy/LmpwZw.jpeg",
+      "publisher": "Soul Purpose",
+      "remixArtistName": "Club Mix",
       "sectionNumber": 9,
-      "remixArtistName": "Club Mix"
+      "startTime": "46:03",
+      "trackName": "Feels Good"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "50:22",
-      "trackName": "I Know You, I Live You",
       "artistName": "Yolanda Wyns",
       "coverArtDate": "2023-07-15T19:23:25.524Z",
       "coverArtLarge": "https://i.discogs.com/Jcz2qiKrSsLiiL2gSvBzyFOwxYuDFDbhe7oNcNjNYPA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA1/LTE2MjYzNTE5OTkt/ODU4MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/KZRLrNpCgulCuwAOdMsKmdCEAMBCOM__OJBePCp-mtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDA1/LTE2MjYzNTE5OTkt/ODU4MC5qcGVn.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Joey Negro Vocal Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Joey Negro Vocal Mix"
+      "startTime": "50:22",
+      "trackName": "I Know You, I Live You"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "56:54",
-      "trackName": "Just Do It",
       "artistName": "The Sunburst Band",
       "coverArtDate": "2023-07-15T19:23:27.307Z",
       "coverArtLarge": "https://i.discogs.com/g6_U23c0so-u2ZpvBTAhZyxtGZ5NqV3mp8izQEcXcGw/rs:fit/g:sm/q:90/h:306/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDM4/My0xMDk3NTY3MzMx/LmpwZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/7x_ZlIAVL6e3UrI0_SdEsJxzVcB-Mm-1zG1WNBhYpi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDM4/My0xMDk3NTY3MzMx/LmpwZw.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Joey Negro Club Mix",
       "sectionNumber": 11,
-      "remixArtistName": "Joey Negro Club Mix"
+      "startTime": "56:54",
+      "trackName": "Just Do It"
     },
     {
-      "publisher": "FFRR",
-      "startTime": "1:03:08",
-      "trackName": "Dream Come True",
       "artistName": "The Brand New Heavies",
       "coverArtDate": "2023-07-15T19:23:28.877Z",
       "coverArtLarge": "https://i.discogs.com/l4g5c-oHSn6Xz9P02CnK8WVdzD2CuplVU34645lnNis/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjI5/LTE2NDI2NjgyNzQt/MzAwMC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/T9mbENZ6VEs9_g8_wmueZIyqV5vSv_MsxCaQyjEpNQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjI5/LTE2NDI2NjgyNzQt/MzAwMC5qcGVn.jpeg",
+      "publisher": "FFRR",
+      "remixArtistName": "Conversion Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Conversion Mix"
+      "startTime": "1:03:08",
+      "trackName": "Dream Come True"
     },
     {
-      "publisher": "Basement Boys Records",
-      "startTime": "1:08:44",
-      "trackName": "Smile",
       "artistName": "Jasper Street Co.",
       "coverArtDate": "2023-07-15T19:23:30.482Z",
       "coverArtLarge": "https://i.discogs.com/LPLCAdq-OZz933hD81ev8LL3GogWjLIz_OYKdKrLttA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njkw/LTEyMjk3MTMxODQu/anBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/SNZpxveiPMl2hoe7jYugxmCH4qe8W8ak8gqvZfc2OWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njkw/LTEyMjk3MTMxODQu/anBlZw.jpeg",
+      "publisher": "Basement Boys Records",
+      "remixArtistName": "Spen & Karizma Mix",
       "sectionNumber": 13,
-      "remixArtistName": "Spen & Karizma Mix"
+      "startTime": "1:08:44",
+      "trackName": "Smile"
     },
     {
-      "publisher": "West End Records",
-      "startTime": "1:15:58",
-      "trackName": "Found Love",
       "artistName": "Blaze",
       "coverArtDate": "2023-07-15T19:23:32.120Z",
       "coverArtLarge": "https://i.discogs.com/W2rgEdKmSKWiYGd4ULFTdKXr3y4lx0Ue0rRWcLzVWxg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY4/My0xNjg5MTA4MzY1/LTc0ODQuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/ekpgbvjZ97-r0zarr6U7HnagbyqSyqUCZez5TegM0uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzY4/My0xNjg5MTA4MzY1/LTc0ODQuanBlZw.jpeg",
+      "publisher": "West End Records",
+      "remixArtistName": "Fanatix Vocal Mix",
       "sectionNumber": 14,
-      "remixArtistName": "Fanatix Vocal Mix"
+      "startTime": "1:15:58",
+      "trackName": "Found Love"
     },
     {
-      "publisher": "Arista",
-      "startTime": "1:21:50",
-      "trackName": "Don't Lose The Magic",
       "artistName": "Shawn Christopher",
       "coverArtDate": "2023-07-15T19:23:33.642Z",
       "coverArtLarge": "https://i.discogs.com/qneq370TqXVl8q6DcToX85zzQronvUqTiKFz56VlhzA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk3/MS0xMTMwMzMwMDMw/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/aoU6XXdl3H_GgTwPTn8mncEmyknp4bVyyGavRu2Lk5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk3/MS0xMTMwMzMwMDMw/LmpwZWc.jpeg",
+      "publisher": "Arista",
+      "remixArtistName": "David Morales Mix",
       "sectionNumber": 15,
-      "remixArtistName": "David Morales Mix"
+      "startTime": "1:21:50",
+      "trackName": "Don't Lose The Magic"
     },
     {
-      "publisher": "Z Records",
-      "startTime": "1:27:40",
-      "trackName": "Direct Me",
       "artistName": "The Reese Project",
       "coverArtDate": "2023-07-15T19:23:35.218Z",
       "coverArtLarge": "https://i.discogs.com/0mnjaKeoPrIkYk9OwpVfx498xlZQ24bRtnctatBTjLI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/OS0xMTgzNDU3NDg1/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/u8gzP6oKO-GuPIS67f_qO-5LEGOrsp95aAks6OGozTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/OS0xMTgzNDU3NDg1/LmpwZWc.jpeg",
+      "publisher": "Z Records",
+      "remixArtistName": "Joey Negro Remix",
       "sectionNumber": 16,
-      "remixArtistName": "Joey Negro Remix"
+      "startTime": "1:27:40",
+      "trackName": "Direct Me"
     }
   ]
 }

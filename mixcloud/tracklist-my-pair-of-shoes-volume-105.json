@@ -2,257 +2,257 @@
   "mixcloudKey": "my-pair-of-shoes-volume-105",
   "tracks": [
     {
-      "publisher": "Local Talk",
-      "startTime": "00:00",
-      "trackName": "Cesar",
       "artistName": "SMBD",
       "coverArtDate": "2023-07-15T19:00:36.381Z",
       "coverArtLarge": "https://i.discogs.com/aNlU4N3baTme_wrVoNcvbCWicIwzKW39T5X89tUELxM/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/MTk0LTE0OTM4MTA5/NzUtODg2Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/3ukhlJXPODA1B4nk1YZziR0nP9bPaT1TvhA6Zomcn54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIy/MTk0LTE0OTM4MTA5/NzUtODg2Mi5qcGVn.jpeg",
+      "publisher": "Local Talk",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Original Mix"
+      "startTime": "00:00",
+      "trackName": "Cesar"
     },
     {
-      "publisher": "Body Rhythm",
-      "startTime": "04:33",
-      "trackName": "What You're Doing To Me",
       "artistName": "Ross Couch",
       "coverArtDate": "2023-07-15T19:00:37.784Z",
       "coverArtLarge": "https://i.discogs.com/S-CIhtKH-61sYI9gWkYEotpQl9Xl-yjzTbDRJdO4Ogo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUz/MDczLTE1MDE3NDEy/NzgtMjQ2OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/-Gs26yyjShSFrm5gS5YwYka6NFlaKKF8_PtU686yj0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUz/MDczLTE1MDE3NDEy/NzgtMjQ2OC5qcGVn.jpeg",
+      "publisher": "Body Rhythm",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "04:33",
+      "trackName": "What You're Doing To Me"
     },
     {
-      "publisher": "Get Twisted Records",
-      "startTime": "08:27",
-      "trackName": "Deja Vu",
       "artistName": "Curtis Gabriel",
       "coverArtDate": "2023-07-15T19:00:39.219Z",
       "coverArtLarge": "https://i.discogs.com/m-BiUJYXAC8_O1fT3jmpSFl6kbUUhrg529L1UX-k5Cg/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTAw/NjgtMTQ0OTcwMTg4/NS0zMjE3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/s4YiWRwmwC_K7q7A0aj6ac9-PXavV0G7a7Co0FoRvSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTAw/NjgtMTQ0OTcwMTg4/NS0zMjE3LmpwZWc.jpeg",
+      "publisher": "Get Twisted Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Original Mix"
+      "startTime": "08:27",
+      "trackName": "Deja Vu"
     },
     {
-      "publisher": "Spacedisco Records",
-      "startTime": "14:14",
-      "trackName": "Work Hard",
       "artistName": "Gettoblaster & Rescue",
       "coverArtDate": "2023-07-15T19:00:40.700Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Spacedisco Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Original Mix"
+      "startTime": "14:14",
+      "trackName": "Work Hard"
     },
     {
-      "publisher": "Phoenix Music Inc",
-      "startTime": "17:31",
-      "trackName": "In Da Warehouse",
       "artistName": "Soledrifter",
       "coverArtDate": "2023-07-15T19:00:42.087Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Phoenix Music Inc",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "17:31",
+      "trackName": "In Da Warehouse"
     },
     {
-      "publisher": "Large Music",
-      "startTime": "21:09",
-      "trackName": "Where To Go",
       "artistName": "James Benedict",
       "coverArtDate": "2023-07-15T19:00:43.761Z",
       "coverArtLarge": "https://i.discogs.com/Xrm2EfH1wpiRAIiBUExHu0UxJpGLr1gtDFv083xYz-U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTYy/MDMtMTY0ODkwMzEz/My0yMDg5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/xI2UI7TQ8mgMzM5HO-wHyzNHYSgqo_NYCCl06223qAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTYy/MDMtMTY0ODkwMzEz/My0yMDg5LmpwZWc.jpeg",
+      "publisher": "Large Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Original Mix"
+      "startTime": "21:09",
+      "trackName": "Where To Go"
     },
     {
-      "publisher": "PIC Records",
-      "startTime": "27:05",
-      "trackName": "Wanna Dance",
       "artistName": "Chris Stussy",
       "coverArtDate": "2023-07-15T19:00:45.119Z",
       "coverArtLarge": "https://i.discogs.com/JbyfZG9l3lSZiFo-X3_Lc8clMpqDQtKm92CYrKqT2V4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDg3/NzEtMTQ4MjUxMTU0/OC00Njg0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/jB6FEylSJTPjlH5EfPA5WYPfNIVSvxgjfmmG_TPthMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDg3/NzEtMTQ4MjUxMTU0/OC00Njg0LmpwZWc.jpeg",
+      "publisher": "PIC Records",
+      "remixArtistName": "Studioheist Remix",
       "sectionNumber": 7,
-      "remixArtistName": "Studioheist Remix"
+      "startTime": "27:05",
+      "trackName": "Wanna Dance"
     },
     {
-      "publisher": "Great Lakes Audio",
-      "startTime": "31:47",
-      "trackName": "Luvin' to Nothing",
       "artistName": "Demuir",
       "coverArtDate": "2023-07-15T19:00:46.574Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Great Lakes Audio",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Mix"
+      "startTime": "31:47",
+      "trackName": "Luvin' to Nothing"
     },
     {
-      "publisher": "Eton Messy",
-      "startTime": "37:16",
-      "trackName": "You Can't Hide",
       "artistName": "Golf Clap & Sebb Junior",
       "coverArtDate": "2023-07-15T19:00:47.921Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Eton Messy",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "37:16",
+      "trackName": "You Can't Hide"
     },
     {
-      "publisher": "Monkey Junk",
-      "startTime": "42:26",
-      "trackName": "Jazz Got Me",
       "artistName": "Delgado",
       "coverArtDate": "2023-07-15T19:00:49.666Z",
       "coverArtLarge": "https://i.discogs.com/_r0ud_kb-o4KoWPjjUmwVPle3Tl2p6qB96ttiW2g7gI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDM2/NTAtMTM4NTIxNTMw/My04MTA2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ehD4HTvwPOLrdzfqZFxTqMXoMDeA4UsXLyEmwuWA79s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDM2/NTAtMTM4NTIxNTMw/My04MTA2LmpwZWc.jpeg",
+      "publisher": "Monkey Junk",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Mix"
+      "startTime": "42:26",
+      "trackName": "Jazz Got Me"
     },
     {
-      "publisher": "Beyond The Groove",
-      "startTime": "50:53",
-      "trackName": "South of the River",
       "artistName": "Tom Misch",
       "coverArtDate": "2023-07-15T19:00:51.190Z",
       "coverArtLarge": "https://i.discogs.com/faWX-yLXyuBEnNqA5JLDK9zQ1SSW48l8twPT6Q-Un-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MTQ3/OTUtMTU3ODA3OTU4/OC04MTQ2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/3wBwetKzlcglhMSsVPb5Czm8TiwF03UIWBtTOiINIsw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MTQ3/OTUtMTU3ODA3OTU4/OC04MTQ2LmpwZWc.jpeg",
+      "publisher": "Beyond The Groove",
+      "remixArtistName": "Detroit Swindle Remix",
       "sectionNumber": 11,
-      "remixArtistName": "Detroit Swindle Remix"
+      "startTime": "50:53",
+      "trackName": "South of the River"
     },
     {
-      "publisher": "Moon Rocket Music",
-      "startTime": "56:59",
-      "trackName": "The Mysterious Walk Of Life",
       "artistName": "Moon Rocket",
       "coverArtDate": "2023-07-15T19:00:52.605Z",
       "coverArtLarge": "https://i.discogs.com/ESPhH3NfFgale-2K-8FpYCEhY1e9iyQhxikN8XTf6jY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM1/Njg2LTE0OTM4ODYy/NTktOTI2Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/VGtokz7E9nvFrgDohMJMz4CLNQ9v4QoyCaMcWQP4qUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjM1/Njg2LTE0OTM4ODYy/NTktOTI2Ni5qcGVn.jpeg",
+      "publisher": "Moon Rocket Music",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "56:59",
+      "trackName": "The Mysterious Walk Of Life"
     },
     {
-      "publisher": "LPH White",
-      "startTime": "1:02:10",
-      "trackName": "Dont Stop The Acid",
       "artistName": "Adesse Versions",
       "coverArtDate": "2023-07-15T19:00:54.050Z",
       "coverArtLarge": "https://i.discogs.com/cn7tq6ucB6MlTgHtUuiEHExjtMWXUFQjoe3DjwSQO24/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAy/OTQ4LTE0OTIxMDg5/NjUtODExNi5wbmc.jpeg",
       "coverArtSmall": "https://i.discogs.com/0F65sMa7u-YCWA3LTrWdhEZFUNRpYQ2CSbul5i2pGCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAy/OTQ4LTE0OTIxMDg5/NjUtODExNi5wbmc.jpeg",
+      "publisher": "LPH White",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "1:02:10",
+      "trackName": "Dont Stop The Acid"
     },
     {
-      "publisher": "City Soul Recordings",
-      "startTime": "1:08:24",
-      "trackName": "Representin' Music",
       "artistName": "Ryan Briggs (City Soul Project)",
       "coverArtDate": "2023-07-15T19:00:55.580Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "City Soul Recordings",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "1:08:24",
+      "trackName": "Representin' Music"
     },
     {
-      "publisher": "Amplified Records",
-      "startTime": "1:13:04",
-      "trackName": "Wavey",
       "artistName": "K & K",
       "coverArtDate": "2023-07-15T19:00:57.053Z",
       "coverArtLarge": "https://i.discogs.com/v7LTTMCsKN7igpLfkO-GVjjUSUQu2AVZXKgbJFH_r4M/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQ2/Mi0xMjcwOTQzOTgw/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/cRrnh5rInStcMBvL_GxtxW7r6LetL2eQcx2imFp5-SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQ2/Mi0xMjcwOTQzOTgw/LmpwZWc.jpeg",
+      "publisher": "Amplified Records",
+      "remixArtistName": "Back To 96 Remix",
       "sectionNumber": 15,
-      "remixArtistName": "Back To 96 Remix"
+      "startTime": "1:13:04",
+      "trackName": "Wavey"
     },
     {
-      "publisher": "Large Music",
-      "startTime": "1:17:30",
-      "trackName": "Baby Come Back",
       "artistName": "Sebb Junior",
       "coverArtDate": "2023-07-15T19:00:58.441Z",
       "coverArtLarge": "https://i.discogs.com/ni_budBPW0MQPFY8DK_gSKPNAx3rP_aSPhpdy1Q3NCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk1/MDIzLTE1Njk2NTM4/MTItNTM0OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/5R-KLtpFccCjZkyZmzyGKslU7nnjAOGhegj7m5hvbJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk1/MDIzLTE1Njk2NTM4/MTItNTM0OC5qcGVn.jpeg",
+      "publisher": "Large Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 16,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:17:30",
+      "trackName": "Baby Come Back"
     },
     {
-      "publisher": "Great Lakes Audio",
-      "startTime": "1:22:24",
-      "trackName": "Unicorn",
       "artistName": "Demuir",
       "coverArtDate": "2023-07-15T19:00:59.829Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Great Lakes Audio",
+      "remixArtistName": "Dub",
       "sectionNumber": 17,
-      "remixArtistName": "Dub"
+      "startTime": "1:22:24",
+      "trackName": "Unicorn"
     },
     {
-      "publisher": "17 Steps",
-      "startTime": "1:27:22",
-      "trackName": "Cold Heart",
       "artistName": "Dusky",
       "coverArtDate": "2023-07-15T19:01:01.493Z",
       "coverArtLarge": "https://i.discogs.com/eCi6AlzDM0nh5YtjYutrxdP4xy6HyC4hacUoBcUb2ks/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NzY2LTE0OTg4OTk3/ODEtMTUxMS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/MxG46Elxw-iQy0MBn9wZXBww5FYKAV_a0xzk6MJrvgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA0/NzY2LTE0OTg4OTk3/ODEtMTUxMS5qcGVn.jpeg",
+      "publisher": "17 Steps",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 18,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:27:22",
+      "trackName": "Cold Heart"
     },
     {
-      "publisher": "House Of Disco",
-      "startTime": "1:32:38",
-      "trackName": "We Together",
       "artistName": "Aroop Roy",
       "coverArtDate": "2023-07-15T19:01:02.969Z",
       "coverArtLarge": "https://i.discogs.com/dhP0TsvTG5b46N6vawpZ71LJ8r2KXnje2mJCVcv4Z84/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUy/NzgzLTE0OTA3OTY5/OTctODg3NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/0f5F1MNx-768Wum3z8MN-fGgf3p-opyuEXomzAPYF58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDUy/NzgzLTE0OTA3OTY5/OTctODg3NS5qcGVn.jpeg",
+      "publisher": "House Of Disco",
+      "remixArtistName": "",
       "sectionNumber": 19,
-      "remixArtistName": ""
+      "startTime": "1:32:38",
+      "trackName": "We Together"
     },
     {
-      "publisher": "Frigo Vide Records",
-      "startTime": "1:38:40",
-      "trackName": "The Only One",
       "artistName": "Sebb Junior",
       "coverArtDate": "2023-07-15T19:01:04.438Z",
       "coverArtLarge": "https://i.discogs.com/27vfhsNuTi5fYUn4d08Yvn_ttMEvBaEFn59lqGqQqwQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/NzAtMTQ4ODU1MDM0/OC0xMjQwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/iTFzvcyEZpjpUGy5sedIN_p1Bkpj7tTZNwcSIg_OCj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTkw/NzAtMTQ4ODU1MDM0/OC0xMjQwLmpwZWc.jpeg",
+      "publisher": "Frigo Vide Records",
+      "remixArtistName": "MPC Mix",
       "sectionNumber": 20,
-      "remixArtistName": "MPC Mix"
+      "startTime": "1:38:40",
+      "trackName": "The Only One"
     },
     {
-      "publisher": "Large Music",
-      "startTime": "1:43:36",
-      "trackName": "Baby Tell Me",
       "artistName": "Fish Go Deep",
       "coverArtDate": "2023-07-15T19:01:06.438Z",
       "coverArtLarge": "https://i.discogs.com/Rh2CMxhVW_oeXn1MEaPkCqONOtb_O9gvET73jimxVKY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI1/ODE0LTE1MDExODgx/NzYtNjYyOS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/3DUnq7dzxxHfgIEvgbVqgnm7HcaDoiapvxdPmzUsjx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI1/ODE0LTE1MDExODgx/NzYtNjYyOS5qcGVn.jpeg",
+      "publisher": "Large Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 21,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:43:36",
+      "trackName": "Baby Tell Me"
     },
     {
-      "publisher": "Nu Soul",
-      "startTime": "1:49:41",
-      "trackName": "Odoru",
       "artistName": "Watanabe",
       "coverArtDate": "2023-07-15T19:01:08.415Z",
       "coverArtLarge": "https://i.discogs.com/YW_Gx7Y6IETXnwXujxVYlfZmOBxcF0-pVdsmjhZrmmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg3/LTE2MTg3NjY4NjIt/NjM3NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/4bKmtMC361EW9Wa1oOdoBYX_6hGabc9-Q_9R80YCrP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzg3/LTE2MTg3NjY4NjIt/NjM3NS5qcGVn.jpeg",
+      "publisher": "Nu Soul",
+      "remixArtistName": "Unreleased Version Re Mastered",
       "sectionNumber": 22,
-      "remixArtistName": "Unreleased Version Re Mastered"
+      "startTime": "1:49:41",
+      "trackName": "Odoru"
     },
     {
-      "publisher": "Faces Records",
-      "startTime": "1:54:22",
-      "trackName": "Now (Loving You)",
       "artistName": "Creative Swing Alliance",
       "coverArtDate": "2023-07-15T19:01:09.819Z",
       "coverArtLarge": "https://i.discogs.com/1GLIrTqm2_46iFbfdD3rIYPvCS1Cg27E8kjct_hlURY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzcw/NzUtMTU0NzQyMjg1/OC03ODI2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8-WOdSddV5qRo_VfqiDyrizIxlH5RCxXKmRPaIsorHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Nzcw/NzUtMTU0NzQyMjg1/OC03ODI2LmpwZWc.jpeg",
+      "publisher": "Faces Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 23,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:54:22",
+      "trackName": "Now (Loving You)"
     }
   ]
 }

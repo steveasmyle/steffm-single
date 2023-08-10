@@ -2,136 +2,136 @@
   "mixcloudKey": "my-pair-of-shoes-volume-90",
   "tracks": [
     {
-      "publisher": "Night People NYC",
-      "startTime": "00:00",
-      "trackName": "Seein You",
       "artistName": "Eli Escobar",
       "coverArtDate": "2023-07-15T19:17:18.900Z",
       "coverArtLarge": "https://i.discogs.com/aZLyg2-LHBJVSKNnMJLNCcyGw3uwqVWaczlwiYUV1rg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjY0/MzItMTQ1MzMzMjI3/Ny0xOTMyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/KILRtSwOf6YdhWwAp5gU8ZgO-RFLFyC3GJuX4wvakTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjY0/MzItMTQ1MzMzMjI3/Ny0xOTMyLmpwZWc.jpeg",
+      "publisher": "Night People NYC",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Seein You"
     },
     {
-      "publisher": "Fina Records",
-      "startTime": "05:04",
-      "trackName": "Silk & Smoove",
       "artistName": "Francis Inferno Orchestra",
       "coverArtDate": "2023-07-15T19:17:20.328Z",
       "coverArtLarge": "https://i.discogs.com/S79f1baO_9Dgn-v-u44nCa86NrsqtsgteG3uQg47DzQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzk1/NTctMTQyMTkyMDUx/Ni00NDI0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/mKPBi_w7aCx1hmTQcf5RcGTIPPJEford1t6rbF5xOTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Nzk1/NTctMTQyMTkyMDUx/Ni00NDI0LmpwZWc.jpeg",
+      "publisher": "Fina Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 2,
-      "remixArtistName": "Original Mix"
+      "startTime": "05:04",
+      "trackName": "Silk & Smoove"
     },
     {
-      "publisher": "Local Talk",
-      "startTime": "09:49",
-      "trackName": "Sky Hunt",
       "artistName": "DJ Steaw",
       "coverArtDate": "2023-07-15T19:17:21.761Z",
       "coverArtLarge": "https://i.discogs.com/3CmZhagh3nS1m1SooZF7p_XET-HxYjCNPdPvPHO4lUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc3/OTEtMTMzODI5Mzg1/Mi03NDA1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/mNYqBYF23rtJrJn2iGIrlyIoiz2OtyNe4MCL9DzLE-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc3/OTEtMTMzODI5Mzg1/Mi03NDA1LmpwZWc.jpeg",
+      "publisher": "Local Talk",
+      "remixArtistName": "HNNY Edit",
       "sectionNumber": 3,
-      "remixArtistName": "HNNY Edit"
+      "startTime": "09:49",
+      "trackName": "Sky Hunt"
     },
     {
-      "publisher": "Delusions Of Grandeur",
-      "startTime": "16:30",
-      "trackName": "Sad N Blue",
       "artistName": "Thatmanmonkz",
       "coverArtDate": "2023-07-15T19:17:23.120Z",
       "coverArtLarge": "https://i.discogs.com/MQOKrTgoTZ2VumXpt-TRJH7x8EPkG-pplzomdHUwoAE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA2/MjMtMTQyNDc3MjU5/My0yMzM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/TDTPI6fQbHSPS-4IZLPUfdtY4mUqD-5ARTxtvHgAPEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA2/MjMtMTQyNDc3MjU5/My0yMzM1LmpwZWc.jpeg",
+      "publisher": "Delusions Of Grandeur",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Original Mix"
+      "startTime": "16:30",
+      "trackName": "Sad N Blue"
     },
     {
-      "publisher": "Heist Recordings",
-      "startTime": "21:40",
-      "trackName": "Hotshot",
       "artistName": "Brame & Hamo",
       "coverArtDate": "2023-07-15T19:17:24.807Z",
       "coverArtLarge": "https://i.discogs.com/iRKQlA8M350HI9av0onMOtRbytgtn-Oo8__7_sVC3vs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzA1/MjEtMTQ3NzYwNjM0/My0zNDI4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/LEvki8Hvr5UAYRQQyYVq5Og-68NAKlXtBjGrzyGS6mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzA1/MjEtMTQ3NzYwNjM0/My0zNDI4LmpwZWc.jpeg",
+      "publisher": "Heist Recordings",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "21:40",
+      "trackName": "Hotshot"
     },
     {
-      "publisher": "Box Aus Holz",
-      "startTime": "25:33",
-      "trackName": "Life On Mars",
       "artistName": "Max Graef",
       "coverArtDate": "2023-07-15T19:17:26.264Z",
       "coverArtLarge": "https://i.discogs.com/twRUhnjJ2u21MQppPZ8qDH-pOCKe2R9IfPuVVq94x0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc3/MjAtMTM5NjM0MjEw/MC02MDg3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/pi_sHvryRBihK5-_gn0J2CUJEMAEWzfV7mQsphjpY3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDc3/MjAtMTM5NjM0MjEw/MC02MDg3LmpwZWc.jpeg",
+      "publisher": "Box Aus Holz",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "25:33",
+      "trackName": "Life On Mars"
     },
     {
-      "publisher": "House Of Disco Records",
-      "startTime": "30:15",
-      "trackName": "Sun up",
       "artistName": "Francis Inferno Orchestra",
       "coverArtDate": "2023-07-15T19:17:27.724Z",
       "coverArtLarge": "https://i.discogs.com/LBgqisQCu81dE4J8W3OLBSe35qUQgLh3JlnTEsbdoT0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU2/MTctMTUxODU2MTQx/Mi0zMDEzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Fb1-Y_U7XWHkHZUhuzEmRGr0xvA4W0QHGObp2Wa3YHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU2/MTctMTUxODU2MTQx/Mi0zMDEzLmpwZWc.jpeg",
+      "publisher": "House Of Disco Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 7,
-      "remixArtistName": "Original Mix"
+      "startTime": "30:15",
+      "trackName": "Sun up"
     },
     {
-      "publisher": "Local Talk",
-      "startTime": "35:24",
-      "trackName": "I Don't Think That's Music",
       "artistName": "Art Of Tones",
       "coverArtDate": "2023-07-15T19:17:29.251Z",
       "coverArtLarge": "https://i.discogs.com/ScNaV5na1OTlcSctyM9g1c4zgxa8tfGjogWv4HfNIFA/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg2/MDc0LTE2Mzc2MTc4/MDktOTIzNS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/mqgVf0tQSmpCaZzliwHH_3e7OSp4zbg8FWldHQJLuqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg2/MDc0LTE2Mzc2MTc4/MDktOTIzNS5qcGVn.jpeg",
+      "publisher": "Local Talk",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Mix"
+      "startTime": "35:24",
+      "trackName": "I Don't Think That's Music"
     },
     {
-      "publisher": "Azucar Distribution",
-      "startTime": "43:54",
-      "trackName": "Go Easy On Me Girl",
       "artistName": "Francis Inferno Orchestra",
       "coverArtDate": "2023-07-15T19:17:30.797Z",
       "coverArtLarge": "https://i.discogs.com/QwwerQwTCrJj170oxMPLxXZ4czsG7QqJxEpjkuA7psk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTc1/NDEtMTMxNjYwMDg0/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/AO2JeAKp3TtS5MIUDEM_qoCyB-yfavu6_sAYxadD078/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTc1/NDEtMTMxNjYwMDg0/OC5qcGVn.jpeg",
+      "publisher": "Azucar Distribution",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "43:54",
+      "trackName": "Go Easy On Me Girl"
     },
     {
-      "publisher": "Manucci's Mistress",
-      "startTime": "49:12",
-      "trackName": "Brothers and Sisters",
       "artistName": "Jack Fell Down",
       "coverArtDate": "2023-07-15T19:17:32.632Z",
       "coverArtLarge": "https://i.discogs.com/j48v4kJTj-TX6SRd-uRIV9057CTmaE1pNc1KwpbF8Vo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTI3/OTctMTM3MTgxNTAw/MC01NDQ0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/r6-BU5cTt1OZRxJ8iG6tFelA3X_dTZzyehNlzWW0838/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTI3/OTctMTM3MTgxNTAw/MC01NDQ0LmpwZWc.jpeg",
+      "publisher": "Manucci's Mistress",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Mix"
+      "startTime": "49:12",
+      "trackName": "Brothers and Sisters"
     },
     {
-      "publisher": "Caramelo Records",
-      "startTime": "55:45",
-      "trackName": "Leif",
       "artistName": "Konstantin Sibold",
       "coverArtDate": "2023-07-15T19:17:34.082Z",
       "coverArtLarge": "https://i.discogs.com/Zr1Kb-0hs4F606UFN9pyOPqlTJYqMYvDFsduMiPdohI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzAx/NTAtMTMyMjg1Mjc1/OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/PSTLAV-8cNpmpOVY7jisHCdAu2PeYGj1ux2kmwhsqDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzAx/NTAtMTMyMjg1Mjc1/OS5qcGVn.jpeg",
+      "publisher": "Caramelo Records",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "55:45",
+      "trackName": "Leif"
     },
     {
-      "publisher": "Heist Recordings",
-      "startTime": "58:40",
-      "trackName": "Merkin",
       "artistName": "Andy Hart",
       "coverArtDate": "2023-07-15T19:17:35.533Z",
       "coverArtLarge": "https://i.discogs.com/ocZDmxt36-17S4FZy1XG_P6v4SF4m1WlluhHdYU5gsE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY1/NDMtMTQxNDEwNTcw/OC05NjEyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/xXaPtByB9PJMJaoOAYDypf4X-FI7CsbG5Qg_Qa2cRn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY1/NDMtMTQxNDEwNTcw/OC05NjEyLmpwZWc.jpeg",
+      "publisher": "Heist Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Original Mix"
+      "startTime": "58:40",
+      "trackName": "Merkin"
     }
   ]
 }

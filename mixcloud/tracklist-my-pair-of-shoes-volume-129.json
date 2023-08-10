@@ -2,257 +2,257 @@
   "mixcloudKey": "my-pair-of-shoes-volume-129",
   "tracks": [
     {
-      "publisher": "Night Time Stories",
-      "startTime": "00:00",
-      "trackName": "Isle of Taste",
       "artistName": "Session Victim",
       "coverArtDate": "2023-07-15T19:14:26.200Z",
       "coverArtLarge": "https://i.discogs.com/H9s7AaBnK0BkCD1IyDxUTKTHRn7URGOG6CHm2FJH2hk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/MDE3LTE1ODMxNjI3/NzEtODIzMC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/0GfQgxUnkSWd9G1UMxqn6LqbbN6ICK8MWCdcWVWQ-ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU1/MDE3LTE1ODMxNjI3/NzEtODIzMC5qcGVn.jpeg",
+      "publisher": "Night Time Stories",
+      "remixArtistName": "",
       "sectionNumber": 1,
-      "remixArtistName": ""
+      "startTime": "00:00",
+      "trackName": "Isle of Taste"
     },
     {
-      "publisher": "Dirt Crew Recordings",
-      "startTime": "03:33",
-      "trackName": "Piano Lick",
       "artistName": "SMBD",
       "coverArtDate": "2023-07-15T19:14:27.761Z",
       "coverArtLarge": "https://i.discogs.com/K3a7V7FRdKaXp_UmjHi5_Q9ZuFraed10KTLFukJzNQs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkx/Mzk1LTE1OTExODEy/MTUtNDYyMi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/u02PcO1MdB9aFBQ7_Uzlx83SEdS1TVJYzb1U1M_BC44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjkx/Mzk1LTE1OTExODEy/MTUtNDYyMi5qcGVn.jpeg",
+      "publisher": "Dirt Crew Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 2,
-      "remixArtistName": "Original Mix"
+      "startTime": "03:33",
+      "trackName": "Piano Lick"
     },
     {
-      "publisher": "Quintessentials",
-      "startTime": "08:23",
-      "trackName": "Rhodes",
       "artistName": "First Floor",
       "coverArtDate": "2023-07-15T19:14:29.350Z",
       "coverArtLarge": "https://i.discogs.com/SEUZKDhm8kv9u4oUyBwY2tU-H3qwd7BraGgu7PeDf_E/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA2/MDYtMTM5NTQ1MTYw/Ni03NzI4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_9M4fmIaU09zWM1G3hqhsT3rQGc7eI8dHHG-yUgwvuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA2/MDYtMTM5NTQ1MTYw/Ni03NzI4LmpwZWc.jpeg",
+      "publisher": "Quintessentials",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Original Mix"
+      "startTime": "08:23",
+      "trackName": "Rhodes"
     },
     {
-      "publisher": "Grin Music",
-      "startTime": "12:56",
-      "trackName": "Raw Dawgin'",
       "artistName": "Demarkus Lewis",
       "coverArtDate": "2023-07-15T19:14:30.777Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Grin Music",
+      "remixArtistName": "",
       "sectionNumber": 4,
-      "remixArtistName": ""
+      "startTime": "12:56",
+      "trackName": "Raw Dawgin'"
     },
     {
-      "publisher": "AKTSHUN Records",
-      "startTime": "18:23",
-      "trackName": "U Know (Baby)",
       "artistName": "AKTSHUN",
       "coverArtDate": "2023-07-15T19:14:32.202Z",
       "coverArtLarge": "https://i.discogs.com/SdOQoEoB1FlR9wCBHjX8nw0vxvdDIzcOzV9KPV5fF04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjUz/NzM1LTE1ODg3MjIw/NjctNTgzMy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/FfD5_gIZsm901q7qPIOWr3uIcMLYwF1FMvHFqw7yvro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjUz/NzM1LTE1ODg3MjIw/NjctNTgzMy5qcGVn.jpeg",
+      "publisher": "AKTSHUN Records",
+      "remixArtistName": "",
       "sectionNumber": 5,
-      "remixArtistName": ""
+      "startTime": "18:23",
+      "trackName": "U Know (Baby)"
     },
     {
-      "publisher": "No Fuss Records",
-      "startTime": "22:18",
-      "trackName": "Second Wave",
       "artistName": "Local Options",
       "coverArtDate": "2023-07-15T19:14:33.590Z",
       "coverArtLarge": "https://i.discogs.com/UFn8uN5EQ7xYpLJMwq3SCytspNB1lWsRQWCm-NS6qL4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUy/NTk4LTE2MTA3OTUw/NzYtMTI1Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/pDUPrnyxeNR8F4tzz35u_zo8962Rnv46o3yDKZ_2N4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTUy/NTk4LTE2MTA3OTUw/NzYtMTI1Ni5qcGVn.jpeg",
+      "publisher": "No Fuss Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 6,
-      "remixArtistName": "Original Mix"
+      "startTime": "22:18",
+      "trackName": "Second Wave"
     },
     {
-      "publisher": "Mood Funk Records",
-      "startTime": "29:01",
-      "trackName": "Hold On",
       "artistName": "Gaby feat. Moodymann",
       "coverArtDate": "2023-07-15T19:14:34.988Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Mood Funk Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 7,
-      "remixArtistName": "Original Mix"
+      "startTime": "29:01",
+      "trackName": "Hold On"
     },
     {
-      "publisher": "Naughty Boy Music",
-      "startTime": "34.13",
-      "trackName": "This Aint No Game",
       "artistName": "Norty Cotto",
       "coverArtDate": "2023-07-15T19:14:36.365Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Naughty Boy Music",
+      "remixArtistName": "Norty Cotto Q Time Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Norty Cotto Q Time Mix"
+      "startTime": "34.13",
+      "trackName": "This Aint No Game"
     },
     {
-      "publisher": "Hustler Trax",
-      "startTime": "39:33",
-      "trackName": "Happy",
       "artistName": "Paul Rudder",
       "coverArtDate": "2023-07-15T19:14:37.810Z",
       "coverArtLarge": "https://i.discogs.com/L9U7D-YBjHiIESTERDmnA4EctCM9jKFKDuX3rjjv3s0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/NTg2LTE1MDIxMjcy/MDItMzU0Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/bwHKZLoVS6LMdZwuDJujURRnkUkSy9LTbPJAFUMsG3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/NTg2LTE1MDIxMjcy/MDItMzU0Mi5qcGVn.jpeg",
+      "publisher": "Hustler Trax",
+      "remixArtistName": "Yann Polewka Remix",
       "sectionNumber": 9,
-      "remixArtistName": "Yann Polewka Remix"
+      "startTime": "39:33",
+      "trackName": "Happy"
     },
     {
-      "publisher": "Soul Revolution Records",
-      "startTime": "44:13",
-      "trackName": "Survive",
       "artistName": "Mike Millrain",
       "coverArtDate": "2023-07-15T19:14:39.263Z",
       "coverArtLarge": "https://i.discogs.com/0z2X4PaR08HDgBjToCCcck4V_tzMCa7CyTG4zPD8vco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAy/ODQxLTE1ODk0NDcz/MTktMzg3My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/XC8Hcun6cu1trEAjjkraX1uGR3vdvbkZ7owgstCG-eM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzAy/ODQxLTE1ODk0NDcz/MTktMzg3My5qcGVn.jpeg",
+      "publisher": "Soul Revolution Records",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "44:13",
+      "trackName": "Survive"
     },
     {
-      "publisher": "UVE Recordings",
-      "startTime": "50:08",
-      "trackName": "Music Keeps Me Dancin'",
       "artistName": "Kings Of Swing",
       "coverArtDate": "2023-07-15T19:14:40.614Z",
       "coverArtLarge": "https://i.discogs.com/m3sSW_HKoKsTeorTIrac64IsSm0_rUYL6BD8iwpxMUE/rs:fit/g:sm/q:90/h:496/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA3/MjEtMTI0MjkxNTYw/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/cyNmuh6b61FzMgQuZJKqDjS9sZTOpywNPyQ-JM9nSj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA3/MjEtMTI0MjkxNTYw/MC5qcGVn.jpeg",
+      "publisher": "UVE Recordings",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "50:08",
+      "trackName": "Music Keeps Me Dancin'"
     },
     {
-      "publisher": "Strcly Riddim",
-      "startTime": "55:59",
-      "trackName": "Reeeaaach",
       "artistName": "Lil' Mo' Yin Yang",
       "coverArtDate": "2023-07-15T19:14:41.962Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Strcly Riddim",
+      "remixArtistName": "Wh0's Thumping Remix",
       "sectionNumber": 12,
-      "remixArtistName": "Wh0's Thumping Remix"
+      "startTime": "55:59",
+      "trackName": "Reeeaaach"
     },
     {
-      "publisher": "TSOY",
-      "startTime": "59:56",
-      "trackName": "Jump",
       "artistName": "Kevin Yost",
       "coverArtDate": "2023-07-15T19:14:43.377Z",
       "coverArtLarge": "https://i.discogs.com/JfyvdoczaqWadPtF81F96B5MW8oFju9mUOwu_Kd87wI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NDM1LTE1ODM2ODY5/MzktODQ0OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/5I_imTOLgZEHfA1KP0jQez37Fl2piaLpIXBRL2CjgeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NDM1LTE1ODM2ODY5/MzktODQ0OC5qcGVn.jpeg",
+      "publisher": "TSOY",
+      "remixArtistName": "Resonant Version",
       "sectionNumber": 13,
-      "remixArtistName": "Resonant Version"
+      "startTime": "59:56",
+      "trackName": "Jump"
     },
     {
-      "publisher": "Imagenes",
-      "startTime": "1:05:10",
-      "trackName": "Perfectly Enough",
       "artistName": "Martin Denev feat. Sasha Zico",
       "coverArtDate": "2023-07-15T19:14:44.781Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Imagenes",
+      "remixArtistName": "Atjazz Galaxy Aart Dub",
       "sectionNumber": 14,
-      "remixArtistName": "Atjazz Galaxy Aart Dub"
+      "startTime": "1:05:10",
+      "trackName": "Perfectly Enough"
     },
     {
-      "publisher": "Turbolenz Records",
-      "startTime": "1:11:06",
-      "trackName": "For Henne",
       "artistName": "Ebrahimi",
       "coverArtDate": "2023-07-15T19:14:46.190Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Turbolenz Records",
+      "remixArtistName": "Dave DK Remix",
       "sectionNumber": 15,
-      "remixArtistName": "Dave DK Remix"
+      "startTime": "1:11:06",
+      "trackName": "For Henne"
     },
     {
-      "publisher": "Freerange Records",
-      "startTime": "1:16:25",
-      "trackName": "Tired Up",
       "artistName": "Simon Hinter",
       "coverArtDate": "2023-07-15T19:14:47.627Z",
       "coverArtLarge": "https://i.discogs.com/wA5oXi5nCeo6GatT7-lhiyVHSD8XB7OosvVNrEiMeLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY1/OTMyLTE2NDU1NTk2/NDYtNzgyMi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/WtHZXyihq2Rphm9cFTnfHFqJ7xMyHs31TV4263P8RO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY1/OTMyLTE2NDU1NTk2/NDYtNzgyMi5qcGVn.jpeg",
+      "publisher": "Freerange Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 16,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:16:25",
+      "trackName": "Tired Up"
     },
     {
-      "publisher": "No Fuss Records",
-      "startTime": "1:21:51",
-      "trackName": "Dance With Me",
       "artistName": "Risk Assessment feat. Queen Rose",
       "coverArtDate": "2023-07-15T19:14:48.967Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "No Fuss Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 17,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:21:51",
+      "trackName": "Dance With Me"
     },
     {
-      "publisher": "Large Music",
-      "startTime": "1:27:57",
-      "trackName": "Renovate",
       "artistName": "Jarred Gallo",
       "coverArtDate": "2023-07-15T19:14:50.378Z",
       "coverArtLarge": "https://i.discogs.com/8K5d6Kb7GAy_tzD4VGfwyf608SPa1dHtT75yH76f8Mg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NDgzLTE1ODM2ODc1/MDItODA0MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/zG9lCzx0cbImridnfvbEASMlEKUaLrrs0-3Exbgom4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODk4/NDgzLTE1ODM2ODc1/MDItODA0MC5qcGVn.jpeg",
+      "publisher": "Large Music",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:27:57",
+      "trackName": "Renovate"
     },
     {
-      "publisher": "PIV",
-      "startTime": "1:31:35",
-      "trackName": "Through The Walls",
       "artistName": "PRUNK",
       "coverArtDate": "2023-07-15T19:14:51.760Z",
       "coverArtLarge": "https://i.discogs.com/TtbWKX4oGmyaP-WrVVbjgdXHroZAQ1EygGjFCt3xkIo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjEz/MzA4LTE1OTQ1NTYx/MjEtOTM5MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Tf6JN5KKDt02l8FQvE3MdcClj8rL4cSm3P1BUlEqlXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjEz/MzA4LTE1OTQ1NTYx/MjEtOTM5MS5qcGVn.jpeg",
+      "publisher": "PIV",
+      "remixArtistName": "JT Donaldson Remix",
       "sectionNumber": 19,
-      "remixArtistName": "JT Donaldson Remix"
+      "startTime": "1:31:35",
+      "trackName": "Through The Walls"
     },
     {
-      "publisher": "MONOSIDE",
-      "startTime": "1:38:35",
-      "trackName": "Say It Again",
       "artistName": "Peter Brown",
       "coverArtDate": "2023-07-15T19:14:53.104Z",
       "coverArtLarge": "https://i.discogs.com/wMcnYtqgpaYCLWoSplgzry0vEaAuNbWRczn9EWIuK8Y/rs:fit/g:sm/q:90/h:685/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/ODQxLTE2NDQ2ODM5/NjctOTMxNS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/VFtgxyaG9dAOftsai-IiCDDXA-Pt7kYLce_z5InySZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/ODQxLTE2NDQ2ODM5/NjctOTMxNS5qcGVn.jpeg",
+      "publisher": "MONOSIDE",
+      "remixArtistName": "Hatiras Remix",
       "sectionNumber": 20,
-      "remixArtistName": "Hatiras Remix"
+      "startTime": "1:38:35",
+      "trackName": "Say It Again"
     },
     {
-      "publisher": "La Vie D'Artiste Music",
-      "startTime": "1:43:48",
-      "trackName": "The Groove",
       "artistName": "Vincent Caira",
       "coverArtDate": "2023-07-15T19:14:54.454Z",
       "coverArtLarge": "https://i.discogs.com/V5NXmxjn4k-8wp_GptBEzTBuCZOZTMKjzDgAsm_cnlQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAy/MTc2LTE2MzA2OTQ3/NzktNDUwMi5wbmc.jpeg",
       "coverArtSmall": "https://i.discogs.com/CFw8nU0ScHUDAjR9KPfkgngKzodVct3goZpNvvPVIH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAy/MTc2LTE2MzA2OTQ3/NzktNDUwMi5wbmc.jpeg",
+      "publisher": "La Vie D'Artiste Music",
+      "remixArtistName": "Sebb Junior Remix",
       "sectionNumber": 21,
-      "remixArtistName": "Sebb Junior Remix"
+      "startTime": "1:43:48",
+      "trackName": "The Groove"
     },
     {
-      "publisher": "La Vie D'Artiste Music",
-      "startTime": "1:49:00",
-      "trackName": "Number One",
       "artistName": "Sebb Junior",
       "coverArtDate": "2023-07-15T19:14:55.854Z",
       "coverArtLarge": "https://i.discogs.com/m24724RpMMq21uL8wIEk5JjVUNyrr_TWgISAqjkmuqM/rs:fit/g:sm/q:90/h:750/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkyMDk3/NTgtMTYyODE5NzYz/MC01Njk4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/rWEqCmol3W-xJuFumjE2io0wv-P8NadPkKz3tClM1Uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTkyMDk3/NTgtMTYyODE5NzYz/MC01Njk4LmpwZWc.jpeg",
+      "publisher": "La Vie D'Artiste Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 22,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:49:00",
+      "trackName": "Number One"
     },
     {
-      "publisher": "OM Records",
-      "startTime": "1:54:43",
-      "trackName": "The Story",
       "artistName": "Mark Farina",
       "coverArtDate": "2023-07-15T19:14:57.482Z",
       "coverArtLarge": "https://i.discogs.com/tJNIfImE6xpOl5zeYOmFUc9e-NQcfcpAOQ9S4307fGc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MC0xNDMyMDYyMjIy/LTEzMzEuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/X_UiHlAnCvRlUlOaxRwENZ8a1IyYKYMaSDnZT0IBsuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTYz/MC0xNDMyMDYyMjIy/LTEzMzEuanBlZw.jpeg",
+      "publisher": "OM Records",
+      "remixArtistName": "",
       "sectionNumber": 23,
-      "remixArtistName": ""
+      "startTime": "1:54:43",
+      "trackName": "The Story"
     }
   ]
 }

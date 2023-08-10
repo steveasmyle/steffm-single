@@ -1140,9 +1140,9 @@
     },
     {
       "category": "mpos",
-      "coverArtDate": "",
-      "coverArtLarge": "",
-      "coverArtSmall": "",
+      "coverArtDate": "2023-08-10T13:31:32.887Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/8/7/3/4/09ab-7b68-4424-bc26-b1880843763b",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/8/7/3/4/09ab-7b68-4424-bc26-b1880843763b",
       "duration": "1:34:31",
       "fileName": "My_Pair_of_Shoes_Vol._80_hifi.mp3",
       "listOrder": 80,
@@ -1151,6 +1151,34 @@
       "notes": "Compiled & LIVE mixed by Stef",
       "releaseDate": "August 2013",
       "shortName": "MPOS - Volume 80"
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-08-10T13:37:44.779Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/3/3/d/5497-8605-4acc-b65f-c51d6d5ab8e1",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/3/3/d/5497-8605-4acc-b65f-c51d6d5ab8e1",
+      "duration": "1:00:10",
+      "fileName": "Adventures_in_Decent_Music_Vol._35_disco_of_today_hifi.mp3",
+      "listOrder": 35,
+      "mixcloudKey": "adventures-in-decent-music-disco-of-today-volume-35",
+      "name": "Adventures in Decent Music - Disco of Today - Volume 35",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "July 2013",
+      "shortName": "AIDM - Volume 35"
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-08-10T21:08:43.447Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/5/6/d/4/dd0c-baae-44af-9b87-a6a4840ea79c",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/5/6/d/4/dd0c-baae-44af-9b87-a6a4840ea79c",
+      "duration": "1:32:46",
+      "fileName": "Adventures_in_Decent_Music_Vol._34_disco_of_today_hifi.mp3",
+      "listOrder": 34,
+      "mixcloudKey": "adventures-in-decent-music-disco-of-today-volume-34",
+      "name": "Adventures in Decent Music - Disco of Today - Volume 34",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "July 2013",
+      "shortName": "AIDM - Volume 34"
     }
   ]
 }

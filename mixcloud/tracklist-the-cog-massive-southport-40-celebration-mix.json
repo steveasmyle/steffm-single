@@ -2,235 +2,235 @@
   "mixcloudKey": "the-cog-massive-southport-40-celebration-mix",
   "tracks": [
     {
-      "publisher": "CDr",
-      "startTime": "00:00",
-      "trackName": "Evil Vibration",
       "artistName": "The Rebirth",
       "coverArtDate": "2023-07-15T19:23:36.689Z",
       "coverArtLarge": "https://i.discogs.com/5hgIkUQm02o781D3uVcUsTXLpml0HF1Xd1XJhV_BcG8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTYy/MDUtMTI2NzAzNjI2/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/CcOs73IrGzN0DiI5JjNkVcoBmWDAS1rfaqKts5aYAJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTYy/MDUtMTI2NzAzNjI2/MC5qcGVn.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "Edit",
       "sectionNumber": 1,
-      "remixArtistName": "Edit"
+      "startTime": "00:00",
+      "trackName": "Evil Vibration"
     },
     {
-      "publisher": "Big Life",
-      "startTime": "03:49",
-      "trackName": "Me Myself & I",
       "artistName": "De La Soul",
       "coverArtDate": "2023-07-15T19:23:38.274Z",
       "coverArtLarge": "https://i.discogs.com/O1MavwHGL_X3Yr5h_kMXZylPqxQOL5wtqv8QUOTTUdM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzI5/Ny0xNDIyOTEzNjU3/LTI5MTIuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/IbenqM5tAJj2dqZblfsT3tgrW5LS4XolFxxAxsjxVXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MzI5/Ny0xNDIyOTEzNjU3/LTI5MTIuanBlZw.jpeg",
+      "publisher": "Big Life",
+      "remixArtistName": "",
       "sectionNumber": 2,
-      "remixArtistName": ""
+      "startTime": "03:49",
+      "trackName": "Me Myself & I"
     },
     {
-      "publisher": "ITH Records",
-      "startTime": "05:34",
-      "trackName": "Any Love",
       "artistName": "Chaka Khan",
       "coverArtDate": "2023-07-15T19:23:40.093Z",
       "coverArtLarge": "https://i.discogs.com/0-LrMgvchvotvMRlhV4PX11m2x4SBXh41HTaflLyZNQ/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTAz/MjMtMTM4NDI5Mjc1/Ni02ODgxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZDaN5imghu6lUtMZj9E4q6_wqRnsn3b3OeKyhEk7vJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTAz/MjMtMTM4NDI5Mjc1/Ni02ODgxLmpwZWc.jpeg",
+      "publisher": "ITH Records",
+      "remixArtistName": "Dim's Classic Re-Edit",
       "sectionNumber": 3,
-      "remixArtistName": "Dim's Classic Re-Edit"
+      "startTime": "05:34",
+      "trackName": "Any Love"
     },
     {
-      "publisher": "ITH Records",
-      "startTime": "09:45",
-      "trackName": "Down To Love Town",
       "artistName": "The Originals",
       "coverArtDate": "2023-07-15T19:23:41.652Z",
       "coverArtLarge": "https://i.discogs.com/PpmNJTIU2lYeziBh08WC6bR13hTRcppc2oqMQkTgZAg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc3/NzYtMTI3NDc1NjYz/NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/busGeBiA5jz5qdnA8LTUD0nhZRCQAAj0BNSiKQOOKow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc3/NzYtMTI3NDc1NjYz/NC5qcGVn.jpeg",
+      "publisher": "ITH Records",
+      "remixArtistName": "Dim's Disco Citay Remix",
       "sectionNumber": 4,
-      "remixArtistName": "Dim's Disco Citay Remix"
+      "startTime": "09:45",
+      "trackName": "Down To Love Town"
     },
     {
-      "publisher": "Talkin' Loud",
-      "startTime": "13:00",
-      "trackName": "Nights Over Egypt",
       "artistName": "Incognito",
       "coverArtDate": "2023-07-15T19:23:43.249Z",
       "coverArtLarge": "https://i.discogs.com/ldkJCncWSTRyV77E95FSE9EDi9LP-RX1nyYe7_NsKl8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MC0xMTg2OTU4NjI0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/QpGjjNwtqmQL9fAWbnUmfz34qG7w5weQRkZyNvNHxQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM4/MC0xMTg2OTU4NjI0/LmpwZWc.jpeg",
+      "publisher": "Talkin' Loud",
+      "remixArtistName": "MAW Main Remix",
       "sectionNumber": 5,
-      "remixArtistName": "MAW Main Remix"
+      "startTime": "13:00",
+      "trackName": "Nights Over Egypt"
     },
     {
-      "publisher": "Salted Music",
-      "startTime": "16:52",
-      "trackName": "Mesmerised",
       "artistName": "Miguel Migs",
       "coverArtDate": "2023-07-15T19:23:44.595Z",
       "coverArtLarge": "https://i.discogs.com/wLlMSuBWkCwP9QRx2QlRiTKsTzrgut2g31pQWs3reN0/rs:fit/g:sm/q:90/h:371/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY3/MDMwLTE2MTIwNDEz/ODItNjY0Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/HEjMabM2ceakzaookweNUmD1mjs2XeluNCwZPpp-HlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY3/MDMwLTE2MTIwNDEz/ODItNjY0Ny5qcGVn.jpeg",
+      "publisher": "Salted Music",
+      "remixArtistName": "",
       "sectionNumber": 6,
-      "remixArtistName": ""
+      "startTime": "16:52",
+      "trackName": "Mesmerised"
     },
     {
-      "publisher": "Brownswood Recordings",
-      "startTime": "19:53",
-      "trackName": "Dance With Me",
       "artistName": "Ben Westbeech",
       "coverArtDate": "2023-07-15T19:23:46.151Z",
       "coverArtLarge": "https://i.discogs.com/VfMsL8UbPamjQMyNz6jt3e0IM-B-n34LEmn1H7TEVSs/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIz/MzYtMTUzNTU3OTAy/MS05NTA2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/-LKXL3U2iAlodHI3UnboQWIJjALmJAUigAmcnAi4lQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIz/MzYtMTUzNTU3OTAy/MS05NTA2LmpwZWc.jpeg",
+      "publisher": "Brownswood Recordings",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "19:53",
+      "trackName": "Dance With Me"
     },
     {
-      "publisher": "ABB Soul",
-      "startTime": "22:50",
-      "trackName": "Traveling",
       "artistName": "Mark De Clive-Lowe",
       "coverArtDate": "2023-07-15T19:23:47.689Z",
       "coverArtLarge": "https://i.discogs.com/OERaekM9WOuLHk18KLvLwe7klURQAkZqZ3pk8BouVqU/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDgx/MC0xNTE2NDY5Nzkw/LTM5MDIuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/XwPT-JH9pjZ9StOu4PO1V8m0y2C9-ZFu72wfRqJHouM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDgx/MC0xNTE2NDY5Nzkw/LTM5MDIuanBlZw.jpeg",
+      "publisher": "ABB Soul",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "22:50",
+      "trackName": "Traveling"
     },
     {
-      "publisher": "CDr",
-      "startTime": "25:42",
-      "trackName": "I Know You, I Live You",
       "artistName": "Chaka Khan",
       "coverArtDate": "2023-07-15T19:23:49.289Z",
       "coverArtLarge": "https://i.discogs.com/Ev_jLOxYgC945Ejgp5LNB3ZG-xa3xgylsB9ixlQ4EUs/rs:fit/g:sm/q:90/h:333/w:333/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU0/OC0xNDM0NTI2MzQw/LTI3NjAuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/4oV7hjDjWFPQ3Ja0DJ10OvkUvsuS4eHptyCciekBy1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTU0/OC0xNDM0NTI2MzQw/LTI3NjAuanBlZw.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "Stef & Danny's Raining Edit",
       "sectionNumber": 9,
-      "remixArtistName": "Stef & Danny's Raining Edit"
+      "startTime": "25:42",
+      "trackName": "I Know You, I Live You"
     },
     {
-      "publisher": "Epic",
-      "startTime": "30:49",
-      "trackName": "I Want You For Myself",
       "artistName": "George Duke",
       "coverArtDate": "2023-07-15T19:23:50.797Z",
       "coverArtLarge": "https://i.discogs.com/TK5wuzys4EhSFxKmbeCUN8yIq9gPdFpx7QBQfetFQ_A/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYy/MDEtMTIyNjc4NTM1/NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/-zEFCaJXO8pMSvkxdYSQgOl0BDEzRqwrOv0qootn-Gk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzYy/MDEtMTIyNjc4NTM1/NC5qcGVn.jpeg",
+      "publisher": "Epic",
+      "remixArtistName": "",
       "sectionNumber": 10,
-      "remixArtistName": ""
+      "startTime": "30:49",
+      "trackName": "I Want You For Myself"
     },
     {
-      "publisher": "Polydor",
-      "startTime": "34:05",
-      "trackName": "Can't You See Me",
       "artistName": "Roy Ayers",
       "coverArtDate": "2023-07-15T19:23:52.382Z",
       "coverArtLarge": "https://i.discogs.com/usH4YN4pwezQwBs7ULk0Wb41wUnnvTCVe8AV4zY_hCo/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NS0xMjc2OTY2ODUx/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/gF4ifU9bEJUmxdhefwtIEzRlWAtAz8p26UK1x2MrXkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUy/NS0xMjc2OTY2ODUx/LmpwZWc.jpeg",
+      "publisher": "Polydor",
+      "remixArtistName": "",
       "sectionNumber": 11,
-      "remixArtistName": ""
+      "startTime": "34:05",
+      "trackName": "Can't You See Me"
     },
     {
-      "publisher": "CBS",
-      "startTime": "40:30",
-      "trackName": "I Thought It Was You",
       "artistName": "Herbie Hancock",
       "coverArtDate": "2023-07-15T19:23:54.511Z",
       "coverArtLarge": "https://i.discogs.com/bsiCbPFPnFu66Rg7zuKFFfWPqaCu1CJruUPLD3zTL6k/rs:fit/g:sm/q:90/h:480/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/OTItMTIzNDE4MDM0/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/oiRFst0xjaYno1AOMzylvb7NIgdW5yQ2ZL-twLjPJ6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTUx/OTItMTIzNDE4MDM0/Mi5qcGVn.jpeg",
+      "publisher": "CBS",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "40:30",
+      "trackName": "I Thought It Was You"
     },
     {
-      "publisher": "Atlantic Records",
-      "startTime": "45:27",
-      "trackName": "Back Together Again",
       "artistName": "Donny Hathaway & Robert Flack",
       "coverArtDate": "2023-07-15T19:23:55.992Z",
       "coverArtLarge": "https://i.discogs.com/Jz2PZkdOW6OnpVFj8y2W4q5ll1sSN_y5P3uucSrOKvE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI2/NzIzLTE0OTUzNzg5/MDgtOTQ3Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/AtrkIyDzF9ltXNi3DLk5hbC8v-J08jotFPQ-L8cjm1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzI2/NzIzLTE0OTUzNzg5/MDgtOTQ3Ni5qcGVn.jpeg",
+      "publisher": "Atlantic Records",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "45:27",
+      "trackName": "Back Together Again"
     },
     {
-      "publisher": "Streetwave",
-      "startTime": "48:37",
-      "trackName": "Buttercup",
       "artistName": "Carl Anderson",
       "coverArtDate": "2023-07-15T19:23:57.526Z",
       "coverArtLarge": "https://i.discogs.com/DpMJCYxEhaNseLdcv8SBVnXqJ5pp5zXb2VDMdIQm9kw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/MTQtMTI0Mzk3MTk4/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/O82ZK5nFq-_3QN3eCsLBxtyRJKu928AKEPlW3iTpX_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTAx/MTQtMTI0Mzk3MTk4/My5qcGVn.jpeg",
+      "publisher": "Streetwave",
+      "remixArtistName": "",
       "sectionNumber": 14,
-      "remixArtistName": ""
+      "startTime": "48:37",
+      "trackName": "Buttercup"
     },
     {
-      "publisher": "Jive",
-      "startTime": "54:09",
-      "trackName": "Check The Rhime",
       "artistName": "A Tribe Called Quest",
       "coverArtDate": "2023-07-15T19:23:59.106Z",
       "coverArtLarge": "https://i.discogs.com/yDvo7HA7ynR2rrEm4feWeDSBYNFjzsVCz7RD83fwN84/rs:fit/g:sm/q:90/h:523/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MDItMTYyMTAyNDA2/Ny03NzQ5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/KNO7kfi3JMJ7ldL3DCjRNkv9gm-1YOQrjI5wk3Zyw10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MDItMTYyMTAyNDA2/Ny03NzQ5LmpwZWc.jpeg",
+      "publisher": "Jive",
+      "remixArtistName": "",
       "sectionNumber": 15,
-      "remixArtistName": ""
+      "startTime": "54:09",
+      "trackName": "Check The Rhime"
     },
     {
-      "publisher": "Champion",
-      "startTime": "55:50",
-      "trackName": "Secret Rendezvous",
       "artistName": "Rene & Angela",
       "coverArtDate": "2023-07-15T19:24:00.939Z",
       "coverArtLarge": "https://i.discogs.com/bx4-0kHo3D6SCAIrB4VFC53eqQ7W0YbK7B3GAsxA88Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU0/NTItMTYxMjU4OTM5/My04NzM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8Fvte3iUeHAFZxFo8Bzqfye2XnIqW-mfbYUOsTBUvjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzU0/NTItMTYxMjU4OTM5/My04NzM1LmpwZWc.jpeg",
+      "publisher": "Champion",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "55:50",
+      "trackName": "Secret Rendezvous"
     },
     {
-      "publisher": "Bellaphone",
-      "startTime": "59:45",
-      "trackName": "To Be In Love",
       "artistName": "Tito Puente & The Count Basie Orchestra & India",
       "coverArtDate": "2023-07-15T19:24:02.407Z",
       "coverArtLarge": "https://i.discogs.com/0niw_QOdReFmPFukD7AvTU5z4VhkCe7ES_fcxfOzgyA/rs:fit/g:sm/q:90/h:453/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI2/NTYtMTU1NDg2ODQz/MS01MDM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/QzWG4L2P1fFvRgo228N0JNQd-tP4yD_dnSbf9lcl94w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI2/NTYtMTU1NDg2ODQz/MS01MDM1LmpwZWc.jpeg",
+      "publisher": "Bellaphone",
+      "remixArtistName": "",
       "sectionNumber": 17,
-      "remixArtistName": ""
+      "startTime": "59:45",
+      "trackName": "To Be In Love"
     },
     {
-      "publisher": "Strut",
-      "startTime": "1:02:57",
-      "trackName": "Everyman",
       "artistName": "Double Exposure",
       "coverArtDate": "2023-07-15T19:24:04.063Z",
       "coverArtLarge": "https://i.discogs.com/i2dzbG5uVOlvWRcgOKRgJ6pfAAotus8w2t1-wJ11E5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjkz/OS0xMzE0ODgyNjI2/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/OIIfxFZWx4iUC8nskUuPGxIy7t71xj0YMip0gSSsLbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjkz/OS0xMzE0ODgyNjI2/LmpwZWc.jpeg",
+      "publisher": "Strut",
+      "remixArtistName": "Danny Krivit Re-Edit",
       "sectionNumber": 18,
-      "remixArtistName": "Danny Krivit Re-Edit"
+      "startTime": "1:02:57",
+      "trackName": "Everyman"
     },
     {
-      "publisher": "V2 Records Inc.",
-      "startTime": "1:07:12",
-      "trackName": "Inspiration",
       "artistName": "Arnold Jarvis",
       "coverArtDate": "2023-07-15T19:24:05.988Z",
       "coverArtLarge": "https://i.discogs.com/mjtZUpRjqPMbrpbuLWtDwT22-gT3XAmmIF6c8ArcGaA/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTky/LTEzNDk3Mjg5NzMt/OTI1NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Bpx6uWyVeKineJmEsvpl9zYxp3-TRRs9AwjrVGRjc5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTky/LTEzNDk3Mjg5NzMt/OTI1NS5qcGVn.jpeg",
+      "publisher": "V2 Records Inc.",
+      "remixArtistName": "",
       "sectionNumber": 19,
-      "remixArtistName": ""
+      "startTime": "1:07:12",
+      "trackName": "Inspiration"
     },
     {
-      "publisher": "Soulfuric Recordings",
-      "startTime": "1:10:35",
-      "trackName": "He Is the Joy",
       "artistName": "Donna Allen",
       "coverArtDate": "2023-07-15T19:24:07.635Z",
       "coverArtLarge": "https://i.discogs.com/v5BcHdPGm7wqq01D85POYLov8MLXG6TXNa2h0GDnFuc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk0/NzAtMTI4NzQ0ODU1/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/o4GXQ3d5fFc9nHMQx-Z8SNNOEGQMTCchTRvgweJfRDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDk0/NzAtMTI4NzQ0ODU1/My5qcGVn.jpeg",
+      "publisher": "Soulfuric Recordings",
+      "remixArtistName": "BT Edit",
       "sectionNumber": 20,
-      "remixArtistName": "BT Edit"
+      "startTime": "1:10:35",
+      "trackName": "He Is the Joy"
     },
     {
-      "publisher": "Dome Records",
-      "startTime": "1:17:48",
-      "trackName": "Was That All It Was",
       "artistName": "Full Flava feat. Carleen Anderson",
       "coverArtDate": "2023-07-15T19:24:09.172Z",
       "coverArtLarge": "https://i.discogs.com/KLJ-FF34YGjpTq05l5dWIERTq7HSWPdO_kF2syZsU60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEw/NTQ1LTE2MDk5NjEz/NTEtOTQ3MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/obeiSQoYIRo4LWJjBsyWSJAMDvmM8MQ7PkHACq5vdr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODEw/NTQ1LTE2MDk5NjEz/NTEtOTQ3MS5qcGVn.jpeg",
+      "publisher": "Dome Records",
+      "remixArtistName": "",
       "sectionNumber": 21,
-      "remixArtistName": ""
+      "startTime": "1:17:48",
+      "trackName": "Was That All It Was"
     }
   ]
 }

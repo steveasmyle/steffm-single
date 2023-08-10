@@ -2,257 +2,257 @@
   "mixcloudKey": "my-pair-of-shoes-volume-114",
   "tracks": [
     {
-      "publisher": "Toy Tronics",
-      "startTime": "00:00",
-      "trackName": "Stromboli",
       "artistName": "Harry Wolfman",
       "coverArtDate": "2023-07-15T19:06:02.687Z",
       "coverArtLarge": "https://i.discogs.com/YOiwG46_RRy0U7-WQMFwKzXEdaphW-b_wes4k9GK-Nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc0/NDc4LTE1MjM4OTg2/OTEtNTgxNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/4Hui-j4mZ3ycE-UQsQGswXRcfJ8fkHLcMbxMPZXwvA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODc0/NDc4LTE1MjM4OTg2/OTEtNTgxNy5qcGVn.jpeg",
+      "publisher": "Toy Tronics",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 1,
-      "remixArtistName": "Original Mix"
+      "startTime": "00:00",
+      "trackName": "Stromboli"
     },
     {
-      "publisher": "Juiced Music",
-      "startTime": "05:55",
-      "trackName": "Get Together",
       "artistName": "Hawksburn",
       "coverArtDate": "2023-07-15T19:06:04.029Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Juiced Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 2,
-      "remixArtistName": "Original Mix"
+      "startTime": "05:55",
+      "trackName": "Get Together"
     },
     {
-      "publisher": "Soul Revolution Records",
-      "startTime": "11:00",
-      "trackName": "Make It Through",
       "artistName": "Lombard Street",
       "coverArtDate": "2023-07-15T19:06:05.520Z",
       "coverArtLarge": "https://i.discogs.com/iuFy2f6Ov0vMnsSNOVstxU6PgRDSnVYAkLziEt2nn-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/MDczLTE1OTg2MzEz/NTgtODIzNS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/oSqyTPt5XAdgP-dcjr3R-hXG7BRHtZ5uY6_rfe_iLdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMz/MDczLTE1OTg2MzEz/NTgtODIzNS5qcGVn.jpeg",
+      "publisher": "Soul Revolution Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 3,
-      "remixArtistName": "Original Mix"
+      "startTime": "11:00",
+      "trackName": "Make It Through"
     },
     {
-      "publisher": "Strickktly Riddim",
-      "startTime": "16:30",
-      "trackName": "Moobie Storm Chasers",
       "artistName": "Timmy P",
       "coverArtDate": "2023-07-15T19:06:06.939Z",
       "coverArtLarge": "https://i.discogs.com/d-XxMDrVVzMJ4P6u8ps_Iel-vV2C1MABUD5qo5E1wko/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQz/NzUyLTE1NTgxNTE4/NDktNTE3OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/luQWuiDGminIYFxMb6tUzTodozm3oBSpjDnnozAr9Kw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQz/NzUyLTE1NTgxNTE4/NDktNTE3OC5qcGVn.jpeg",
+      "publisher": "Strickktly Riddim",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 4,
-      "remixArtistName": "Original Mix"
+      "startTime": "16:30",
+      "trackName": "Moobie Storm Chasers"
     },
     {
-      "publisher": "2EllE Records",
-      "startTime": "23:50",
-      "trackName": "Boom 909",
       "artistName": "Yves Rock",
       "coverArtDate": "2023-07-15T19:06:08.364Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "2EllE Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 5,
-      "remixArtistName": "Original Mix"
+      "startTime": "23:50",
+      "trackName": "Boom 909"
     },
     {
-      "publisher": "SuperDuperSoul",
-      "startTime": "28:50",
-      "trackName": "Feel Alright",
       "artistName": "Tony S",
       "coverArtDate": "2023-07-15T19:06:10.088Z",
       "coverArtLarge": "https://i.discogs.com/vkpzgRrSSLaO415DWxDsLmjlkL_EDjwnd-IRQgQyNE0/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYy/NjQtMTQxNjUyOTIx/Mi0yNjM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/uvnMqsRG0cfsNhBLDC8UCFj0lcy7qj3auwUgQGNP9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjYy/NjQtMTQxNjUyOTIx/Mi0yNjM1LmpwZWc.jpeg",
+      "publisher": "SuperDuperSoul",
+      "remixArtistName": "Ross Couch Remix",
       "sectionNumber": 6,
-      "remixArtistName": "Ross Couch Remix"
+      "startTime": "28:50",
+      "trackName": "Feel Alright"
     },
     {
-      "publisher": "Closer To Truth",
-      "startTime": "33:28",
-      "trackName": "All Day",
       "artistName": "Jus Tadi",
       "coverArtDate": "2023-07-15T19:06:11.496Z",
       "coverArtLarge": "https://i.discogs.com/Q1bggtRCZAycLj2bXukck69ol_utCDrkwaJVEGcWTsc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/MDY3LTE1MjA5Mzgx/OTctNjA3OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/OJJ7lHEpRkLhfYlr60jOyarpIO-Ej6ipcErnKXVu0Co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAz/MDY3LTE1MjA5Mzgx/OTctNjA3OS5qcGVn.jpeg",
+      "publisher": "Closer To Truth",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 7,
-      "remixArtistName": "Original Mix"
+      "startTime": "33:28",
+      "trackName": "All Day"
     },
     {
-      "publisher": "Oh! Records Stockholm",
-      "startTime": "39:33",
-      "trackName": "Pink Rupture",
       "artistName": "Kornum & Karma",
       "coverArtDate": "2023-07-15T19:06:13.355Z",
       "coverArtLarge": "https://i.discogs.com/zMJp0RjUhXy46QVKLmHz5U8qNvxuPG_U6Zjxxh8wCkc/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM4/MDAwLTE1NjAwODU4/MjItMjE0OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/w6a5PIdmWksQabyoxSmqlPU61aWaDDJKJc75Mr8Zcfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM4/MDAwLTE1NjAwODU4/MjItMjE0OC5qcGVn.jpeg",
+      "publisher": "Oh! Records Stockholm",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 8,
-      "remixArtistName": "Original Mix"
+      "startTime": "39:33",
+      "trackName": "Pink Rupture"
     },
     {
-      "publisher": "Heist Recordings",
-      "startTime": "44:27",
-      "trackName": "Just Not Norma",
       "artistName": "Detroit Swindle feat. Mark De Clive-Lowe",
       "coverArtDate": "2023-07-15T19:06:14.759Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Heist Recordings",
+      "remixArtistName": "",
       "sectionNumber": 9,
-      "remixArtistName": ""
+      "startTime": "44:27",
+      "trackName": "Just Not Norma"
     },
     {
-      "publisher": "La Vie D'Artiste Music",
-      "startTime": "49:57",
-      "trackName": "We Used To Say",
       "artistName": "Sebb Junior",
       "coverArtDate": "2023-07-15T19:06:16.166Z",
       "coverArtLarge": "https://i.discogs.com/MdrszIoD_9neEsQ_0JglyL1kLkzNA2rpdw1ibQoCiOE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg1/MDQzLTE1MjA3NzM2/NTctNzg1NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/E5Ocy5-hmpi7fMppcDKQotU9ThYzCvkIOfM5RNnYv9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg1/MDQzLTE1MjA3NzM2/NTctNzg1NC5qcGVn.jpeg",
+      "publisher": "La Vie D'Artiste Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 10,
-      "remixArtistName": "Original Mix"
+      "startTime": "49:57",
+      "trackName": "We Used To Say"
     },
     {
-      "publisher": "Gents & Dandy's",
-      "startTime": "55:14",
-      "trackName": "Swingin' Times",
       "artistName": "Khillaudio",
       "coverArtDate": "2023-07-15T19:06:17.593Z",
       "coverArtLarge": "https://i.discogs.com/NFswWQ7jHv24LyFB6w2uuMGk3meheGnXLR2FsuyGlCk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYy/NjkzLTE2MzY4ODk2/MjgtNzc5Ny5wbmc.jpeg",
       "coverArtSmall": "https://i.discogs.com/M1CXAjS91MUc5kUeBSJHvWddFwTNVRKnfTWOQL-Jcs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYy/NjkzLTE2MzY4ODk2/MjgtNzc5Ny5wbmc.jpeg",
+      "publisher": "Gents & Dandy's",
+      "remixArtistName": "Sebb Junior Remix",
       "sectionNumber": 11,
-      "remixArtistName": "Sebb Junior Remix"
+      "startTime": "55:14",
+      "trackName": "Swingin' Times"
     },
     {
-      "publisher": "i! Records",
-      "startTime": "1:00:12",
-      "trackName": "Dance Floor Jesus",
       "artistName": "Matt Mclarrie",
       "coverArtDate": "2023-07-15T19:06:18.961Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "i! Records",
+      "remixArtistName": "",
       "sectionNumber": 12,
-      "remixArtistName": ""
+      "startTime": "1:00:12",
+      "trackName": "Dance Floor Jesus"
     },
     {
-      "publisher": "Nite Grooves",
-      "startTime": "1:05:46",
-      "trackName": "Piano Pop",
       "artistName": "James Benedict",
       "coverArtDate": "2023-07-15T19:06:21.223Z",
       "coverArtLarge": "https://i.discogs.com/U6v6DUY6g8TKlFTfx6jvL87_INZtBVpt4YIfgh4dlLw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/ODA1LTE1MTY0NjA4/MTgtNDQxOS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/7T63f0zUKNX4z3L96quesuo0m9YPBVGieY-p_jFU_2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ0/ODA1LTE1MTY0NjA4/MTgtNDQxOS5qcGVn.jpeg",
+      "publisher": "Nite Grooves",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 13,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:05:46",
+      "trackName": "Piano Pop"
     },
     {
-      "publisher": "Good For You Records",
-      "startTime": "1:10:45",
-      "trackName": "Big Boy Pants",
       "artistName": "Opolopo",
       "coverArtDate": "2023-07-15T19:06:23.007Z",
       "coverArtLarge": "https://i.discogs.com/x2RodQ-cdSSFNs-JtNMEtfj8aqJLB6wACZXC8UilT2c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/NDY0LTE1MjA4NTY4/MzAtNDgxMS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/xCFw0VO01tcRiREEyX3B0rciHf9_b5n3_858fvH9HRE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/NDY0LTE1MjA4NTY4/MzAtNDgxMS5qcGVn.jpeg",
+      "publisher": "Good For You Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 14,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:10:45",
+      "trackName": "Big Boy Pants"
     },
     {
-      "publisher": "WotNot Music",
-      "startTime": "1:14:27",
-      "trackName": "What Would You Know",
       "artistName": "Charo",
       "coverArtDate": "2023-07-15T19:06:24.379Z",
       "coverArtLarge": "https://i.discogs.com/huEIhBfN0TthWku8Hq86ZnvykREjPaqIpy6GyzuA8m8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE3/NS0xMjk3MTUxNTI0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/bQoNVfaxoDyIQxM3LTpEiDchrp5R8fzRm38G1U6UnDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTE3/NS0xMjk3MTUxNTI0/LmpwZWc.jpeg",
+      "publisher": "WotNot Music",
+      "remixArtistName": "SMBD Dub",
       "sectionNumber": 15,
-      "remixArtistName": "SMBD Dub"
+      "startTime": "1:14:27",
+      "trackName": "What Would You Know"
     },
     {
-      "publisher": "Closer To Truth",
-      "startTime": "1:19:18",
-      "trackName": "By Your Side",
       "artistName": "Intr0beatz",
       "coverArtDate": "2023-07-15T19:06:25.838Z",
       "coverArtLarge": "https://i.discogs.com/bZe4gStR0ig7alF4awekcVr6uST_ZT-Tm9v7wCcQfJg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUx/OTMwLTE1MDM2Njg3/ODUtOTUzOS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/tSO-y72e_gat9xMKiSk3be_HvquQfZjJz03sMBFYHFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzUx/OTMwLTE1MDM2Njg3/ODUtOTUzOS5qcGVn.jpeg",
+      "publisher": "Closer To Truth",
+      "remixArtistName": "",
       "sectionNumber": 16,
-      "remixArtistName": ""
+      "startTime": "1:19:18",
+      "trackName": "By Your Side"
     },
     {
-      "publisher": "Be Adult Music",
-      "startTime": "1:23:38",
-      "trackName": "My Feelings",
       "artistName": "Eartone feat. Eider",
       "coverArtDate": "2023-07-15T19:06:27.233Z",
       "coverArtLarge": "https://i.discogs.com/-fzc4e3jGl90WV_AqGC7ARhYyq4StKa-L3398FVT3PU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcy/NjU1LTE1NzUyMjQy/NzItNDY5MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/eyIMPa9HkEzQPfJoAASUmGX7OByinbpkGsno46C8lZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDcy/NjU1LTE1NzUyMjQy/NzItNDY5MS5qcGVn.jpeg",
+      "publisher": "Be Adult Music",
+      "remixArtistName": "Scott Diaz Grand Plans Dub",
       "sectionNumber": 17,
-      "remixArtistName": "Scott Diaz Grand Plans Dub"
+      "startTime": "1:23:38",
+      "trackName": "My Feelings"
     },
     {
-      "publisher": "Homage",
-      "startTime": "1:28:55",
-      "trackName": "See You When I Git My Heart Broken",
       "artistName": "Chevals",
       "coverArtDate": "2023-07-15T19:06:28.649Z",
       "coverArtLarge": "https://i.discogs.com/yU6hIKcypL9mxh7a82zqY7ACP3GQ6ERK0vYip2jMSHo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM3/NjE2LTE1MTE1MzMw/NjItNTIyMy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Id5nsLkf8Lq8u6zmU6oOcqUjWPhv1sFRZvODIsnWM5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM3/NjE2LTE1MTE1MzMw/NjItNTIyMy5qcGVn.jpeg",
+      "publisher": "Homage",
+      "remixArtistName": "",
       "sectionNumber": 18,
-      "remixArtistName": ""
+      "startTime": "1:28:55",
+      "trackName": "See You When I Git My Heart Broken"
     },
     {
-      "publisher": "Pogo House Records",
-      "startTime": "1:35:03",
-      "trackName": "Knees On Zols",
       "artistName": "Joe Olindo",
       "coverArtDate": "2023-07-15T19:06:30.067Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Pogo House Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 19,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:35:03",
+      "trackName": "Knees On Zols"
     },
     {
-      "publisher": "Salted Music",
-      "startTime": "1:40:43",
-      "trackName": "Rusty",
       "artistName": "Raw Underground feat. Sebb Junior",
       "coverArtDate": "2023-07-15T19:06:31.456Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Salted Music",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 20,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:40:43",
+      "trackName": "Rusty"
     },
     {
-      "publisher": "Nu Faze Records",
-      "startTime": "1:46:02",
-      "trackName": "Ask Me To Come On",
       "artistName": "DJ Romain",
       "coverArtDate": "2023-07-15T19:06:32.936Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Nu Faze Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 21,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:46:02",
+      "trackName": "Ask Me To Come On"
     },
     {
-      "publisher": "Firehouse",
-      "startTime": "1:50:44",
-      "trackName": "Togetherness",
       "artistName": "Jozef K & Winter Son",
       "coverArtDate": "2023-07-15T19:06:34.383Z",
       "coverArtLarge": "https://i.discogs.com/jS2trDokulSq6Dm3neXflfR3F7vy4R-IIW9aNXzz3ys/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkw/ODcyLTE1MTM1MzM0/NDgtMzA1Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/GlTutJwjHExQ6B5H60YMnS6h_AH_AEKfSYt908r-qdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjkw/ODcyLTE1MTM1MzM0/NDgtMzA1Ny5qcGVn.jpeg",
+      "publisher": "Firehouse",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 22,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:50:44",
+      "trackName": "Togetherness"
     },
     {
-      "publisher": "Sampling As An Art Records",
-      "startTime": "1:56:02",
-      "trackName": "OrangePeelSkin",
       "artistName": "Turbojazz",
       "coverArtDate": "2023-07-15T19:06:36.169Z",
       "coverArtLarge": "https://i.discogs.com/dWnvFDr597ch90a5TZCgMJ7UcsEjwggCHEYMih3Q4uo/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MjcxLTE1MjQwODY3/OTYtODI3MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/6kdpXCQqgRGXS2Rx8ZlbOyFi6s5jnReKhNx3W71deXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzEx/MjcxLTE1MjQwODY3/OTYtODI3MC5qcGVn.jpeg",
+      "publisher": "Sampling As An Art Records",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 23,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:56:02",
+      "trackName": "OrangePeelSkin"
     }
   ]
 }

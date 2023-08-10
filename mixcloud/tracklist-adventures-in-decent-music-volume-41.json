@@ -2,279 +2,279 @@
   "mixcloudKey": "adventures-in-decent-music-volume-41",
   "tracks": [
     {
-      "publisher": "CDr",
-      "startTime": "00:00",
-      "trackName": "Love Stoned",
       "artistName": "Casual Connection",
       "coverArtDate": "2023-07-15T18:42:19.846Z",
       "coverArtLarge": "https://i.discogs.com/zDEE6BPCeXRtLCxB-eB9fJD6z91aWfQk3juO1SENhPA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDc0/MTAtMTQ0Nzk1MDM0/My0yMzk3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/T1JTS0bvhz4S8eFVfBeXyCpjHJNhYJ9XZHKtBJ04CGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDc0/MTAtMTQ0Nzk1MDM0/My0yMzk3LmpwZWc.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "Casual Connection Disco Rework",
       "sectionNumber": 1,
-      "remixArtistName": "Casual Connection Disco Rework"
+      "startTime": "00:00",
+      "trackName": "Love Stoned"
     },
     {
-      "publisher": "CDr",
-      "startTime": "04:51",
-      "trackName": "Lover's Holiday",
       "artistName": "Change",
       "coverArtDate": "2023-07-15T18:42:21.326Z",
       "coverArtLarge": "https://i.discogs.com/9X8v0UfZc5zBgYoW0gCrnnVvCOCXfGJL0BQaPwXlK24/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzAw/My0xMzE3MDQ3MTI4/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/I-UtWC4Eojhh4noHkLRi3lhIgZBPAz4VoIsiJU-q4SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MzAw/My0xMzE3MDQ3MTI4/LmpwZWc.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "LNTG Mix",
       "sectionNumber": 2,
-      "remixArtistName": "LNTG Mix"
+      "startTime": "04:51",
+      "trackName": "Lover's Holiday"
     },
     {
-      "publisher": "Disco Deviance",
-      "startTime": "09:49",
-      "trackName": "Fat Camp Edit",
       "artistName": "Le Pamplemousse - You Can Get Off On The Music",
       "coverArtDate": "2023-07-15T18:42:22.764Z",
       "coverArtLarge": "https://i.discogs.com/FJuUTVfIU43ra7fOYnfRjFmChy7fhqP_GUiNRLr-Pik/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTUz/NzEtMTI3OTIyODU3/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/8yIntKiUFrT_tW16U99yGFw9lnucdm-1hALahAWg2OQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTUz/NzEtMTI3OTIyODU3/OC5qcGVn.jpeg",
+      "publisher": "Disco Deviance",
+      "remixArtistName": "",
       "sectionNumber": 3,
-      "remixArtistName": ""
+      "startTime": "09:49",
+      "trackName": "Fat Camp Edit"
     },
     {
-      "publisher": "Editor's Kutz",
-      "startTime": "15:00",
-      "trackName": "Say U Love Me",
       "artistName": "Late Nite Tuff Guy",
       "coverArtDate": "2023-07-15T18:42:24.483Z",
       "coverArtLarge": "https://i.discogs.com/sD7cubjH5prALqjtfJxZAUk0_2wESeI-woLqmo9xK-s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA3/NTAtMTM4MjYyNzU1/OC0yOTk4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/0q25KN43YWeJu31qk29_VAZ2-320noYhvTXe8dYvqKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA3/NTAtMTM4MjYyNzU1/OC0yOTk4LmpwZWc.jpeg",
+      "publisher": "Editor's Kutz",
+      "remixArtistName": "LNTG Rework",
       "sectionNumber": 4,
-      "remixArtistName": "LNTG Rework"
+      "startTime": "15:00",
+      "trackName": "Say U Love Me"
     },
     {
-      "publisher": "Imagenes",
-      "startTime": "20:59",
-      "trackName": "Groove On",
       "artistName": "Juan Laya & Jorge Montiel feat. Chennez McKenzie",
       "coverArtDate": "2023-07-15T18:42:26.110Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Imagenes",
+      "remixArtistName": "Extended Raw Disco Version",
       "sectionNumber": 5,
-      "remixArtistName": "Extended Raw Disco Version"
+      "startTime": "20:59",
+      "trackName": "Groove On"
     },
     {
-      "publisher": "Forum 5",
-      "startTime": "25:41",
-      "trackName": "Tokyo Getaway",
       "artistName": "Polygon Palace",
       "coverArtDate": "2023-07-15T18:42:27.498Z",
       "coverArtLarge": "https://i.discogs.com/4odPq8HELefmDk0Xjj1CHuYfKwZjvH3eEePspXoJvEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NTItMTI4MTk0ODc0/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/WsxsaDpXc2zPDDpxc7dZNtHE0VlOVU0QbzKQe_pWI1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDEw/NTItMTI4MTk0ODc0/Mi5qcGVn.jpeg",
+      "publisher": "Forum 5",
+      "remixArtistName": "Tornado Wallace Remix",
       "sectionNumber": 6,
-      "remixArtistName": "Tornado Wallace Remix"
+      "startTime": "25:41",
+      "trackName": "Tokyo Getaway"
     },
     {
-      "publisher": "Royal Oak",
-      "startTime": "30:40",
-      "trackName": "Houston We Have A Problem",
       "artistName": "Genius Of Time",
       "coverArtDate": "2023-07-15T18:42:28.915Z",
       "coverArtLarge": "https://i.discogs.com/H88WegLUEkk1uLwRnVEcp0OxAXIUvs0gzieTmVJ6AHg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjY4/NjItMTQxMjI0NDgx/MS03NjM2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/D3jjdFacXlz8Xltz_qH2aeDwywh9nm6E_6WpQT9mRII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjY4/NjItMTQxMjI0NDgx/MS03NjM2LmpwZWc.jpeg",
+      "publisher": "Royal Oak",
+      "remixArtistName": "",
       "sectionNumber": 7,
-      "remixArtistName": ""
+      "startTime": "30:40",
+      "trackName": "Houston We Have A Problem"
     },
     {
-      "publisher": "elusions Of Grandeur",
-      "startTime": "35:52",
-      "trackName": "Make It Now",
       "artistName": "Thatmanmonkz",
       "coverArtDate": "2023-07-15T18:42:30.267Z",
       "coverArtLarge": "https://i.discogs.com/MQOKrTgoTZ2VumXpt-TRJH7x8EPkG-pplzomdHUwoAE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA2/MjMtMTQyNDc3MjU5/My0yMzM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/TDTPI6fQbHSPS-4IZLPUfdtY4mUqD-5ARTxtvHgAPEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODA2/MjMtMTQyNDc3MjU5/My0yMzM1LmpwZWc.jpeg",
+      "publisher": "elusions Of Grandeur",
+      "remixArtistName": "",
       "sectionNumber": 8,
-      "remixArtistName": ""
+      "startTime": "35:52",
+      "trackName": "Make It Now"
     },
     {
-      "publisher": "Verktyg",
-      "startTime": "43:08",
-      "trackName": "Love Thang",
       "artistName": "First Choice",
       "coverArtDate": "2023-07-15T18:42:31.859Z",
       "coverArtLarge": "https://i.discogs.com/dtNXvgBkPzjDBEbLr9Xt_QJqsRr2OHGysUDtjddSkUs/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg2MDAt/MTQ5NzExMTQzNy00/ODE4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/6FMd5wXKCFzdLBXWilZv-1U63N247t9Cq_xRnfjGmnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg2MDAt/MTQ5NzExMTQzNy00/ODE4LmpwZWc.jpeg",
+      "publisher": "Verktyg",
+      "remixArtistName": "Genius Of Time Rework",
       "sectionNumber": 9,
-      "remixArtistName": "Genius Of Time Rework"
+      "startTime": "43:08",
+      "trackName": "Love Thang"
     },
     {
-      "publisher": "Ultra",
-      "startTime": "46:36",
-      "trackName": "Are You Free Tonight",
       "artistName": "September",
       "coverArtDate": "2023-07-15T18:42:33.334Z",
       "coverArtLarge": "https://i.discogs.com/yIUGJjYPHOx8Ytnz-MUHIar_fA0l-V-UwiCcIPzvt_E/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODI0/NTYtMTY2OTIzNTQ1/OS02MDc0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/wvMwVkgg__qJ5gVj-A_VGLIPiFlhuLsscxPvN28AB1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODI0/NTYtMTY2OTIzNTQ1/OS02MDc0LmpwZWc.jpeg",
+      "publisher": "Ultra",
+      "remixArtistName": "Ghosts Of Venice Remix",
       "sectionNumber": 10,
-      "remixArtistName": "Ghosts Of Venice Remix"
+      "startTime": "46:36",
+      "trackName": "Are You Free Tonight"
     },
     {
-      "publisher": "So Sound Recordings",
-      "startTime": "52:08",
-      "trackName": "Disceaux",
       "artistName": "Les Loups",
       "coverArtDate": "2023-07-15T18:42:34.683Z",
       "coverArtLarge": "https://i.discogs.com/jIVd9lBKR9TlFlr0rIKmDIaD-3AEN-Pr3EpE_M9NCHM/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDQw/MzUtMTQzMzgxMTk4/Mi00NDM0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Hp9C0DCgaCQodrhwXC2kNRUmcCbMDemmhBc53HTkdAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDQw/MzUtMTQzMzgxMTk4/Mi00NDM0LmpwZWc.jpeg",
+      "publisher": "So Sound Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 11,
-      "remixArtistName": "Original Mix"
+      "startTime": "52:08",
+      "trackName": "Disceaux"
     },
     {
-      "publisher": "Tasty Recordings Digital",
-      "startTime": "55:09",
-      "trackName": "Disco Ballin",
       "artistName": "Discotron",
       "coverArtDate": "2023-07-15T18:42:38.063Z",
       "coverArtLarge": "https://i.discogs.com/PDF5ZLW1U_Zw8ogSsr8zB2z3FH7jj3glTTLbtV67DXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjQ4/MzgtMTQ4NjkxMjM0/OS05Mjc2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/ASD6DgA2MzyU1lTVBOJ9nXQHQKc3FiXwAmL0aOLBB2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjQ4/MzgtMTQ4NjkxMjM0/OS05Mjc2LmpwZWc.jpeg",
+      "publisher": "Tasty Recordings Digital",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 12,
-      "remixArtistName": "Original Mix"
+      "startTime": "55:09",
+      "trackName": "Disco Ballin"
     },
     {
-      "publisher": "House of Disco Records",
-      "startTime": "1:01:24",
-      "trackName": "Steppin In And Out",
       "artistName": "Art Of Tones vs Vernon",
       "coverArtDate": "2023-07-15T18:42:40.339Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "House of Disco Records",
+      "remixArtistName": "",
       "sectionNumber": 13,
-      "remixArtistName": ""
+      "startTime": "1:01:24",
+      "trackName": "Steppin In And Out"
     },
     {
-      "publisher": "Salted Music",
-      "startTime": "1:04:11",
-      "trackName": "Honey",
       "artistName": "Lisa Shaw",
       "coverArtDate": "2023-07-15T18:42:42.318Z",
       "coverArtLarge": "https://i.discogs.com/QBX1ymxTK8Df36NZdQbjLfMl8qYBITi-aDkWXU1L0Yw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTEw/MDItMTMzMjQ5MTg3/Ny5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Fzcdo_1coRgmJSCox1NCXr0OJmO5TC6bc90d7Dj-d3k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTEw/MDItMTMzMjQ5MTg3/Ny5qcGVn.jpeg",
+      "publisher": "Salted Music",
+      "remixArtistName": "Mr. Moon 80s Vocal Remix",
       "sectionNumber": 14,
-      "remixArtistName": "Mr. Moon 80s Vocal Remix"
+      "startTime": "1:04:11",
+      "trackName": "Honey"
     },
     {
-      "publisher": "CDr",
-      "startTime": "1:09:19",
-      "trackName": "I Need It",
       "artistName": "Al Hudson & One Way",
       "coverArtDate": "2023-07-15T18:42:45.580Z",
       "coverArtLarge": "https://i.discogs.com/70Ssr-9n1h2uO2QoJpODesHcNGHJS6mLZpTLIHbILfg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODIz/OS0xNTU0MDcxMDA5/LTkxMDEuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/ErnprXu4AYUnMKD9DA3p5MMlIann4ZloCCNf8keymAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODIz/OS0xNTU0MDcxMDA5/LTkxMDEuanBlZw.jpeg",
+      "publisher": "CDr",
+      "remixArtistName": "Gazeebo Edit",
       "sectionNumber": 15,
-      "remixArtistName": "Gazeebo Edit"
+      "startTime": "1:09:19",
+      "trackName": "I Need It"
     },
     {
-      "publisher": "Razor N Tape",
-      "startTime": "1:14:31",
-      "trackName": "Do I Believe In God (Controversy)",
       "artistName": "Late Night Tuff Guy",
       "coverArtDate": "2023-07-15T18:42:47.049Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "Razor N Tape",
+      "remixArtistName": "LNTG Muscle Mix",
       "sectionNumber": 16,
-      "remixArtistName": "LNTG Muscle Mix"
+      "startTime": "1:14:31",
+      "trackName": "Do I Believe In God (Controversy)"
     },
     {
-      "publisher": "Kolour Recordings",
-      "startTime": "1:21:55",
-      "trackName": "The Hit",
       "artistName": "Crazy P & The Syndromes",
       "coverArtDate": "2023-07-15T18:42:48.527Z",
       "coverArtLarge": "https://i.discogs.com/dR2CIwOHmHc6Kd60Ti_-NdiZ5KkbpFLkf-Q7iwPon7A/rs:fit/g:sm/q:90/h:611/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgz/MzgtMTY4NzI2Njg3/NS01MTI3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/lTFg_7MrDEjRdhNvDsnHt7HCz7N9H-y5OugDqJVtCmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgz/MzgtMTY4NzI2Njg3/NS01MTI3LmpwZWc.jpeg",
+      "publisher": "Kolour Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 17,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:21:55",
+      "trackName": "The Hit"
     },
     {
-      "publisher": "Tasty Recordings",
-      "startTime": "1:27:29",
-      "trackName": "It's Comin'",
       "artistName": "Jack Le Funk",
       "coverArtDate": "2023-07-15T18:42:50.026Z",
       "coverArtLarge": "https://i.discogs.com/gVXb2hJECWu3VOy8pcO_hAb9hD48cLBGxi3XCEr5b54/rs:fit/g:sm/q:90/h:457/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/MjktMTQxMDk1NDc0/Ny03Mjg4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/MoTXgdkcaQKgdogb5tZ6pa6ysWjiSIW9LbmmXmuxnu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/MjktMTQxMDk1NDc0/Ny03Mjg4LmpwZWc.jpeg",
+      "publisher": "Tasty Recordings",
+      "remixArtistName": "Original Mix",
       "sectionNumber": 18,
-      "remixArtistName": "Original Mix"
+      "startTime": "1:27:29",
+      "trackName": "It's Comin'"
     },
     {
-      "publisher": "SpaceWalker",
-      "startTime": "1:31:43",
-      "trackName": "Impossible Love",
       "artistName": "Phonetica vs. Soulemotion",
       "coverArtDate": "2023-07-15T18:42:51.328Z",
       "coverArtLarge": "https://i.discogs.com/a9huN-CCOHiMB6mNvSJMMsZ5EEC9ErpO8IbC6QQAlnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA1/MjA3LTE1NTU0NTI0/NzctNzQ1Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/mXCu2xF1DN7nbuDj2HimY8FAvl9SUJ_Im3AleywDNIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA1/MjA3LTE1NTU0NTI0/NzctNzQ1Mi5qcGVn.jpeg",
+      "publisher": "SpaceWalker",
+      "remixArtistName": "Casio Social Club Acid Sunrise Remix",
       "sectionNumber": 19,
-      "remixArtistName": "Casio Social Club Acid Sunrise Remix"
+      "startTime": "1:31:43",
+      "trackName": "Impossible Love"
     },
     {
-      "publisher": "Boogie Cafe",
-      "startTime": "1:37:32",
-      "trackName": "Midnight Shuffle",
       "artistName": "Jimmy The Twin",
       "coverArtDate": "2023-07-15T18:42:52.794Z",
       "coverArtLarge": "https://i.discogs.com/cN3xqzqAKSkCVMTTEVnHOAQqBl4CFJdzQmFqy5cJn9Q/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzM1/ODAtMTQyNTk0NjQ3/OS05MjE3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/XO4Vxi3so9CtjwT_wrOKwMoDAziLDRy47xOALDD3-JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzM1/ODAtMTQyNTk0NjQ3/OS05MjE3LmpwZWc.jpeg",
+      "publisher": "Boogie Cafe",
+      "remixArtistName": "Yam Who Rework",
       "sectionNumber": 20,
-      "remixArtistName": "Yam Who Rework"
+      "startTime": "1:37:32",
+      "trackName": "Midnight Shuffle"
     },
     {
-      "publisher": "CBS",
-      "startTime": "1:43:30",
-      "trackName": "A Time Like This",
       "artistName": "Haywoode",
       "coverArtDate": "2023-07-15T18:42:54.111Z",
       "coverArtLarge": "https://i.discogs.com/gUlMHMzYPt0J2UaPI4xqq3FCjHvmfgkEK0wIO4jHwWk/rs:fit/g:sm/q:90/h:593/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDI4/MTMtMTMwOTUzNzEw/NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/TTpNvsQpxauGIgbb4XGWczAQ6N-hnIisSLOA6HaBDUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDI4/MTMtMTMwOTUzNzEw/NS5qcGVn.jpeg",
+      "publisher": "CBS",
+      "remixArtistName": "Extended Version",
       "sectionNumber": 21,
-      "remixArtistName": "Extended Version"
+      "startTime": "1:43:30",
+      "trackName": "A Time Like This"
     },
     {
-      "publisher": "Prelude Records",
-      "startTime": "1:47:10",
-      "trackName": "We Fell In Love While Dancing",
       "artistName": "Bill Brandon",
       "coverArtDate": "2023-07-15T18:42:55.642Z",
       "coverArtLarge": "https://i.discogs.com/fFCN1PNe098rXzDERSA9VtnvMNTmoDGgdglMMVcyvfg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDAx/MjctMTMzNDA4NTU3/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/3BgCeBQfK0FHAaEr5GA921Y6zvjNHb8ji-nNnOBE-Qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDAx/MjctMTMzNDA4NTU3/OC5qcGVn.jpeg",
+      "publisher": "Prelude Records",
+      "remixArtistName": "12' Version",
       "sectionNumber": 22,
-      "remixArtistName": "12' Version"
+      "startTime": "1:47:10",
+      "trackName": "We Fell In Love While Dancing"
     },
     {
-      "publisher": "Basic Fingers",
-      "startTime": "1:51:59",
-      "trackName": "Get It Together",
       "artistName": "Kon & The Gang",
       "coverArtDate": "2023-07-15T18:42:56.951Z",
       "coverArtLarge": "https://i.discogs.com/m9AorpZCydKSwjoKijtscD3NAg6Cr6zGGkOv-l6n_YM/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIz/MzUtMTM0MjU0MTU1/Mi04NDgzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/l-hXFgkurPgWdUTVhEQ7qX2ibtntZ3B-WYW82HjB0Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIz/MzUtMTM0MjU0MTU1/Mi04NDgzLmpwZWc.jpeg",
+      "publisher": "Basic Fingers",
+      "remixArtistName": "",
       "sectionNumber": 23,
-      "remixArtistName": ""
+      "startTime": "1:51:59",
+      "trackName": "Get It Together"
     },
     {
-      "publisher": "Honeycomb Music",
-      "startTime": "1:57:12",
-      "trackName": "Your Love",
       "artistName": "Sheree Hicks",
       "coverArtDate": "2023-07-15T18:42:58.306Z",
       "coverArtLarge": "https://i.discogs.com/7ASUMF4fG93-py5Vq8MmUb2tsb7lnXtYn_dmdYyLykA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcz/Mjg5LTE1ODc2NTAw/MjItNzcxNi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/C4jo2TS_oO1-D5pOriAccn3_ih5wUEPJUJVAwv7wlRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTcz/Mjg5LTE1ODc2NTAw/MjItNzcxNi5qcGVn.jpeg",
+      "publisher": "Honeycomb Music",
+      "remixArtistName": "Honeycomb Vocal Mix",
       "sectionNumber": 24,
-      "remixArtistName": "Honeycomb Vocal Mix"
+      "startTime": "1:57:12",
+      "trackName": "Your Love"
     },
     {
-      "publisher": "21 April 2016",
-      "startTime": "2:01:14",
-      "trackName": "1999 CNN Interview - RIP Prince Rogers Nelson",
       "artistName": "Outro: How Prince Describes His Music",
       "coverArtDate": "2023-07-15T18:42:59.739Z",
       "coverArtLarge": "images/tracklist-placeholder.png",
       "coverArtSmall": "images/tracklist-placeholder.png",
+      "publisher": "21 April 2016",
+      "remixArtistName": "",
       "sectionNumber": 25,
-      "remixArtistName": ""
+      "startTime": "2:01:14",
+      "trackName": "1999 CNN Interview - RIP Prince Rogers Nelson"
     }
   ]
 }
