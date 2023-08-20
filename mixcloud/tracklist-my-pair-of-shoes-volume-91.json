@@ -3,7 +3,7 @@
   "tracks": [
     {
       "artistName": "Sebb Junior",
-      "coverArtDate": "2023-07-15T19:17:36.980Z",
+      "coverArtDate": "2023-08-20T14:13:08.111Z",
       "coverArtLarge": "https://i.discogs.com/6Qr3fBfcAB-x73Tn7kkgHMVv0Udt3I4G9g_wvlPrsbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjUy/NDAtMTUwMTg4MjA3/My0xMTcxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/et51Genj90I6oJJagKRy7GrQZjtqMhGN_khnECDFBtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjUy/NDAtMTUwMTg4MjA3/My0xMTcxLmpwZWc.jpeg",
       "publisher": "Salted Music",
@@ -14,7 +14,7 @@
     },
     {
       "artistName": "IDQ",
-      "coverArtDate": "2023-07-15T19:17:38.445Z",
+      "coverArtDate": "2023-08-20T14:13:09.556Z",
       "coverArtLarge": "https://i.discogs.com/96Ur_K2UtKTqmKmQd0ZkcBVcO7DDUFisc3Pn23HoyDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjU2/NDUtMTQ0MzI5MzYy/Ni0xMjQyLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/_Lcoz5d3yvOjKEhpelfTmWE8ph6n7v2zH66K1wrUsdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjU2/NDUtMTQ0MzI5MzYy/Ni0xMjQyLmpwZWc.jpeg",
       "publisher": "Love Inc Music",
@@ -25,7 +25,7 @@
     },
     {
       "artistName": "Detroit Swindle",
-      "coverArtDate": "2023-07-15T19:17:39.825Z",
+      "coverArtDate": "2023-08-20T14:13:10.978Z",
       "coverArtLarge": "https://i.discogs.com/jhj-SpbbztMJY2yz-xU9___87mkJzPpSMc5QLFtuBU4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDgy/ODgtMTQ4NzMyNDM2/OS00ODY0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8OdH9lE7LlWCSqkqtU4P5b9bpJ5Rg1Hze2A_mYn-HU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDgy/ODgtMTQ4NzMyNDM2/OS00ODY0LmpwZWc.jpeg",
       "publisher": "Freerange Records",
@@ -36,7 +36,7 @@
     },
     {
       "artistName": "Doc Daneeka feat. Ratcatcher",
-      "coverArtDate": "2023-07-15T19:17:41.446Z",
+      "coverArtDate": "2023-08-20T14:13:12.432Z",
       "coverArtLarge": "https://i.discogs.com/uVfmc6WRWaEJAAsInNJHXjS1RUlX2NYPo1Aq0zX914g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjY1/OTYtMTM5NDE4NjUw/MC03OTcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/MtLZk_BIwPz5P3LPAE5r5VUmJ_TDq5bKXEC0g5L9kEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjY1/OTYtMTM5NDE4NjUw/MC03OTcwLmpwZWc.jpeg",
       "publisher": "Numbers",
@@ -47,9 +47,9 @@
     },
     {
       "artistName": "Hercules Poirot & Hate Affair",
-      "coverArtDate": "2023-07-15T19:17:42.852Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:13.848Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Errected",
       "remixArtistName": "Todd Derby Dub",
       "sectionNumber": 5,
@@ -58,9 +58,9 @@
     },
     {
       "artistName": "The Checkup",
-      "coverArtDate": "2023-07-15T19:17:44.235Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:15.280Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Large Music",
       "remixArtistName": "Original Mix",
       "sectionNumber": 6,
@@ -69,9 +69,9 @@
     },
     {
       "artistName": "Moreno (LDN)",
-      "coverArtDate": "2023-07-15T19:17:45.663Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:16.713Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Something Different Records",
       "remixArtistName": "A Lister Remix",
       "sectionNumber": 7,
@@ -80,7 +80,7 @@
     },
     {
       "artistName": "Mountal",
-      "coverArtDate": "2023-07-15T19:17:47.047Z",
+      "coverArtDate": "2023-08-20T14:13:18.549Z",
       "coverArtLarge": "https://i.discogs.com/Gtyr-oUBwoJgvZ41Z7Cv1u-SEyEFUf-IwOOkwFatOcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/OTAxLTE1OTY4Mjgw/NDQtMjEwOS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/gvI0_b4B_SB_dcAcF1ugNV9M19HeAKpNLQ8RuRrQiUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/OTAxLTE1OTY4Mjgw/NDQtMjEwOS5qcGVn.jpeg",
       "publisher": "Lost My Dog",
@@ -91,7 +91,7 @@
     },
     {
       "artistName": "Eric Ericksson",
-      "coverArtDate": "2023-07-15T19:17:48.477Z",
+      "coverArtDate": "2023-08-20T14:13:19.941Z",
       "coverArtLarge": "https://i.discogs.com/fq8hRx6SH21KS3Uc81sTgCsDsm-gRvKjfy0B4Lr4BiU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODYw/NDYtMTM5NzEzODQ3/OS03MjMwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/SKFV8KyDTG47gShntXpH63gygK2hR7CNR_f0wN2nE80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODYw/NDYtMTM5NzEzODQ3/OS03MjMwLmpwZWc.jpeg",
       "publisher": "Swedish Brandy Productions",
@@ -102,9 +102,9 @@
     },
     {
       "artistName": "Ghetto Chords",
-      "coverArtDate": "2023-07-15T19:17:49.894Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:21.298Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "High Strings",
       "remixArtistName": "Original Mix",
       "sectionNumber": 10,
@@ -113,7 +113,7 @@
     },
     {
       "artistName": "Detroit swindle",
-      "coverArtDate": "2023-07-15T19:17:51.353Z",
+      "coverArtDate": "2023-08-20T14:13:22.757Z",
       "coverArtLarge": "https://i.discogs.com/77WqZRD9x1Vql6TgDbF7gwqysPGUSBVicy4OWk6Z5_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk3/MzMtMTM5NjAwNjYz/Mi0yNDEwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/eKB5l9yq2PiGh53EqOX0Iz6YnY8rQ9umv4Fhk3fozEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk3/MzMtMTM5NjAwNjYz/Mi0yNDEwLmpwZWc.jpeg",
       "publisher": "Dirt Crew Recordings",
@@ -124,7 +124,7 @@
     },
     {
       "artistName": "Demarkus Lewis",
-      "coverArtDate": "2023-07-15T19:17:52.783Z",
+      "coverArtDate": "2023-08-20T14:13:24.105Z",
       "coverArtLarge": "https://i.discogs.com/eeqg2pfkffLyomXsziRvdQ8pTB0MYG23h145_ShAqeA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzc1/MzgtMTQzOTIyODE5/Mi03OTY5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/5sCix1Q0_lkKrjAADoeYEojUKDNeIkE4OI2V6GltSj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzc1/MzgtMTQzOTIyODE5/Mi03OTY5LmpwZWc.jpeg",
       "publisher": "Madhouse Records",
@@ -135,7 +135,7 @@
     },
     {
       "artistName": "Silt",
-      "coverArtDate": "2023-07-15T19:17:54.140Z",
+      "coverArtDate": "2023-08-20T14:13:25.439Z",
       "coverArtLarge": "https://i.discogs.com/16Sn4pSuABwsejNhHmnwxKnIytZ-YDEuhRESz7e_T7I/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI1/NDMzLTE2NTQwNDEz/NTYtNzMyNC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/IHGRWDxZ1Df1Sks0AyCoyyZurQYctRrZ5puPzohVPFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDI1/NDMzLTE2NTQwNDEz/NTYtNzMyNC5qcGVn.jpeg",
       "publisher": "Plastic City",
@@ -146,7 +146,7 @@
     },
     {
       "artistName": "Sean McCabe",
-      "coverArtDate": "2023-07-15T19:17:55.526Z",
+      "coverArtDate": "2023-08-20T14:13:26.954Z",
       "coverArtLarge": "https://i.discogs.com/INlhHejaXrgEbQPDl8jhINi0rUSNzlh9Mu_TCMibQe0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU5/ODEtMTQxNDE3NjQ3/OC05MjY4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/J3o-P2qGfFjFyBZNqAZz_7XoneX8HHuCuOehmfqButw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjU5/ODEtMTQxNDE3NjQ3/OC05MjY4LmpwZWc.jpeg",
       "publisher": "ZRecords",
@@ -157,7 +157,7 @@
     },
     {
       "artistName": "Claes Rosen",
-      "coverArtDate": "2023-07-15T19:17:56.980Z",
+      "coverArtDate": "2023-08-20T14:13:28.346Z",
       "coverArtLarge": "https://i.discogs.com/oM22VwTeYbcYknuDawb5RR5pbuUtnk7rvtP5XURQmYg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAz/MzQtMTM3NTI1NzA4/My01MjEzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/R1sqJj6R3Q8RWMAbR646Wb1weVSNcasho9ngnm5Wzg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTAz/MzQtMTM3NTI1NzA4/My01MjEzLmpwZWc.jpeg",
       "publisher": "Local Talk",
@@ -168,9 +168,9 @@
     },
     {
       "artistName": "Garcynoise feat. Bizzarre DJ",
-      "coverArtDate": "2023-07-15T19:17:58.406Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:29.832Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Piston Recordings",
       "remixArtistName": "Metropolis Experience Remix",
       "sectionNumber": 16,
@@ -179,7 +179,7 @@
     },
     {
       "artistName": "Hector Couto",
-      "coverArtDate": "2023-07-15T19:18:00.035Z",
+      "coverArtDate": "2023-08-20T14:13:31.205Z",
       "coverArtLarge": "https://i.discogs.com/v4FuNMEmanYTgeDs5PjEJUiOARiqkAAoFvbuVCzt8ok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzE4/NTMtMTM1OTIyMjk4/Mi04MTE5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DRqoJ4SLoAoUgHcmg_e6Ze0n5tnDIhDfKajeLmK7VZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzE4/NTMtMTM1OTIyMjk4/Mi04MTE5LmpwZWc.jpeg",
       "publisher": "Pura Music",
@@ -190,7 +190,7 @@
     },
     {
       "artistName": "Kevin Yost",
-      "coverArtDate": "2023-07-15T19:18:01.620Z",
+      "coverArtDate": "2023-08-20T14:13:32.623Z",
       "coverArtLarge": "https://i.discogs.com/n_hx4jl14LEd0lOV7ietswX74Zow9k84bmBr6utAxbI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODY3/NjEtMTQwODEzNDIz/OS0xNzkwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8zZ7-bOVVN_MUCbrB96FmUuDqxaH5EdhWF4435RU9tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODY3/NjEtMTQwODEzNDIz/OS0xNzkwLmpwZWc.jpeg",
       "publisher": "I Records",
@@ -201,9 +201,9 @@
     },
     {
       "artistName": "Debonair",
-      "coverArtDate": "2023-07-15T19:18:03.027Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:34.429Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "CDr",
       "remixArtistName": "MPOS Fights Over Egypt Edit",
       "sectionNumber": 19,
@@ -212,7 +212,7 @@
     },
     {
       "artistName": "Demarkus Lewis & J Paul Getto",
-      "coverArtDate": "2023-07-15T19:18:04.420Z",
+      "coverArtDate": "2023-08-20T14:13:35.793Z",
       "coverArtLarge": "https://i.discogs.com/whDmVG-987z55aCYfYufMVI5nZ6GKB6UvW6hfCXGYAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzEy/NDItMTQyNTQ5MDc2/OS01Mjc4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DEDXP0pXpNZe6fxs1yBHXLbV0I03jwEQZ4Lke_jwYsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzEy/NDItMTQyNTQ5MDc2/OS01Mjc4LmpwZWc.jpeg",
       "publisher": "Guesthouse Music",
@@ -223,7 +223,7 @@
     },
     {
       "artistName": "Detroit Swindle",
-      "coverArtDate": "2023-07-15T19:18:05.849Z",
+      "coverArtDate": "2023-08-20T14:13:37.194Z",
       "coverArtLarge": "https://i.discogs.com/I9tPsWtKw-IRZQ3IkqTLSh-NYL9VyQlA3_tU7k6wh2I/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQy/MzEtMTYzOTM4ODA0/OS0xMTA1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/UfFf3Tikv7Ia8Nsy3D5w-E-dOJMJ4KKm_9sxQ7mebzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQy/MzEtMTYzOTM4ODA0/OS0xMTA1LmpwZWc.jpeg",
       "publisher": "Freerange Records",
@@ -234,7 +234,7 @@
     },
     {
       "artistName": "James Johnston",
-      "coverArtDate": "2023-07-15T19:18:07.522Z",
+      "coverArtDate": "2023-08-20T14:13:38.867Z",
       "coverArtLarge": "https://i.discogs.com/-2DpCWICb2Sq3BQKN08fqZSatZdnSGMJ5ckTtwR_udk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/MTI4LTE1MDU1NzY2/MzgtODY1OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/dXu000dlHZrMnkjsgRh6LNa8M6LRD_NQxLq15_ufuP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/MTI4LTE1MDU1NzY2/MzgtODY1OS5qcGVn.jpeg",
       "publisher": "Snazzy Traxx",
@@ -245,7 +245,7 @@
     },
     {
       "artistName": "Lombard Street",
-      "coverArtDate": "2023-07-15T19:18:08.990Z",
+      "coverArtDate": "2023-08-20T14:13:40.267Z",
       "coverArtLarge": "https://i.discogs.com/VdA6shgKAUsfGpZ2flJ8gO1rpccEMXYfCP6SSSWt2IA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/z8PwES3t8Zw0WNhZ428dD0GEsdvsESelunHmHavB2p4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODY0/NDM0LTE1MDU1Nzk4/NTktMTk1MS5qcGVn.jpeg",
       "publisher": "Snazzy Traxx",
@@ -256,7 +256,7 @@
     },
     {
       "artistName": "Ross Couch",
-      "coverArtDate": "2023-07-15T19:18:10.368Z",
+      "coverArtDate": "2023-08-20T14:13:41.619Z",
       "coverArtLarge": "https://i.discogs.com/Yo0_rGjmYV77AQvRdPXW2cSjVJ5adfFD9P-XAvP92EI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/MzEtMTM4NTE4NDg1/OC00MTgwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/egVIej9MEts9Tsi6EQZieLBipfm4vcSO3R0i8KD7FAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/MzEtMTM4NTE4NDg1/OC00MTgwLmpwZWc.jpeg",
       "publisher": "Body Rhythm Records",
@@ -267,9 +267,9 @@
     },
     {
       "artistName": "The Sunchasers feat. Bryzey",
-      "coverArtDate": "2023-07-15T19:18:11.733Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T14:13:42.962Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "La Musique Fantastique",
       "remixArtistName": "Original Mix",
       "sectionNumber": 25,
@@ -278,7 +278,7 @@
     },
     {
       "artistName": "Deetron",
-      "coverArtDate": "2023-07-15T19:18:13.191Z",
+      "coverArtDate": "2023-08-20T14:13:44.464Z",
       "coverArtLarge": "https://i.discogs.com/xxGgOZwSeZjp_HAEQdAPPgXHp13DAzwmKJ9ETgoiuxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUx/NjM4LTE1NzM1NTg1/NzItNjczNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/sVpJLV8FW5s9YOsq2qllLYh495kE0O0WyuyZ3qc3hik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUx/NjM4LTE1NzM1NTg1/NzItNjczNy5qcGVn.jpeg",
       "publisher": "Bargrooves",

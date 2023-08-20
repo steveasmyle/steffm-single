@@ -3,7 +3,7 @@
   "tracks": [
     {
       "artistName": "Detroit Swindle",
-      "coverArtDate": "2023-07-15T18:33:35.206Z",
+      "coverArtDate": "2023-08-20T13:37:02.875Z",
       "coverArtLarge": "https://i.discogs.com/77WqZRD9x1Vql6TgDbF7gwqysPGUSBVicy4OWk6Z5_s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk3/MzMtMTM5NjAwNjYz/Mi0yNDEwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/eKB5l9yq2PiGh53EqOX0Iz6YnY8rQ9umv4Fhk3fozEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzk3/MzMtMTM5NjAwNjYz/Mi0yNDEwLmpwZWc.jpeg",
       "publisher": "Dirt Crew Recordings",
@@ -14,9 +14,9 @@
     },
     {
       "artistName": "Late Night Tuff Guy",
-      "coverArtDate": "2023-07-15T18:33:35.712Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T13:37:04.243Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "CDr",
       "remixArtistName": "LNTG Epic Journey",
       "sectionNumber": 2,
@@ -25,7 +25,7 @@
     },
     {
       "artistName": "Dr. Packer",
-      "coverArtDate": "2023-07-15T18:33:36.241Z",
+      "coverArtDate": "2023-08-20T13:37:05.601Z",
       "coverArtLarge": "https://i.discogs.com/hVw-e-UPsu1Af6jFE6uwIPLBxAC_OJ8pKa0RustCcus/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzU1/NjQtMTQwMjMyNjA4/Ny0zMTk2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/02yTu9f6617H4KJBdYs6cDujI8gpwOo1_irDPFHysHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzU1/NjQtMTQwMjMyNjA4/Ny0zMTk2LmpwZWc.jpeg",
       "publisher": "CDr",
@@ -36,7 +36,7 @@
     },
     {
       "artistName": "Wetty Bright",
-      "coverArtDate": "2023-07-15T18:42:09.053Z",
+      "coverArtDate": "2023-08-20T13:37:06.917Z",
       "coverArtLarge": "https://i.discogs.com/VJG5GcuSWFQj0Dl88ucD9fBII_r_8xJvO4g7PeBI1Rg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkw/Mjc1LTE0OTMxMjUx/NzgtNTUyNi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/9Gtbn-C2shg76ZuEH-HTZeehBKZbHg5muHVFRBYgqpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkw/Mjc1LTE0OTMxMjUx/NzgtNTUyNi5qcGVn.jpeg",
       "publisher": "Vehicle",
@@ -47,7 +47,7 @@
     },
     {
       "artistName": "Nicholas",
-      "coverArtDate": "2023-07-15T18:42:10.535Z",
+      "coverArtDate": "2023-08-20T13:37:08.484Z",
       "coverArtLarge": "https://i.discogs.com/JeEEUybE9lIK7qegpxzq1jGArLIgcQx704HTuKbwKS8/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUx/OTUtMTU3ODg3NDY2/NS0zMzEzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/WEU6dsAX7cMy5U1INuFHVsHRD3O5fYYvYIHSEz48YVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUx/OTUtMTU3ODg3NDY2/NS0zMzEzLmpwZWc.jpeg",
       "publisher": "Dikso Records",
@@ -58,9 +58,9 @@
     },
     {
       "artistName": "Yves Saint Laurant",
-      "coverArtDate": "2023-07-15T18:42:12.016Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T13:37:09.861Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Whiskey Disco",
       "remixArtistName": "",
       "sectionNumber": 6,
@@ -69,7 +69,7 @@
     },
     {
       "artistName": "Trickski",
-      "coverArtDate": "2023-07-15T18:42:13.654Z",
+      "coverArtDate": "2023-08-20T13:37:11.242Z",
       "coverArtLarge": "https://i.discogs.com/HOV4HPN3FJTts7L2YrwnMwELnbEOb20vYHYQ-BSdW60/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE3/MTktMTMyMzAyNDcw/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/CSZAgWuQ0y8IAZ8HIFIonf9TdkgLys5wouVvLIo3viA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTE3/MTktMTMyMzAyNDcw/OC5qcGVn.jpeg",
       "publisher": "Suol",
@@ -80,7 +80,7 @@
     },
     {
       "artistName": "Cherokee",
-      "coverArtDate": "2023-07-15T18:42:15.079Z",
+      "coverArtDate": "2023-08-20T13:37:12.910Z",
       "coverArtLarge": "https://i.discogs.com/Iu-x9UePS4Q45oX3WtEAleuNZPW0E1JueCddottwM5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/Nzg5LTE2MjEwOTIy/NjgtOTYyNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/gYAL9EFxDoeUT2MB73GtqMESigyZkMx5I6OPR_gOMx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzM5/Nzg5LTE2MjEwOTIy/NjgtOTYyNy5qcGVn.jpeg",
       "publisher": "Shiny Disco Club",
@@ -91,9 +91,9 @@
     },
     {
       "artistName": "Spirit Catcher ft. Mr Renard",
-      "coverArtDate": "2023-07-15T18:42:16.706Z",
-      "coverArtLarge": "images/tracklist-placeholder.png",
-      "coverArtSmall": "images/tracklist-placeholder.png",
+      "coverArtDate": "2023-08-20T13:37:14.340Z",
+      "coverArtLarge": "images/tracklist-placeholder-rick.gif",
+      "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Mullet Records",
       "remixArtistName": "",
       "sectionNumber": 9,
@@ -102,7 +102,7 @@
     },
     {
       "artistName": "Juan Laya & Jorge Montiel feat. Andre Espeut",
-      "coverArtDate": "2023-07-15T18:42:18.303Z",
+      "coverArtDate": "2023-08-20T13:37:15.777Z",
       "coverArtLarge": "https://i.discogs.com/Uflo9Is7rk5-nKNIhCBZUfdU7_MW272dhRzY1lpKJo8/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYx/MjE0LTE1MDE5MDQ2/MzktNTI5MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/ILg17Tr1HCZRrwZeahoisGRUJyxxJQs7Xrncm4ONbOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYx/MjE0LTE1MDE5MDQ2/MzktNTI5MC5qcGVn.jpeg",
       "publisher": "Imagenes Recondings​",

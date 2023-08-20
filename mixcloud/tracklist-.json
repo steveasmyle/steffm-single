@@ -1,0 +1,126 @@
+{
+  "mixcloudKey": "",
+  "tracks": [
+    {
+      "publisher": "RCA",
+      "startTime": "00:00",
+      "trackName": "Native New Yorker",
+      "artistName": "Odyssey",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 1,
+      "remixArtistName": "Extended Edition"
+    },
+    {
+      "publisher": "Herb Alpert Presents",
+      "startTime": "04:04",
+      "trackName": "Manhattan Melody",
+      "artistName": "Herb Alpert",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 2,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "BlueNote Records",
+      "startTime": "09:36",
+      "trackName": "New York Times",
+      "artistName": "Bobbi Humphrey",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 3,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "The Orchard Music",
+      "startTime": "16:28",
+      "trackName": "New York City",
+      "artistName": "Gil Scott-Heron & Brian Jackson",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 4,
+      "remixArtistName": "DJ Stretch Armstrong"
+    },
+    {
+      "publisher": "Concord Jazz",
+      "startTime": "22:08",
+      "trackName": "...It's A New York Thing",
+      "artistName": "Ray Vega",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 5,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Warner Records",
+      "startTime": "27:52",
+      "trackName": "New York Samba",
+      "artistName": "Bob James & Earl Klugh",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 6,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Legacy Recordings",
+      "startTime": "33:30",
+      "trackName": "Manhattan Skyline",
+      "artistName": "MFSB",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 7,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Mercury",
+      "startTime": "38:15",
+      "trackName": "New York",
+      "artistName": "Nuggets",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 8,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Unidisc Music Inc.",
+      "startTime": "42:00",
+      "trackName": "Take the Country to New York City",
+      "artistName": "Bohannan",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 9,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Bee Gees Catalog",
+      "startTime": "45:15",
+      "trackName": "Manhattan Skyline",
+      "artistName": "David Shire",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 10,
+      "remixArtistName": ""
+    },
+    {
+      "publisher": "Salsoul Records",
+      "startTime": "49:42",
+      "trackName": "New York Is My Kind of Town (feat. The Sweethearts)",
+      "artistName": "Metropolis",
+      "coverArtDate": "",
+      "coverArtLarge": "",
+      "coverArtSmall": "",
+      "sectionNumber": 11,
+      "remixArtistName": ""
+    }
+  ]
+}
