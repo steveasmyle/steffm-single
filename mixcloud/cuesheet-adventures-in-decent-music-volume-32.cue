@@ -1,0 +1,71 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures in Decent Music - Volume 32"
+FILE "Aventures_in_Decent_Music_Vol._32_BB_Special_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Gene Harris"
+TITLE "LosamitoslatinfunkLovesong"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Middlewood Sessions"
+TITLE "Fall Back"
+INDEX 01 03:25:00
+TRACK 02 AUDIO
+PERFORMER "DKD"
+TITLE "Future Rage"
+INDEX 01 10:25:00
+TRACK 03 AUDIO
+PERFORMER "Ian Pooley"
+TITLE "What's Your Numner"
+INDEX 01 15:35:00
+TRACK 04 AUDIO
+PERFORMER "Gran Pianoramax"
+TITLE "Freestyle Figures"
+INDEX 01 21:29:00
+TRACK 05 AUDIO
+PERFORMER "Jazzanova"
+TITLE "Glow And Glare"
+INDEX 01 26:22:00
+TRACK 06 AUDIO
+PERFORMER "Longineau Parsons"
+TITLE "Funkin Around"
+INDEX 01 31:20:00
+TRACK 07 AUDIO
+PERFORMER "Ski Oakenfull"
+TITLE "Fifths"
+INDEX 01 35:51:00
+TRACK 08 AUDIO
+PERFORMER "JD73"
+TITLE "Swing Til It Hurts"
+INDEX 01 42:55:00
+TRACK 09 AUDIO
+PERFORMER "Phuturistics"
+TITLE "Cohiba"
+INDEX 01 49:00:00
+TRACK 10 AUDIO
+PERFORMER "David Borsu"
+TITLE "Syncopassion"
+INDEX 01 54:55:00
+TRACK 11 AUDIO
+PERFORMER "Nutmeg"
+TITLE "Bicycle Kick"
+INDEX 01 59:00:00
+TRACK 12 AUDIO
+PERFORMER "Focus"
+TITLE "Having Your Fun"
+INDEX 01 62:44:00
+TRACK 13 AUDIO
+PERFORMER "Kaori"
+TITLE "Good Life"
+INDEX 01 66:24:00
+TRACK 14 AUDIO
+PERFORMER "Simbad feat. Melo"
+TITLE "After The Dance"
+INDEX 01 68:20:00
+TRACK 15 AUDIO
+PERFORMER "Ty feat. Taylor McFerrin, Joy Jones and Jason Ward"
+TITLE "What You Want (Taylormade)"
+INDEX 01 73:27:00
+TRACK 16 AUDIO
+PERFORMER "The Heritage Orchestra"
+TITLE "Skybreaks"
+INDEX 01 78:34:00

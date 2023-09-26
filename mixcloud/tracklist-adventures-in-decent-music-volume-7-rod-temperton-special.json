@@ -1,9 +1,26 @@
 {
+  "category": "aidm",
+  "coverArtDate": "2023-09-26T19:18:56.419Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/9/c/4/d/ad9d-312e-44cd-a3a7-05f8f3d0b59c",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/9/c/4/d/ad9d-312e-44cd-a3a7-05f8f3d0b59c",
+  "duration": "01:31:28",
+  "fileName": "Adventures_in_Decent_Music_Vol._07_Rod_Temperton_hifi.mp3",
+  "listOrder": 7,
   "mixcloudKey": "adventures-in-decent-music-volume-7-rod-temperton-special",
+  "name": "Adventures in Decent Music - Volume 7 - Rod Temperton Special",
+  "notes": "A very special Adventures this time...Compiled and mixed by Stef. Interview with Rod Temperton by Epic",
+  "releaseDate": "July 2007",
+  "shortName": "AIDM - Volume 7 - Rod Temperton Special",
+  "tags": [
+    "pop",
+    "r'n'b",
+    "rod temperton",
+    "special"
+  ],
   "tracks": [
     {
       "artistName": "Quincy Jones",
-      "coverArtDate": "2023-08-20T13:44:21.882Z",
+      "coverArtDate": "2023-09-26T19:30:30.356Z",
       "coverArtLarge": "https://i.discogs.com/5T4_WRTD11i1rENkrTuF4lPma0NYjlCBd0GMSDJWzE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEy/MzctMTM5MTEwNjgw/Mi0yOTM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/-ifu0Vt6nTd5Gl7Ln9HwNMoM7fqspfmZ4ZiyMq8H4eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEy/MzctMTM5MTEwNjgw/Mi0yOTM1LmpwZWc.jpeg",
       "publisher": "A&M Records",
@@ -14,7 +31,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:23.416Z",
+      "coverArtDate": "2023-09-26T19:30:31.962Z",
       "coverArtLarge": "https://i.discogs.com/QOY-lxX8EpldSCmT5det1Hh5pH8RNviYI_kxVxXVAnM/rs:fit/g:sm/q:90/h:405/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI2/NzItMTIyMDg4NDQz/NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/OypOuZlCTihLfuWpNft5M1h-jhqeytjOolSk8vF7Sp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI2/NzItMTIyMDg4NDQz/NS5qcGVn.jpeg",
       "publisher": "GTO",
@@ -25,7 +42,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:24.907Z",
+      "coverArtDate": "2023-09-26T19:30:33.529Z",
       "coverArtLarge": "https://i.discogs.com/Jm0kDGAlrhEq86GT-30pnV_fledEBiK8IrQDtcu_Y9E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDkw/Mi0xNDU4NjQ5MTE2/LTkxNDMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/AP3i5yY_gKJceyEdjqV-9zkmFInZllIygvA7WY3bpkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDkw/Mi0xNDU4NjQ5MTE2/LTkxNDMuanBlZw.jpeg",
       "publisher": "GTO",
@@ -36,7 +53,7 @@
     },
     {
       "artistName": "Brothers Johnson",
-      "coverArtDate": "2023-08-20T13:44:26.489Z",
+      "coverArtDate": "2023-09-26T19:30:35.118Z",
       "coverArtLarge": "https://i.discogs.com/H1leNorZGGoWIGTl4ZbJmWGvoYJD_moQ4hFQG_LYJC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg4NjA2/LTE1OTEyNTU1MDkt/NTg2OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/HMKIQ5OzaD4-6vgPxnAveRu_O-NFWHTG-Ed-0FbcxzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg4NjA2/LTE1OTEyNTU1MDkt/NTg2OC5qcGVn.jpeg",
       "publisher": "A&M Records",
@@ -47,7 +64,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:27.956Z",
+      "coverArtDate": "2023-09-26T19:30:36.878Z",
       "coverArtLarge": "https://i.discogs.com/VHuMj6zUfn_QjK3yktcndbMaf0QHQ5BIbLkwAi9dtZY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzM5/MC0xNTI4NDgyODcz/LTMyOTEuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/rExsid5hIt9693SJpSTYw1l6XtKBlxdVKf653txVZwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzM5/MC0xNTI4NDgyODcz/LTMyOTEuanBlZw.jpeg",
       "publisher": "GTO",
@@ -58,7 +75,7 @@
     },
     {
       "artistName": "Herbie Hancock",
-      "coverArtDate": "2023-08-20T13:44:29.451Z",
+      "coverArtDate": "2023-09-26T19:30:38.555Z",
       "coverArtLarge": "https://i.discogs.com/5YkSH9lQ8uBDcGTs7WXX9F0xN01x7eBmc6CUti37o8E/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NzAtMTQ0NjUwNDUz/OS04OTYwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/twuZpqedjF9KZXQJPUdxDCsY1wq1Q_XM38WP-K9TbAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NzAtMTQ0NjUwNDUz/OS04OTYwLmpwZWc.jpeg",
       "publisher": "CBS",
@@ -69,7 +86,7 @@
     },
     {
       "artistName": "Manhattan Transfer",
-      "coverArtDate": "2023-08-20T13:44:31.099Z",
+      "coverArtDate": "2023-09-26T19:30:40.091Z",
       "coverArtLarge": "https://i.discogs.com/xOrqpEmQM1ZTQWxUmiaN3wrpjHNMYVhf4P6j0L36HAg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQy/Mi0xNDk4Njc3MzIz/LTIxOTguanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/3VLo2TjXs_g5uZj9IZPqYoh5kSTHdjiWG9g7tYGhEdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDQy/Mi0xNDk4Njc3MzIz/LTIxOTguanBlZw.jpeg",
       "publisher": "Atlantic Records",
@@ -80,7 +97,7 @@
     },
     {
       "artistName": "Michael Jackson",
-      "coverArtDate": "2023-08-20T13:44:32.623Z",
+      "coverArtDate": "2023-09-26T19:30:41.814Z",
       "coverArtLarge": "https://i.discogs.com/zl5v5VCYQuYQcQtCa2xNah3p9LlsCDvObhfYWdGLjP4/rs:fit/g:sm/q:90/h:344/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/gFFPJRZd4BWUkml2WGlx2r6zO6eKEdm75bjMV42sjUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",
       "publisher": "Epic",
@@ -91,7 +108,7 @@
     },
     {
       "artistName": "Quincy Jones",
-      "coverArtDate": "2023-08-20T13:44:34.168Z",
+      "coverArtDate": "2023-09-26T19:30:43.439Z",
       "coverArtLarge": "https://i.discogs.com/KsL6tplyOY2LkhBqMXUtco_YG902lf_HFkmnAOwy5Iw/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDc4/Mi0xMTg4MzIwNDc1/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EmhmP8l9kK-kcsf71BWjC4Ua22Itb0z8-neZnawz5DE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDc4/Mi0xMTg4MzIwNDc1/LmpwZWc.jpeg",
       "publisher": "A&M Records",
@@ -102,7 +119,7 @@
     },
     {
       "artistName": "George Benson",
-      "coverArtDate": "2023-08-20T13:44:35.728Z",
+      "coverArtDate": "2023-09-26T19:30:45.137Z",
       "coverArtLarge": "https://i.discogs.com/V2qAolWeWPLamCZ59bvSM2cs9tX1U9ux_32ZanHfmoE/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MDItMTU3OTQ5ODUw/NS0xMjU0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/LvKmtuiTL_-3v_ASCh5T883JlRHTLViIqOrVSYeLxro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MDItMTU3OTQ5ODUw/NS0xMjU0LmpwZWc.jpeg",
       "publisher": "Warner Bros. Records",
@@ -113,7 +130,7 @@
     },
     {
       "artistName": "George Benson",
-      "coverArtDate": "2023-08-20T13:44:37.753Z",
+      "coverArtDate": "2023-09-26T19:30:46.700Z",
       "coverArtLarge": "https://i.discogs.com/c5E3At0YxnPHVWbxAlFeUEJTgCF0tIfT91KcV3DNITw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTE3/MDYtMTQyODk0OTk5/OC05NjQ1LnBuZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/lS00DKA55YEaXAv8Zt9lGMdCsTOoQRrrDGZUkIGM_Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTE3/MDYtMTQyODk0OTk5/OC05NjQ1LnBuZw.jpeg",
       "publisher": "Warner Bros. Records",
@@ -124,7 +141,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:39.082Z",
+      "coverArtDate": "2023-09-26T19:30:48.071Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "GTO",
@@ -135,7 +152,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:40.723Z",
+      "coverArtDate": "2023-09-26T19:30:49.798Z",
       "coverArtLarge": "https://i.discogs.com/96HIIfBukSngM_wvQo-T3HYXpUAN1PORVd8wmOtVfT4/rs:fit/g:sm/q:90/h:407/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNTQ2/LTE1MzMxNzQwMTYt/MTk2Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Pk00idgUvCWst3UH8PGIEXCnK9HhfWCeoxaG21VRa5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNTQ2/LTE1MzMxNzQwMTYt/MTk2Ni5qcGVn.jpeg",
       "publisher": "GTO",
@@ -146,7 +163,7 @@
     },
     {
       "artistName": "James Ingram with Michael McDonald",
-      "coverArtDate": "2023-08-20T13:44:42.270Z",
+      "coverArtDate": "2023-09-26T19:30:51.536Z",
       "coverArtLarge": "https://i.discogs.com/oFlXlSvIJ25hbLA5h5bS6H3JsKG8q1gQEn3tvO_-Vpw/rs:fit/g:sm/q:90/h:607/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc1/NjktMTI3MDgwNzEw/Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/_TgLvwxzb9XiIGA0PKEbIUoH-pNtiM6jsX6zb1HoP30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc1/NjktMTI3MDgwNzEw/Ni5qcGVn.jpeg",
       "publisher": "Qwest Records",
@@ -157,7 +174,7 @@
     },
     {
       "artistName": "Rufus & Chaka Khan",
-      "coverArtDate": "2023-08-20T13:44:43.749Z",
+      "coverArtDate": "2023-09-26T19:30:53.164Z",
       "coverArtLarge": "https://i.discogs.com/_xNMmjbR8QBtjsy7HCPsMG2dgODmok1Pp3RITL4ySD4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/OTItMTIyNDA5ODMz/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/MbaM4jvWn7yWwi8kpsEpmccCxI39nDnH9tb_yE4zJ8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/OTItMTIyNDA5ODMz/Mi5qcGVn.jpeg",
       "publisher": "Ariola",
@@ -168,7 +185,7 @@
     },
     {
       "artistName": "Brother Johnson",
-      "coverArtDate": "2023-08-20T13:44:45.434Z",
+      "coverArtDate": "2023-09-26T19:30:54.971Z",
       "coverArtLarge": "https://i.discogs.com/FjpfDwaMz6kWaWwaeJOeFYChQfUXC0G7wrx9bLBY5Xk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/NDQtMTI1OTAyMTYw/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/0a1YKHt2Vx8mTSFWgVnhT4O6cepeJjdTnEJnsdhHdJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgx/NDQtMTI1OTAyMTYw/MS5qcGVn.jpeg",
       "publisher": "A&M Records",
@@ -179,7 +196,7 @@
     },
     {
       "artistName": "Patti Austin",
-      "coverArtDate": "2023-08-20T13:44:47.380Z",
+      "coverArtDate": "2023-09-26T19:30:56.496Z",
       "coverArtLarge": "https://i.discogs.com/dtiX1ifwMRaUDf7TCAj86VM1jQ3pKy31M0nxWL60sfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDAw/NjYtMTUwMTM1NzY5/My04MDQ2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/63zN_CDxEpK5StE7p1QsMBg9RMVCrzmlZYY6MBwTLd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDAw/NjYtMTUwMTM1NzY5/My04MDQ2LmpwZWc.jpeg",
       "publisher": "Qwest Records",
@@ -190,7 +207,7 @@
     },
     {
       "artistName": "Bob Jones",
-      "coverArtDate": "2023-08-20T13:44:49.224Z",
+      "coverArtDate": "2023-09-26T19:30:58.197Z",
       "coverArtLarge": "https://i.discogs.com/0LBy8XAmvCA9sZhvw5SnAxcSB6-x0Ujt9z6-dYSWMrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA4/MDc2LTE2MDA0MzUx/NzgtOTk2NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/WTLyDqkFGgoAwpYBAf66I7yKrHNvw1VMLmLKppwovno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTA4/MDc2LTE2MDA0MzUx/NzgtOTk2NC5qcGVn.jpeg",
       "publisher": "Tappan Zee",
@@ -201,7 +218,7 @@
     },
     {
       "artistName": "Quincy Jones",
-      "coverArtDate": "2023-08-20T13:44:50.743Z",
+      "coverArtDate": "2023-09-26T19:31:00.031Z",
       "coverArtLarge": "https://i.discogs.com/5T4_WRTD11i1rENkrTuF4lPma0NYjlCBd0GMSDJWzE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEy/MzctMTM5MTEwNjgw/Mi0yOTM1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/-ifu0Vt6nTd5Gl7Ln9HwNMoM7fqspfmZ4ZiyMq8H4eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEy/MzctMTM5MTEwNjgw/Mi0yOTM1LmpwZWc.jpeg",
       "publisher": "A&M Records",
@@ -212,7 +229,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:52.263Z",
+      "coverArtDate": "2023-09-26T19:31:01.920Z",
       "coverArtLarge": "https://i.discogs.com/v0tmd-4bmYQgypr9qySU_yHvdR3WLGXzviuxfTNjZeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDcx/NTItMTMwNDMxODQz/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/4EuSkGiaQcvyyKQrnHE0vLompntYClGy66gvYH6rLoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDcx/NTItMTMwNDMxODQz/My5qcGVn.jpeg",
       "publisher": "GTO",
@@ -223,7 +240,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:44:53.755Z",
+      "coverArtDate": "2023-09-26T19:31:03.522Z",
       "coverArtLarge": "https://i.discogs.com/Jm0kDGAlrhEq86GT-30pnV_fledEBiK8IrQDtcu_Y9E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDkw/Mi0xNDU4NjQ5MTE2/LTkxNDMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/AP3i5yY_gKJceyEdjqV-9zkmFInZllIygvA7WY3bpkA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDkw/Mi0xNDU4NjQ5MTE2/LTkxNDMuanBlZw.jpeg",
       "publisher": "GTO",
@@ -234,7 +251,7 @@
     },
     {
       "artistName": "Rufus & Chaka Khan",
-      "coverArtDate": "2023-08-20T13:44:55.367Z",
+      "coverArtDate": "2023-09-26T19:31:05.153Z",
       "coverArtLarge": "https://i.discogs.com/_xNMmjbR8QBtjsy7HCPsMG2dgODmok1Pp3RITL4ySD4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/OTItMTIyNDA5ODMz/Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/MbaM4jvWn7yWwi8kpsEpmccCxI39nDnH9tb_yE4zJ8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY4/OTItMTIyNDA5ODMz/Mi5qcGVn.jpeg",
       "publisher": "Ariola",
@@ -245,7 +262,7 @@
     },
     {
       "artistName": "Zhane",
-      "coverArtDate": "2023-08-20T13:44:57.004Z",
+      "coverArtDate": "2023-09-26T19:31:06.806Z",
       "coverArtLarge": "https://i.discogs.com/iZyJ00HMZG8rKDAK54VsKVG50cbEhG6IL2-4FulJzqM/rs:fit/g:sm/q:90/h:477/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI4/NjUtMTI1NTAwMjc2/OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/Fz69mE1UJZkw5F50_ROFVPUFAY9TIGNIdCFLonYfo1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjI4/NjUtMTI1NTAwMjc2/OS5qcGVn.jpeg",
       "publisher": "Motown",
@@ -256,7 +273,7 @@
     },
     {
       "artistName": "Michael McDonald",
-      "coverArtDate": "2023-08-20T13:44:58.543Z",
+      "coverArtDate": "2023-09-26T19:31:08.631Z",
       "coverArtLarge": "https://i.discogs.com/WFmxExoXrZVeQFURCpBNEk9pDcBJBVEjKZjFLHuzjIM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk2/NTAtMTM1MTA4OTY1/MC04MTE1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/EbNdqKrE8Ye0KYkQPJS9JFaf2WJSClk9TEXGo9Ks24A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDk2/NTAtMTM1MTA4OTY1/MC04MTE1LmpwZWc.jpeg",
       "publisher": "MCA Records Ltd.",
@@ -267,7 +284,7 @@
     },
     {
       "artistName": "Heatwave",
-      "coverArtDate": "2023-08-20T13:45:00.032Z",
+      "coverArtDate": "2023-09-26T19:31:10.254Z",
       "coverArtLarge": "https://i.discogs.com/lJ8I41u_J-hBOxV8Imo6rDAA-tvCbJKbTpNLmMSABtA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTYtMTI0MjM1MDI2/OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/l38Aj1UzlLTQ4_qCHwRYNKXw_ntPd39BfcOneodO6gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTYtMTI0MjM1MDI2/OS5qcGVn.jpeg",
       "publisher": "Epic",
@@ -278,7 +295,7 @@
     },
     {
       "artistName": "Patti Austin",
-      "coverArtDate": "2023-08-20T13:45:01.476Z",
+      "coverArtDate": "2023-09-26T19:31:11.841Z",
       "coverArtLarge": "https://i.discogs.com/MqXTWhZFZe7xxZYb9KeBYHPkARQO3NOddfo3ScoP9FY/rs:fit/g:sm/q:90/h:596/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MDYtMTM2OTMwNjM1/Ny02NzM4LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/8b6MzQA1B3vLChRCyJBPE_rYmerl0pcxgqX92DlPmJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MDYtMTM2OTMwNjM1/Ny02NzM4LmpwZWc.jpeg",
       "publisher": "Qwest Records",
@@ -289,7 +306,7 @@
     },
     {
       "artistName": "Michael Jackson",
-      "coverArtDate": "2023-08-20T13:45:03.152Z",
+      "coverArtDate": "2023-09-26T19:31:13.547Z",
       "coverArtLarge": "https://i.discogs.com/OQRwID3TvI5bMrPxrDgtFRftYhjZlkQ1FPE81xPOY5I/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/OTMtMTU5NDI0NTgx/Mi03OTMxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/eBPOYCDUuYDq0968DizypNaHc5oylaoLFG6o3ordpWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTEy/OTMtMTU5NDI0NTgx/Mi03OTMxLmpwZWc.jpeg",
       "publisher": "Epic",
@@ -300,7 +317,7 @@
     },
     {
       "artistName": "Donna Summer",
-      "coverArtDate": "2023-08-20T13:45:04.767Z",
+      "coverArtDate": "2023-09-26T19:31:15.288Z",
       "coverArtLarge": "https://i.discogs.com/4sDAno5Yci50S5zQRstKEaJGNije4tVHGn7JfPK2meM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/MS0xMzI5NTEwNzA5/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/dtIEIxe4x3K2nTjcuxOacA1H6Lxv1pDGf_twZXJP9xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDI3/MS0xMzI5NTEwNzA5/LmpwZWc.jpeg",
       "publisher": "WEA International Inc.",
@@ -311,7 +328,7 @@
     },
     {
       "artistName": "Herbie Hancock",
-      "coverArtDate": "2023-08-20T13:45:06.246Z",
+      "coverArtDate": "2023-09-26T19:31:16.857Z",
       "coverArtLarge": "https://i.discogs.com/5YkSH9lQ8uBDcGTs7WXX9F0xN01x7eBmc6CUti37o8E/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NzAtMTQ0NjUwNDUz/OS04OTYwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/twuZpqedjF9KZXQJPUdxDCsY1wq1Q_XM38WP-K9TbAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NzAtMTQ0NjUwNDUz/OS04OTYwLmpwZWc.jpeg",
       "publisher": "CBS",
@@ -322,7 +339,7 @@
     },
     {
       "artistName": "Michael Jackson",
-      "coverArtDate": "2023-08-20T13:45:07.965Z",
+      "coverArtDate": "2023-09-26T19:31:18.540Z",
       "coverArtLarge": "https://i.discogs.com/KYZVlQfSEL1rBVqoD4W7rrY0MJxLI4MoM9JvPVwcwFo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjA0/My0xMzcwOTM2NzYz/LTkzMTMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/qugjGNeCDqDoNRyn9sx2cZVQLEwT2mfOk9nfJrciyyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MjA0/My0xMzcwOTM2NzYz/LTkzMTMuanBlZw.jpeg",
       "publisher": "Epic",

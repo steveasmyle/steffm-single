@@ -1,9 +1,28 @@
 {
+  "category": "special",
+  "coverArtDate": "2023-09-26T19:20:17.649Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/b/7/d/1/554e-f2cd-46d3-8d2a-b1456020736d",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/b/7/d/1/554e-f2cd-46d3-8d2a-b1456020736d",
+  "duration": "56:45",
+  "fileName": "nyc_2_v4.mp3",
+  "listOrder": 36,
   "mixcloudKey": "a-new-york-city-mix-you-devious-bastard",
+  "name": "A special mix for a special city New York City Mix",
+  "notes": "",
+  "releaseDate": "25 December 2013",
+  "shortName": "A New York City Mix (You Devious Bastard)",
+  "tags": [
+    "new york",
+    "funk",
+    "soul",
+    "groove",
+    "disco",
+    "special"
+  ],
   "tracks": [
     {
       "artistName": "Odyssey",
-      "coverArtDate": "2023-08-07T19:59:42.861Z",
+      "coverArtDate": "2023-09-26T20:12:16.106Z",
       "coverArtLarge": "https://i.discogs.com/s8KdgBaara9vcB8xyXAJ5JdmPHFKjK1g8C9vo--fwQk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NjUtMTI3ODA3Njkx/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/l9ti9s8DeuckAcnKyTckJBasZH9B8N3z_5JsLxFYRRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDgz/NjUtMTI3ODA3Njkx/My5qcGVn.jpeg",
       "publisher": "RCA",
@@ -14,7 +33,7 @@
     },
     {
       "artistName": "Herb Alpert",
-      "coverArtDate": "2023-08-07T19:59:44.369Z",
+      "coverArtDate": "2023-09-26T20:12:17.869Z",
       "coverArtLarge": "https://i.discogs.com/LJ_ao1ENdqzJH2jVGrd_MZAaSpC_IfcQSVNT9kzR3xs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NzAtMTE5Njc0ODA4/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/RlKM4hGEu5n7dU2U-VK3ascXSOjjQNkP4i7c0XByER8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTY3/NzAtMTE5Njc0ODA4/OC5qcGVn.jpeg",
       "publisher": "Herb Alpert Presents",
@@ -25,7 +44,7 @@
     },
     {
       "artistName": "Bobbi Humphrey",
-      "coverArtDate": "2023-08-07T19:59:45.915Z",
+      "coverArtDate": "2023-09-26T20:12:19.506Z",
       "coverArtLarge": "https://i.discogs.com/uPq0nUiCIfBhYmg_A02HFKrWAR8LWkHKcqk15H8gPK4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/OTctMTU1MTgyMDQy/MC0yMzgxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/qfCpwaiYbrxbCKtq41sQcfUGs8cDTBuruJyIqHziIVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/OTctMTU1MTgyMDQy/MC0yMzgxLmpwZWc.jpeg",
       "publisher": "BlueNote Records",
@@ -36,7 +55,7 @@
     },
     {
       "artistName": "Gil Scott-Heron & Brian Jackson",
-      "coverArtDate": "2023-08-07T19:59:47.550Z",
+      "coverArtDate": "2023-09-26T20:12:21.103Z",
       "coverArtLarge": "https://i.discogs.com/i6UDpRQcJoAHlivD5iqM0ZwT7OXEtpxiO1yBdhoNoRs/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgy/MS0xMzA2NTg1NDkz/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/bO_hhbBrzGfnGE5lxT9avLtwLDZL5IjUXscMYAtRwnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjgy/MS0xMzA2NTg1NDkz/LmpwZWc.jpeg",
       "publisher": "The Orchard Music",
@@ -47,7 +66,7 @@
     },
     {
       "artistName": "Ray Vega",
-      "coverArtDate": "2023-08-07T19:59:49.189Z",
+      "coverArtDate": "2023-09-26T20:12:23.400Z",
       "coverArtLarge": "https://i.discogs.com/rMe_DiAlSwbnDQNbPb2voJXrkm26owBJTSR2ryGpi3g/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/OTY1LTE1MDUxMDM3/ODQtNTEwMi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/8WpjYrjLO0JqjyYQ_fxzV_m6cKQweYs3j2ZUTizHovs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM2/OTY1LTE1MDUxMDM3/ODQtNTEwMi5qcGVn.jpeg",
       "publisher": "Concord Jazz",
@@ -58,7 +77,7 @@
     },
     {
       "artistName": "Bob James & Earl Klugh",
-      "coverArtDate": "2023-08-07T19:59:50.725Z",
+      "coverArtDate": "2023-09-26T20:12:24.931Z",
       "coverArtLarge": "https://i.discogs.com/zmac_t09CGfDQIarFYV6G2qLvHoQu2AeITA_dowkz4g/rs:fit/g:sm/q:90/h:453/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/MzMtMTIxODA0MzEw/My5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/TefUTYiQ4vjNN5uj4RQSKcuEqzoF5LIfdjqbiv5ktHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/MzMtMTIxODA0MzEw/My5qcGVn.jpeg",
       "publisher": "Warner Records",
@@ -69,7 +88,7 @@
     },
     {
       "artistName": "MFSB",
-      "coverArtDate": "2023-08-07T19:59:52.261Z",
+      "coverArtDate": "2023-09-26T20:12:26.572Z",
       "coverArtLarge": "https://i.discogs.com/xrMxW9wblmFABfWxd3phGZBe9YnZn6CRnEXZC44Av68/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mjc2/My0xMTgxNzI3Njc1/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/mtDsVyRcQIQ1NN7nA_e8ozu0M8sQTEov1LUab7YZcGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mjc2/My0xMTgxNzI3Njc1/LmpwZWc.jpeg",
       "publisher": "Legacy Recordings",
@@ -80,7 +99,7 @@
     },
     {
       "artistName": "Nuggets",
-      "coverArtDate": "2023-08-07T19:59:53.798Z",
+      "coverArtDate": "2023-09-26T20:12:28.262Z",
       "coverArtLarge": "https://i.discogs.com/hfYidjrbOOSuzIBUvRpg1SaF2xtQGn1k7R5VTbXJbN0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTQy/NTMtMTM3ODYxMTgx/Mi02MTk1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/uE4CXZYy6FRulp0UgFcJaxpyNTi8za9NQNwW86QzO6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTQy/NTMtMTM3ODYxMTgx/Mi02MTk1LmpwZWc.jpeg",
       "publisher": "Mercury",
@@ -91,7 +110,7 @@
     },
     {
       "artistName": "Bohannan",
-      "coverArtDate": "2023-08-07T19:59:55.231Z",
+      "coverArtDate": "2023-09-26T20:12:29.672Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Unidisc Music Inc.",
@@ -102,7 +121,7 @@
     },
     {
       "artistName": "David Shire",
-      "coverArtDate": "2023-08-07T19:59:56.773Z",
+      "coverArtDate": "2023-09-26T20:12:31.381Z",
       "coverArtLarge": "https://i.discogs.com/Vou9W6CdHLBGYvVrEfLpXZSknsgshPlUFbxoCk6oj-E/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY1/OTItMTQ1ODg2MzQ2/MC03MDI2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/W9CPXLN-9tZNvBzeYJ67BUTfd5T4ItEmjpmiGjXuSrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzY1/OTItMTQ1ODg2MzQ2/MC03MDI2LmpwZWc.jpeg",
       "publisher": "Bee Gees Catalog",
@@ -113,7 +132,7 @@
     },
     {
       "artistName": "Metropolis",
-      "coverArtDate": "2023-08-07T19:59:58.305Z",
+      "coverArtDate": "2023-09-26T20:12:32.801Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Salsoul Records",

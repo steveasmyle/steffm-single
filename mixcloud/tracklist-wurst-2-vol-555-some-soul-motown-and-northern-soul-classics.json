@@ -1,9 +1,28 @@
 {
+  "category": "special",
+  "coverArtDate": "2023-09-26T19:20:06.278Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/e/2/0/0ceb-4049-4513-aec7-7912cbd863ce",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/e/2/0/0ceb-4049-4513-aec7-7912cbd863ce",
+  "duration": "02:00:17",
+  "fileName": "W.u.R.St 2 Vol. 555.mp3",
+  "listOrder": 4,
   "mixcloudKey": "wurst-2-vol-555-some-soul-motown-and-northern-soul-classics",
+  "name": "W.u.R.St 2 Vol. 555 - Some Soul, Motown and Northern Soul Classics",
+  "notes": "Recording from a recent DJ gig to a mixed crowd of folk",
+  "releaseDate": "27 April 2018",
+  "shortName": "Special - W.u.R.St 2 Vol. 555",
+  "tags": [
+    "r'n'b",
+    "soul",
+    "northern soul",
+    "acid jazz",
+    "motown",
+    "special"
+  ],
   "tracks": [
     {
       "artistName": "James Brown",
-      "coverArtDate": "2023-08-20T14:19:44.522Z",
+      "coverArtDate": "2023-09-26T20:08:12.930Z",
       "coverArtLarge": "https://i.discogs.com/AGH3Yq9fo59-SKyjYw7yOcP8F11Pkf8X-b8ZzrPHsJY/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjY3/NC0xNDMxMTMzNDYx/LTg2MjcuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/VZUrFZK1GFsLhq3x3NybK80VmEybUArdtXGHCM6DGII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjY3/NC0xNDMxMTMzNDYx/LTg2MjcuanBlZw.jpeg",
       "publisher": "UMG",
@@ -14,7 +33,7 @@
     },
     {
       "artistName": "Minnie Riperton",
-      "coverArtDate": "2023-08-20T14:19:46.111Z",
+      "coverArtDate": "2023-09-26T20:08:14.556Z",
       "coverArtLarge": "https://i.discogs.com/LEVjJJEcOECV4gti7HThsge3tdKHyhVcB56PfsNFJ1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDY5/MC0xNDY0MzQ1MDk3/LTY3NjMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/vUl6ajONv6BABALn68cduDyndloLFBCS8CbyGKko0hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDY5/MC0xNDY0MzQ1MDk3/LTY3NjMuanBlZw.jpeg",
       "publisher": "Epic",
@@ -25,7 +44,7 @@
     },
     {
       "artistName": "Curtis Mayfield",
-      "coverArtDate": "2023-08-20T14:19:47.695Z",
+      "coverArtDate": "2023-09-26T20:08:16.117Z",
       "coverArtLarge": "https://i.discogs.com/DDtQbg5Y_GosNWFdDYYruWSkRnhiwvWl0Ucw0E2UgKI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTMz/MjAtMTQ3NzMxNDYz/Mi03NzM0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/6vC-xu63McW7sN6AXvs_PsHUI5d1XaAgXi3BweHqwlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTMz/MjAtMTQ3NzMxNDYz/Mi03NzM0LmpwZWc.jpeg",
       "publisher": "Buddah Records",
@@ -36,7 +55,7 @@
     },
     {
       "artistName": "Sisters Love",
-      "coverArtDate": "2023-08-20T14:19:49.336Z",
+      "coverArtDate": "2023-09-26T20:08:17.833Z",
       "coverArtLarge": "https://i.discogs.com/KIO81ty5wSnMEmq3j3AndXfMNH0VgGQwWSfQYnIQt5I/rs:fit/g:sm/q:90/h:599/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzY4/MjUtMTU4OTMwNjU0/MC03MTY1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/wG7csR7wmOfhp1fqCEICWEjMxCXPi59lCnUnKDsJxzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzY4/MjUtMTU4OTMwNjU0/MC03MTY1LmpwZWc.jpeg",
       "publisher": "MoWest",
@@ -47,7 +66,7 @@
     },
     {
       "artistName": "Lettuce",
-      "coverArtDate": "2023-08-20T14:19:50.695Z",
+      "coverArtDate": "2023-09-26T20:08:19.408Z",
       "coverArtLarge": "https://i.discogs.com/LpqIY9ptrx2U7MDn59moJzgTC4sQGvbbfVxdl78U8IM/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU1/MTQ4LTE2NDQ3NjIz/ODQtMzI4Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/WGN7qk8R0SQpVd4SLkTY_UtrS9EmV32APs0OUcB3Nuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjU1/MTQ4LTE2NDQ3NjIz/ODQtMzI4Ni5qcGVn.jpeg",
       "publisher": "Velour Recordings",
@@ -58,7 +77,7 @@
     },
     {
       "artistName": "Shirley Bassey",
-      "coverArtDate": "2023-08-20T14:19:52.286Z",
+      "coverArtDate": "2023-09-26T20:08:21.320Z",
       "coverArtLarge": "https://i.discogs.com/1F_wxx5no_9lMl-8BSh6SD5p4hC7SuIVoJxKm-PgMdM/rs:fit/g:sm/q:90/h:455/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk3/MDMtMTM3MzA5NzU4/OS01MjcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/QacfNBUKc_41IrxGchf72SDd236TB2xIt5PXb3Vi70g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk3/MDMtMTM3MzA5NzU4/OS01MjcwLmpwZWc.jpeg",
       "publisher": "Zonophone",
@@ -69,7 +88,7 @@
     },
     {
       "artistName": "Cake",
-      "coverArtDate": "2023-08-20T14:19:54.318Z",
+      "coverArtDate": "2023-09-26T20:08:23.048Z",
       "coverArtLarge": "https://i.discogs.com/92n7Fj0Ef04kJUtbD_g1CXJ5dw14ruhs0aWjMotx_ew/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMy/MjItMTI2NzE4NDM3/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/YPZlVE0sjC3MbIiS11nOjczGpiWfuYqaP0WMc58VFnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDMy/MjItMTI2NzE4NDM3/MC5qcGVn.jpeg",
       "publisher": "",
@@ -80,7 +99,7 @@
     },
     {
       "artistName": "The Bamboos",
-      "coverArtDate": "2023-08-20T14:19:57.117Z",
+      "coverArtDate": "2023-09-26T20:08:24.692Z",
       "coverArtLarge": "https://i.discogs.com/g536a_CqDfzMZ2FL_gItzYhTH2opuqI8sFLmAW-R79c/rs:fit/g:sm/q:90/h:355/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM0/NDMtMTIwNTAzMTQ3/OC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/cm4BKRLdoOcMsb3L4JSZHEtxPxJ6sMlyBQRntlQFyFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM0/NDMtMTIwNTAzMTQ3/OC5qcGVn.jpeg",
       "publisher": "",
@@ -91,7 +110,7 @@
     },
     {
       "artistName": "The Jackson 5",
-      "coverArtDate": "2023-08-20T14:19:58.708Z",
+      "coverArtDate": "2023-09-26T20:08:26.443Z",
       "coverArtLarge": "https://i.discogs.com/HkeiXDEwf8TmGsCvTAKE-4yiS2-0ALsHgZ88IEU3i3g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQ2/NzAtMTY1Mjk5MDI5/Mi02MTg5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/PYGx-uSfRMdtCww1y7yTHBQ8oCdqNFl5AEr5ltqougs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDQ2/NzAtMTY1Mjk5MDI5/Mi02MTg5LmpwZWc.jpeg",
       "publisher": "Motown",
@@ -102,7 +121,7 @@
     },
     {
       "artistName": "Marvin Gaye & Tammi Terrell",
-      "coverArtDate": "2023-08-20T14:20:00.397Z",
+      "coverArtDate": "2023-09-26T20:08:28.282Z",
       "coverArtLarge": "https://i.discogs.com/52syqLreplxUdYL4XdsiQ8BkGtdVPfTG6q5M73vPgOw/rs:fit/g:sm/q:90/h:180/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjQz/MTQtMTM5NTU5NjUx/Ny00MzU5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/S9VUd72cCTnRAyvv-73MxpFwb5tKAjU-Lza6yCDRzVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjQz/MTQtMTM5NTU5NjUx/Ny00MzU5LmpwZWc.jpeg",
       "publisher": "Tamla Motown",
@@ -113,7 +132,7 @@
     },
     {
       "artistName": "Corduroy",
-      "coverArtDate": "2023-08-20T14:20:06.188Z",
+      "coverArtDate": "2023-09-26T20:08:29.951Z",
       "coverArtLarge": "https://i.discogs.com/ODe0Rqnm7TczUsK8Sq7IO9RoSKnkvvvS2Ai1mFqj_To/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA2/LTE0NTMwMDI5Njgt/MzIwMi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/VYKsKU0zEyIL4nZh6BF0_ujNYDKwDVwOEiojaRIMrIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA2/LTE0NTMwMDI5Njgt/MzIwMi5qcGVn.jpeg",
       "publisher": "Acid Jazz",
@@ -124,7 +143,7 @@
     },
     {
       "artistName": "Billy Paul",
-      "coverArtDate": "2023-08-20T14:20:08.074Z",
+      "coverArtDate": "2023-09-26T20:08:31.959Z",
       "coverArtLarge": "https://i.discogs.com/fCSeFwZKUItYlC-uEfQ_YaMLBdqkDOqqJ27DsX2oF_8/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODIw/Ni0xNTk5Njk4Mjk4/LTgwODQuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/uFfMEo3UcktO0IwewzSwHNTMbDx1Tm7Gt_ue-2vwsqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODIw/Ni0xNTk5Njk4Mjk4/LTgwODQuanBlZw.jpeg",
       "publisher": "Legacy Recordings",
@@ -135,7 +154,7 @@
     },
     {
       "artistName": "Margaret Singana",
-      "coverArtDate": "2023-08-20T14:20:09.612Z",
+      "coverArtDate": "2023-09-26T20:08:33.600Z",
       "coverArtLarge": "https://i.discogs.com/0mcqX4kcc3eNzbvTzr0OOFJ6Z3nA4jGLy6_czTs6W88/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTQ0/MDItMTUwODE3NjY4/OS03MDExLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/9Z-zFFcqcRWU32UXXYu9vnX3Wwpx9oJIo-4jZKF9pnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTQ0/MDItMTUwODE3NjY4/OS03MDExLmpwZWc.jpeg",
       "publisher": "Jo'Burg",
@@ -146,7 +165,7 @@
     },
     {
       "artistName": "Aloe Blacc",
-      "coverArtDate": "2023-08-20T14:20:11.247Z",
+      "coverArtDate": "2023-09-26T20:08:35.272Z",
       "coverArtLarge": "https://i.discogs.com/Zysz1fLfR4BBfVSodDV034FU4YxYtGsm1Xei4d29dPY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkw/NzUtMTM2NTA5ODIz/Ni04NDExLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/zD2GHVWUSBF0B2TwdrUFeQTPGvPCIExGq2zXC32Onrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDkw/NzUtMTM2NTA5ODIz/Ni04NDExLmpwZWc.jpeg",
       "publisher": "Stones Throw Records",
@@ -157,7 +176,7 @@
     },
     {
       "artistName": "The Spinners",
-      "coverArtDate": "2023-08-20T14:20:12.795Z",
+      "coverArtDate": "2023-09-26T20:08:36.792Z",
       "coverArtLarge": "https://i.discogs.com/5I2ClruLnoxc0Y_5lblSrFKOtHWQsKGMHskl5aJlopI/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNzM1/LTE2NDQ3OTE0NDUt/MzIxNS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/9d6aAQXRQfcVLPkiQPL-hfXPeuFEsi1HCukX2Asz2sA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNzM1/LTE2NDQ3OTE0NDUt/MzIxNS5qcGVn.jpeg",
       "publisher": "V.I.P.",
@@ -168,7 +187,7 @@
     },
     {
       "artistName": "Beastie Boys",
-      "coverArtDate": "2023-08-20T14:20:14.814Z",
+      "coverArtDate": "2023-09-26T20:08:38.622Z",
       "coverArtLarge": "https://i.discogs.com/zdguqrS5Q2Y2KJ_lNAU3THqxhycvf1pVesk2R6hKISM/rs:fit/g:sm/q:90/h:401/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE2/NTUtMTMxMjIzMTU5/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/ye-NPvix6aJ0Zcs7oX3HBKCK6KsmyantFWc077MtDuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzE2/NTUtMTMxMjIzMTU5/MS5qcGVn.jpeg",
       "publisher": "Capitol",
@@ -179,7 +198,7 @@
     },
     {
       "artistName": "The Baker Brothers",
-      "coverArtDate": "2023-08-20T14:20:16.345Z",
+      "coverArtDate": "2023-09-26T20:08:40.254Z",
       "coverArtLarge": "https://i.discogs.com/ZPQPLhU6DWosGUNpIUKVUh4mf7DM6OKXbIrxWIll3Rs/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY1/MDQtMTM0NjY5NDAw/MC00ODA0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/rkO3aG7Z28wGw3VNFubImxZJfOI67HOpjjaETSaqsJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY1/MDQtMTM0NjY5NDAw/MC00ODA0LmpwZWc.jpeg",
       "publisher": "",
@@ -190,7 +209,7 @@
     },
     {
       "artistName": "The Rebirth",
-      "coverArtDate": "2023-08-20T14:20:17.786Z",
+      "coverArtDate": "2023-09-26T20:08:42.000Z",
       "coverArtLarge": "https://i.discogs.com/k_to6Ik7PY3PQX1HT5L1DInr1VKOxTbttlflbC7lc2I/rs:fit/g:sm/q:90/h:350/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE1/MDYtMTM1MzYxNTk2/Mi00OTU3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/GcvsPXUHqKWbpM5-UTl2Qfdc_rpzHyg_MQ_Os0_m0oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTE1/MDYtMTM1MzYxNTk2/Mi00OTU3LmpwZWc.jpeg",
       "publisher": "Ubiquity",
@@ -201,7 +220,7 @@
     },
     {
       "artistName": "The Specials",
-      "coverArtDate": "2023-08-20T14:20:19.546Z",
+      "coverArtDate": "2023-09-26T20:08:43.760Z",
       "coverArtLarge": "https://i.discogs.com/l7pehbSgqgh3rVKtZSUSj6hV3JiqjZuSH2PUntasTnM/rs:fit/g:sm/q:90/h:538/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc2/ODgtMTY3MjkyNzU2/Mi0zMDUxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Im374ETIi3vlOxJwf8iz54Oz-_6SdiFX0ctf0NHyBlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc2/ODgtMTY3MjkyNzU2/Mi0zMDUxLmpwZWc.jpeg",
       "publisher": "Two-Tone Records",
@@ -212,7 +231,7 @@
     },
     {
       "artistName": "Jackson Sisters",
-      "coverArtDate": "2023-08-20T14:20:21.613Z",
+      "coverArtDate": "2023-09-26T20:08:45.375Z",
       "coverArtLarge": "https://i.discogs.com/CN_-QpfAVLRT1xOwOpgdB9HzSbqvs-pnEhOAVXcIe_I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzAy/MC0xNTAzNDQxNDI0/LTU0NjUuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/yTOOPy8lutNNMu-kdzRaeadRj_ZzeLN-BWpRh-8YSIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzAy/MC0xNTAzNDQxNDI0/LTU0NjUuanBlZw.jpeg",
       "publisher": "Mums Records",
@@ -223,7 +242,7 @@
     },
     {
       "artistName": "Marva Whitney",
-      "coverArtDate": "2023-08-20T14:20:23.232Z",
+      "coverArtDate": "2023-09-26T20:08:47.216Z",
       "coverArtLarge": "https://i.discogs.com/UADq0RFC-kx1JE8nBkqG4lMr8szs4XE4K78wJkTvBdI/rs:fit/g:sm/q:90/h:599/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAw/MTktMTM5NDM5Nzg0/NS0zOTM2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/9PiN55zR37BSuXRD6dYHyGy0N4w2kX2CCe_EE_0qU8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzAw/MTktMTM5NDM5Nzg0/NS0zOTM2LmpwZWc.jpeg",
       "publisher": "Polydor",
@@ -234,7 +253,7 @@
     },
     {
       "artistName": "The Tempations",
-      "coverArtDate": "2023-08-20T14:20:24.665Z",
+      "coverArtDate": "2023-09-26T20:08:48.643Z",
       "coverArtLarge": "https://i.discogs.com/PgUB1t0ism-cQI6jeD_sUjtWoo_5y8cdpvmFMx7-usY/rs:fit/g:sm/q:90/h:851/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEy/NjkyLTE1NjgwNjcz/NTctNzg3Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/UNOL-in7NhV3ioapg3iDbhkUiSUcDk0aDMzBb_XMOeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEy/NjkyLTE1NjgwNjcz/NTctNzg3Ni5qcGVn.jpeg",
       "publisher": "Motown",
@@ -245,7 +264,7 @@
     },
     {
       "artistName": "The Trammps",
-      "coverArtDate": "2023-08-20T14:20:26.201Z",
+      "coverArtDate": "2023-09-26T20:08:50.195Z",
       "coverArtLarge": "https://i.discogs.com/YBqx68W-4Wy_R_5eWujkSZZGrcKkFYwk3QXIm28Ytv8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg5/NjUtMTI3MzIzNDI5/OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/3C6xjhuV5WJFCXhwd_9zQ-ROu2DO3Eszk6t2bOMVpag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg5/NjUtMTI3MzIzNDI5/OS5qcGVn.jpeg",
       "publisher": "Warner",
@@ -256,7 +275,7 @@
     },
     {
       "artistName": "Martha Reeves & The Vandellas",
-      "coverArtDate": "2023-08-20T14:20:27.820Z",
+      "coverArtDate": "2023-09-26T20:08:52.074Z",
       "coverArtLarge": "https://i.discogs.com/_Yprosl1Vai6ah6MSqWBQDGR9JCzT_oZkjiO21Lh7zM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI4/NTQtMTY4MzgyNzIw/Ni0xMTAxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Mhg3nvKfoEwNdClDQaGgqzwGOegWHMvoIuPn7R_v9W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDI4/NTQtMTY4MzgyNzIw/Ni0xMTAxLmpwZWc.jpeg",
       "publisher": "Motown",
@@ -267,7 +286,7 @@
     },
     {
       "artistName": "The Four Tops",
-      "coverArtDate": "2023-08-20T14:20:29.757Z",
+      "coverArtDate": "2023-09-26T20:08:53.875Z",
       "coverArtLarge": "https://i.discogs.com/kuizCReVLR0LW_PNFHRLYDtNE1LjsnfI9bmbq2jmmFY/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjEw/OTktMTQ2MTI3MjUw/MS0yNDI1LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/xlRM50IkjKjyLFL0VBawRLvrJvfnQRanp-tBYtiZvJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjEw/OTktMTQ2MTI3MjUw/MS0yNDI1LmpwZWc.jpeg",
       "publisher": "Motown",
@@ -278,7 +297,7 @@
     },
     {
       "artistName": "The Supremes",
-      "coverArtDate": "2023-08-20T14:20:31.332Z",
+      "coverArtDate": "2023-09-26T20:08:55.512Z",
       "coverArtLarge": "https://i.discogs.com/NzhUfawQWRdttktPj3Ae-GZJMCcgo_HgDUE_yN5h_Ms/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjYz/MC0xNDUzNTAzODg5/LTI0MTEuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/OvdwsLZoumnAGklPkY0FTpO3vt0Ni4ptc8TXJjiPON0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjYz/MC0xNDUzNTAzODg5/LTI0MTEuanBlZw.jpeg",
       "publisher": "Motown",
@@ -289,7 +308,7 @@
     },
     {
       "artistName": "Paul Weller",
-      "coverArtDate": "2023-08-20T14:20:32.804Z",
+      "coverArtDate": "2023-09-26T20:08:57.257Z",
       "coverArtLarge": "https://i.discogs.com/pjU_H1px4PV3gpBgC0LAbLhbbo2W-RGC0c2RecOb-F4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ5/ODEtMTQ0ODAxMzY3/Ni00OTM5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/hQCH4Ywgkmg3iIgM2RDm-mMDClfYIdsll3rjD5Viza0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQ5/ODEtMTQ0ODAxMzY3/Ni00OTM5LmpwZWc.jpeg",
       "publisher": "V2",
@@ -300,7 +319,7 @@
     },
     {
       "artistName": "Rob Tex",
-      "coverArtDate": "2023-08-20T14:20:34.576Z",
+      "coverArtDate": "2023-09-26T20:08:58.799Z",
       "coverArtLarge": "https://i.discogs.com/ZwUIW_KWHuOUYJ6yRXOlUDQAaM4Hj9UKbT50d9F1mkA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/NjctMTM0MDYyMDY1/Mi0xNDExLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/DlG5tkLfRQFuhxskUxzo42Ik-V2ezWYWyaHfeCeoOms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/NjctMTM0MDYyMDY1/Mi0xNDExLmpwZWc.jpeg",
       "publisher": "EDR Records",
@@ -311,7 +330,7 @@
     },
     {
       "artistName": "The Isley Brothers",
-      "coverArtDate": "2023-08-20T14:20:36.255Z",
+      "coverArtDate": "2023-09-26T20:09:00.431Z",
       "coverArtLarge": "https://i.discogs.com/cuDBgllQORx2SpNCgV0Za5T0lnMjIdB7bZ6efDh4VG4/rs:fit/g:sm/q:90/h:604/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NTEy/LTE1MDAxOTMxNDAt/NDIxNy5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/kJyrBF1yYM1cf2L2kO_Ryf2jpAvpyEH4G1gRhTJcb8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NTEy/LTE1MDAxOTMxNDAt/NDIxNy5qcGVn.jpeg",
       "publisher": "Tamla",

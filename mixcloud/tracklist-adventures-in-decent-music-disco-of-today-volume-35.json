@@ -1,9 +1,26 @@
 {
+  "category": "aidm",
+  "coverArtDate": "2023-09-26T19:20:20.523Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/3/3/3/d/5497-8605-4acc-b65f-c51d6d5ab8e1",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/3/3/3/d/5497-8605-4acc-b65f-c51d6d5ab8e1",
+  "duration": "1:00:10",
+  "fileName": "Adventures_in_Decent_Music_Vol._35_disco_of_today_hifi.mp3",
+  "listOrder": 35,
   "mixcloudKey": "adventures-in-decent-music-disco-of-today-volume-35",
+  "name": "Adventures in Decent Music - Disco of Today - Volume 35",
+  "notes": "Compiled & mixed by Stef",
+  "releaseDate": "July 2013",
+  "shortName": "AIDM - Volume 35",
+  "tags": [
+    "house",
+    "disco",
+    "nu disco",
+    "disco house"
+  ],
   "tracks": [
     {
       "artistName": "Superbreak",
-      "coverArtDate": "2023-08-10T13:31:47.809Z",
+      "coverArtDate": "2023-09-26T20:13:01.492Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "CDR",
@@ -14,7 +31,7 @@
     },
     {
       "artistName": "Moon Boots",
-      "coverArtDate": "2023-08-10T13:31:49.427Z",
+      "coverArtDate": "2023-09-26T20:13:03.307Z",
       "coverArtLarge": "https://i.discogs.com/UkaXL-egngWOQnnYoXaYQg8itMnluf28TyFk_a0h5m4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg1/MzgtMTMzMzYzNTc0/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/BBbX44hyp8yoeAzqJKrJOxFPiSIpfNpNJevKato90GY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTg1/MzgtMTMzMzYzNTc0/MS5qcGVn.jpeg",
       "publisher": "French Express",
@@ -25,7 +42,7 @@
     },
     {
       "artistName": "Roberto Rodriguez",
-      "coverArtDate": "2023-08-10T13:31:50.964Z",
+      "coverArtDate": "2023-09-26T20:13:04.976Z",
       "coverArtLarge": "https://i.discogs.com/Q6Iqr8V_9J5FZkeQ1PUcyKe7muN5Ebx_5ASztwY0vrc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQx/NzYtMTM2NTQxNTcw/MC05MTUwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/tljKCvIY8S2xMZkWcnyyPKB_JO1PPWN4vz_CcofyC0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTQx/NzYtMTM2NTQxNTcw/MC05MTUwLmpwZWc.jpeg",
       "publisher": "Serenades",
@@ -36,7 +53,7 @@
     },
     {
       "artistName": "Lovebirds",
-      "coverArtDate": "2023-08-10T13:31:52.498Z",
+      "coverArtDate": "2023-09-26T20:13:06.586Z",
       "coverArtLarge": "https://i.discogs.com/zW8Mvmwt-Y3B-mEGe_UAjh6QXb8UhwzhUX1M0Q-6EAE/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzkw/NS0xMTczMzEwOTY0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/UC-vLO6Hv6W3et_tB5f4gW4CVBxovcnm8PLANd-u9CU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzkw/NS0xMTczMzEwOTY0/LmpwZWc.jpeg",
       "publisher": "Winding Road Records",
@@ -47,7 +64,7 @@
     },
     {
       "artistName": "DJ Cole Medina",
-      "coverArtDate": "2023-08-10T13:31:53.930Z",
+      "coverArtDate": "2023-09-26T20:13:08.761Z",
       "coverArtLarge": "https://i.discogs.com/6Rfct7u2MoAGnKSAf2cfDcEBY4EMNVbUL_WaXG7M23I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ1/NTctMTI5NTY4NzU1/NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/dvFOZp-oU5-29E1nCzYh80Dpv4AHVNgX-jcma15y-78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQ1/NTctMTI5NTY4NzU1/NS5qcGVn.jpeg",
       "publisher": "America Standard Recordings",
@@ -58,8 +75,8 @@
     },
     {
       "artistName": "Hot Toddy",
-      "coverArtDate": "2023-08-10T13:31:55.480Z",
-      "coverArtLarge": "https://st.discogs.com/b90fc52a89c0a9e1bd0b56e4c42b6d344f53535a/images/spacer.gif",
+      "coverArtDate": "2023-09-26T20:13:10.408Z",
+      "coverArtLarge": "https://st.discogs.com/b51f5dcdfe66323502d65e355957f906cdf7091f/images/spacer.gif",
       "coverArtSmall": "",
       "publisher": "Smoke N' Mirrors",
       "remixArtistName": "Original Mix",
@@ -69,7 +86,7 @@
     },
     {
       "artistName": "Freekwency",
-      "coverArtDate": "2023-08-10T13:31:56.911Z",
+      "coverArtDate": "2023-09-26T20:13:12.018Z",
       "coverArtLarge": "https://i.discogs.com/1C1Tjn2ewF-AUki07VoOAsTzEM8nOQ5D7aey1Vv4IpA/rs:fit/g:sm/q:90/h:561/w:551/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc1/MjctMTMwMTkzNDg1/Ni5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/BMEAy3nZ3T2nYr93s85IhA5AkBYW4bHYWgR9uJL4PHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDc1/MjctMTMwMTkzNDg1/Ni5qcGVn.jpeg",
       "publisher": "Voyeurhythm",
@@ -80,7 +97,7 @@
     },
     {
       "artistName": "Robert Owens & Atjazz",
-      "coverArtDate": "2023-08-10T13:31:58.333Z",
+      "coverArtDate": "2023-09-26T20:13:13.807Z",
       "coverArtLarge": "https://i.discogs.com/gYYMzHswjTJK0hA1ftrs6k-PqcUsvi5b4fidxxX8r_k/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcw/OTEtMTI4OTg1MDM3/NC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/JPTE5-VU_3aLM3T1Im-_-s0sjZnjGIa_FueWtck1fy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDcw/OTEtMTI4OTg1MDM3/NC5qcGVn.jpeg",
       "publisher": "Compost",
@@ -91,7 +108,7 @@
     },
     {
       "artistName": "Tornado Wallace",
-      "coverArtDate": "2023-08-10T13:31:59.716Z",
+      "coverArtDate": "2023-09-26T20:13:15.346Z",
       "coverArtLarge": "https://i.discogs.com/W-Ouu-59dXGHjr57teRIMaVb9xg42PJHvcv3PAZNKi8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjg4/MzMtMTQ4MDQ0NTk5/NS04NTU5LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/jfEGYPCrQyVlhTWWYG3BFUJHVa6rDGD9EaaeENBKik8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjg4/MzMtMTQ4MDQ0NTk5/NS04NTU5LmpwZWc.jpeg",
       "publisher": "Instruments Of Rapture",
@@ -102,7 +119,7 @@
     },
     {
       "artistName": "Kartell",
-      "coverArtDate": "2023-08-10T13:32:01.508Z",
+      "coverArtDate": "2023-09-26T20:13:16.786Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "CDR",
@@ -113,7 +130,7 @@
     },
     {
       "artistName": "Johnny Dynell",
-      "coverArtDate": "2023-08-10T13:32:03.147Z",
+      "coverArtDate": "2023-09-26T20:13:18.610Z",
       "coverArtLarge": "https://i.discogs.com/o9joa9uLWERsiYkDaNrmGRVoItHZuC-AagBKrPAfRno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/MC0xMzA4MTQwMjc0/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/lNHCrktQ5LJN6xYiokg2-hCBrYm_O86WHZU3aRYqxOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDg5/MC0xMzA4MTQwMjc0/LmpwZWc.jpeg",
       "publisher": "White Label",

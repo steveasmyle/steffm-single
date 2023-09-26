@@ -1,9 +1,27 @@
 {
+  "category": "mpos",
+  "coverArtDate": "2023-09-26T19:20:12.532Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/b/0/4/5/20d4-5c3f-4aa3-8d4a-6f41a9b34711",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/b/0/4/5/20d4-5c3f-4aa3-8d4a-6f41a9b34711",
+  "duration": "01:06:31",
+  "fileName": "stef_-_my_pair_of_shoes_vol._84.mp3",
+  "listOrder": 84,
   "mixcloudKey": "my-pair-of-shoes-volume-84",
+  "name": "My Pair of Shoes - Volume 84",
+  "notes": "Bloody 'ell, 3 months past without a proper new pair of shoes... waiting time is over, here's a brand new bag of mixed goodies all around +/- 120 bpm...",
+  "releaseDate": "01 May 2014",
+  "shortName": "MPOS - Volume 84",
+  "tags": [
+    "house",
+    "soulful house",
+    "funky house",
+    "jazzy house",
+    "120bpm"
+  ],
   "tracks": [
     {
       "artistName": "Wookie feat. Zak Abel ",
-      "coverArtDate": "2023-08-02T21:08:57.706Z",
+      "coverArtDate": "2023-09-26T20:10:38.438Z",
       "coverArtLarge": "https://i.discogs.com/6I6KY_XyG4CwWg1U3tJfzRewvkLH9MsQmRKvqgIyZuI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI0/OTQ2LTE1NTM5NTgy/MzEtMjk1Mi5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/P2L1ALAITvZgMvGfABS3XNFBwGCK8VIW0TTj52mI4MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI0/OTQ2LTE1NTM5NTgy/MzEtMjk1Mi5qcGVn.jpeg",
       "publisher": "Manchu Recordings",
@@ -14,7 +32,7 @@
     },
     {
       "artistName": "Cartier Fraser",
-      "coverArtDate": "2023-08-02T21:08:59.105Z",
+      "coverArtDate": "2023-09-26T20:10:40.104Z",
       "coverArtLarge": "https://i.discogs.com/vwmv8X-gDQS8thNhzw13fGDB_o6lBcLYBO27LeEOWD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTk0LTE1NTQ0ODIz/MjEtNDY2OS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/aztDhb50TZMDZhY3MuNYTUhdUVMpMQx5qnJP0XoXUKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUy/MTk0LTE1NTQ0ODIz/MjEtNDY2OS5qcGVn.jpeg",
       "publisher": "Soul-Fi Records",
@@ -25,7 +43,7 @@
     },
     {
       "artistName": "Kenny Dope & Raheem DeVaughn feat. Rhymefest",
-      "coverArtDate": "2023-08-02T21:09:00.434Z",
+      "coverArtDate": "2023-09-26T20:10:41.497Z",
       "coverArtLarge": "https://i.discogs.com/zSg9GOvWa5_LxG6OhALwjqmXTawO20cdVJM1A614m9U/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAy/NTgtMTQwNDQyMjI3/Ny00MzA3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/XTICo51wwRfZhWuKR_R0dVW7jv5U5aVuWRbtwtKhglI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAy/NTgtMTQwNDQyMjI3/Ny00MzA3LmpwZWc.jpeg",
       "publisher": "Kay-Dee",
@@ -36,7 +54,7 @@
     },
     {
       "artistName": "Keumel",
-      "coverArtDate": "2023-08-02T21:09:01.820Z",
+      "coverArtDate": "2023-09-26T20:10:42.915Z",
       "coverArtLarge": "https://i.discogs.com/Zhzll4lB4PCr5TN5oH6D7-isrbj20CKxOn3XqnFIoEs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE3/MzgtMTM3NDM0ODYx/MC05OTYzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/93cgjHdWOhr4QOg0_LAb1aCOxAqxtBOWb09hHC2-k20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTE3/MzgtMTM3NDM0ODYx/MC05OTYzLmpwZWc.jpeg",
       "publisher": "Local Talk",
@@ -47,7 +65,7 @@
     },
     {
       "artistName": "Gregg Diamond",
-      "coverArtDate": "2023-08-02T21:09:03.438Z",
+      "coverArtDate": "2023-09-26T20:10:44.735Z",
       "coverArtLarge": "https://i.discogs.com/wpgIRGfa3CcCuQr-5lvk5N3fPuAppTp3vC3W7ex-YU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MS0xMjAzNDY0MTk1/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/2aRPvqXqGeUp23wPT9p5tHsK8xn4HiOSc9fr6vgdATo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTU5/MS0xMjAzNDY0MTk1/LmpwZWc.jpeg",
       "publisher": "CDr",
@@ -58,7 +76,7 @@
     },
     {
       "artistName": "Moon Boots",
-      "coverArtDate": "2023-08-02T21:09:04.870Z",
+      "coverArtDate": "2023-09-26T20:10:47.023Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "French Express",
@@ -69,7 +87,7 @@
     },
     {
       "artistName": "The Sunburst Band feat. Angela Johnson",
-      "coverArtDate": "2023-08-02T21:09:06.403Z",
+      "coverArtDate": "2023-09-26T20:10:49.833Z",
       "coverArtLarge": "https://i.discogs.com/cYpn6rbepD6JtR1DfkcJq80b0IthgbGdeCY94D5Wa0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzI4/MTEtMTQ2MjI4ODQ4/Ny05NTI2LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/dipcXqvEU3LSpParUzxByUWcpw53dHIQqfm6-Wa5RUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzI4/MTEtMTQ2MjI4ODQ4/Ny05NTI2LmpwZWc.jpeg",
       "publisher": "Z Records",
@@ -80,7 +98,7 @@
     },
     {
       "artistName": "Captain Obvious",
-      "coverArtDate": "2023-08-02T21:09:07.840Z",
+      "coverArtDate": "2023-09-26T20:10:51.346Z",
       "coverArtLarge": "https://i.discogs.com/yi5xZ7SKb6XBdcJy6gLbsn_1q__UoQfYkmJvzdbhgvE/rs:fit/g:sm/q:90/h:517/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDAw/Mi0xMTQ1MDI3NzUy/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/RC285PkXCTNI9CdrjWMLYXdYkheMzQ1TQbV_mZ_w68c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDAw/Mi0xMTQ1MDI3NzUy/LmpwZWc.jpeg",
       "publisher": "Guess Who",
@@ -91,7 +109,7 @@
     },
     {
       "artistName": "Chasing Kurt",
-      "coverArtDate": "2023-08-02T21:09:09.477Z",
+      "coverArtDate": "2023-09-26T20:10:52.701Z",
       "coverArtLarge": "https://i.discogs.com/AJkBO_twORlM9KKvp7wZykEi1DZjKfK3CNsy5IYsIEg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA1/OTUtMTM5MjIzNzg4/OS05NjcwLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/MsMKAI0gZSuBLElfL0poSv6H-NMVrauvnZ1zYr4Xkbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA1/OTUtMTM5MjIzNzg4/OS05NjcwLmpwZWc.jpeg",
       "publisher": "Dfctd",
@@ -102,7 +120,7 @@
     },
     {
       "artistName": "Tommy Largo & Menno Overvliet",
-      "coverArtDate": "2023-08-02T21:09:11.009Z",
+      "coverArtDate": "2023-09-26T20:10:54.208Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Deepjacking Recordings",
@@ -113,7 +131,7 @@
     },
     {
       "artistName": "The Crusaders feat. Randy Crawford",
-      "coverArtDate": "2023-08-02T21:09:12.551Z",
+      "coverArtDate": "2023-09-26T20:10:55.838Z",
       "coverArtLarge": "https://i.discogs.com/3A7y-G2A5zrj1FcQ4o-jJUnS366Y6DHl1JNq2WP9drE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTA4/MDctMTQ4NjM3Mjk0/NC00MDE0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Kx4tYwVAQy1S7-Zwpu2DhywP0wUGM8yt3fp0QksK8UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3OTA4/MDctMTQ4NjM3Mjk0/NC00MDE0LmpwZWc.jpeg",
       "publisher": "CDr",

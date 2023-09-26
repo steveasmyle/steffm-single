@@ -1,9 +1,28 @@
 {
+  "category": "special",
+  "coverArtDate": "2023-09-26T19:18:58.882Z",
+  "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/a/3/0/3/b4fe-c81c-4095-9fee-f54c3954872e",
+  "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/a/3/0/3/b4fe-c81c-4095-9fee-f54c3954872e",
+  "duration": "02:05:00",
+  "fileName": "Bluey_On_Solar_Radio_02._June_2007_hifi.mp3",
+  "listOrder": 6,
   "mixcloudKey": "bluey-on-solar-radio-2007",
+  "name": "Bluey on Solar Radio - 2007",
+  "notes": "Recorded by TheDufster",
+  "releaseDate": "02 June 2007",
+  "shortName": "Special - Bluey on Solar Radio",
+  "tags": [
+    "soul",
+    "r'n'b",
+    "acid jazz",
+    "incognito",
+    "bluey",
+    "special"
+  ],
   "tracks": [
     {
       "artistName": "Ronnie Laws & Pressure",
-      "coverArtDate": "2023-08-20T13:45:31.616Z",
+      "coverArtDate": "2023-09-26T19:31:43.374Z",
       "coverArtLarge": "https://i.discogs.com/e-ItDVH16LqpEHI48u4KVSlPotHwS69em-Iv7M3Tjr4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUy/MzY4LTE2NDYxNzk3/OTctNzk4MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/D0CsDj6ZscfwaZRq7KwqnyDsPT4IjFB80C5Ur2gjU9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzUy/MzY4LTE2NDYxNzk3/OTctNzk4MS5qcGVn.jpeg",
       "publisher": "Blue Note",
@@ -14,7 +33,7 @@
     },
     {
       "artistName": "Incognito",
-      "coverArtDate": "2023-08-20T13:45:33.253Z",
+      "coverArtDate": "2023-09-26T19:31:45.115Z",
       "coverArtLarge": "https://i.discogs.com/tix8MKCdqULfYKPuIakP5Umlv1Z03lkCmIfs4S6nUg4/rs:fit/g:sm/q:90/h:532/w:520/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM1/LTE1ODc2NTgzODct/NjA0NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/1S6MD8emI31j7IfT_0MPujK1RArm_EYRVWpKIylIUOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjM1/LTE1ODc2NTgzODct/NjA0NS5qcGVn.jpeg",
       "publisher": "in-akustik",
@@ -25,7 +44,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:34.602Z",
+      "coverArtDate": "2023-09-26T19:31:46.488Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -36,7 +55,7 @@
     },
     {
       "artistName": "Donnie",
-      "coverArtDate": "2023-08-20T13:45:36.123Z",
+      "coverArtDate": "2023-09-26T19:31:47.960Z",
       "coverArtLarge": "https://i.discogs.com/V-R9ck_h8ptkS020xQqno1cqMgVArxlZrLYEfQk4GPE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQz/MTktMTMyNzA5MTk2/NS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/NOWE2fP0Kj7mmecnVPKLswRCl9vPn_yi43VKvU9nbiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTQz/MTktMTMyNzA5MTk2/NS5qcGVn.jpeg",
       "publisher": "Dome Records",
@@ -47,7 +66,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:37.431Z",
+      "coverArtDate": "2023-09-26T19:31:49.321Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -58,7 +77,7 @@
     },
     {
       "artistName": "Roy Ayres",
-      "coverArtDate": "2023-08-20T13:45:38.802Z",
+      "coverArtDate": "2023-09-26T19:31:50.922Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Universal",
@@ -69,7 +88,7 @@
     },
     {
       "artistName": "Quincy Jones",
-      "coverArtDate": "2023-08-20T13:45:40.344Z",
+      "coverArtDate": "2023-09-26T19:31:52.481Z",
       "coverArtLarge": "https://i.discogs.com/Ycf77DGNeTFmNxZ79vaj1uxNqdadM8hTuhUjWqqjGYQ/rs:fit/g:sm/q:90/h:645/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjMz/MTYtMTQ2MjExMTU2/Ny00MzIxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/t42kv5Vqz3e8lQja9x4rHmp_ZsrIPJXe_Awm_SJQkXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NjMz/MTYtMTQ2MjExMTU2/Ny00MzIxLmpwZWc.jpeg",
       "publisher": "A&M",
@@ -80,7 +99,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:42.067Z",
+      "coverArtDate": "2023-09-26T19:31:53.869Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -91,7 +110,7 @@
     },
     {
       "artistName": "Push",
-      "coverArtDate": "2023-08-20T13:45:43.770Z",
+      "coverArtDate": "2023-09-26T19:31:55.530Z",
       "coverArtLarge": "https://i.discogs.com/e9Ycp8RKlGgPGMoDLKe5AMW32ObujjYm_pGqXvI_cd4/rs:fit/g:sm/q:90/h:547/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQx/ODItMTMzNzgwOTU4/OC03MzU3LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/Kjsa3Tcx5HzrNhuBlx6UErQhhjocUMuxSmT4KhMXKYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjQx/ODItMTMzNzgwOTU4/OC03MzU3LmpwZWc.jpeg",
       "publisher": "Push Records",
@@ -102,7 +121,7 @@
     },
     {
       "artistName": "Gilberto Gil",
-      "coverArtDate": "2023-08-20T13:45:45.260Z",
+      "coverArtDate": "2023-09-26T19:31:57.481Z",
       "coverArtLarge": "https://i.discogs.com/o_qtmgXDeZQGOwyIe6_-zyK2Vy6E79OxG2XY52aFhqI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE0/NTE0LTE1Mzc4MjY1/MjktMzczNS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/w6f3qb_0mnY3xO_QlQsLfYM4PiHBMH2WO0ZfmFgz6y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE0/NTE0LTE1Mzc4MjY1/MjktMzczNS5qcGVn.jpeg",
       "publisher": "WM Brazil",
@@ -113,7 +132,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:46.553Z",
+      "coverArtDate": "2023-09-26T19:31:58.922Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -124,7 +143,7 @@
     },
     {
       "artistName": "Diplomats of Soul",
-      "coverArtDate": "2023-08-20T13:45:47.991Z",
+      "coverArtDate": "2023-09-26T19:32:00.343Z",
       "coverArtLarge": "https://i.discogs.com/Zq3UPC--Wp3SNFBMKzadK-MTJpC4ObMO5gHHKcdXnKY/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODQz/Ni0xNDM5ODQyNzY0/LTQ3ODMuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/ZSlFV5Tnaumk_XI0MvthFhLaG0aWSPj8nDBPSaCvCfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODQz/Ni0xNDM5ODQyNzY0/LTQ3ODMuanBlZw.jpeg",
       "publisher": "Expansion Records",
@@ -135,7 +154,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:49.321Z",
+      "coverArtDate": "2023-09-26T19:32:01.669Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -146,7 +165,7 @@
     },
     {
       "artistName": "Lupe Fiaso",
-      "coverArtDate": "2023-08-20T13:45:50.668Z",
+      "coverArtDate": "2023-09-26T19:32:03.031Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Atlantic Records",
@@ -157,7 +176,7 @@
     },
     {
       "artistName": "Leela James",
-      "coverArtDate": "2023-08-20T13:45:52.200Z",
+      "coverArtDate": "2023-09-26T19:32:05.670Z",
       "coverArtLarge": "https://i.discogs.com/lPpyc3uRKxP3Zcq8EqCB6cwNImuVxOMUy4ftciTDLBs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDM3/NzItMTU0NzU4NDc1/OC01MjExLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/K_cJavePmFJCsGISJHMljmMbC3GRzLOPyYaLxm08dfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDM3/NzItMTU0NzU4NDc1/OC01MjExLmpwZWc.jpeg",
       "publisher": "Warner Records",
@@ -168,7 +187,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:53.532Z",
+      "coverArtDate": "2023-09-26T19:32:07.036Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -179,7 +198,7 @@
     },
     {
       "artistName": "Philip Bailey",
-      "coverArtDate": "2023-08-20T13:45:55.038Z",
+      "coverArtDate": "2023-09-26T19:32:08.616Z",
       "coverArtLarge": "https://i.discogs.com/DN5wKqGPrMohXcPd8ING7UfRAGBBD2OmSBZAEfVGjFE/rs:fit/g:sm/q:90/h:520/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUw/NTItMTIwNjM5Mjcy/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/xJybaPnzmglzwJyeOcwz7MP1ZG3MXHzSsthfDYSWE7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUw/NTItMTIwNjM5Mjcy/MC5qcGVn.jpeg",
       "publisher": "Rhythm Republic",
@@ -190,7 +209,7 @@
     },
     {
       "artistName": "Joe Sample",
-      "coverArtDate": "2023-08-20T13:45:56.518Z",
+      "coverArtDate": "2023-09-26T19:32:10.169Z",
       "coverArtLarge": "https://i.discogs.com/ampGth4gFqIAohkmkj3UPWFyCRO0kgGZz8CbzWWL_e4/rs:fit/g:sm/q:90/h:232/w:233/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDY3/NDMtMTI5OTE4NzY0/MC5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/0KqFr4DulkYcY6g-gEudJpkAEV25oKjKObKJt8K_A-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDY3/NDMtMTI5OTE4NzY0/MC5qcGVn.jpeg",
       "publisher": "Blue Thumb",
@@ -201,7 +220,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:45:57.849Z",
+      "coverArtDate": "2023-09-26T19:32:11.688Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -212,7 +231,7 @@
     },
     {
       "artistName": "Johnny 'Guitar' Watson",
-      "coverArtDate": "2023-08-20T13:45:59.470Z",
+      "coverArtDate": "2023-09-26T19:32:13.339Z",
       "coverArtLarge": "https://i.discogs.com/H39lUvDSXdPI5m-ob9dJ7MGTZauAeA4MTBMumdxSOFI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTU4/OS0xMjk4MDA5MjEw/LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/99VjqUZomHMSk2iV_RXK9SK02sChs_VLpCiCONEn1tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTU4/OS0xMjk4MDA5MjEw/LmpwZWc.jpeg",
       "publisher": "Charly Records",
@@ -223,7 +242,7 @@
     },
     {
       "artistName": "Raheem DeVaughan",
-      "coverArtDate": "2023-08-20T13:46:00.825Z",
+      "coverArtDate": "2023-09-26T19:32:14.728Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Jive",
@@ -234,7 +253,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:46:02.151Z",
+      "coverArtDate": "2023-09-26T19:32:16.177Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -245,7 +264,7 @@
     },
     {
       "artistName": "Jair Oliveira",
-      "coverArtDate": "2023-08-20T13:46:03.668Z",
+      "coverArtDate": "2023-09-26T19:32:17.926Z",
       "coverArtLarge": "https://i.discogs.com/raMpd-rTgfTwhJXwiHbIZr4V4m0Ormvz5QjnmS2JZHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDEz/Ni0xNDg0MTQxMzAy/LTc3ODQuanBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/0FdruktEQS-g5O5a6v8TxBshjfvshqFbQHie5_wLNPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDEz/Ni0xNDg0MTQxMzAy/LTc3ODQuanBlZw.jpeg",
       "publisher": "Trama",
@@ -256,7 +275,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:46:04.984Z",
+      "coverArtDate": "2023-09-26T19:32:19.328Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -267,7 +286,7 @@
     },
     {
       "artistName": "George Benson",
-      "coverArtDate": "2023-08-20T13:46:06.456Z",
+      "coverArtDate": "2023-09-26T19:32:21.206Z",
       "coverArtLarge": "https://i.discogs.com/WgbnivhD8fc1sRqMNigmPUXP71f3HClLkWaEPsAQeBw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/MjItMTUwNzM3MzMx/MC0yMDg0LmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/2gCGmwuoETbAMbaFfX3CZO1Y2ugEuo5JNFqQzmopyGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE2/MjItMTUwNzM3MzMx/MC0yMDg0LmpwZWc.jpeg",
       "publisher": "GRP",
@@ -278,7 +297,7 @@
     },
     {
       "artistName": "Incognito",
-      "coverArtDate": "2023-08-20T13:46:07.969Z",
+      "coverArtDate": "2023-09-26T19:32:22.939Z",
       "coverArtLarge": "https://i.discogs.com/mdyy1iezpI13EIbyQ9B6GnVWgbDYyWWIRDaJe45XT0w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI4/ODAtMTM3MTQ1OTAz/MS00NTUxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/PoB2jVzPa_1zY9Sn1D-C_d2qGvN7GeRjB6ufepLujEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI4/ODAtMTM3MTQ1OTAz/MS00NTUxLmpwZWc.jpeg",
       "publisher": "Dome Records",
@@ -289,7 +308,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:46:09.340Z",
+      "coverArtDate": "2023-09-26T19:32:25.143Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -300,7 +319,7 @@
     },
     {
       "artistName": "Keo One",
-      "coverArtDate": "2023-08-20T13:46:10.735Z",
+      "coverArtDate": "2023-09-26T19:32:26.786Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Plug Label",
@@ -311,7 +330,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:46:12.035Z",
+      "coverArtDate": "2023-09-26T19:32:28.375Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -322,7 +341,7 @@
     },
     {
       "artistName": "Fania All Stars",
-      "coverArtDate": "2023-08-20T13:46:13.807Z",
+      "coverArtDate": "2023-09-26T19:32:30.577Z",
       "coverArtLarge": "https://i.discogs.com/xqdXqWTXRe_lmgkiYrs-sDJw37M0ej-SxQywbR_Qi7g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzEx/MTQtMTQwNTAwMzQw/Ny01MzQzLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/RTf0fwaE3L1W88syuo07R11W5fvaOg4t4MPkF0Zt5Nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzEx/MTQtMTQwNTAwMzQw/Ny01MzQzLmpwZWc.jpeg",
       "publisher": "Discophon",
@@ -333,7 +352,7 @@
     },
     {
       "artistName": "Bluey Chat",
-      "coverArtDate": "2023-08-20T13:46:15.115Z",
+      "coverArtDate": "2023-09-26T19:32:31.937Z",
       "coverArtLarge": "images/tracklist-placeholder-rick.gif",
       "coverArtSmall": "images/tracklist-placeholder-rick.gif",
       "publisher": "Solar Radio",
@@ -344,7 +363,7 @@
     },
     {
       "artistName": "Tower of Power",
-      "coverArtDate": "2023-08-20T13:46:16.880Z",
+      "coverArtDate": "2023-09-26T19:32:33.685Z",
       "coverArtLarge": "https://i.discogs.com/t6GS6E8zlVwtWU47T2la0JzX388xkuLcWtLnRMflkXI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODgx/NzYtMTQ0OTQzNTMx/NC01MjIxLmpwZWc.jpeg",
       "coverArtSmall": "https://i.discogs.com/nD5w9ZsNvFCbewtchVXIdPSH9qb1VLZPrxXXSfbVyP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODgx/NzYtMTQ0OTQzNTMx/NC01MjIxLmpwZWc.jpeg",
       "publisher": "Warner Records",
@@ -355,7 +374,7 @@
     },
     {
       "artistName": "Incognito",
-      "coverArtDate": "2023-08-20T13:46:18.437Z",
+      "coverArtDate": "2023-09-26T19:32:35.421Z",
       "coverArtLarge": "https://i.discogs.com/_nMMT7JGOIvs5WROHrXaLyLTWBGASNFZYpD24tuSUF8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjg5/LTEyMTUxNTIzNDYu/anBlZw.jpeg",
       "coverArtSmall": "https://i.discogs.com/kmQFG8V7Y3ungQ-wQx-CdhxfEKrX81t_Cx0vglEPzHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjg5/LTEyMTUxNTIzNDYu/anBlZw.jpeg",
       "publisher": "in-akustik",
@@ -366,7 +385,7 @@
     },
     {
       "artistName": "Wagon Cookin",
-      "coverArtDate": "2023-08-20T13:46:19.849Z",
+      "coverArtDate": "2023-09-26T19:32:36.965Z",
       "coverArtLarge": "https://i.discogs.com/I7NehrzH1ZZFswWVWlnTNh7yL6-WIUeTp9C1vcLjHpc/rs:fit/g:sm/q:90/h:512/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYw/NzktMTIxNTE2OTQ1/MS5qcGVn.jpeg",
       "coverArtSmall": "https://i.discogs.com/U-GstvKZqirp5FJHs7xymzbGVTuiOoPyMD9PegIacUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYw/NzktMTIxNTE2OTQ1/MS5qcGVn.jpeg",
       "publisher": "Compost Records",
