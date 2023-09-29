@@ -575,7 +575,7 @@ function getTrackFromTime(progress) {
 function togglePlaylist() {
     var playlistElement = document.querySelector('.playlist'); // selecting the first element with 'playlist' class
     var fauxBody = document.getElementById('fauxBody');
-    if (playlistElement.style.display === 'none') {
+    if (!playlistElement.style.display || playlistElement.style.display === 'none') {
         playlistElement.style.display = 'block';
         fauxBody.classList.remove('single');
     } else {
@@ -585,10 +585,12 @@ function togglePlaylist() {
 }
 
 function play() {
+    console.log("play", widget);
     widget.play();
 }
 
 function pause() {
+    console.log("pause");
     widget.pause();
 }
 
