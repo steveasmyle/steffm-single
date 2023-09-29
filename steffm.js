@@ -4,6 +4,7 @@ const config = {
     "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
     "volumeIncrement": 0.05,
     "loadMixcloud": true,
+    "hasShownFieldsets": false,
     "keyHold": {
         "repeatInterval": 100,
         "initialDelay": 500
@@ -496,7 +497,10 @@ function pauseListener() {
 function playListener() {
     flagPause.innerHTML = "";
     flagPlay.innerHTML = "PLAY";
-}
+    if (!config.hasShownFieldsets) {
+        showFieldsets();
+        hasShownFieldsets = true;
+    }}
 
 function progressListener(progress, duration) {
     mixState.progress = progress;
@@ -1214,6 +1218,29 @@ function getCurrentView() {
         if (document.getElementById(view).style.display === 'block') {
             return view;
         }
+    }
+}
+//#endregion
+
+// INITIAL LOAD FUNCTIONS
+//#region
+function showFieldsets() {
+    const section = document.querySelector('.player');
+    
+    if (section) {
+        const fieldsetContainer = section.querySelector('.fieldsets');
+
+        if (fieldsetContainer.style.display === 'none' || getComputedStyle(fieldsetContainer).display === 'none') {
+            fieldsetContainer.style.display = 'block'; // make it block first
+
+            // Use setTimeout to delay the change in maxHeight until after the browser has registered the display change
+            setTimeout(() => {
+                const scrollHeight = fieldsetContainer.scrollHeight; // get its actual height
+                fieldsetContainer.style.maxHeight = `${scrollHeight}px`; // animate to its full height
+            }, 0);
+        }
+    } else {
+        console.warn('Section with class "player" not found.');
     }
 }
 //#endregion
