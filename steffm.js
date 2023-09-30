@@ -4,7 +4,6 @@ const config = {
     "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
     "volumeIncrement": 0.05,
     "loadMixcloud": true,
-    "hasShownFieldsets": false,
     "keyHold": {
         "repeatInterval": 100,
         "initialDelay": 500
@@ -127,6 +126,7 @@ let widget;
 let mixState = {
     _currentlyPlayingPage: false,
     _currentVolume: 0.8,
+    _hasShownFieldsets: false,
     _intervalId: null,
     _lastPage: "categoryList",
     _lastActiveTrack: null,
@@ -174,6 +174,13 @@ let mixState = {
         }
 
         volumeIndicator.innerHTML = dashes;
+    },
+
+    get hasShownFieldsets() {
+        return this._hasShownFieldsets;
+    },
+    set hasShownFieldsets(value) {
+        this._hasShownFieldsets = value;
     },
 
     get intervalId() {
@@ -283,13 +290,23 @@ let mixState = {
         displayDiv.innerHTML = JSON.stringify(this, null, 2);
     },
     updateScroller() {
-        startScroller(
-            "displayMain",
-            this._mixcloudItemInfo.name,
-            config.output.characterCount,
-            config.output.tickInterval,
-            config.output.repeatInterval
-        );
+        if (!this._hasShownFieldsets) {
+            startScroller(
+                "displayMain",
+                "PRESS PLAY",
+                config.output.characterCount,
+                config.output.tickInterval,
+                config.output.repeatInterval
+            );
+        } else {
+            startScroller(
+                "displayMain",
+                this._mixcloudItemInfo.name,
+                config.output.characterCount,
+                config.output.tickInterval,
+                config.output.repeatInterval
+            );
+        }
     },
 
     get timeoutId() {
@@ -497,12 +514,13 @@ function pauseListener() {
 function playListener() {
     flagPause.innerHTML = "";
     flagPlay.innerHTML = "PLAY";
-    if (!config.hasShownFieldsets) {
+    if (!mixState.hasShownFieldsets) {
         const fieldsetContainer = document.querySelector('.player .fieldsets');
         if (fieldsetContainer) {
             animateContent(fieldsetContainer);
+            mixState.hasShownFieldsets = true;
+            mixState.updateScroller();            
         }
-        hasShownFieldsets = true;
     }
 }
 
@@ -1225,7 +1243,7 @@ function getCurrentView() {
 }
 //#endregion
 
-// INITIAL LOAD FUNCTIONS
+// INITIAL SLIDER FUNCTIONS
 //#region
 function cubicBezier(p1, p2, p3, p4, t) {
     const u = 1 - t;
@@ -1233,11 +1251,11 @@ function cubicBezier(p1, p2, p3, p4, t) {
 }
 
 function animateContent(element) {
-    const duration = 3000; // 3 seconds in milliseconds
+    const duration = 3000;
     const startTime = Date.now();
 
-    const initialMarginTop = -180;  // Starting position
-    const targetMarginTop = -10;      // Ending position
+    const initialMarginTop = -180;
+    const targetMarginTop = -10;
     const marginTopDistance = targetMarginTop - initialMarginTop;
 
     function frame() {
