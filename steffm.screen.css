@@ -480,11 +480,18 @@ h1 {
 	border-radius: 0 0 1.0625em 1.0625em;
 	border-bottom-width: 0.5em;
 }
+.display {
+	position: relative;
+	z-index: 1;
+}
 .player .fieldsets {
     overflow: hidden;
-    transition: max-height 3s ease-in-out;
-    max-height: 0;
-    display: none;
+    margin-top: -180px;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+	overflow: hidden;
+	clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
 }
 .player .mixcloud, .playlist .mixcloud {
 	margin-top: 0.5em;

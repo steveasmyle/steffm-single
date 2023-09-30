@@ -498,9 +498,14 @@ function playListener() {
     flagPause.innerHTML = "";
     flagPlay.innerHTML = "PLAY";
     if (!config.hasShownFieldsets) {
-        showFieldsets();
+        const fieldsetContainer = document.querySelector('.player .fieldsets');
+        if (fieldsetContainer) {
+            animateContent(fieldsetContainer);
+        }
         hasShownFieldsets = true;
-    }}
+    }
+}
+
 
 function progressListener(progress, duration) {
     mixState.progress = progress;
@@ -589,12 +594,10 @@ function togglePlaylist() {
 }
 
 function play() {
-    console.log("play", widget);
     widget.play();
 }
 
 function pause() {
-    console.log("pause");
     widget.pause();
 }
 
@@ -1224,24 +1227,41 @@ function getCurrentView() {
 
 // INITIAL LOAD FUNCTIONS
 //#region
-function showFieldsets() {
-    const section = document.querySelector('.player');
-    
-    if (section) {
-        const fieldsetContainer = section.querySelector('.fieldsets');
+function cubicBezier(p1, p2, p3, p4, t) {
+    const u = 1 - t;
+    return 3 * u * u * t * p1 + 3 * u * t * t * p2 + t * t * t * p4;
+}
 
-        if (fieldsetContainer.style.display === 'none' || getComputedStyle(fieldsetContainer).display === 'none') {
-            fieldsetContainer.style.display = 'block'; // make it block first
+function animateContent(element) {
+    const duration = 3000; // 3 seconds in milliseconds
+    const startTime = Date.now();
 
-            // Use setTimeout to delay the change in maxHeight until after the browser has registered the display change
-            setTimeout(() => {
-                const scrollHeight = fieldsetContainer.scrollHeight; // get its actual height
-                fieldsetContainer.style.maxHeight = `${scrollHeight}px`; // animate to its full height
-            }, 0);
-        }
-    } else {
-        console.warn('Section with class "player" not found.');
+    const initialMarginTop = -180;  // Starting position
+    const targetMarginTop = -10;      // Ending position
+    const marginTopDistance = targetMarginTop - initialMarginTop;
+
+    function frame() {
+        const now = Date.now();
+        const elapsed = now - startTime;
+        
+        // Calculate progress between 0 and 1
+        const rawProgress = Math.min(elapsed / duration, 1);
+        
+        // Apply the cubic Bezier easing
+        const progress = cubicBezier(0.42, 0, 0.58, 1, rawProgress);
+        
+        // Calculate new margin-top value based on progress
+        const newMarginTop = initialMarginTop + (marginTopDistance * progress);
+        element.style.marginTop = `${newMarginTop}px`;
+        
+        // Calculate clip-path value based on progress
+        const clipTop = 100 - (progress * 100);
+        element.style.clipPath = `polygon(0% ${clipTop}%, 100% ${clipTop}%, 100% 100%, 0% 100%)`;
+
+        if (rawProgress < 1) requestAnimationFrame(frame);
     }
+
+    requestAnimationFrame(frame);
 }
 //#endregion
 
