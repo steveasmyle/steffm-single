@@ -78,7 +78,8 @@
     "ambient house",
     "progressive house",
     "breakbeat",
-    "bb"
+    "bb",
+    "jazz house"
   ],
   "data": [
     {
@@ -1890,6 +1891,26 @@
         "bb",
         "deep house",
         "house"
+      ]
+    },
+    {
+      "category": "mpos",
+      "coverArtDate": "2023-10-01T10:36:34.246Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/1/6/0/6/c8fa-087c-470f-99af-6554242fc279",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/profile/1/6/0/6/c8fa-087c-470f-99af-6554242fc279",
+      "duration": "1:04:12",
+      "fileName": "My_Pair_Of_Shoes_Vol._76_hifi.mp3",
+      "listOrder": 76,
+      "mixcloudKey": "my-pair-of-shoes-volume-76",
+      "name": "My Pair of Shoes - Volume 76",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "November 2012",
+      "shortName": "MPOS - Volume 76",
+      "tags": [
+        "house",
+        "funky house",
+        "soulful house",
+        "jazz house"
       ]
     }
   ]

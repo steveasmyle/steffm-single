@@ -1,0 +1,51 @@
+PERFORMER "Stef.FM"
+TITLE "My Pair of Shoes - Volume 76"
+FILE "My_Pair_Of_Shoes_Vol._76_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Joey Negro & The Sunburst Band feat. Angela Johnson"
+TITLE "In The Thick Of It"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Bobby Dambrosio feat. Anthony Dixon"
+TITLE "Just Call"
+INDEX 01 06:18:00
+TRACK 02 AUDIO
+PERFORMER "Tyrese"
+TITLE "How You Gonna Act Like That"
+INDEX 01 12:00:00
+TRACK 03 AUDIO
+PERFORMER "Jill Scott"
+TITLE "Lovely Day"
+INDEX 01 17:53:00
+TRACK 04 AUDIO
+PERFORMER "Dbow"
+TITLE "Get Involved"
+INDEX 01 22:53:00
+TRACK 05 AUDIO
+PERFORMER "Demarkus Lewis"
+TITLE "Come In & Dance"
+INDEX 01 28:31:00
+TRACK 06 AUDIO
+PERFORMER "Poka"
+TITLE "99 Style"
+INDEX 01 33:07:00
+TRACK 07 AUDIO
+PERFORMER "Jon Dasilva & Maceo Plex feat Jio Cardwell"
+TITLE "Love Somebody Else"
+INDEX 01 37:14:00
+TRACK 08 AUDIO
+PERFORMER "Chris Malinchak"
+TITLE "At Night"
+INDEX 01 42:28:00
+TRACK 09 AUDIO
+PERFORMER "Lady Aya"
+TITLE "Shake Your Body"
+INDEX 01 49:04:00
+TRACK 10 AUDIO
+PERFORMER "Jonas Rathsman"
+TITLE "Feeling You"
+INDEX 01 54:46:00
+TRACK 11 AUDIO
+PERFORMER "Meroz"
+TITLE "Summertime Shandy"
+INDEX 01 58:22:00
