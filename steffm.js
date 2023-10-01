@@ -2,6 +2,7 @@
 //#region 
 const config = {
     "iframeUrlPrefix": "https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&autoplay=1&feed=%2Frymixxx%2F",
+    "cloudcastKeyPrefix": "/rymixxx/",
     "volumeIncrement": 0.05,
     "loadMixcloud": true,
     "keyHold": {
@@ -425,24 +426,24 @@ async function loadNewMix(mixcloudKey) {
     // Update mixcloudKey state
     mixState.mixcloudKey = mixcloudKey;
 
-    // Remove previous widget element
-    var widgetWrapperElement = document.getElementById('mixcloudWidgetWrapper');
-    while (widgetWrapperElement.firstChild) {
-        widgetWrapperElement.removeChild(widgetWrapperElement.lastChild);
+    let widgetWrapperElement = document.getElementById('mixcloudWidgetWrapper');
+    let existingWidget = document.getElementById('mixcloudWidget');
+
+    if (!existingWidget) {
+        let newWidgetElement = document.createElement('iframe');
+        newWidgetElement.id = 'mixcloudWidget';
+        newWidgetElement.width = '100%';
+        newWidgetElement.height = '60';
+        newWidgetElement.src = mixState.iframeUrl;
+        newWidgetElement.frameBorder = '0';
+        newWidgetElement.allow = 'autoplay';
+        widgetWrapperElement.appendChild(newWidgetElement);
+        await initWidget(); // Initialize the new widget
+    } else {
+        // Use Mixcloud's load() function if iframe exists.
+        await widget.ready;
+        widget.load(config.cloudcastKeyPrefix + mixState.mixcloudKey + "/", true);
     }
-
-    // Create and append new widget element
-    var newWidgetElement = document.createElement('iframe');
-    newWidgetElement.id = 'mixcloudWidget';
-    newWidgetElement.width = '100%';
-    newWidgetElement.height = '60';
-    newWidgetElement.src = mixState.iframeUrl;
-    newWidgetElement.frameBorder = '0';
-    newWidgetElement.allow = 'autoplay';
-    document.getElementById('mixcloudWidgetWrapper').appendChild(newWidgetElement);
-
-    // Initialize the new widget
-    await initWidget();
 
     // Find the current mix in the header info
     currentMix = mixState.mixcloudHeaderInfo.data.find(mix => mix.mixcloudKey === mixcloudKey);
