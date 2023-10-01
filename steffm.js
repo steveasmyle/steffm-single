@@ -40,6 +40,7 @@ let globalError = false;
 
 // TICKER
 var scrollers = {};
+var latestTexts = {};
 
 function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
     var str = text.replace(/ /g, "!");
@@ -52,6 +53,8 @@ function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
         clearInterval(scrollers[id]);
     }
 
+    latestTexts[id] = text;
+
     scrollers[id] = setInterval(function() {
         var substring = str.substring(startIndex, startIndex + displayLength);
         display.nextSibling.textContent = substring;
@@ -61,7 +64,7 @@ function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
             startIndex = 0;
             clearInterval(scrollers[id]);
             setTimeout(function() {
-                startScroller(id, text, displayLength, tickDelay, pauseDelay);
+                startScroller(id, latestTexts[id], displayLength, tickDelay, pauseDelay); // Use latestTexts here
             }, pauseDelay);
         }
     }, tickDelay);
@@ -289,24 +292,24 @@ let mixState = {
         const displayDiv = document.querySelector('#stateDisplay pre code');
         displayDiv.innerHTML = JSON.stringify(this, null, 2);
     },
-    updateScroller() {
-        if (!this._hasShownFieldsets) {
-            startScroller(
-                "displayMain",
-                "PRESS PLAY",
-                config.output.characterCount,
-                config.output.tickInterval,
-                config.output.repeatInterval
-            );
-        } else {
-            startScroller(
-                "displayMain",
-                this._mixcloudItemInfo.name,
-                config.output.characterCount,
-                config.output.tickInterval,
-                config.output.repeatInterval
-            );
+    updateScroller(message) {
+        let displayMessage = message;
+    
+        if (!displayMessage) {
+            if (!this._hasShownFieldsets) {
+                displayMessage = "PRESS PLAY";
+            } else {
+                displayMessage = this._mixcloudItemInfo.name;
+            }
         }
+
+        startScroller(
+            "displayMain",
+            displayMessage,
+            config.output.characterCount,
+            config.output.tickInterval,
+            config.output.repeatInterval
+        );
     },
 
     get timeoutId() {
@@ -496,7 +499,11 @@ function copyShareURL(mixcloudKey) {
 
     navigator.clipboard.writeText(shareURL)
         .then(() => {
-            console.log('Share URL copied to clipboard:', shareURL);
+            mixState.updateScroller("Share Link Copied");
+            
+            setTimeout(() => {
+                mixState.updateScroller();
+            }, 8000);
         })
         .catch(err => {
             console.error('Failed to copy the URL to the clipboard:', err);
