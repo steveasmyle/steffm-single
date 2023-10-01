@@ -1912,6 +1912,26 @@
         "soulful house",
         "jazz house"
       ]
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-10-01T15:39:40.625Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/1/2/6/d/666f-3767-46f3-a383-05c04d35e8c4",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/1/2/6/d/666f-3767-46f3-a383-05c04d35e8c4",
+      "duration": "2:03:09",
+      "fileName": "Adventures_in_Decent_Music_Vol._31_Disco_of_Today_hifi.mp3",
+      "listOrder": 31,
+      "mixcloudKey": "adventures-in-decent-music-volume-31",
+      "name": "Adventures In Decent Music - Volume 31 - Disco Of Today",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "October 2012",
+      "shortName": "AIDM - Volume 31",
+      "tags": [
+        "disco",
+        "nu-disco",
+        "house",
+        "disco house"
+      ]
     }
   ]
 }

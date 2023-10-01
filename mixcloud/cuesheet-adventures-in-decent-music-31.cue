@@ -1,0 +1,99 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures In Decent Music - Volume 31 - Disco Of Today"
+FILE "Adventures_in_Decent_Music_Vol._31_Disco_of_Today_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Moon Boots"
+TITLE "Off My Mind"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Andre Capado"
+TITLE "Might Fine"
+INDEX 01 04:32:00
+TRACK 02 AUDIO
+PERFORMER "Heion"
+TITLE "She Moves"
+INDEX 01 09:47:00
+TRACK 03 AUDIO
+PERFORMER "Lovebirds"
+TITLE "U Give Me Love"
+INDEX 01 11:38:00
+TRACK 04 AUDIO
+PERFORMER "Tornado Wallace"
+TITLE "Tornado Never Dies"
+INDEX 01 17:44:00
+TRACK 05 AUDIO
+PERFORMER "Toomy Disco"
+TITLE "Blues City"
+INDEX 01 22:50:00
+TRACK 06 AUDIO
+PERFORMER "Norm De Plume"
+TITLE "Steady Teddy"
+INDEX 01 27:56:00
+TRACK 07 AUDIO
+PERFORMER "Tornado Wallace"
+TITLE "Be My Ladyboy"
+INDEX 01 38:43:00
+TRACK 08 AUDIO
+PERFORMER "B.B.& Q. Band"
+TITLE "Dreamer"
+INDEX 01 45:40:00
+TRACK 09 AUDIO
+PERFORMER "Chris Malinchak"
+TITLE "Tango In Paris"
+INDEX 01 49:09:00
+TRACK 10 AUDIO
+PERFORMER "Satin Jackets pres. Flamingo Drive"
+TITLE "Every Time I Think Of You"
+INDEX 01 54:27:00
+TRACK 11 AUDIO
+PERFORMER "Moon Boots"
+TITLE "Sugar"
+INDEX 01 60:40:00
+TRACK 12 AUDIO
+PERFORMER "Arian"
+TITLE "Lutas Velikim Gradom"
+INDEX 01 65:28:00
+TRACK 13 AUDIO
+PERFORMER "Kola Kube feat. Chokolate"
+TITLE "Break My Heart"
+INDEX 01 69:43:00
+TRACK 14 AUDIO
+PERFORMER "Tiger & Woods"
+TITLE "Love In Cambodgia"
+INDEX 01 74:40:00
+TRACK 15 AUDIO
+PERFORMER "Mojazz & Torin Rae"
+TITLE "Summer Grooves"
+INDEX 01 78:20:00
+TRACK 16 AUDIO
+PERFORMER "Tornado Wallace"
+TITLE "Rainbow Road"
+INDEX 01 83:15:00
+TRACK 17 AUDIO
+PERFORMER "Billy Ocean"
+TITLE "Nights (Feel Like Getting Down)"
+INDEX 01 86:59:00
+TRACK 18 AUDIO
+PERFORMER "Colonel Red"
+TITLE "Holla"
+INDEX 01 92:53:00
+TRACK 19 AUDIO
+PERFORMER "Toto"
+TITLE "Georgie Porgy"
+INDEX 01 97:36:00
+TRACK 20 AUDIO
+PERFORMER "Perseus"
+TITLE "Russian Girlfriends"
+INDEX 01 101:41:00
+TRACK 21 AUDIO
+PERFORMER "Malinchak"
+TITLE "Beside Me"
+INDEX 01 106:25:00
+TRACK 22 AUDIO
+PERFORMER "Ashford & Simpson"
+TITLE "Don't Cost You Nothing"
+INDEX 01 111:48:00
+TRACK 23 AUDIO
+PERFORMER "Perseus"
+TITLE "Cool Runnings"
+INDEX 01 119:20:00
