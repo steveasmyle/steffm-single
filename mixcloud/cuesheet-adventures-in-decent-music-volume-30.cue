@@ -1,0 +1,103 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures In Decent Music - Volume 30 - Disco Of Today"
+FILE "Adventures_in_Decent_Music_Vol._30_Disco_of_Today_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "Der König Tanzt"
+TITLE "Der König Tanzt"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Andy Ash"
+TITLE "Part Of This"
+INDEX 01 05:20:00
+TRACK 02 AUDIO
+PERFORMER "Hercules & Love Affair"
+TITLE "My House"
+INDEX 01 08:26:00
+TRACK 03 AUDIO
+PERFORMER "My Donna"
+TITLE "Into The Groove"
+INDEX 01 15:06:00
+TRACK 04 AUDIO
+PERFORMER "Manolo"
+TITLE "Night Rhythm"
+INDEX 01 18:45:00
+TRACK 05 AUDIO
+PERFORMER "Rainbows Of Death"
+TITLE "Sacrifice"
+INDEX 01 24:56:00
+TRACK 06 AUDIO
+PERFORMER "Jonas Rathsman"
+TITLE "Tobago"
+INDEX 01 30:40:00
+TRACK 07 AUDIO
+PERFORMER "Art Of Tones"
+TITLE "Too Much"
+INDEX 01 34:45:00
+TRACK 08 AUDIO
+PERFORMER "George Benson"
+TITLE "Love X Love"
+INDEX 01 39:10:00
+TRACK 09 AUDIO
+PERFORMER "Drop Out City Rockers"
+TITLE "International Track"
+INDEX 01 45:25:00
+TRACK 10 AUDIO
+PERFORMER "Roberto Rodriguez"
+TITLE "Thank You...All The Ladies Part Two"
+INDEX 01 52:22:00
+TRACK 11 AUDIO
+PERFORMER "FM Attack"
+TITLE "Yesterday"
+INDEX 01 60:00:00
+TRACK 12 AUDIO
+PERFORMER "Butcherchops"
+TITLE "She's The Boss"
+INDEX 01 64:14:00
+TRACK 13 AUDIO
+PERFORMER "Brothers Young"
+TITLE "Inferno"
+INDEX 01 69:12:00
+TRACK 14 AUDIO
+PERFORMER "Beats - Deep Space Orchestra"
+TITLE "Louisville Slugger"
+INDEX 01 73:00:00
+TRACK 15 AUDIO
+PERFORMER "Spam Sarro"
+TITLE "Happiness"
+INDEX 01 75:35:00
+TRACK 16 AUDIO
+PERFORMER "The Muthafunkaz"
+TITLE "A Reason To Love"
+INDEX 01 79:53:00
+TRACK 17 AUDIO
+PERFORMER "Talking Heads"
+TITLE "Psycho Killer"
+INDEX 01 82:05:00
+TRACK 18 AUDIO
+PERFORMER "EOTS"
+TITLE "We Are The People"
+INDEX 01 85:28:00
+TRACK 19 AUDIO
+PERFORMER "Startraxx"
+TITLE "Step Into My Life"
+INDEX 01 90:35:00
+TRACK 20 AUDIO
+PERFORMER "Miguel Migs Feat. Evelyn Champagne King"
+TITLE "Everybody"
+INDEX 01 93:57:00
+TRACK 21 AUDIO
+PERFORMER "Heko"
+TITLE "Animal"
+INDEX 01 100:40:00
+TRACK 22 AUDIO
+PERFORMER "Toomy Disco"
+TITLE "A Girl Called Zara"
+INDEX 01 102:23:00
+TRACK 23 AUDIO
+PERFORMER "Storm Queen"
+TITLE "Look Right Through"
+INDEX 01 107:30:00
+TRACK 24 AUDIO
+PERFORMER "Wagon Cookin'"
+TITLE "I'm Gonna Make You Dance"
+INDEX 01 113:24:00

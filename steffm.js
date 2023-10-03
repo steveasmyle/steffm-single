@@ -36,101 +36,24 @@ const articles = [
         date: "23 July 2023"
     }
 ];
-
-let globalError = false;
-
-// TICKER
-var scrollers = {};
-var latestTexts = {};
-
-function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
-    var str = text.replace(/ /g, "!");
-    str = str.padStart(displayLength + str.length, "!");
-
-    var display = document.getElementById(id);
-    var startIndex = 0;
-
-    if (scrollers[id]) {
-        clearInterval(scrollers[id]);
-    }
-
-    latestTexts[id] = text;
-
-    scrollers[id] = setInterval(function() {
-        var substring = str.substring(startIndex, startIndex + displayLength);
-        display.nextSibling.textContent = substring;
-        startIndex++;
-
-        if (startIndex > str.length) {
-            startIndex = 0;
-            clearInterval(scrollers[id]);
-            setTimeout(function() {
-                startScroller(id, latestTexts[id], displayLength, tickDelay, pauseDelay); // Use latestTexts here
-            }, pauseDelay);
-        }
-    }, tickDelay);
-}
-
-function stopScrollers() {
-    for (var id in scrollers) {
-        clearInterval(scrollers[id]);
-    }
-    scrollers = {};
-}
-
-// Start scrollers
-startScroller(
-    "displayMain",
-    "",
-    config.output.characterCount,
-    config.output.tickInterval,
-    config.output.repeatInterval
-);
-
-// To stop all scrollers, call stopScrollers():
-// stopScrollers();
-
-
-// PERSPECTIVE SHIFT
-function updatePerspective(bodyMin, bodyMax, fauxBodyMin, fauxBodyMax) {
-    var bodyRange = bodyMax - bodyMin;
-    var fauxBodyRange = fauxBodyMax - fauxBodyMin;
-
-    document.addEventListener('mousemove', function(event) {
-        // Using window.matchMedia to check if the viewport width is more than 64rem.
-        var isLargeViewport = window.matchMedia("(min-width: 64rem)").matches;
-        if (isLargeViewport) {
-            var mouseY = event.clientY;
-            var viewportHeight = window.innerHeight;
-            var proportion = mouseY / viewportHeight;
-            var bodyPerspective = (bodyRange * proportion) + bodyMin;
-            var fauxBodyPerspective = (fauxBodyRange * proportion) + fauxBodyMin;
-            document.body.style.perspective = `${bodyPerspective}rem`;
-            document.getElementById('fauxBody').style.perspective = `${fauxBodyPerspective}rem`;
-        }
-        // If the viewport width is less than 64rem, unset the perspective.
-        else {
-            document.body.style.perspective = `unset`;
-            document.getElementById('fauxBody').style.perspective = `unset`;
-        }
-    });
-}
-
-updatePerspective(
-    config.perspective.bodyMin,
-    config.perspective.bodyMax,
-    config.perspective.fauxBodyMin,
-    config.perspective.fauxBodyMax
-);
-//#endregion
+//#endregion 
 
 // MIXCLOUD
 //#region
 let widget;
 let mixState = {
+    _articles: [],
     _currentlyPlayingPage: false,
     _currentVolume: 0.8,
     _hasShownFieldsets: false,
+    _iframeUrl: "",
+    _indices: {
+        categoryList: 0,
+        mixList: 0,
+        currentlyPlaying: 0,
+        articleList: 0,
+        article
+    },
     _intervalId: null,
     _lastPage: "categoryList",
     _lastActiveTrack: null,
@@ -140,17 +63,35 @@ let mixState = {
     _mixcloudKey: null,
     _previousNumDashes: 0,
     _progress: 0,
-    _iframeUrl: "",
+    _scrollers: {},
+    _scrollersLatestText: {},
     _selectedMixItem: null,
     _status: "paused",
     _timeoutId: null,
-    _articles: [],
-    _indices: {
-        categoryList: 0,
-        mixList: 0,
-        currentlyPlaying: 0,
-        articleList: 0,
-        article
+
+    get articleIndex() {
+        return this._indices.article;
+    },
+    set articleIndex(val) {
+        this._indices.article = val;
+    },
+
+    get articleListIndex() {
+        return this._indices.articleList;
+    },
+    set articleListIndex(val) {
+        this._indices.articleList = val;
+    },
+
+    get articles() {
+        return this._articles;
+    },
+    set articles(newArticles) {
+        if (Array.isArray(newArticles)) { // check if the input is an array
+            this._articles = newArticles;
+        } else {
+            console.error('Expected an array of articles');
+        }
     },
 
     get currentlyPlayingPage() {
@@ -185,6 +126,14 @@ let mixState = {
     },
     set hasShownFieldsets(value) {
         this._hasShownFieldsets = value;
+    },
+
+    get iframeUrl() {
+        return this._iframeUrl;
+    },
+    set iframeUrl(value) {
+        this._iframeUrl = value;
+        this.updateDisplay();
     },
 
     get intervalId() {
@@ -266,14 +215,6 @@ let mixState = {
         this.updateDisplay();
     },
 
-    get iframeUrl() {
-        return this._iframeUrl;
-    },
-    set iframeUrl(value) {
-        this._iframeUrl = value;
-        this.updateDisplay();
-    },
-
     get selectedMixItem() {
         return this._selectedMixItem;
     },
@@ -320,17 +261,6 @@ let mixState = {
         this._timeoutId = value;
     },
 
-    get articles() {
-        return this._articles;
-    },
-    set articles(newArticles) {
-        if (Array.isArray(newArticles)) { // check if the input is an array
-            this._articles = newArticles;
-        } else {
-            console.error('Expected an array of articles');
-        }
-    },
-
     get categoryListIndex() {
         return this._indices.categoryList;
     },
@@ -352,22 +282,102 @@ let mixState = {
         this._indices.currentlyPlaying = val;
     },
 
-    get articleListIndex() {
-        return this._indices.articleList;
+    get scrollers() {
+        return this._scrollers;
     },
-    set articleListIndex(val) {
-        this._indices.articleList = val;
+    set scrollers(value) {
+        this._scrollers = value;
     },
 
-    get articleIndex() {
-        return this._indices.article;
+    get scrollersLatestText() {
+        return this._scrollersLatestText;
     },
-    set articleIndex(val) {
-        this._indices.article = val;
-    }
+    set scrollersLatestText(value) {
+        this._scrollersLatestText = value;
+    },
 };
 
 mixState.articles = articles;
+//#endregion
+
+// SCROLLER
+//#region 
+function startScroller(id, text, displayLength, tickDelay, pauseDelay) {
+    var str = text.replace(/ /g, "!");
+    str = str.padStart(displayLength + str.length, "!");
+
+    var display = document.getElementById(id);
+    var startIndex = 0;
+
+    if (mixState.scrollers[id]) {
+        clearInterval(mixState.scrollers[id]);
+    }
+
+    mixState.scrollersLatestText[id] = text;
+
+    mixState.scrollers[id] = setInterval(function() {
+        var substring = str.substring(startIndex, startIndex + displayLength);
+        display.nextSibling.textContent = substring;
+        startIndex++;
+
+        if (startIndex > str.length) {
+            startIndex = 0;
+            clearInterval(mixState.scrollers[id]);
+            setTimeout(function() {
+                startScroller(id, mixState.scrollersLatestText[id], displayLength, tickDelay, pauseDelay);
+            }, pauseDelay);
+        }
+    }, tickDelay);
+}
+
+function stopScrollers() {
+    for (var id in mixState.scrollers) {
+        clearInterval(scrollers[id]);
+    }
+    mixState.scrollers = {};
+}
+
+function temporaryScroller(text, timeout) {
+    mixState.updateScroller(text);
+            
+    setTimeout(() => {
+        mixState.updateScroller();
+    }, timeout);
+}
+//#endregion 
+
+// PERSPECTIVE SHIFT
+//#region 
+function updatePerspective(bodyMin, bodyMax, fauxBodyMin, fauxBodyMax) {
+    var bodyRange = bodyMax - bodyMin;
+    var fauxBodyRange = fauxBodyMax - fauxBodyMin;
+
+    document.addEventListener('mousemove', function(event) {
+        // Using window.matchMedia to check if the viewport width is more than 64rem.
+        var isLargeViewport = window.matchMedia("(min-width: 64rem)").matches;
+        if (isLargeViewport) {
+            var mouseY = event.clientY;
+            var viewportHeight = window.innerHeight;
+            var proportion = mouseY / viewportHeight;
+            var bodyPerspective = (bodyRange * proportion) + bodyMin;
+            var fauxBodyPerspective = (fauxBodyRange * proportion) + fauxBodyMin;
+            document.body.style.perspective = `${bodyPerspective}rem`;
+            document.getElementById('fauxBody').style.perspective = `${fauxBodyPerspective}rem`;
+        }
+        // If the viewport width is less than 64rem, unset the perspective.
+        else {
+            document.body.style.perspective = `unset`;
+            document.getElementById('fauxBody').style.perspective = `unset`;
+        }
+    });
+}
+
+updatePerspective(
+    config.perspective.bodyMin,
+    config.perspective.bodyMax,
+    config.perspective.fauxBodyMin,
+    config.perspective.fauxBodyMax
+);
 //#endregion
 
 // MIX CONTROLS
@@ -500,11 +510,7 @@ function copyShareURL(mixcloudKey) {
 
     navigator.clipboard.writeText(shareURL)
         .then(() => {
-            mixState.updateScroller("Share Link Copied");
-            
-            setTimeout(() => {
-                mixState.updateScroller();
-            }, 8000);
+            temporaryScroller("Share copied link", 8000);
         })
         .catch(err => {
             console.error('Failed to copy the URL to the clipboard:', err);
@@ -531,7 +537,6 @@ function playListener() {
         }
     }
 }
-
 
 function progressListener(progress, duration) {
     mixState.progress = progress;
@@ -607,10 +612,10 @@ function getTrackFromTime(progress) {
     return currentTrack;
 }
 
-function togglePlaylist() {
-    var playlistElement = document.querySelector('.playlist'); // selecting the first element with 'playlist' class
+function togglePlaylist(force = false) {
+    var playlistElement = document.querySelector('.playlist');
     var fauxBody = document.getElementById('fauxBody');
-    if (!playlistElement.style.display || playlistElement.style.display === 'none') {
+    if (force || !playlistElement.style.display || playlistElement.style.display === 'none') {
         playlistElement.style.display = 'block';
         fauxBody.classList.remove('single');
     } else {
@@ -1438,7 +1443,6 @@ window.onload = function() {
         })
         .catch(function(err) {
             console.log("Failed to load mixcloud/mixesheader.json file", err);
-            globalError = true;
         });
 
     document.body.addEventListener('click', function(event) {
@@ -1457,18 +1461,34 @@ window.onload = function() {
     });
     document.getElementById('rightButton').addEventListener('click', navigateRight);
     document.getElementById('leftButton').addEventListener('click', navigateLeft);
-    document.getElementById('togglePlaylist').addEventListener('click', togglePlaylist);
+    document.getElementById('togglePlaylist').addEventListener('click', function(event) {
+        togglePlaylist();
+    });
     document.getElementById('play').addEventListener('click', play);
     document.getElementById('pause').addEventListener('click', pause);
     document.getElementById('skipPrevious').addEventListener('click', skipPrevious);
     document.getElementById('skipNext').addEventListener('click', skipNext);
-    document.getElementById('shuffle').addEventListener('click', selectRandomTrack);
+    document.getElementById('shuffle').addEventListener('click', function (event) {
+        temporaryScroller("Select Random Track", 7000);
+        selectRandomTrack();
+    });
     document.getElementById('share').addEventListener('click', function(event) {
         copyShareURL(mixState.mixcloudKey);
     });
     document.getElementById('about').addEventListener('click', function(event) {
+        temporaryScroller("About Stef.FM", 6000);
+        togglePlaylist(true);
         const articleTitle = "About Stef.FM";
         showArticle(event, articleTitle);
     });
 };
+
+// Start scrollers
+startScroller(
+    "displayMain",
+    "",
+    config.output.characterCount,
+    config.output.tickInterval,
+    config.output.repeatInterval
+);
 //#endregion

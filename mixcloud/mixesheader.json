@@ -1932,6 +1932,26 @@
         "house",
         "disco house"
       ]
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-10-02T20:11:52.829Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/d/4/3/b15b-57e5-4d92-a98a-1734070f34bc",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/f/d/4/3/b15b-57e5-4d92-a98a-1734070f34bc",
+      "duration": "2:01:43",
+      "fileName": "Adventures_in_Decent_Music_Vol._30_Disco_of_Today_hifi.mp3",
+      "listOrder": 30,
+      "mixcloudKey": "adventures-in-decent-music-volume-30",
+      "name": "Adventures In Decent Music - Volume 30 - Disco Of Today",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "August 2012",
+      "shortName": "AIDM - Volume 30",
+      "tags": [
+        "disco",
+        "nu-disco",
+        "house",
+        "disco house"
+      ]
     }
   ]
 }
