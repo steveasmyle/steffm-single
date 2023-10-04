@@ -79,7 +79,8 @@
     "progressive house",
     "breakbeat",
     "bb",
-    "jazz house"
+    "jazz house",
+    "hip hop"
   ],
   "data": [
     {
@@ -1951,6 +1952,27 @@
         "nu-disco",
         "house",
         "disco house"
+      ]
+    },
+    {
+      "category": "aidm",
+      "coverArtDate": "2023-10-04T20:00:18.385Z",
+      "coverArtLarge": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/f/2/f/8/9e24-7f70-4bf2-9710-1714f2615505",
+      "coverArtSmall": "https://thumbnailer.mixcloud.com/unsafe/100x100/extaudio/f/2/f/8/9e24-7f70-4bf2-9710-1714f2615505",
+      "duration": "2:08:50",
+      "fileName": "Adventures_in_Decent_Music_Vol._29_Acid_Jazz_Spec_hifi.mp3",
+      "listOrder": 30,
+      "mixcloudKey": "adventures-in-decent-music-volume-29",
+      "name": "Adventures In Decent Music - Volume 29 - Acid Jazz Special II",
+      "notes": "Compiled & mixed by Stef",
+      "releaseDate": "July 2012",
+      "shortName": "AIDM - Volume 29",
+      "tags": [
+        "acid jazz",
+        "jazz",
+        "funk",
+        "soul",
+        "hip hop"
       ]
     }
   ]

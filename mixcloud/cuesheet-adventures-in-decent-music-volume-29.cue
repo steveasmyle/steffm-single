@@ -1,0 +1,119 @@
+PERFORMER "Stef.FM"
+TITLE "Adventures In Decent Music - Volume 29 - Acid Jazz Special II"
+FILE "Adventures_in_Decent_Music_Vol._29_Acid_Jazz_Spec_hifi.mp3" MP3
+TRACK 00 AUDIO
+PERFORMER "DJD & Chaz Jankel"
+TITLE "Dawn"
+INDEX 01 00:00:00
+TRACK 01 AUDIO
+PERFORMER "Jimi Tenor and Kabu Kabu"
+TITLE "Hermetic Man"
+INDEX 01 06:32:00
+TRACK 02 AUDIO
+PERFORMER "Justice System"
+TITLE "Just Because"
+INDEX 01 10:15:00
+TRACK 03 AUDIO
+PERFORMER "Rae & Christian"
+TITLE "Hold Us Down"
+INDEX 01 13:41:00
+TRACK 04 AUDIO
+PERFORMER "Kamaal The Abstract"
+TITLE "Even If It Is So"
+INDEX 01 18:40:00
+TRACK 05 AUDIO
+PERFORMER "Towa Tei"
+TITLE "Luv Connection"
+INDEX 01 23:33:00
+TRACK 06 AUDIO
+PERFORMER "Desert Eagle Discs feat. Sonya Alphonse"
+TITLE "First Degree Funk"
+INDEX 01 28:16:00
+TRACK 07 AUDIO
+PERFORMER "The Apostles"
+TITLE "Come Together"
+INDEX 01 32:13:00
+TRACK 08 AUDIO
+PERFORMER "Atjazz"
+TITLE "Wrong Type Of Day"
+INDEX 01 37:53:00
+TRACK 09 AUDIO
+PERFORMER "Muki"
+TITLE "Munk Funk"
+INDEX 01 45:48:00
+TRACK 10 AUDIO
+PERFORMER "Plant Life"
+TITLE "When She Smiles She Lights The Sky"
+INDEX 01 49:20:00
+TRACK 11 AUDIO
+PERFORMER "Ralph Myerz And The Jack Herren Band"
+TITLE "Think Twice"
+INDEX 01 53:50:00
+TRACK 12 AUDIO
+PERFORMER "Fred Prescott & The Jeff Band"
+TITLE "Come Fly With Me"
+INDEX 01 59:33:00
+TRACK 13 AUDIO
+PERFORMER "Next Evidence"
+TITLE "Over The Waves"
+INDEX 01 62:32:00
+TRACK 14 AUDIO
+PERFORMER "Mike Huckaby"
+TITLE "The Jazz Republic"
+INDEX 01 65:22:00
+TRACK 15 AUDIO
+PERFORMER "The Rebirth"
+TITLE "Sum Same"
+INDEX 01 69:14:00
+TRACK 16 AUDIO
+PERFORMER "Samuel Purdey"
+TITLE "Lucky Radio"
+INDEX 01 75:34:00
+TRACK 17 AUDIO
+PERFORMER "Shuya Okino"
+TITLE "Summer Love"
+INDEX 01 79:04:00
+TRACK 18 AUDIO
+PERFORMER "Count Basic"
+TITLE "Strange Life"
+INDEX 01 84:42:00
+TRACK 19 AUDIO
+PERFORMER "Amp Fiddler"
+TITLE "Right Where You Are"
+INDEX 01 88:49:00
+TRACK 20 AUDIO
+PERFORMER "DJ Day"
+TITLE "Four Hills"
+INDEX 01 93:51:00
+TRACK 21 AUDIO
+PERFORMER "Lanu feat. Kero One"
+TITLE "It's Time"
+INDEX 01 96:43:00
+TRACK 22 AUDIO
+PERFORMER "Max Beesley's High Vibes"
+TITLE "Painful Truths"
+INDEX 01 101:06:00
+TRACK 23 AUDIO
+PERFORMER "JTQ feat. Roy Ayers"
+TITLE "Get Down To The Music"
+INDEX 01 104:03:00
+TRACK 24 AUDIO
+PERFORMER "Edu Luke"
+TITLE "Pe Na Estrada"
+INDEX 01 110:12:00
+TRACK 25 AUDIO
+PERFORMER "Ed Motta"
+TITLE "Drive Me Crazy"
+INDEX 01 113:14:00
+TRACK 26 AUDIO
+PERFORMER "Smooth Reunion"
+TITLE "The Connection"
+INDEX 01 116:28:00
+TRACK 27 AUDIO
+PERFORMER "Blackout"
+TITLE "Sinfonia Do Amor"
+INDEX 01 120:30:00
+TRACK 28 AUDIO
+PERFORMER "Delicious Allstars"
+TITLE "Poker Nights Theme"
+INDEX 01 125:24:00
