@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+material-symbols@^0.14.2:
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/material-symbols/-/material-symbols-0.14.2.tgz#8b3cb12416ff93787d324dd97bc171b6bcd3e74a"
+  integrity sha512-liWnRpINHzpP/V7jgBLKXhE9lFany8Y9rzBAHr1CSA1NAjTCAct3FGG3d+GXxOfoWUzK/8qPpiQrtXhPXbzIfA==
